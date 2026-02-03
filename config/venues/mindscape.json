@@ -1,0 +1,31 @@
+{
+  "id": "mindscape-fermentations",
+  "name": "Mindscape Fermentations",
+  "url": "https://mindscape-fermentations.com/events/",
+  "platform": "wordpress",
+  "enabled": true,
+  "venue": {
+    "name": "Mindscape Fermentations",
+    "address": "1531 Grass Valley Hwy",
+    "city": "Auburn",
+    "state": "CA",
+    "zip": "95603",
+    "phone": "(530) 820-4330"
+  },
+  "selectors": {
+    "eventContainer": ".mec-event-article, .mec-event-grid-modern article, .mec-wrap article",
+    "title": ".mec-event-title a, .mec-agenda-event-title a, h2 a",
+    "date": ".mec-start-date-label, .mec-time-details, .mec-localtime-details",
+    "time": ".mec-time-details",
+    "description": ".mec-event-description, .mec-event-content p",
+    "link": ".mec-event-title a, h2 a",
+    "image": ".mec-event-image img, .mec-event-featured-image img"
+  },
+  "config": {
+    "useBrowser": true,
+    "waitForSelector": ".mec-event-article, .mec-wrap article, .mec-event-grid-modern",
+    "timeout": 45000,
+    "retries": 3,
+    "timezone": "America/Los_Angeles"
+  }
+}

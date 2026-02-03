@@ -1,0 +1,26 @@
+{
+  "id": "fowler-ranch",
+  "name": "Fowler Ranch",
+  "url": "https://www.fowlerranch.com/entertainment",
+  "platform": "wix",
+  "enabled": true,
+  "venue": {
+    "name": "Fowler Ranch",
+    "city": "Newcastle",
+    "state": "CA"
+  },
+  "selectors": {
+    "eventContainer": "[data-hook='event-list-item'], .event-item, .wixui-events-widget article",
+    "title": "[data-hook='event-title'], h2, h3",
+    "date": "[data-hook='event-date'], time, .event-date",
+    "description": "[data-hook='event-description'], p",
+    "link": "a"
+  },
+  "config": {
+    "useBrowser": true,
+    "waitForSelector": "[data-hook='event-list-item'], .event-item",
+    "timeout": 45000,
+    "retries": 2,
+    "timezone": "America/Los_Angeles"
+  }
+}

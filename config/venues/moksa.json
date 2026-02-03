@@ -1,0 +1,27 @@
+{
+  "id": "moksa-brewing",
+  "name": "Moksa Brewing",
+  "url": "https://moksabrewing.com/food-and-events.html",
+  "platform": "custom",
+  "enabled": true,
+  "venue": {
+    "name": "Moksa Brewing",
+    "address": "5860 Pacific St",
+    "city": "Rocklin",
+    "state": "CA",
+    "zip": "95677"
+  },
+  "selectors": {
+    "eventContainer": ".event, .event-item, article, .post",
+    "title": ".event-title, h2, h3",
+    "date": ".event-date, time, .date",
+    "description": ".event-description, p"
+  },
+  "config": {
+    "useBrowser": false,
+    "timeout": 30000,
+    "retries": 3,
+    "timezone": "America/Los_Angeles"
+  },
+  "customParser": "moksa"
+}

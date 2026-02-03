@@ -1,0 +1,28 @@
+{
+  "id": "knee-deep-brewing",
+  "name": "Knee Deep Brewing",
+  "url": "https://kneedeepbrewing.com/events",
+  "platform": "custom",
+  "enabled": true,
+  "venue": {
+    "name": "Knee Deep Brewing",
+    "address": "13395 New Airport Rd",
+    "city": "Auburn",
+    "state": "CA",
+    "zip": "95602",
+    "phone": "(530) 797-4676"
+  },
+  "selectors": {
+    "eventContainer": "[class*='event'], .event-card, article",
+    "title": "h2, h3, [class*='title']",
+    "date": "[class*='date'], time",
+    "description": "p, [class*='description']"
+  },
+  "config": {
+    "useBrowser": true,
+    "waitForSelector": "[class*='event']",
+    "timeout": 45000,
+    "retries": 2,
+    "timezone": "America/Los_Angeles"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "the-hillmont",
+  "name": "The Hillmont",
+  "url": "https://www.hillmontauburn.com/",
+  "platform": "squarespace",
+  "enabled": true,
+  "venue": {
+    "name": "The Hillmont",
+    "address": "899 Lincoln Way",
+    "city": "Auburn",
+    "state": "CA",
+    "zip": "95603"
+  },
+  "selectors": {
+    "eventContainer": ".eventlist-event, .summary-item, article",
+    "title": ".eventlist-title, .summary-title, h2, h3",
+    "date": ".eventlist-meta-date, time",
+    "time": ".eventlist-meta-time",
+    "description": ".eventlist-description, p",
+    "link": "a",
+    "image": "img"
+  },
+  "config": {
+    "useBrowser": false,
+    "timeout": 30000,
+    "retries": 3,
+    "timezone": "America/Los_Angeles"
+  }
+}

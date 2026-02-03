@@ -1,0 +1,28 @@
+{
+  "id": "gander-taphouse",
+  "name": "Gander Taphouse",
+  "url": "https://www.gandertaphouse.com/events",
+  "platform": "squarespace",
+  "enabled": true,
+  "venue": {
+    "name": "Gander Taphouse",
+    "address": "260 Grass Valley Hwy",
+    "city": "Auburn",
+    "state": "CA",
+    "zip": "95603"
+  },
+  "selectors": {
+    "eventContainer": ".eventlist-event, .summary-item, article",
+    "title": ".eventlist-title, .summary-title, h2",
+    "date": ".eventlist-meta-date, time",
+    "time": ".eventlist-meta-time",
+    "description": ".eventlist-description, p",
+    "link": "a"
+  },
+  "config": {
+    "useBrowser": false,
+    "timeout": 30000,
+    "retries": 3,
+    "timezone": "America/Los_Angeles"
+  }
+}

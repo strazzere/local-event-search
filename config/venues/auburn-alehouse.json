@@ -1,0 +1,29 @@
+{
+  "id": "auburn-alehouse",
+  "name": "Auburn Alehouse",
+  "url": "https://auburnalehouse.com/pages/events",
+  "platform": "shopify",
+  "enabled": true,
+  "venue": {
+    "name": "Auburn Alehouse",
+    "address": "289 Washington St",
+    "city": "Auburn",
+    "state": "CA",
+    "zip": "95603",
+    "phone": "(530) 885-2537"
+  },
+  "selectors": {
+    "eventContainer": ".event-card, .collection-product-card, article, .grid-item",
+    "title": ".event-title, .card-title, h2, h3",
+    "date": ".event-date, time, .date",
+    "description": ".event-description, .card-text, p",
+    "link": "a",
+    "image": "img"
+  },
+  "config": {
+    "useBrowser": false,
+    "timeout": 30000,
+    "retries": 3,
+    "timezone": "America/Los_Angeles"
+  }
+}

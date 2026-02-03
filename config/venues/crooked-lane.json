@@ -1,0 +1,30 @@
+{
+  "id": "crooked-lane-brewing",
+  "name": "Crooked Lane Brewing",
+  "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
+  "platform": "spothopper",
+  "enabled": true,
+  "venue": {
+    "name": "Crooked Lane Brewing",
+    "address": "518 Grass Valley Hwy",
+    "city": "Auburn",
+    "state": "CA",
+    "zip": "95603",
+    "phone": "(530) 878-7848"
+  },
+  "selectors": {
+    "eventContainer": ".event-calendar-card",
+    "title": ".event-card-header",
+    "date": ".event-main-text.event-day",
+    "time": ".event-main-text.event-time",
+    "description": ".event-info-text",
+    "link": ".event-read-more a"
+  },
+  "config": {
+    "useBrowser": true,
+    "waitForSelector": ".events-background",
+    "timeout": 30000,
+    "retries": 3,
+    "timezone": "America/Los_Angeles"
+  }
+}

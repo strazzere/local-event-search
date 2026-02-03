@@ -1,0 +1,28 @@
+{
+  "id": "happy-dayz-vineyard",
+  "name": "Happy Dayz Vineyard",
+  "url": "https://www.happydayzvineyard.com/visit-us/",
+  "platform": "wordpress",
+  "enabled": true,
+  "venue": {
+    "name": "Happy Dayz Vineyard",
+    "address": "5575 McCourtney Rd",
+    "city": "Lincoln",
+    "state": "CA",
+    "zip": "95648"
+  },
+  "selectors": {
+    "eventContainer": ".tribe-events-calendar-list__event, .event-item, article",
+    "title": ".tribe-events-calendar-list__event-title, h2, h3",
+    "date": "time, .event-date, .tribe-events-schedule",
+    "description": ".tribe-events-calendar-list__event-description, p",
+    "link": "a",
+    "image": "img"
+  },
+  "config": {
+    "useBrowser": false,
+    "timeout": 30000,
+    "retries": 3,
+    "timezone": "America/Los_Angeles"
+  }
+}

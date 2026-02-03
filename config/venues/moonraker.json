@@ -1,0 +1,28 @@
+{
+  "id": "moonraker-brewing",
+  "name": "Moonraker Brewing",
+  "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+  "platform": "wix",
+  "enabled": true,
+  "venue": {
+    "name": "Moonraker Brewing",
+    "address": "12960 Earhart Ave",
+    "city": "Auburn",
+    "state": "CA",
+    "zip": "95602",
+    "phone": "(530) 745-6816"
+  },
+  "selectors": {
+    "eventContainer": "[data-hook='event-list-item'], .event-item, article",
+    "title": "[data-hook='event-title'], h2, h3",
+    "date": "[data-hook='event-date'], time",
+    "description": "[data-hook='event-description'], p"
+  },
+  "config": {
+    "useBrowser": true,
+    "waitForSelector": "[data-hook='event-list-item']",
+    "timeout": 45000,
+    "retries": 2,
+    "timezone": "America/Los_Angeles"
+  }
+}

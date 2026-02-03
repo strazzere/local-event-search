@@ -1,0 +1,30 @@
+{
+  "id": "omakase-por-favor",
+  "name": "Omakase Por Favor",
+  "url": "https://www.omakaseporfavor.com/events-2",
+  "platform": "squarespace",
+  "enabled": true,
+  "venue": {
+    "name": "Omakase Por Favor",
+    "address": "1174 Auburn Blvd",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95815",
+    "phone": "(916) 238-2638"
+  },
+  "selectors": {
+    "eventContainer": ".eventlist-event, .summary-item, article",
+    "title": ".eventlist-title, .summary-title, h1, h2",
+    "date": ".event-date, .eventlist-meta-date, time",
+    "time": ".event-time, .eventlist-meta-time",
+    "description": ".eventlist-description, .summary-excerpt, p",
+    "link": "a.eventlist-title-link, a",
+    "image": "img"
+  },
+  "config": {
+    "useBrowser": false,
+    "timeout": 30000,
+    "retries": 3,
+    "timezone": "America/Los_Angeles"
+  }
+}

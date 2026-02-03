@@ -1,0 +1,25 @@
+{
+  "id": "buenos-aires-grill",
+  "name": "Buenos Aires Grill",
+  "url": "https://buenosairesgrillsac.com/",
+  "platform": "godaddy",
+  "enabled": true,
+  "venue": {
+    "name": "Buenos Aires Grill (Food Truck)",
+    "city": "Sacramento Area",
+    "state": "CA"
+  },
+  "selectors": {
+    "eventContainer": ".schedule-item, .event-item, [class*='schedule']",
+    "title": "h3, h4, .event-title",
+    "date": ".date, .event-date, time",
+    "description": ".description, .event-description, p"
+  },
+  "config": {
+    "useBrowser": false,
+    "timeout": 30000,
+    "retries": 3,
+    "timezone": "America/Los_Angeles"
+  },
+  "customParser": "buenos-aires"
+}

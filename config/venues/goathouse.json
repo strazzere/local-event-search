@@ -1,0 +1,27 @@
+{
+  "id": "goathouse-brewing",
+  "name": "Goathouse Brewing",
+  "url": "https://www.goathousebrewing.com/",
+  "platform": "wix",
+  "enabled": true,
+  "venue": {
+    "name": "Goathouse Brewing",
+    "address": "4311 Taylor Rd",
+    "city": "Loomis",
+    "state": "CA",
+    "zip": "95650"
+  },
+  "selectors": {
+    "eventContainer": "[data-hook='event-list-item'], .event-item, article",
+    "title": "[data-hook='event-title'], h2, h3",
+    "date": "[data-hook='event-date'], time",
+    "description": "[data-hook='event-description'], p"
+  },
+  "config": {
+    "useBrowser": true,
+    "waitForSelector": "[data-hook='event-list-item']",
+    "timeout": 45000,
+    "retries": 2,
+    "timezone": "America/Los_Angeles"
+  }
+}
