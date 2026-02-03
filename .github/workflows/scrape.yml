@@ -30,7 +30,7 @@ jobs:
         run: mkdir -p output/logs
 
       - name: Run scraper
-        run: npm run scrape -- --all --output all
+        run: npm run scrape -- scrape --all --output json
         continue-on-error: true
 
       - name: Check for changes
