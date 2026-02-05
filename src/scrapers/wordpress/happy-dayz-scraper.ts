@@ -42,13 +42,15 @@ export class HappyDayzScraper extends WordPressScraper {
       const match = datePattern.exec(line);
       if (match) {
         const month = match[1];
-        const dayPart = line.match(new RegExp(`${months}\\s+([\\d,&\\s]+(?:st|nd|rd|th)?)+`, 'i'));
         const timePart = match[4];
         const description = match[5]?.trim();
 
-        // Extract all days mentioned
-        const dayMatches = line.match(/\d{1,2}(?:st|nd|rd|th)?/g);
-        const days = dayMatches ? dayMatches.map(d => parseInt(d)) : [];
+        // Extract days only from the portion between month and time
+        // This avoids picking up numbers from times like "11-4pm"
+        const dayPortionMatch = line.match(new RegExp(`${months}\\s+([\\d,&\\s]+(?:st|nd|rd|th)?[\\d,&\\s]*?)\\s+\\d{1,2}(?::\\d{2})?\\s*-`, 'i'));
+        const dayPortion = dayPortionMatch ? dayPortionMatch[1] : match[2];
+        const dayMatches = dayPortion.match(/\d{1,2}/g);
+        const days = dayMatches ? dayMatches.map(d => parseInt(d)).filter(d => d >= 1 && d <= 31) : [];
 
         // Create event title
         let title = 'Wine Tasting';
@@ -62,14 +64,12 @@ export class HappyDayzScraper extends WordPressScraper {
 
         // Create event for each day
         for (const day of days) {
-          if (day >= 1 && day <= 31) {
-            events.push({
-              title,
-              date: `${month} ${day}`,
-              startTime,
-              description: description || `Open for wine tasting ${timePart}`
-            });
-          }
+          events.push({
+            title,
+            date: `${month} ${day}`,
+            startTime,
+            description: description || `Open for wine tasting ${timePart}`
+          });
         }
       }
 
