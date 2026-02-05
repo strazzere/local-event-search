@@ -87,7 +87,8 @@ export class MoonrakerScraper extends WixScraper {
           events.push({
             title,
             date: dateStr,
-            startTime
+            startTime,
+            type: 'food'
           });
         }
       });

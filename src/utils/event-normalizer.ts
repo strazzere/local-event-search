@@ -27,6 +27,7 @@ export interface RawEventData {
   url?: string;
   imageUrl?: string;
   price?: string;
+  type?: EventType;
 }
 
 export class EventNormalizer {
@@ -94,7 +95,7 @@ export class EventNormalizer {
 
       const dateStr = dateParser.toISOString(date);
       const id = this.generateEventId(rawData.title, dateStr, venue.name);
-      const eventType = this.detectEventType(rawData.title, rawData.description);
+      const eventType = rawData.type || this.detectEventType(rawData.title, rawData.description);
       const tags = this.extractTags(rawData.title, rawData.description);
       const recurringPattern = rawData.date ? dateParser.detectRecurringPattern(rawData.date) : null;
 
