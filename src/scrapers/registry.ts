@@ -10,7 +10,7 @@ import { SquarespaceScraper, OmakaseScraper } from './squarespace';
 import { ShopifyScraper } from './shopify';
 import { SpotHopperScraper } from './spothopper';
 import { WixScraper, MoonrakerScraper } from './wix';
-import { BuenosAiresScraper, MoksaScraper } from './custom';
+import { BuenosAiresScraper, MoksaScraper, GenericScraper } from './custom';
 
 type ScraperClass = new (config: VenueConfig) => BaseScraper;
 
@@ -22,7 +22,7 @@ const SCRAPER_MAP: Record<string, ScraperClass> = {
   'spothopper': SpotHopperScraper,
   'wix': WixScraper,
   'godaddy': BuenosAiresScraper, // GoDaddy uses custom parsing
-  'custom': BuenosAiresScraper,
+  'custom': GenericScraper,
 
   // Custom scrapers for specific venues
   'mindscape-fermentations': MindscapeScraper,
