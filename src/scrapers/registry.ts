@@ -9,7 +9,7 @@ import { WordPressScraper, MindscapeScraper, HappyDayzScraper } from './wordpres
 import { SquarespaceScraper, OmakaseScraper } from './squarespace';
 import { ShopifyScraper } from './shopify';
 import { SpotHopperScraper } from './spothopper';
-import { WixScraper, MoonrakerScraper } from './wix';
+import { WixScraper, MoonrakerScraper, GoathouseScraper } from './wix';
 import { BuenosAiresScraper, MoksaScraper, GenericScraper } from './custom';
 
 type ScraperClass = new (config: VenueConfig) => BaseScraper;
@@ -31,7 +31,8 @@ const SCRAPER_MAP: Record<string, ScraperClass> = {
   'moksa-brewing': MoksaScraper,
   'moksa': MoksaScraper,
   'moonraker-brewing': MoonrakerScraper,
-  'happy-dayz-vineyard': HappyDayzScraper
+  'happy-dayz-vineyard': HappyDayzScraper,
+  'goathouse-brewing': GoathouseScraper
 };
 
 export class ScraperRegistry {
