@@ -47,9 +47,11 @@ export class HappyDayzScraper extends WordPressScraper {
 
         // Extract days only from the portion between month and time
         // This avoids picking up numbers from times like "11-4pm"
-        const dayPortionMatch = line.match(new RegExp(`${months}\\s+([\\d,&\\s]+(?:st|nd|rd|th)?[\\d,&\\s]*?)\\s+\\d{1,2}(?::\\d{2})?\\s*-`, 'i'));
+        // Match pattern like "6th & 7th" or "13th, 14th & 15th" before the time
+        const dayPortionMatch = line.match(new RegExp(`${months}\\s+((?:\\d{1,2}(?:st|nd|rd|th)?[\\s,&]*)+)\\s*\\d{1,2}(?::\\d{2})?\\s*-`, 'i'));
         const dayPortion = dayPortionMatch ? dayPortionMatch[1] : match[2];
-        const dayMatches = dayPortion.match(/\d{1,2}/g);
+        // Extract all numbers from the day portion (these are the actual days)
+        const dayMatches = dayPortion.match(/\d{1,2}(?=(?:st|nd|rd|th)?(?:\s|,|&|$))/g);
         const days = dayMatches ? dayMatches.map(d => parseInt(d)).filter(d => d >= 1 && d <= 31) : [];
 
         // Create event title
