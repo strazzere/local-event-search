@@ -1,206 +1,18 @@
 {
   "metadata": {
     "version": "1.0.0",
-    "generatedAt": "2026-02-03T06:01:48.071Z",
-    "eventCount": 107,
-    "venueCount": 6,
+    "generatedAt": "2026-02-05T05:48:42.770Z",
+    "eventCount": 70,
+    "venueCount": 5,
     "venues": [
       "Crooked Lane Brewing",
       "Fowler Ranch",
       "Happy Dayz Vineyard",
-      "Knee Deep Brewing",
       "Mindscape Fermentations",
       "Moonraker Brewing"
     ]
   },
   "events": [
-    {
-      "id": "evt-188ff0e9",
-      "title": "Outlaw",
-      "date": "2026-02-02T08:00:00.000Z",
-      "startTime": "4:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "other",
-      "tags": [],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.445Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-0b22e0c9",
-      "title": "Buenos Aires Grill at • 7:00 PMAuburnCommunityJoin us in Auburn for Trivia night!Add to CalendarMore Gooder TriviaThursday",
-      "description": "Food truck serving at • 7:00 PMAuburnCommunityJoin us in Auburn for Trivia night!Add to CalendarMore Gooder TriviaThursday",
-      "date": "2026-02-03T08:00:00.000Z",
-      "venue": {
-        "name": "Knee Deep Brewing",
-        "address": "13395 New Airport Rd",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://kneedeepbrewing.com/events",
-        "phone": "(530) 797-4676"
-      },
-      "type": "trivia",
-      "tags": [
-        "trivia",
-        "food",
-        "beer",
-        "thursday"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:25.073Z",
-      "source": "knee-deep-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-350245e6",
-      "title": "Santacos",
-      "date": "2026-02-03T08:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.445Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-12ef49da",
-      "title": "Dream Burger Food Truck",
-      "description": "Recurring: Does not Repeat",
-      "date": "2026-02-04T00:00:00.000Z",
-      "startTime": "04:00 PM - 08:00 PM",
-      "venue": {
-        "name": "Crooked Lane Brewing",
-        "address": "518 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
-        "phone": "(530) 878-7848"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "imageUrl": "https://static.spotapps.co/spots/b2/a0dd4594ca4b0b992a67c27615ec0e/w926",
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T05:59:58.298Z",
-      "source": "crooked-lane-brewing",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-067aed7c",
-      "title": "Wine Tasting",
-      "description": "Open for wine tasting 11-4pm",
-      "date": "2026-02-04T08:00:00.000Z",
-      "startTime": "11:00 PM",
-      "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
-      },
-      "type": "wine",
-      "tags": [
-        "wine",
-        "tasting"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.367Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-a6bd522a",
-      "title": "Valentine’s Makers Market",
-      "date": "2026-02-04T08:00:00.000Z",
-      "startTime": "",
-      "venue": {
-        "name": "Mindscape Fermentations",
-        "address": "1531 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://mindscape-fermentations.com/events/",
-        "phone": "(530) 820-4330"
-      },
-      "type": "beer",
-      "tags": [
-        "beer"
-      ],
-      "url": "https://mindscape-fermentations.com/events/valentines-makers-market/",
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:30.490Z",
-      "source": "mindscape-fermentations",
-      "confidence": 0.8
-    },
-    {
-      "id": "evt-0d478d0f",
-      "title": "Buenos Aires",
-      "date": "2026-02-04T08:00:00.000Z",
-      "startTime": "4:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "other",
-      "tags": [],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.445Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-cd21bd87",
-      "title": "Trivia Night",
-      "date": "2026-02-04T08:00:00.000Z",
-      "startTime": "6:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "trivia",
-      "tags": [
-        "trivia"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.445Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
     {
       "id": "evt-911e5512",
       "title": "Food Truck West Coast Tacos",
@@ -222,65 +34,14 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/db/edef50caf142bc9ad41aea673d2c6d/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T05:59:58.298Z",
+      "scrapedAt": "2026-02-05T05:45:00.043Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
     {
-      "id": "evt-1f65faa6",
-      "title": "Buenos Aires Grill at • 6:00 PMFolsomCommunityJoin us in Folsom for Trivia night!Add to CalendarDJ TriviaTuesday",
-      "description": "Food truck serving at • 6:00 PMFolsomCommunityJoin us in Folsom for Trivia night!Add to CalendarDJ TriviaTuesday",
-      "date": "2026-02-05T08:00:00.000Z",
-      "venue": {
-        "name": "Knee Deep Brewing",
-        "address": "13395 New Airport Rd",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://kneedeepbrewing.com/events",
-        "phone": "(530) 797-4676"
-      },
-      "type": "trivia",
-      "tags": [
-        "trivia",
-        "music",
-        "food",
-        "beer",
-        "tuesday"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:25.074Z",
-      "source": "knee-deep-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-9f71bfab",
-      "title": "MUSIC BINGO!",
-      "date": "2026-02-05T08:00:00.000Z",
-      "startTime": "",
-      "venue": {
-        "name": "Mindscape Fermentations",
-        "address": "1531 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://mindscape-fermentations.com/events/",
-        "phone": "(530) 820-4330"
-      },
-      "type": "music",
-      "tags": [
-        "music"
-      ],
-      "url": "https://mindscape-fermentations.com/events/music-bingo-111-695/",
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:30.490Z",
-      "source": "mindscape-fermentations",
-      "confidence": 0.8
-    },
-    {
-      "id": "evt-c1d8b949",
+      "id": "evt-01c48e02",
       "title": "Santacos",
-      "date": "2026-02-05T08:00:00.000Z",
+      "date": "2026-02-05T00:00:00.000Z",
       "startTime": "2:00 PM",
       "venue": {
         "name": "Moonraker Brewing",
@@ -296,14 +57,14 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.445Z",
+      "scrapedAt": "2026-02-05T05:48:42.582Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
     {
-      "id": "evt-6ef61330",
+      "id": "evt-a0c4149e",
       "title": "Paint Night",
-      "date": "2026-02-05T08:00:00.000Z",
+      "date": "2026-02-05T00:00:00.000Z",
       "startTime": "6:00 PM",
       "venue": {
         "name": "Moonraker Brewing",
@@ -314,12 +75,12 @@
         "url": "https://www.moonrakerbrewing.com/food-events-auburn",
         "phone": "(530) 745-6816"
       },
-      "type": "paint",
+      "type": "food",
       "tags": [
         "paint"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.445Z",
+      "scrapedAt": "2026-02-05T05:48:42.582Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -346,34 +107,15 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/31/06bc333668417a8da10268d3570d36/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T05:59:58.299Z",
+      "scrapedAt": "2026-02-05T05:45:00.044Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
     {
-      "id": "evt-bf400b9b",
-      "title": "Fowler Ranch hosts a weekly cornhole competition open to anyone.",
-      "date": "2026-02-06T06:00:13.030Z",
-      "startTime": "6:00- Close",
-      "venue": {
-        "name": "Fowler Ranch",
-        "city": "Newcastle",
-        "state": "CA",
-        "url": "https://www.fowlerranch.com/entertainment"
-      },
-      "type": "other",
-      "tags": [],
-      "isRecurring": true,
-      "recurringPattern": "weekly:thursday",
-      "scrapedAt": "2026-02-03T06:00:13.031Z",
-      "source": "fowler-ranch",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-c9ef74a6",
+      "id": "evt-bc66188e",
       "title": "Wine Tasting",
       "description": "Open for wine tasting 11-4pm",
-      "date": "2026-02-06T08:00:00.000Z",
+      "date": "2026-02-06T00:00:00.000Z",
       "startTime": "11:00 PM",
       "venue": {
         "name": "Happy Dayz Vineyard",
@@ -389,14 +131,14 @@
         "tasting"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.367Z",
+      "scrapedAt": "2026-02-05T05:46:40.812Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.95
     },
     {
-      "id": "evt-63bece50",
+      "id": "evt-7e0e6794",
       "title": "Bridgehouse",
-      "date": "2026-02-06T08:00:00.000Z",
+      "date": "2026-02-06T00:00:00.000Z",
       "startTime": "2:00 PM",
       "venue": {
         "name": "Moonraker Brewing",
@@ -407,17 +149,17 @@
         "url": "https://www.moonrakerbrewing.com/food-events-auburn",
         "phone": "(530) 745-6816"
       },
-      "type": "other",
+      "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.445Z",
+      "scrapedAt": "2026-02-05T05:48:42.582Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
     {
-      "id": "evt-02d00135",
+      "id": "evt-705ad02c",
       "title": "Fowler Ranch presents a weekly Trivia competition hosted by Brain Freeze! Come out and win some prizes!",
-      "date": "2026-02-07T06:00:13.031Z",
+      "date": "2026-02-06T05:45:42.287Z",
       "startTime": "6:00",
       "venue": {
         "name": "Fowler Ranch",
@@ -431,38 +173,14 @@
       ],
       "isRecurring": true,
       "recurringPattern": "weekly:friday",
-      "scrapedAt": "2026-02-03T06:00:13.032Z",
+      "scrapedAt": "2026-02-05T05:45:42.288Z",
       "source": "fowler-ranch",
       "confidence": 0.85
     },
     {
-      "id": "evt-386ff9f7",
-      "title": "Wine Tasting",
-      "description": "Open for wine tasting 11-4pm",
-      "date": "2026-02-07T08:00:00.000Z",
-      "startTime": "11:00 PM",
-      "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
-      },
-      "type": "wine",
-      "tags": [
-        "wine",
-        "tasting"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.367Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-6b4feb70",
+      "id": "evt-2e4c5a37",
       "title": "JJ's Fusion",
-      "date": "2026-02-07T08:00:00.000Z",
+      "date": "2026-02-07T00:00:00.000Z",
       "startTime": "2:00 PM",
       "venue": {
         "name": "Moonraker Brewing",
@@ -473,17 +191,17 @@
         "url": "https://www.moonrakerbrewing.com/food-events-auburn",
         "phone": "(530) 745-6816"
       },
-      "type": "other",
+      "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.445Z",
+      "scrapedAt": "2026-02-05T05:48:42.582Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
     {
-      "id": "evt-b3f660db",
+      "id": "evt-7849a813",
       "title": "TRIVIA NIGHT",
-      "date": "2026-02-08T08:00:00.000Z",
+      "date": "2026-02-08T00:00:00.000Z",
       "startTime": "",
       "venue": {
         "name": "Mindscape Fermentations",
@@ -500,14 +218,14 @@
       ],
       "url": "https://mindscape-fermentations.com/events/trivia-night-111-551/",
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:30.491Z",
+      "scrapedAt": "2026-02-05T05:47:45.236Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
     {
-      "id": "evt-c5ceebf1",
+      "id": "evt-67dcdfe4",
       "title": "Superbowl Sunday! Closing at",
-      "date": "2026-02-08T08:00:00.000Z",
+      "date": "2026-02-08T00:00:00.000Z",
       "venue": {
         "name": "Moonraker Brewing",
         "address": "12960 Earhart Ave",
@@ -517,12 +235,12 @@
         "url": "https://www.moonrakerbrewing.com/food-events-auburn",
         "phone": "(530) 745-6816"
       },
-      "type": "other",
+      "type": "food",
       "tags": [
         "sunday"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.445Z",
+      "scrapedAt": "2026-02-05T05:48:42.582Z",
       "source": "moonraker-brewing",
       "confidence": 0.75
     },
@@ -544,14 +262,14 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T05:59:58.299Z",
+      "scrapedAt": "2026-02-05T05:45:00.044Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
     {
-      "id": "evt-39ad7b56",
+      "id": "evt-6aaf71f4",
       "title": "Bella Familia",
-      "date": "2026-02-09T08:00:00.000Z",
+      "date": "2026-02-09T00:00:00.000Z",
       "startTime": "4:00 PM",
       "venue": {
         "name": "Moonraker Brewing",
@@ -562,43 +280,17 @@
         "url": "https://www.moonrakerbrewing.com/food-events-auburn",
         "phone": "(530) 745-6816"
       },
-      "type": "other",
+      "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.445Z",
+      "scrapedAt": "2026-02-05T05:48:42.582Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
     {
-      "id": "evt-c09afa4b",
-      "title": "Buenos Aires Grill at • 7:00 PMAuburnCommunityJoin us in Auburn for Trivia night!Add to CalendarMore Gooder TriviaThursday",
-      "description": "Food truck serving at • 7:00 PMAuburnCommunityJoin us in Auburn for Trivia night!Add to CalendarMore Gooder TriviaThursday",
-      "date": "2026-02-10T08:00:00.000Z",
-      "venue": {
-        "name": "Knee Deep Brewing",
-        "address": "13395 New Airport Rd",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://kneedeepbrewing.com/events",
-        "phone": "(530) 797-4676"
-      },
-      "type": "trivia",
-      "tags": [
-        "trivia",
-        "food",
-        "beer",
-        "thursday"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:25.074Z",
-      "source": "knee-deep-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-2e27cd36",
+      "id": "evt-8cb86375",
       "title": "Santacos",
-      "date": "2026-02-10T08:00:00.000Z",
+      "date": "2026-02-10T00:00:00.000Z",
       "startTime": "2:00 PM",
       "venue": {
         "name": "Moonraker Brewing",
@@ -614,7 +306,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.445Z",
+      "scrapedAt": "2026-02-05T05:48:42.582Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -639,7 +331,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/b2/a0dd4594ca4b0b992a67c27615ec0e/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T05:59:58.299Z",
+      "scrapedAt": "2026-02-05T05:45:00.044Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -665,38 +357,14 @@
       "url": "https://sips.art/products/sun-moon-crooked-lane-weds-feb-11th-5-30p",
       "imageUrl": "https://static.spotapps.co/spots/2b/7e3e69a6fc49b3bf418635e8873916/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T05:59:58.299Z",
+      "scrapedAt": "2026-02-05T05:45:00.044Z",
       "source": "crooked-lane-brewing",
       "confidence": 1
     },
     {
-      "id": "evt-8b766ba7",
-      "title": "Wine Tasting",
-      "description": "Open for wine tasting 11-4pm",
-      "date": "2026-02-11T08:00:00.000Z",
-      "startTime": "11:00 PM",
-      "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
-      },
-      "type": "wine",
-      "tags": [
-        "wine",
-        "tasting"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.367Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-2021eeb2",
+      "id": "evt-3fd94385",
       "title": "Paint & Sip",
-      "date": "2026-02-11T08:00:00.000Z",
+      "date": "2026-02-11T00:00:00.000Z",
       "startTime": "",
       "venue": {
         "name": "Mindscape Fermentations",
@@ -713,14 +381,14 @@
       ],
       "url": "https://mindscape-fermentations.com/events/retro-paint-sip-night-feb-11/",
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:30.491Z",
+      "scrapedAt": "2026-02-05T05:47:45.236Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
     {
-      "id": "evt-0360a5dc",
+      "id": "evt-4aaf94af",
       "title": "Chix on Wheels",
-      "date": "2026-02-11T08:00:00.000Z",
+      "date": "2026-02-11T00:00:00.000Z",
       "startTime": "4:00 PM",
       "venue": {
         "name": "Moonraker Brewing",
@@ -731,17 +399,17 @@
         "url": "https://www.moonrakerbrewing.com/food-events-auburn",
         "phone": "(530) 745-6816"
       },
-      "type": "other",
+      "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.445Z",
+      "scrapedAt": "2026-02-05T05:48:42.582Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
     {
-      "id": "evt-28dcf632",
+      "id": "evt-3d924b35",
       "title": "Trivia Night",
-      "date": "2026-02-11T08:00:00.000Z",
+      "date": "2026-02-11T00:00:00.000Z",
       "startTime": "6:00 PM",
       "venue": {
         "name": "Moonraker Brewing",
@@ -752,12 +420,12 @@
         "url": "https://www.moonrakerbrewing.com/food-events-auburn",
         "phone": "(530) 745-6816"
       },
-      "type": "trivia",
+      "type": "food",
       "tags": [
         "trivia"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.445Z",
+      "scrapedAt": "2026-02-05T05:48:42.582Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -782,41 +450,14 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/f7/7510ff38bf4c779b28dc8a11346ed7/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T05:59:58.299Z",
+      "scrapedAt": "2026-02-05T05:45:00.044Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
     {
-      "id": "evt-f41ee80e",
-      "title": "Buenos Aires Grill at • 6:00 PMFolsomCommunityJoin us in Folsom for Trivia night!Add to CalendarDJ TriviaTuesday",
-      "description": "Food truck serving at • 6:00 PMFolsomCommunityJoin us in Folsom for Trivia night!Add to CalendarDJ TriviaTuesday",
-      "date": "2026-02-12T08:00:00.000Z",
-      "venue": {
-        "name": "Knee Deep Brewing",
-        "address": "13395 New Airport Rd",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://kneedeepbrewing.com/events",
-        "phone": "(530) 797-4676"
-      },
-      "type": "trivia",
-      "tags": [
-        "trivia",
-        "music",
-        "food",
-        "beer",
-        "tuesday"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:25.074Z",
-      "source": "knee-deep-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-bb965d92",
+      "id": "evt-f5d02d23",
       "title": "MUSIC BINGO!",
-      "date": "2026-02-12T08:00:00.000Z",
+      "date": "2026-02-12T00:00:00.000Z",
       "startTime": "",
       "venue": {
         "name": "Mindscape Fermentations",
@@ -833,14 +474,14 @@
       ],
       "url": "https://mindscape-fermentations.com/events/music-bingo-111-695-239/",
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:30.491Z",
+      "scrapedAt": "2026-02-05T05:47:45.236Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
     {
-      "id": "evt-a0fa8bbb",
+      "id": "evt-6e8a72e7",
       "title": "Buckethead BBQ",
-      "date": "2026-02-12T08:00:00.000Z",
+      "date": "2026-02-12T00:00:00.000Z",
       "startTime": "2:00 PM",
       "venue": {
         "name": "Moonraker Brewing",
@@ -856,8 +497,27 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.446Z",
+      "scrapedAt": "2026-02-05T05:48:42.582Z",
       "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-56cb20c7",
+      "title": "Fowler Ranch hosts a weekly cornhole competition open to anyone.",
+      "date": "2026-02-12T05:45:42.286Z",
+      "startTime": "6:00- Close",
+      "venue": {
+        "name": "Fowler Ranch",
+        "city": "Newcastle",
+        "state": "CA",
+        "url": "https://www.fowlerranch.com/entertainment"
+      },
+      "type": "other",
+      "tags": [],
+      "isRecurring": true,
+      "recurringPattern": "weekly:thursday",
+      "scrapedAt": "2026-02-05T05:45:42.287Z",
+      "source": "fowler-ranch",
       "confidence": 0.85
     },
     {
@@ -883,14 +543,14 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/b0/1c600ab41a4f1dbdb83caa0bcda8b9/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T05:59:58.299Z",
+      "scrapedAt": "2026-02-05T05:45:00.044Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
     {
-      "id": "evt-dd93a29e",
+      "id": "evt-d7d9cabb",
       "title": "Portu-Goal",
-      "date": "2026-02-13T08:00:00.000Z",
+      "date": "2026-02-13T00:00:00.000Z",
       "startTime": "2:00 PM",
       "venue": {
         "name": "Moonraker Brewing",
@@ -901,17 +561,17 @@
         "url": "https://www.moonrakerbrewing.com/food-events-auburn",
         "phone": "(530) 745-6816"
       },
-      "type": "other",
+      "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.446Z",
+      "scrapedAt": "2026-02-05T05:48:42.582Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
     {
-      "id": "evt-390a887f",
+      "id": "evt-6a81b16d",
       "title": "Valentine's Laughs and Crafts",
-      "date": "2026-02-14T08:00:00.000Z",
+      "date": "2026-02-14T00:00:00.000Z",
       "venue": {
         "name": "Fowler Ranch",
         "city": "Newcastle",
@@ -923,14 +583,14 @@
         "beer"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:13.029Z",
+      "scrapedAt": "2026-02-05T05:45:42.286Z",
       "source": "fowler-ranch",
       "confidence": 0.75
     },
     {
-      "id": "evt-d071a647",
+      "id": "evt-7f79313a",
       "title": "Fry Boys",
-      "date": "2026-02-14T08:00:00.000Z",
+      "date": "2026-02-14T00:00:00.000Z",
       "startTime": "2:00 PM",
       "venue": {
         "name": "Moonraker Brewing",
@@ -941,17 +601,17 @@
         "url": "https://www.moonrakerbrewing.com/food-events-auburn",
         "phone": "(530) 745-6816"
       },
-      "type": "other",
+      "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.446Z",
+      "scrapedAt": "2026-02-05T05:48:42.582Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
     {
-      "id": "evt-33ba5458",
+      "id": "evt-7a72bdae",
       "title": "Live Music Jam Session",
-      "date": "2026-02-15T08:00:00.000Z",
+      "date": "2026-02-15T00:00:00.000Z",
       "startTime": "",
       "venue": {
         "name": "Mindscape Fermentations",
@@ -968,14 +628,14 @@
       ],
       "url": "https://mindscape-fermentations.com/events/live-music-jam-session-888-945-466-721-925-529/",
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:30.491Z",
+      "scrapedAt": "2026-02-05T05:47:45.237Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
     {
-      "id": "evt-0f6f12b3",
+      "id": "evt-1b5c6d4d",
       "title": "TRIVIA NIGHT",
-      "date": "2026-02-15T08:00:00.000Z",
+      "date": "2026-02-15T00:00:00.000Z",
       "startTime": "",
       "venue": {
         "name": "Mindscape Fermentations",
@@ -992,14 +652,14 @@
       ],
       "url": "https://mindscape-fermentations.com/events/trivia-night-111-551-804/",
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:30.491Z",
+      "scrapedAt": "2026-02-05T05:47:45.237Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
     {
-      "id": "evt-ccd7271a",
+      "id": "evt-bb068691",
       "title": "Bella Familia",
-      "date": "2026-02-15T08:00:00.000Z",
+      "date": "2026-02-15T00:00:00.000Z",
       "startTime": "2:00 PM",
       "venue": {
         "name": "Moonraker Brewing",
@@ -1010,17 +670,17 @@
         "url": "https://www.moonrakerbrewing.com/food-events-auburn",
         "phone": "(530) 745-6816"
       },
-      "type": "other",
+      "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.446Z",
+      "scrapedAt": "2026-02-05T05:48:42.582Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
     {
-      "id": "evt-22beaa76",
+      "id": "evt-20af19fd",
       "title": "Dream Burger",
-      "date": "2026-02-16T08:00:00.000Z",
+      "date": "2026-02-16T00:00:00.000Z",
       "startTime": "4:00 PM",
       "venue": {
         "name": "Moonraker Brewing",
@@ -1036,40 +696,14 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.446Z",
+      "scrapedAt": "2026-02-05T05:48:42.582Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
     {
-      "id": "evt-dd7e9e6d",
-      "title": "Buenos Aires Grill at • 7:00 PMAuburnCommunityJoin us in Auburn for Trivia night!Add to CalendarMore Gooder TriviaThursday",
-      "description": "Food truck serving at • 7:00 PMAuburnCommunityJoin us in Auburn for Trivia night!Add to CalendarMore Gooder TriviaThursday",
-      "date": "2026-02-17T08:00:00.000Z",
-      "venue": {
-        "name": "Knee Deep Brewing",
-        "address": "13395 New Airport Rd",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://kneedeepbrewing.com/events",
-        "phone": "(530) 797-4676"
-      },
-      "type": "trivia",
-      "tags": [
-        "trivia",
-        "food",
-        "beer",
-        "thursday"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:25.075Z",
-      "source": "knee-deep-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-31abdcc2",
+      "id": "evt-d51b854f",
       "title": "Maria's Tacos",
-      "date": "2026-02-17T08:00:00.000Z",
+      "date": "2026-02-17T00:00:00.000Z",
       "startTime": "2:00 PM",
       "venue": {
         "name": "Moonraker Brewing",
@@ -1085,7 +719,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.446Z",
+      "scrapedAt": "2026-02-05T05:48:42.582Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1110,14 +744,14 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/b2/a0dd4594ca4b0b992a67c27615ec0e/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T05:59:58.299Z",
+      "scrapedAt": "2026-02-05T05:45:00.045Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
     {
-      "id": "evt-7ad57574",
+      "id": "evt-a404b826",
       "title": "Aquarius Birthday Party",
-      "date": "2026-02-18T08:00:00.000Z",
+      "date": "2026-02-18T00:00:00.000Z",
       "startTime": "",
       "venue": {
         "name": "Mindscape Fermentations",
@@ -1134,14 +768,14 @@
       ],
       "url": "https://mindscape-fermentations.com/events/aquarius-birthday-party/",
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:30.491Z",
+      "scrapedAt": "2026-02-05T05:47:45.237Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
     {
-      "id": "evt-80814cc6",
+      "id": "evt-31a08727",
       "title": "Doggiestyle Hot Dogs",
-      "date": "2026-02-18T08:00:00.000Z",
+      "date": "2026-02-18T00:00:00.000Z",
       "startTime": "4:00 PM",
       "venue": {
         "name": "Moonraker Brewing",
@@ -1152,17 +786,17 @@
         "url": "https://www.moonrakerbrewing.com/food-events-auburn",
         "phone": "(530) 745-6816"
       },
-      "type": "other",
+      "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.446Z",
+      "scrapedAt": "2026-02-05T05:48:42.583Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
     {
-      "id": "evt-74805dc2",
+      "id": "evt-29319c13",
       "title": "Trivia Night",
-      "date": "2026-02-18T08:00:00.000Z",
+      "date": "2026-02-18T00:00:00.000Z",
       "startTime": "6:00 PM",
       "venue": {
         "name": "Moonraker Brewing",
@@ -1173,12 +807,12 @@
         "url": "https://www.moonrakerbrewing.com/food-events-auburn",
         "phone": "(530) 745-6816"
       },
-      "type": "trivia",
+      "type": "food",
       "tags": [
         "trivia"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.446Z",
+      "scrapedAt": "2026-02-05T05:48:42.583Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1203,41 +837,14 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/a1/65a3dacd4244c3bdbce50cb417ea0a/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T05:59:58.299Z",
+      "scrapedAt": "2026-02-05T05:45:00.045Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
     {
-      "id": "evt-bebfcbe2",
-      "title": "Buenos Aires Grill at • 6:00 PMFolsomCommunityJoin us in Folsom for Trivia night!Add to CalendarDJ TriviaTuesday",
-      "description": "Food truck serving at • 6:00 PMFolsomCommunityJoin us in Folsom for Trivia night!Add to CalendarDJ TriviaTuesday",
-      "date": "2026-02-19T08:00:00.000Z",
-      "venue": {
-        "name": "Knee Deep Brewing",
-        "address": "13395 New Airport Rd",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://kneedeepbrewing.com/events",
-        "phone": "(530) 797-4676"
-      },
-      "type": "trivia",
-      "tags": [
-        "trivia",
-        "music",
-        "food",
-        "beer",
-        "tuesday"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:25.075Z",
-      "source": "knee-deep-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-29a6719d",
+      "id": "evt-cb4d4e4a",
       "title": "MUSIC BINGO!",
-      "date": "2026-02-19T08:00:00.000Z",
+      "date": "2026-02-19T00:00:00.000Z",
       "startTime": "",
       "venue": {
         "name": "Mindscape Fermentations",
@@ -1254,14 +861,14 @@
       ],
       "url": "https://mindscape-fermentations.com/events/music-bingo-111-695-239-127/",
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:30.491Z",
+      "scrapedAt": "2026-02-05T05:47:45.237Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
     {
-      "id": "evt-3dd7b3dc",
+      "id": "evt-ad426407",
       "title": "West Coast Tacos",
-      "date": "2026-02-19T08:00:00.000Z",
+      "date": "2026-02-19T00:00:00.000Z",
       "startTime": "2:00 PM",
       "venue": {
         "name": "Moonraker Brewing",
@@ -1277,7 +884,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.446Z",
+      "scrapedAt": "2026-02-05T05:48:42.583Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1304,14 +911,14 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/ee/37c168927649f58a16011ad390c936/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T05:59:58.299Z",
+      "scrapedAt": "2026-02-05T05:45:00.045Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
     {
-      "id": "evt-7c6a86ba",
+      "id": "evt-f0cf7213",
       "title": "Outlaw Cuisine",
-      "date": "2026-02-20T08:00:00.000Z",
+      "date": "2026-02-20T00:00:00.000Z",
       "startTime": "2:00 PM",
       "venue": {
         "name": "Moonraker Brewing",
@@ -1322,10 +929,10 @@
         "url": "https://www.moonrakerbrewing.com/food-events-auburn",
         "phone": "(530) 745-6816"
       },
-      "type": "other",
+      "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.446Z",
+      "scrapedAt": "2026-02-05T05:48:42.583Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1350,7 +957,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/5a/beebbdbfc44a9aae8ad7034924b566/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T05:59:58.299Z",
+      "scrapedAt": "2026-02-05T05:45:00.045Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1375,14 +982,14 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/78/dc6dfc41f64c7b90ae166fea78c736/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T05:59:58.300Z",
+      "scrapedAt": "2026-02-05T05:45:00.045Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
     {
-      "id": "evt-5e40acc9",
+      "id": "evt-19bddcc4",
       "title": "Mucho Nacho",
-      "date": "2026-02-21T08:00:00.000Z",
+      "date": "2026-02-21T00:00:00.000Z",
       "startTime": "2:00 PM",
       "venue": {
         "name": "Moonraker Brewing",
@@ -1393,17 +1000,17 @@
         "url": "https://www.moonrakerbrewing.com/food-events-auburn",
         "phone": "(530) 745-6816"
       },
-      "type": "other",
+      "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.446Z",
+      "scrapedAt": "2026-02-05T05:48:42.583Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
     {
-      "id": "evt-42c4d34a",
+      "id": "evt-54d29a75",
       "title": "Mindscape Makes: Fermented Onions & Garlic",
-      "date": "2026-02-22T08:00:00.000Z",
+      "date": "2026-02-22T00:00:00.000Z",
       "startTime": "",
       "venue": {
         "name": "Mindscape Fermentations",
@@ -1418,14 +1025,14 @@
       "tags": [],
       "url": "https://mindscape-fermentations.com/events/mindscape-makes-fermented-onions-garlic/",
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:30.491Z",
+      "scrapedAt": "2026-02-05T05:47:45.237Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
     {
-      "id": "evt-0786a60b",
+      "id": "evt-7e185b5f",
       "title": "Live Music Jam Session",
-      "date": "2026-02-22T08:00:00.000Z",
+      "date": "2026-02-22T00:00:00.000Z",
       "startTime": "",
       "venue": {
         "name": "Mindscape Fermentations",
@@ -1442,14 +1049,14 @@
       ],
       "url": "https://mindscape-fermentations.com/events/live-music-jam-session-888-945-466-721-925-529-440/",
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:30.491Z",
+      "scrapedAt": "2026-02-05T05:47:45.237Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
     {
-      "id": "evt-a6c16db9",
+      "id": "evt-8db2eb13",
       "title": "TRIVIA NIGHT",
-      "date": "2026-02-22T08:00:00.000Z",
+      "date": "2026-02-22T00:00:00.000Z",
       "startTime": "",
       "venue": {
         "name": "Mindscape Fermentations",
@@ -1466,14 +1073,14 @@
       ],
       "url": "https://mindscape-fermentations.com/events/trivia-night-111-551-804-395/",
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:30.491Z",
+      "scrapedAt": "2026-02-05T05:47:45.238Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
     {
-      "id": "evt-ead4c254",
+      "id": "evt-6f3a8398",
       "title": "West Coast Tacos",
-      "date": "2026-02-22T08:00:00.000Z",
+      "date": "2026-02-22T00:00:00.000Z",
       "startTime": "2:00 PM",
       "venue": {
         "name": "Moonraker Brewing",
@@ -1489,14 +1096,14 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.446Z",
+      "scrapedAt": "2026-02-05T05:48:42.583Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
     {
-      "id": "evt-dc0c73a1",
+      "id": "evt-58f41356",
       "title": "Doggiestyle Hot Dogs",
-      "date": "2026-02-23T08:00:00.000Z",
+      "date": "2026-02-23T00:00:00.000Z",
       "startTime": "4:00 PM",
       "venue": {
         "name": "Moonraker Brewing",
@@ -1507,43 +1114,17 @@
         "url": "https://www.moonrakerbrewing.com/food-events-auburn",
         "phone": "(530) 745-6816"
       },
-      "type": "other",
+      "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.446Z",
+      "scrapedAt": "2026-02-05T05:48:42.583Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
     {
-      "id": "evt-ee91989f",
-      "title": "Buenos Aires Grill at • 7:00 PMAuburnCommunityJoin us in Auburn for Trivia night!Add to CalendarMore Gooder TriviaThursday",
-      "description": "Food truck serving at • 7:00 PMAuburnCommunityJoin us in Auburn for Trivia night!Add to CalendarMore Gooder TriviaThursday",
-      "date": "2026-02-24T08:00:00.000Z",
-      "venue": {
-        "name": "Knee Deep Brewing",
-        "address": "13395 New Airport Rd",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://kneedeepbrewing.com/events",
-        "phone": "(530) 797-4676"
-      },
-      "type": "trivia",
-      "tags": [
-        "trivia",
-        "food",
-        "beer",
-        "thursday"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:25.075Z",
-      "source": "knee-deep-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-e3dccb44",
+      "id": "evt-97039ce1",
       "title": "Maria's Tacos",
-      "date": "2026-02-24T08:00:00.000Z",
+      "date": "2026-02-24T00:00:00.000Z",
       "startTime": "2:00 PM",
       "venue": {
         "name": "Moonraker Brewing",
@@ -1559,7 +1140,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.446Z",
+      "scrapedAt": "2026-02-05T05:48:42.583Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1584,14 +1165,38 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/b2/a0dd4594ca4b0b992a67c27615ec0e/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T05:59:58.300Z",
+      "scrapedAt": "2026-02-05T05:45:00.045Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
     {
-      "id": "evt-68c8b37d",
+      "id": "evt-fbd56e7b",
+      "title": "Paint & Sip",
+      "date": "2026-02-25T00:00:00.000Z",
+      "startTime": "",
+      "venue": {
+        "name": "Mindscape Fermentations",
+        "address": "1531 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://mindscape-fermentations.com/events/",
+        "phone": "(530) 820-4330"
+      },
+      "type": "paint",
+      "tags": [
+        "paint"
+      ],
+      "url": "https://mindscape-fermentations.com/events/paint-sip-feb-25/",
+      "isRecurring": false,
+      "scrapedAt": "2026-02-05T05:47:45.238Z",
+      "source": "mindscape-fermentations",
+      "confidence": 0.8
+    },
+    {
+      "id": "evt-93c1fe39",
       "title": "Buckethead BBQ",
-      "date": "2026-02-25T08:00:00.000Z",
+      "date": "2026-02-25T00:00:00.000Z",
       "startTime": "4:00 PM",
       "venue": {
         "name": "Moonraker Brewing",
@@ -1607,14 +1212,14 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.446Z",
+      "scrapedAt": "2026-02-05T05:48:42.583Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
     {
-      "id": "evt-b0f4c2a0",
+      "id": "evt-f3f28a2a",
       "title": "Trivia Night",
-      "date": "2026-02-25T08:00:00.000Z",
+      "date": "2026-02-25T00:00:00.000Z",
       "startTime": "6:00 PM",
       "venue": {
         "name": "Moonraker Brewing",
@@ -1625,12 +1230,12 @@
         "url": "https://www.moonrakerbrewing.com/food-events-auburn",
         "phone": "(530) 745-6816"
       },
-      "type": "trivia",
+      "type": "food",
       "tags": [
         "trivia"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.446Z",
+      "scrapedAt": "2026-02-05T05:48:42.583Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1655,39 +1260,14 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/db/edef50caf142bc9ad41aea673d2c6d/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T05:59:58.300Z",
+      "scrapedAt": "2026-02-05T05:45:00.045Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
     {
-      "id": "evt-8fcf5d3b",
-      "title": "Buenos Aires Grill at • 6:00 PMFolsomCommunityJoin us in Folsom for Trivia night!Add to CalendarHost Your Private EventOur 9",
-      "description": "Food truck serving at • 6:00 PMFolsomCommunityJoin us in Folsom for Trivia night!Add to CalendarHost Your Private EventOur 9",
-      "date": "2026-02-26T08:00:00.000Z",
-      "venue": {
-        "name": "Knee Deep Brewing",
-        "address": "13395 New Airport Rd",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://kneedeepbrewing.com/events",
-        "phone": "(530) 797-4676"
-      },
-      "type": "trivia",
-      "tags": [
-        "trivia",
-        "food",
-        "beer"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:25.075Z",
-      "source": "knee-deep-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-c1c46b7f",
+      "id": "evt-e1f66a65",
       "title": "Portu-Goal",
-      "date": "2026-02-26T08:00:00.000Z",
+      "date": "2026-02-26T00:00:00.000Z",
       "startTime": "2:00 PM",
       "venue": {
         "name": "Moonraker Brewing",
@@ -1698,10 +1278,10 @@
         "url": "https://www.moonrakerbrewing.com/food-events-auburn",
         "phone": "(530) 745-6816"
       },
-      "type": "other",
+      "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.446Z",
+      "scrapedAt": "2026-02-05T05:48:42.583Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1726,15 +1306,15 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/b2/a0dd4594ca4b0b992a67c27615ec0e/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T05:59:58.300Z",
+      "scrapedAt": "2026-02-05T05:45:00.045Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
     {
-      "id": "evt-d77fb517",
+      "id": "evt-7c80fe9b",
       "title": "Wine Tasting",
       "description": "Open for wine tasting 11-4pm",
-      "date": "2026-02-27T08:00:00.000Z",
+      "date": "2026-02-27T00:00:00.000Z",
       "startTime": "11:00 PM",
       "venue": {
         "name": "Happy Dayz Vineyard",
@@ -1750,14 +1330,14 @@
         "tasting"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.367Z",
+      "scrapedAt": "2026-02-05T05:46:40.812Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.95
     },
     {
-      "id": "evt-298649ec",
+      "id": "evt-a0fcde87",
       "title": "Buenos Aires",
-      "date": "2026-02-27T08:00:00.000Z",
+      "date": "2026-02-27T00:00:00.000Z",
       "startTime": "2:00 PM",
       "venue": {
         "name": "Moonraker Brewing",
@@ -1768,10 +1348,10 @@
         "url": "https://www.moonrakerbrewing.com/food-events-auburn",
         "phone": "(530) 745-6816"
       },
-      "type": "other",
+      "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.446Z",
+      "scrapedAt": "2026-02-05T05:48:42.583Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1798,14 +1378,14 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/44/666a171be54067bd4eab1daa3d3786/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T05:59:58.300Z",
+      "scrapedAt": "2026-02-05T05:45:00.045Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
     {
-      "id": "evt-b9a80f70",
+      "id": "evt-500c4232",
       "title": "Santacos",
-      "date": "2026-02-28T08:00:00.000Z",
+      "date": "2026-02-28T00:00:00.000Z",
       "startTime": "2:00 PM",
       "venue": {
         "name": "Moonraker Brewing",
@@ -1821,15 +1401,15 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:01:47.446Z",
+      "scrapedAt": "2026-02-05T05:48:42.583Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
     {
-      "id": "evt-56ea8f43",
+      "id": "evt-bac95c2b",
       "title": "Wine & Girl Scout cookie pairing- Tickets only $24!",
       "description": "Wine & Girl Scout cookie pairing- Tickets only $24!",
-      "date": "2026-03-01T08:00:00.000Z",
+      "date": "2026-03-01T00:00:00.000Z",
       "startTime": "11:00 PM",
       "venue": {
         "name": "Happy Dayz Vineyard",
@@ -1844,38 +1424,15 @@
         "wine"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.368Z",
+      "scrapedAt": "2026-02-05T05:46:40.812Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.95
     },
     {
-      "id": "evt-138e914b",
-      "title": "Wine & Girl Scout cookie pairing- Tickets only $24!",
-      "description": "Wine & Girl Scout cookie pairing- Tickets only $24!",
-      "date": "2026-03-04T08:00:00.000Z",
-      "startTime": "11:00 PM",
-      "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
-      },
-      "type": "wine",
-      "tags": [
-        "wine"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.368Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-2fd98848",
+      "id": "evt-50fb3e1a",
       "title": "Wine Tasting",
       "description": "Open for wine tasting 12-5pm",
-      "date": "2026-03-05T08:00:00.000Z",
+      "date": "2026-03-13T00:00:00.000Z",
       "startTime": "12:00 PM",
       "venue": {
         "name": "Happy Dayz Vineyard",
@@ -1891,15 +1448,15 @@
         "tasting"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.369Z",
+      "scrapedAt": "2026-02-05T05:46:40.813Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.95
     },
     {
-      "id": "evt-f0c32867",
+      "id": "evt-f9ffc35b",
       "title": "Kick off Spring with Wine Bottle Bouquet Workshop Tickets",
       "description": "Kick off Spring with Wine Bottle Bouquet Workshop Tickets",
-      "date": "2026-03-05T08:00:00.000Z",
+      "date": "2026-03-20T00:00:00.000Z",
       "startTime": "5:30 PM",
       "venue": {
         "name": "Happy Dayz Vineyard",
@@ -1915,15 +1472,39 @@
         "workshop"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.369Z",
+      "scrapedAt": "2026-02-05T05:46:40.813Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.95
     },
     {
-      "id": "evt-6ba1d7d5",
+      "id": "evt-d3ad09d5",
+      "title": "Wine Tasting",
+      "description": "Open for wine tasting 12-5pm",
+      "date": "2026-03-27T00:00:00.000Z",
+      "startTime": "12:00 PM",
+      "venue": {
+        "name": "Happy Dayz Vineyard",
+        "address": "5575 McCourtney Rd",
+        "city": "Lincoln",
+        "state": "CA",
+        "zip": "95648",
+        "url": "https://www.happydayzvineyard.com/visit-us/"
+      },
+      "type": "wine",
+      "tags": [
+        "wine",
+        "tasting"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-02-05T05:46:40.813Z",
+      "source": "happy-dayz-vineyard",
+      "confidence": 0.95
+    },
+    {
+      "id": "evt-b43a1f2d",
       "title": "Placer Wine Sip into Spring- Tickets",
       "description": "Placer Wine Sip into Spring- Tickets",
-      "date": "2026-03-05T08:00:00.000Z",
+      "date": "2026-03-28T00:00:00.000Z",
       "startTime": "12:00 PM",
       "venue": {
         "name": "Happy Dayz Vineyard",
@@ -1938,86 +1519,15 @@
         "wine"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.371Z",
+      "scrapedAt": "2026-02-05T05:46:40.813Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.95
     },
     {
-      "id": "evt-43c3b3d4",
-      "title": "Kick off Spring with Wine Bottle Bouquet Workshop Tickets",
-      "description": "Kick off Spring with Wine Bottle Bouquet Workshop Tickets",
-      "date": "2026-03-07T08:00:00.000Z",
-      "startTime": "5:30 PM",
-      "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
-      },
-      "type": "wine",
-      "tags": [
-        "wine",
-        "workshop"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.370Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-d72066cf",
-      "title": "Wine & Girl Scout cookie pairing- Tickets only $24!",
-      "description": "Wine & Girl Scout cookie pairing- Tickets only $24!",
-      "date": "2026-03-11T07:00:00.000Z",
-      "startTime": "11:00 PM",
-      "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
-      },
-      "type": "wine",
-      "tags": [
-        "wine"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.368Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-534f4d3f",
-      "title": "Wine Tasting",
-      "description": "Open for wine tasting 12-5pm",
-      "date": "2026-03-12T07:00:00.000Z",
-      "startTime": "12:00 PM",
-      "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
-      },
-      "type": "wine",
-      "tags": [
-        "wine",
-        "tasting"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.369Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-3e58049c",
+      "id": "evt-68e62102",
       "title": "Placer Wine Sip into Spring- Tickets",
       "description": "Placer Wine Sip into Spring- Tickets",
-      "date": "2026-03-12T07:00:00.000Z",
+      "date": "2026-03-29T00:00:00.000Z",
       "startTime": "12:00 PM",
       "venue": {
         "name": "Happy Dayz Vineyard",
@@ -2032,15 +1542,15 @@
         "wine"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.371Z",
+      "scrapedAt": "2026-02-05T05:46:40.813Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.95
     },
     {
-      "id": "evt-21a3bd93",
+      "id": "evt-48536e69",
       "title": "Wine Tasting",
       "description": "Open for wine tasting 12-5pm",
-      "date": "2026-03-13T07:00:00.000Z",
+      "date": "2026-04-03T00:00:00.000Z",
       "startTime": "12:00 PM",
       "venue": {
         "name": "Happy Dayz Vineyard",
@@ -2056,275 +1566,15 @@
         "tasting"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.369Z",
+      "scrapedAt": "2026-02-05T05:46:40.813Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.95
     },
     {
-      "id": "evt-17ecf778",
-      "title": "Wine Tasting",
-      "description": "Open for wine tasting 12-5pm",
-      "date": "2026-03-14T07:00:00.000Z",
-      "startTime": "12:00 PM",
-      "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
-      },
-      "type": "wine",
-      "tags": [
-        "wine",
-        "tasting"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.369Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-45af5678",
-      "title": "Wine Tasting",
-      "description": "Open for wine tasting 12-5pm",
-      "date": "2026-03-15T07:00:00.000Z",
-      "startTime": "12:00 PM",
-      "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
-      },
-      "type": "wine",
-      "tags": [
-        "wine",
-        "tasting"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.369Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-0721bfd2",
-      "title": "Kick off Spring with Wine Bottle Bouquet Workshop Tickets",
-      "description": "Kick off Spring with Wine Bottle Bouquet Workshop Tickets",
-      "date": "2026-03-20T07:00:00.000Z",
-      "startTime": "5:30 PM",
-      "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
-      },
-      "type": "wine",
-      "tags": [
-        "wine",
-        "workshop"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.369Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-de22abcd",
-      "title": "Wine & Girl Scout cookie pairing- Tickets only $24!",
-      "description": "Wine & Girl Scout cookie pairing- Tickets only $24!",
-      "date": "2026-03-24T07:00:00.000Z",
-      "startTime": "11:00 PM",
-      "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
-      },
-      "type": "wine",
-      "tags": [
-        "wine"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.368Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-4fb13509",
-      "title": "Wine Tasting",
-      "description": "Open for wine tasting 12-5pm",
-      "date": "2026-03-27T07:00:00.000Z",
-      "startTime": "12:00 PM",
-      "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
-      },
-      "type": "wine",
-      "tags": [
-        "wine",
-        "tasting"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.370Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-b20d1f23",
-      "title": "Wine & Girl Scout cookie pairing- Tickets only $24!",
-      "description": "Wine & Girl Scout cookie pairing- Tickets only $24!",
-      "date": "2026-03-28T07:00:00.000Z",
-      "startTime": "11:00 PM",
-      "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
-      },
-      "type": "wine",
-      "tags": [
-        "wine"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.368Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-1985c25f",
-      "title": "Placer Wine Sip into Spring- Tickets",
-      "description": "Placer Wine Sip into Spring- Tickets",
-      "date": "2026-03-28T07:00:00.000Z",
-      "startTime": "12:00 PM",
-      "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
-      },
-      "type": "wine",
-      "tags": [
-        "wine"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.370Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-42fd17fb",
-      "title": "Placer Wine Sip into Spring- Tickets",
-      "description": "Placer Wine Sip into Spring- Tickets",
-      "date": "2026-03-29T07:00:00.000Z",
-      "startTime": "12:00 PM",
-      "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
-      },
-      "type": "wine",
-      "tags": [
-        "wine"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.370Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-7baa5cdf",
-      "title": "Kick off Spring with Wine Bottle Bouquet Workshop Tickets",
-      "description": "Kick off Spring with Wine Bottle Bouquet Workshop Tickets",
-      "date": "2026-03-30T07:00:00.000Z",
-      "startTime": "5:30 PM",
-      "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
-      },
-      "type": "wine",
-      "tags": [
-        "wine",
-        "workshop"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.370Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-f44d5b26",
-      "title": "Wine Tasting",
-      "description": "Open for wine tasting 12-5pm",
-      "date": "2026-04-03T07:00:00.000Z",
-      "startTime": "12:00 PM",
-      "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
-      },
-      "type": "wine",
-      "tags": [
-        "wine",
-        "tasting"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.371Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-1a19345a",
-      "title": "Wine Tasting",
-      "description": "Open for wine tasting 12-5pm",
-      "date": "2026-04-04T07:00:00.000Z",
-      "startTime": "12:00 PM",
-      "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
-      },
-      "type": "wine",
-      "tags": [
-        "wine",
-        "tasting"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.371Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-7af2b367",
+      "id": "evt-b937283c",
       "title": "Rosé for a Cause event -Rosé release party benefiting GiGi’s Playhouse, Sacramento. Tickets coming soon",
       "description": "Rosé for a Cause event -Rosé release party benefiting GiGi’s Playhouse, Sacramento. Tickets coming soon",
-      "date": "2026-04-04T07:00:00.000Z",
+      "date": "2026-04-18T00:00:00.000Z",
       "startTime": "12:00 PM",
       "venue": {
         "name": "Happy Dayz Vineyard",
@@ -2339,109 +1589,15 @@
         "paint"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.372Z",
+      "scrapedAt": "2026-02-05T05:46:40.813Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.95
     },
     {
-      "id": "evt-fee91471",
-      "title": "Wine Tasting",
-      "description": "Open for wine tasting 12-5pm",
-      "date": "2026-04-05T07:00:00.000Z",
-      "startTime": "12:00 PM",
-      "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
-      },
-      "type": "wine",
-      "tags": [
-        "wine",
-        "tasting"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.371Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-0c57dd84",
-      "title": "Wine Tasting",
-      "description": "Open for wine tasting 12-5pm",
-      "date": "2026-04-12T07:00:00.000Z",
-      "startTime": "12:00 PM",
-      "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
-      },
-      "type": "wine",
-      "tags": [
-        "wine",
-        "tasting"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.371Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-aececb24",
-      "title": "Rosé for a Cause event -Rosé release party benefiting GiGi’s Playhouse, Sacramento. Tickets coming soon",
-      "description": "Rosé for a Cause event -Rosé release party benefiting GiGi’s Playhouse, Sacramento. Tickets coming soon",
-      "date": "2026-04-12T07:00:00.000Z",
-      "startTime": "12:00 PM",
-      "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
-      },
-      "type": "paint",
-      "tags": [
-        "paint"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.372Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-956f7626",
-      "title": "Rosé for a Cause event -Rosé release party benefiting GiGi’s Playhouse, Sacramento. Tickets coming soon",
-      "description": "Rosé for a Cause event -Rosé release party benefiting GiGi’s Playhouse, Sacramento. Tickets coming soon",
-      "date": "2026-04-18T07:00:00.000Z",
-      "startTime": "12:00 PM",
-      "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
-      },
-      "type": "paint",
-      "tags": [
-        "paint"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.371Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-1f15ccc0",
+      "id": "evt-f5e5c3b8",
       "title": "Sip-N-Flow yoga Tickets",
       "description": "Sip-N-Flow yoga Tickets",
-      "date": "2026-05-02T07:00:00.000Z",
+      "date": "2026-05-02T00:00:00.000Z",
       "startTime": "10:00 PM",
       "venue": {
         "name": "Happy Dayz Vineyard",
@@ -2454,72 +1610,33 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.372Z",
+      "scrapedAt": "2026-02-05T05:46:40.814Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.95
     },
     {
-      "id": "evt-2c4da187",
-      "title": "Sip-N-Flow yoga Tickets",
-      "description": "Sip-N-Flow yoga Tickets",
-      "date": "2026-05-10T07:00:00.000Z",
-      "startTime": "10:00 PM",
+      "id": "evt-169b5ab2",
+      "title": "MUSIC BINGO!",
+      "date": "2027-02-05T00:00:00.000Z",
+      "startTime": "",
       "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
+        "name": "Mindscape Fermentations",
+        "address": "1531 Grass Valley Hwy",
+        "city": "Auburn",
         "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
+        "zip": "95603",
+        "url": "https://mindscape-fermentations.com/events/",
+        "phone": "(530) 820-4330"
       },
-      "type": "other",
-      "tags": [],
+      "type": "music",
+      "tags": [
+        "music"
+      ],
+      "url": "https://mindscape-fermentations.com/events/music-bingo-111-695/",
       "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.372Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-c53b11fb",
-      "title": "Sip-N-Flow yoga Tickets",
-      "description": "Sip-N-Flow yoga Tickets",
-      "date": "2026-05-11T07:00:00.000Z",
-      "startTime": "10:00 PM",
-      "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
-      },
-      "type": "other",
-      "tags": [],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.372Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-156c687d",
-      "title": "Sip-N-Flow yoga Tickets",
-      "description": "Sip-N-Flow yoga Tickets",
-      "date": "2026-05-30T07:00:00.000Z",
-      "startTime": "10:00 PM",
-      "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
-      },
-      "type": "other",
-      "tags": [],
-      "isRecurring": false,
-      "scrapedAt": "2026-02-03T06:00:27.372Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.95
+      "scrapedAt": "2026-02-05T05:47:45.236Z",
+      "source": "mindscape-fermentations",
+      "confidence": 0.8
     }
   ]
 }
