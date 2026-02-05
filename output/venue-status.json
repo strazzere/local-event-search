@@ -1,0 +1,722 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-02-03T06:01:48.069Z",
+  "venues": {
+    "auburn-alehouse": {
+      "venueId": "auburn-alehouse",
+      "venueName": "Auburn Alehouse",
+      "lastScrapedAt": "2026-02-03T05:59:52.716Z",
+      "lastEventDate": null,
+      "hasFutureEvents": false,
+      "futureEventCount": 0,
+      "totalEventCount": 0,
+      "consecutiveScrapesWithNoFutureEvents": 6,
+      "scrapeHistory": [
+        {
+          "scrapedAt": "2026-02-03T04:51:40.227Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T04:54:03.782Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:08:18.220Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:32:22.049Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:44:26.769Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:59:52.716Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        }
+      ]
+    },
+    "buenos-aires-grill": {
+      "venueId": "buenos-aires-grill",
+      "venueName": "Buenos Aires Grill",
+      "lastScrapedAt": "2026-02-03T05:59:52.716Z",
+      "lastEventDate": null,
+      "hasFutureEvents": false,
+      "futureEventCount": 0,
+      "totalEventCount": 0,
+      "consecutiveScrapesWithNoFutureEvents": 6,
+      "scrapeHistory": [
+        {
+          "scrapedAt": "2026-02-03T04:51:40.227Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T04:54:03.782Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:08:18.220Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:32:22.049Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:44:26.769Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:59:52.716Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        }
+      ]
+    },
+    "crooked-lane-brewing": {
+      "venueId": "crooked-lane-brewing",
+      "venueName": "Crooked Lane Brewing",
+      "lastScrapedAt": "2026-02-03T05:59:52.716Z",
+      "lastEventDate": "2026-02-28T00:00:00.000Z",
+      "hasFutureEvents": true,
+      "futureEventCount": 17,
+      "totalEventCount": 22,
+      "consecutiveScrapesWithNoFutureEvents": 0,
+      "scrapeHistory": [
+        {
+          "scrapedAt": "2026-02-03T04:54:03.782Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T04:57:53.543Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T04:58:01.219Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T04:58:19.687Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T04:59:56.563Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:05:11.086Z",
+          "hadFutureEvents": true,
+          "futureEventCount": 17,
+          "totalEventCount": 22,
+          "lastEventDate": "2026-02-28T00:00:00.000Z"
+        },
+        {
+          "scrapedAt": "2026-02-03T05:08:18.220Z",
+          "hadFutureEvents": true,
+          "futureEventCount": 17,
+          "totalEventCount": 22,
+          "lastEventDate": "2026-02-28T00:00:00.000Z"
+        },
+        {
+          "scrapedAt": "2026-02-03T05:32:22.049Z",
+          "hadFutureEvents": true,
+          "futureEventCount": 17,
+          "totalEventCount": 22,
+          "lastEventDate": "2026-02-28T00:00:00.000Z"
+        },
+        {
+          "scrapedAt": "2026-02-03T05:44:26.769Z",
+          "hadFutureEvents": true,
+          "futureEventCount": 17,
+          "totalEventCount": 22,
+          "lastEventDate": "2026-02-28T00:00:00.000Z"
+        },
+        {
+          "scrapedAt": "2026-02-03T05:59:52.716Z",
+          "hadFutureEvents": true,
+          "futureEventCount": 17,
+          "totalEventCount": 22,
+          "lastEventDate": "2026-02-28T00:00:00.000Z"
+        }
+      ]
+    },
+    "fowler-ranch": {
+      "venueId": "fowler-ranch",
+      "venueName": "Fowler Ranch",
+      "lastScrapedAt": "2026-02-03T05:59:52.716Z",
+      "lastEventDate": "2026-02-14T08:00:00.000Z",
+      "hasFutureEvents": true,
+      "futureEventCount": 3,
+      "totalEventCount": 3,
+      "consecutiveScrapesWithNoFutureEvents": 0,
+      "scrapeHistory": [
+        {
+          "scrapedAt": "2026-02-03T04:51:40.227Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T04:54:03.782Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:08:18.220Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:32:22.049Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:44:26.769Z",
+          "hadFutureEvents": true,
+          "futureEventCount": 3,
+          "totalEventCount": 3,
+          "lastEventDate": "2026-02-14T08:00:00.000Z"
+        },
+        {
+          "scrapedAt": "2026-02-03T05:59:52.716Z",
+          "hadFutureEvents": true,
+          "futureEventCount": 3,
+          "totalEventCount": 3,
+          "lastEventDate": "2026-02-14T08:00:00.000Z"
+        }
+      ]
+    },
+    "gander-taphouse": {
+      "venueId": "gander-taphouse",
+      "venueName": "Gander Taphouse",
+      "lastScrapedAt": "2026-02-03T05:59:52.716Z",
+      "lastEventDate": "2024-05-11T07:00:00.000Z",
+      "hasFutureEvents": false,
+      "futureEventCount": 0,
+      "totalEventCount": 9,
+      "consecutiveScrapesWithNoFutureEvents": 6,
+      "scrapeHistory": [
+        {
+          "scrapedAt": "2026-02-03T04:51:40.227Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 9,
+          "lastEventDate": "2024-05-11T07:00:00.000Z"
+        },
+        {
+          "scrapedAt": "2026-02-03T04:54:03.782Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 9,
+          "lastEventDate": "2024-05-11T07:00:00.000Z"
+        },
+        {
+          "scrapedAt": "2026-02-03T05:08:18.220Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 9,
+          "lastEventDate": "2024-05-11T07:00:00.000Z"
+        },
+        {
+          "scrapedAt": "2026-02-03T05:32:22.049Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 9,
+          "lastEventDate": "2024-05-11T07:00:00.000Z"
+        },
+        {
+          "scrapedAt": "2026-02-03T05:44:26.769Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 9,
+          "lastEventDate": "2024-05-11T07:00:00.000Z"
+        },
+        {
+          "scrapedAt": "2026-02-03T05:59:52.716Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 9,
+          "lastEventDate": "2024-05-11T07:00:00.000Z"
+        }
+      ]
+    },
+    "goathouse-brewing": {
+      "venueId": "goathouse-brewing",
+      "venueName": "Goathouse Brewing",
+      "lastScrapedAt": "2026-02-03T05:59:52.716Z",
+      "lastEventDate": null,
+      "hasFutureEvents": false,
+      "futureEventCount": 0,
+      "totalEventCount": 0,
+      "consecutiveScrapesWithNoFutureEvents": 6,
+      "scrapeHistory": [
+        {
+          "scrapedAt": "2026-02-03T04:51:40.227Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T04:54:03.782Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:08:18.220Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:32:22.049Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:44:26.769Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:59:52.716Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        }
+      ]
+    },
+    "happy-dayz-vineyard": {
+      "venueId": "happy-dayz-vineyard",
+      "venueName": "Happy Dayz Vineyard",
+      "lastScrapedAt": "2026-02-03T05:59:52.716Z",
+      "lastEventDate": "2026-05-30T07:00:00.000Z",
+      "hasFutureEvents": true,
+      "futureEventCount": 39,
+      "totalEventCount": 39,
+      "consecutiveScrapesWithNoFutureEvents": 0,
+      "scrapeHistory": [
+        {
+          "scrapedAt": "2026-02-03T04:51:40.227Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T04:54:03.782Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:08:18.220Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:32:22.049Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:44:26.769Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:59:52.716Z",
+          "hadFutureEvents": true,
+          "futureEventCount": 39,
+          "totalEventCount": 39,
+          "lastEventDate": "2026-05-30T07:00:00.000Z"
+        }
+      ]
+    },
+    "the-hillmont": {
+      "venueId": "the-hillmont",
+      "venueName": "The Hillmont",
+      "lastScrapedAt": "2026-02-03T05:59:52.716Z",
+      "lastEventDate": null,
+      "hasFutureEvents": false,
+      "futureEventCount": 0,
+      "totalEventCount": 0,
+      "consecutiveScrapesWithNoFutureEvents": 6,
+      "scrapeHistory": [
+        {
+          "scrapedAt": "2026-02-03T04:51:40.227Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T04:54:03.782Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:08:18.220Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:32:22.049Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:44:26.769Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:59:52.716Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        }
+      ]
+    },
+    "mindscape-fermentations": {
+      "venueId": "mindscape-fermentations",
+      "venueName": "Mindscape Fermentations",
+      "lastScrapedAt": "2026-02-03T05:59:52.716Z",
+      "lastEventDate": "2026-02-22T08:00:00.000Z",
+      "hasFutureEvents": true,
+      "futureEventCount": 12,
+      "totalEventCount": 12,
+      "consecutiveScrapesWithNoFutureEvents": 0,
+      "scrapeHistory": [
+        {
+          "scrapedAt": "2026-02-03T04:51:40.227Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T04:54:03.782Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:08:18.220Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:32:22.049Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:44:26.769Z",
+          "hadFutureEvents": true,
+          "futureEventCount": 12,
+          "totalEventCount": 12,
+          "lastEventDate": "2026-02-22T08:00:00.000Z"
+        },
+        {
+          "scrapedAt": "2026-02-03T05:59:52.716Z",
+          "hadFutureEvents": true,
+          "futureEventCount": 12,
+          "totalEventCount": 12,
+          "lastEventDate": "2026-02-22T08:00:00.000Z"
+        }
+      ]
+    },
+    "moksa-brewing": {
+      "venueId": "moksa-brewing",
+      "venueName": "Moksa Brewing",
+      "lastScrapedAt": "2026-02-03T05:59:52.716Z",
+      "lastEventDate": null,
+      "hasFutureEvents": false,
+      "futureEventCount": 0,
+      "totalEventCount": 0,
+      "consecutiveScrapesWithNoFutureEvents": 6,
+      "scrapeHistory": [
+        {
+          "scrapedAt": "2026-02-03T04:51:40.227Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T04:54:03.782Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:08:18.220Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:32:22.049Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:44:26.769Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:59:52.716Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        }
+      ]
+    },
+    "moonraker-brewing": {
+      "venueId": "moonraker-brewing",
+      "venueName": "Moonraker Brewing",
+      "lastScrapedAt": "2026-02-03T05:59:52.716Z",
+      "lastEventDate": "2026-02-28T08:00:00.000Z",
+      "hasFutureEvents": true,
+      "futureEventCount": 32,
+      "totalEventCount": 33,
+      "consecutiveScrapesWithNoFutureEvents": 0,
+      "scrapeHistory": [
+        {
+          "scrapedAt": "2026-02-03T04:51:40.227Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T04:54:03.782Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:08:18.220Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:32:22.049Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:44:26.769Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:59:52.716Z",
+          "hadFutureEvents": true,
+          "futureEventCount": 32,
+          "totalEventCount": 33,
+          "lastEventDate": "2026-02-28T08:00:00.000Z"
+        }
+      ]
+    },
+    "omakase-por-favor": {
+      "venueId": "omakase-por-favor",
+      "venueName": "Omakase Por Favor",
+      "lastScrapedAt": "2026-02-03T05:59:52.716Z",
+      "lastEventDate": "2025-09-27T07:00:00.000Z",
+      "hasFutureEvents": false,
+      "futureEventCount": 0,
+      "totalEventCount": 24,
+      "consecutiveScrapesWithNoFutureEvents": 6,
+      "scrapeHistory": [
+        {
+          "scrapedAt": "2026-02-03T04:51:40.227Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 24,
+          "lastEventDate": "2025-09-27T07:00:00.000Z"
+        },
+        {
+          "scrapedAt": "2026-02-03T04:54:03.782Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 24,
+          "lastEventDate": "2025-09-27T07:00:00.000Z"
+        },
+        {
+          "scrapedAt": "2026-02-03T05:08:18.220Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 24,
+          "lastEventDate": "2025-09-27T07:00:00.000Z"
+        },
+        {
+          "scrapedAt": "2026-02-03T05:32:22.049Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 24,
+          "lastEventDate": "2025-09-27T07:00:00.000Z"
+        },
+        {
+          "scrapedAt": "2026-02-03T05:44:26.769Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 24,
+          "lastEventDate": "2025-09-27T07:00:00.000Z"
+        },
+        {
+          "scrapedAt": "2026-02-03T05:59:52.716Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 24,
+          "lastEventDate": "2025-09-27T07:00:00.000Z"
+        }
+      ]
+    },
+    "knee-deep-brewing": {
+      "venueId": "knee-deep-brewing",
+      "venueName": "Knee Deep Brewing",
+      "lastScrapedAt": "2026-02-03T05:59:52.716Z",
+      "lastEventDate": "2026-02-26T08:00:00.000Z",
+      "hasFutureEvents": true,
+      "futureEventCount": 8,
+      "totalEventCount": 8,
+      "consecutiveScrapesWithNoFutureEvents": 0,
+      "scrapeHistory": [
+        {
+          "scrapedAt": "2026-02-03T05:11:16.258Z",
+          "hadFutureEvents": false,
+          "futureEventCount": 0,
+          "totalEventCount": 0,
+          "lastEventDate": null
+        },
+        {
+          "scrapedAt": "2026-02-03T05:32:22.049Z",
+          "hadFutureEvents": true,
+          "futureEventCount": 8,
+          "totalEventCount": 8,
+          "lastEventDate": "2026-02-26T08:00:00.000Z"
+        },
+        {
+          "scrapedAt": "2026-02-03T05:44:26.769Z",
+          "hadFutureEvents": true,
+          "futureEventCount": 8,
+          "totalEventCount": 8,
+          "lastEventDate": "2026-02-26T08:00:00.000Z"
+        },
+        {
+          "scrapedAt": "2026-02-03T05:59:52.716Z",
+          "hadFutureEvents": true,
+          "futureEventCount": 8,
+          "totalEventCount": 8,
+          "lastEventDate": "2026-02-26T08:00:00.000Z"
+        }
+      ]
+    }
+  }
+}
