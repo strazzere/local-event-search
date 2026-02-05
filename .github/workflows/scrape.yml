@@ -36,7 +36,7 @@ jobs:
       - name: Check for changes
         id: changes
         run: |
-          if [[ -n $(git status output/ --porcelain) ]]; then
+          if [[ -n $(git status output/events.json --porcelain) ]]; then
             echo "changes=true" >> $GITHUB_OUTPUT
           else
             echo "changes=false" >> $GITHUB_OUTPUT
@@ -47,7 +47,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add output/
+          git add output/events.json
           git commit -m "Update events data - $(date +'%Y-%m-%d')"
           git push
 

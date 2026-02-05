@@ -5,7 +5,6 @@ node_modules/
 dist/
 
 # Output files (regenerated)
-output/*.json
 output/*.csv
 output/*.ics
 output/*.md
