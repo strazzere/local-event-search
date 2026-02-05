@@ -36,10 +36,11 @@ jobs:
         run: mkdir -p output/logs
 
       - name: Run scraper
+        id: scrape
         run: npm run scrape -- scrape --all --output json
-        continue-on-error: true
 
       - name: Check for changes
+        if: always()
         id: changes
         run: |
           if [[ -n $(git status output/events.json --porcelain) ]]; then
@@ -49,7 +50,7 @@ jobs:
           fi
 
       - name: Commit and push changes
-        if: steps.changes.outputs.changes == 'true'
+        if: steps.changes.outputs.changes == 'true' && steps.scrape.outcome == 'success'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
@@ -58,6 +59,7 @@ jobs:
           git push
 
       - name: Upload artifacts
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: events-output

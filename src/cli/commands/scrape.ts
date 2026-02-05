@@ -163,6 +163,13 @@ export const scrapeCommand = new Command('scrape')
 
     // Clean up browser if used
     await closeBrowserClient();
+
+    // Exit with non-zero code if any scrapes failed
+    const failedCount = results.filter(r => !r.success).length;
+    if (failedCount > 0) {
+      console.log(`\nExiting with error: ${failedCount} venue(s) failed to scrape`);
+      process.exit(1);
+    }
   });
 
 function printSummary(results: ScraperResult[], events: Event[]): void {
