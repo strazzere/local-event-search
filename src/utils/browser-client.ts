@@ -13,6 +13,10 @@ export interface FetchOptions {
   timeout?: number;
 }
 
+export interface FetchWithAgeVerificationOptions extends FetchOptions {
+  ageVerificationSelector?: string;
+}
+
 const DEFAULT_USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
 
 export class BrowserClient {
@@ -104,6 +108,83 @@ export class BrowserClient {
       }
 
       logger.debug(`Browser received ${html.length} bytes from ${url}`);
+
+      return html;
+    } finally {
+      await page.close();
+    }
+  }
+
+  async fetchWithAgeVerification(
+    url: string,
+    options: FetchWithAgeVerificationOptions = {}
+  ): Promise<string> {
+    await this.initialize();
+
+    if (!this.context) {
+      throw new Error('Browser context not initialized');
+    }
+
+    const page = await this.context.newPage();
+    const timeout = options.timeout ?? this.options.timeout;
+
+    try {
+      logger.debug(`Browser fetching with age verification: ${url}`);
+
+      await page.goto(url, {
+        waitUntil: 'domcontentloaded',
+        timeout
+      });
+
+      // Wait for initial load
+      await page.waitForLoadState('networkidle', { timeout: 10000 }).catch(() => {
+        logger.debug('Initial network idle timeout, continuing...');
+      });
+
+      // Handle age verification if present
+      if (options.ageVerificationSelector) {
+        try {
+          const ageButton = await page.$(options.ageVerificationSelector);
+          if (ageButton) {
+            logger.debug('Clicking age verification button');
+            await ageButton.click();
+            await page.waitForTimeout(3000);
+            await page.waitForLoadState('networkidle', { timeout: 10000 }).catch(() => {});
+          }
+        } catch (e) {
+          logger.debug('Age verification not found or already dismissed');
+        }
+      }
+
+      // Wait for specific selector if provided (e.g., iframe)
+      if (options.waitForSelector) {
+        logger.debug(`Waiting for selector: ${options.waitForSelector}`);
+        try {
+          await page.waitForSelector(options.waitForSelector, {
+            timeout: options.waitForTimeout ?? 15000,
+            state: 'attached'
+          });
+          logger.debug('Selector found');
+          // Give iframe content time to load
+          await page.waitForTimeout(3000);
+        } catch {
+          logger.debug(`Selector not found: ${options.waitForSelector}`);
+        }
+      }
+
+      // Extract content from iframes
+      const iframeContent = await this.extractIframeContent(page);
+      let html = '';
+
+      if (iframeContent) {
+        // Return iframe content directly since that's what we need
+        html = iframeContent;
+        logger.debug(`Extracted ${html.length} bytes of iframe content`);
+      } else {
+        // Fallback to main page content
+        html = await page.content();
+        logger.debug(`No iframe content, returning main page (${html.length} bytes)`);
+      }
 
       return html;
     } finally {

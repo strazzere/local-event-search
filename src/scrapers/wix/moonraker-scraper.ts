@@ -1,28 +1,28 @@
 import * as cheerio from 'cheerio';
 import { WixScraper } from './wix-scraper';
 import { RawEventData } from '../../utils/event-normalizer';
+import { getBrowserClient } from '../../utils/browser-client';
 
 export class MoonrakerScraper extends WixScraper {
+  protected async fetchContent(): Promise<string> {
+    // Moonraker requires special handling for age verification and iframe
+    const browser = getBrowserClient();
+    return browser.fetchWithAgeVerification(
+      this.config.url,
+      {
+        waitForSelector: 'iframe[src*="boomte.ch"]',
+        timeout: this.config.config?.timeout || 45000,
+        ageVerificationSelector: 'text=Yes, I am!'
+      }
+    );
+  }
+
   protected async parseEvents($: cheerio.CheerioAPI): Promise<RawEventData[]> {
     const events: RawEventData[] = [];
 
-    // Check for Boomtech calendar iframe content (base64 encoded in data attribute)
-    const $iframeDiv = $('#__iframe_content__');
-    const encodedContent = $iframeDiv.attr('data-content');
-
-    if (encodedContent) {
-      try {
-        const iframeHtml = Buffer.from(encodedContent, 'base64').toString('utf-8');
-        this.logger.debug('Found Boomtech calendar iframe content, length: ' + iframeHtml.length);
-        const $iframe = cheerio.load(iframeHtml);
-
-        // Parse the Boomtech/FullCalendar format
-        const calendarEvents = this.parseBoomtechCalendar($iframe);
-        events.push(...calendarEvents);
-      } catch (e) {
-        this.logger.debug('Error decoding iframe content: ' + e);
-      }
-    }
+    // Parse the Boomtech/FullCalendar format from iframe content
+    const calendarEvents = this.parseBoomtechCalendar($);
+    events.push(...calendarEvents);
 
     if (events.length > 0) {
       return events;
@@ -80,15 +80,27 @@ export class MoonrakerScraper extends WixScraper {
           // Skip if title looks like just a number
           if (/^\d+$/.test(title)) continue;
 
+          // Skip "closing" events (e.g., "Closing at 5pm")
+          if (/closing/i.test(title)) continue;
+
           const key = `${dateStr}:${title}:${startTime || ''}`;
           if (seenEvents.has(key)) continue;
           seenEvents.add(key);
+
+          // Determine event type based on title
+          let eventType: 'food' | 'paint' | 'trivia' = 'food';
+          const lowerTitle = title.toLowerCase();
+          if (lowerTitle.includes('paint')) {
+            eventType = 'paint';
+          } else if (lowerTitle.includes('trivia')) {
+            eventType = 'trivia';
+          }
 
           events.push({
             title,
             date: dateStr,
             startTime,
-            type: 'food'
+            type: eventType
           });
         }
       });
