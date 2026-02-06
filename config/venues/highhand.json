@@ -1,0 +1,20 @@
+{
+  "id": "high-hand-brewing",
+  "name": "High Hand Brewing Company",
+  "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/",
+  "platform": "wordpress",
+  "enabled": true,
+  "venue": {
+    "name": "High Hand Brewing Company",
+    "address": "3750 Taylor Rd",
+    "city": "Loomis",
+    "state": "CA",
+    "zip": "95650"
+  },
+  "config": {
+    "useBrowser": false,
+    "timeout": 30000,
+    "retries": 3,
+    "timezone": "America/Los_Angeles"
+  }
+}
