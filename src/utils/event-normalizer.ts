@@ -28,6 +28,7 @@ export interface RawEventData {
   imageUrl?: string;
   price?: string;
   type?: EventType;
+  tags?: string[];
 }
 
 export class EventNormalizer {
@@ -54,7 +55,7 @@ export class EventNormalizer {
     return 'other';
   }
 
-  extractTags(title: string, description?: string): string[] {
+  extractTags(title: string, description?: string, extraTags?: string[]): string[] {
     const text = `${title} ${description || ''}`.toLowerCase();
     const tags: Set<string> = new Set();
 
@@ -67,10 +68,23 @@ export class EventNormalizer {
       }
     }
 
+    // Detect kid/family-oriented events
+    const kidsKeywords = ['kids', 'children', 'junior', 'cubs', 'ages 3', 'ages 4', 'ages 5', 'ages 6', 'family', 'youth'];
+    if (kidsKeywords.some(kw => text.includes(kw))) {
+      tags.add('for-kids');
+    }
+
     // Add day-of-week tags for recurring events
     const dayMatch = text.match(/(monday|tuesday|wednesday|thursday|friday|saturday|sunday)s?/gi);
     if (dayMatch) {
       tags.add(dayMatch[0].toLowerCase().replace(/s$/, ''));
+    }
+
+    // Merge any extra tags provided by the scraper
+    if (extraTags) {
+      for (const tag of extraTags) {
+        tags.add(tag);
+      }
     }
 
     return Array.from(tags);
@@ -96,7 +110,7 @@ export class EventNormalizer {
       const dateStr = dateParser.toISOString(date);
       const id = this.generateEventId(rawData.title, dateStr, venue.name);
       const eventType = rawData.type || this.detectEventType(rawData.title, rawData.description);
-      const tags = this.extractTags(rawData.title, rawData.description);
+      const tags = this.extractTags(rawData.title, rawData.description, rawData.tags);
       const recurringPattern = rawData.date ? dateParser.detectRecurringPattern(rawData.date) : null;
 
       const event: Event = {

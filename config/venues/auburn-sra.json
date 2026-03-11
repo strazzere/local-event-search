@@ -1,0 +1,22 @@
+{
+  "id": "auburn-sra",
+  "name": "Auburn State Recreation Area",
+  "url": "https://www.parks.ca.gov/?page_id=26506",
+  "platform": "custom",
+  "enabled": true,
+  "venue": {
+    "name": "Auburn State Recreation Area",
+    "address": "501 El Dorado Street",
+    "city": "Auburn",
+    "state": "CA",
+    "zip": "95603",
+    "phone": "(530) 745-2202"
+  },
+  "config": {
+    "useBrowser": false,
+    "timeout": 30000,
+    "retries": 3,
+    "timezone": "America/Los_Angeles"
+  },
+  "customParser": "auburn-sra"
+}
