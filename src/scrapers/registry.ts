@@ -5,7 +5,7 @@ import { BaseScraper } from '../core/base-scraper';
 import { logger } from '../utils/logger';
 
 // Import all scrapers
-import { WordPressScraper, MindscapeScraper, HappyDayzScraper, HighHandScraper } from './wordpress';
+import { WordPressScraper, MindscapeScraper, HappyDayzScraper, HighHandScraper, PourChoiceScraper } from './wordpress';
 import { SquarespaceScraper, OmakaseScraper } from './squarespace';
 import { ShopifyScraper } from './shopify';
 import { SpotHopperScraper } from './spothopper';
@@ -35,7 +35,8 @@ const SCRAPER_MAP: Record<string, ScraperClass> = {
   'goathouse-brewing': GoathouseScraper,
   'high-hand-brewing': HighHandScraper,
   'auburn-sra': AuburnSraScraper,
-  'knee-deep-brewing': KneeDeepScraper
+  'knee-deep-brewing': KneeDeepScraper,
+  'pour-choice': PourChoiceScraper
 };
 
 export class ScraperRegistry {
