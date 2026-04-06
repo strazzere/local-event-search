@@ -7,11 +7,15 @@ export class GoathouseScraper extends WixScraper {
     const events: RawEventData[] = [];
     const currentYear = new Date().getFullYear();
 
-    // Get all text content and look for the Food Truck Schedule section
-    const bodyText = $('body').text();
+    // Get all text content and look for the Food Truck Schedule section.
+    // Wix renders headings/separators using zero-width space characters rather than
+    // newlines, so normalize them to newlines first to give us reliable line breaks.
+    const bodyText = $('body').text()
+      .replace(/[\u200B-\u200D\uFEFF]/g, '\n')
+      .replace(/\u00A0/g, ' ');
 
     // Find the Food Truck Schedule section - stop at common section boundaries
-    const scheduleMatch = bodyText.match(/Food Truck Schedule[\s\S]*?(?=Reserve Our|Hours|Contact|Newsletter|Host your|©|\bMenu\b|$)/i);
+    const scheduleMatch = bodyText.match(/Food Truck Schedule[\s\S]*?(?=Reserve Our|Outdoor Patio|Crafting Memorable|First come first serve|Hours|Contact|Newsletter|Host your|©|\bMenu\b|$)/i);
     if (!scheduleMatch) {
       this.logger.debug('Could not find Food Truck Schedule section');
       return super.parseEvents($);
@@ -56,9 +60,9 @@ export class GoathouseScraper extends WixScraper {
         // Clean up the food truck name - remove anything after common section markers
         foodTruck = foodTruck.split(/Reserve|Hours|Contact|Host your/i)[0].trim();
 
-        // Skip if no food truck name or it's a "no food truck" entry
+        // Skip if no food truck name or it's a "no food truck"/closed entry
         if (!foodTruck || foodTruck.length < 2) continue;
-        if (/no food truck|byof/i.test(foodTruck)) continue;
+        if (/no food truck|byof|closed/i.test(foodTruck)) continue;
 
         const monthNum = months[currentMonth];
         if (!monthNum || day < 1 || day > 31) continue;
