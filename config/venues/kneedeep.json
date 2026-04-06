@@ -1,7 +1,7 @@
 {
   "id": "knee-deep-brewing",
   "name": "Knee Deep Brewing",
-  "url": "https://kneedeepbrewing.com/events",
+  "url": "https://kneedeepbrewing.com/api/events?upcoming=true&tapRoom=Auburn&limit=50",
   "platform": "custom",
   "enabled": true,
   "venue": {
@@ -12,17 +12,10 @@
     "zip": "95602",
     "phone": "(530) 797-4676"
   },
-  "selectors": {
-    "eventContainer": "[class*='event'], .event-card, article",
-    "title": "h2, h3, [class*='title']",
-    "date": "[class*='date'], time",
-    "description": "p, [class*='description']"
-  },
   "config": {
-    "useBrowser": true,
-    "waitForSelector": "[class*='event']",
-    "timeout": 45000,
-    "retries": 2,
+    "useBrowser": false,
+    "timeout": 30000,
+    "retries": 3,
     "timezone": "America/Los_Angeles"
   }
 }
