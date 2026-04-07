@@ -136,15 +136,31 @@ export class HighHandScraper extends BaseScraper {
       const url = `${API_BASE}?categories=${CATEGORY}&page=${page}&per_page=50`;
       this.logger.info(`Fetching page ${page}/${totalPages}: ${url}`);
 
-      const response = await this.http.getJson<TribeEventsResponse>(url, {
-        headers: {
-          'User-Agent': 'penryn-event-scraper/1.0',
-          'Accept': 'application/json'
-        }
-      });
+      let response: TribeEventsResponse;
+      try {
+        response = await this.http.getJson<TribeEventsResponse>(url, {
+          headers: {
+            'User-Agent': 'penryn-event-scraper/1.0',
+            'Accept': 'application/json'
+          }
+        });
+      } catch (error) {
+        // Tribe API returns 404 for pages past the end of the archive.
+        // Treat any per-page failure as end-of-results rather than aborting the scrape.
+        const message = error instanceof Error ? error.message : String(error);
+        warnings.push(`Stopped paginating at page ${page}: ${message}`);
+        this.logger.warn(`Stopped paginating at page ${page}: ${message}`);
+        break;
+      }
+
+      if (!response || !Array.isArray(response.events)) {
+        warnings.push(`Page ${page} returned no events array; stopping pagination`);
+        this.logger.warn(`Page ${page} returned no events array; stopping pagination`);
+        break;
+      }
 
       if (page === 1) {
-        totalPages = response.total_pages;
+        totalPages = response.total_pages || 1;
         this.logger.info(`Total events: ${response.total}, pages: ${totalPages}`);
       }
 
