@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0.0",
-    "generatedAt": "2026-05-11T10:26:55.455Z",
-    "eventCount": 263,
-    "venueCount": 9,
+    "generatedAt": "2026-05-18T10:40:01.928Z",
+    "eventCount": 249,
+    "venueCount": 10,
     "venues": [
       "Auburn State Recreation Area",
       "Crooked Lane Brewing",
@@ -11,833 +11,13 @@
       "Goathouse Brewing",
       "Happy Dayz Vineyard",
       "High Hand Brewing Company",
+      "Knee Deep Brewing",
       "Mindscape Fermentations",
       "Moonraker Brewing",
       "The Pour Choice"
     ]
   },
   "events": [
-    {
-      "id": "evt-abb24db7",
-      "title": "Buckethead BBQ",
-      "date": "2026-05-11T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.249Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-d269d9f0",
-      "title": "Santacos",
-      "date": "2026-05-12T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.249Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-16175469",
-      "title": "Paint & Sip",
-      "date": "2026-05-12T00:00:00.000Z",
-      "startTime": "6:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "paint",
-      "tags": [
-        "paint"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.249Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-38493e15",
-      "title": "Remedy Supply Co. @ Roseville Farmer’s Market",
-      "description": "Our sister coffee roasting company, Remedy Supply Co., has a booth every week, offering a selection of their great coffees. From staple blends and unique single origins to instant coffee and cold brew concentrate—they aim to connect our community with coffee. One cup at a time. The Fountains Roseville 1013 Galleria Blvd Roseville, CA 95678 RemedySupplyCo.com @remedysupply.co",
-      "date": "2026-05-12T00:00:00.000Z",
-      "startTime": "1:00 AM",
-      "endTime": "6:00 AM",
-      "venue": {
-        "name": "The Pour Choice",
-        "address": "177 Sacramento St",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://thepourchoice.com/events/"
-      },
-      "type": "beer",
-      "tags": [
-        "beer"
-      ],
-      "url": "https://thepourchoice.com/event/roseville-farmers-market/",
-      "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/roseville.png",
-      "price": "0",
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:55.435Z",
-      "source": "pour-choice",
-      "confidence": 1
-    },
-    {
-      "id": "evt-f1196628",
-      "title": "BINGO Fundraiser",
-      "description": "Come and raise a glass and raise funds for the Placer Girls Flag Football Team! (Recurring: Does not Repeat)",
-      "date": "2026-05-13T00:00:00.000Z",
-      "startTime": "05:30 PM - 09:00 PM",
-      "venue": {
-        "name": "Crooked Lane Brewing",
-        "address": "518 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
-        "phone": "(530) 878-7848"
-      },
-      "type": "music",
-      "tags": [
-        "music"
-      ],
-      "imageUrl": "https://static.spotapps.co/spots/15/3e2f00e6fd457f9c66bf6f997eaf51/w926",
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:24:11.190Z",
-      "source": "crooked-lane-brewing",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-0f487007",
-      "title": "Chix on Wheels",
-      "date": "2026-05-13T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [],
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.249Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-62b7e617",
-      "title": "Trivia Night",
-      "date": "2026-05-13T00:00:00.000Z",
-      "startTime": "6:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "trivia",
-      "tags": [
-        "trivia"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.249Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-75f13934",
-      "title": "Hump Day Live&#8217;s Jam Nite with Melissa &#038; Andrew",
-      "description": "Join us at High-Hand Brewery as we launch our new Hump Day Jam Nite! Every Wednesday, we’re opening the stage to musicians of all kinds—bring your axe, your voice, your full band, or just the urge to play. When you arrive, find Melissa to sign up and lock in your spot. High-Hand’s pro backline will be ready for you. Solo players will be paired up into spontaneous jam groups, and together you’ll decide what to play—keeping it loose, creative, and fun. It’s all about rocking out, connecting with fellow musicians, and celebrating the amazing music community we’re surrounded by. This week will also feature the guest band &#8220;Digg&#8221; to keep the night energized and inspiring. Come jam, hang out, and make your Wednesday groove. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-05-13T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "wednesday"
-      ],
-      "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew-13/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.054Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-15f8f62a",
-      "title": "MUSIC BINGO!",
-      "date": "2026-05-14T00:00:00.000Z",
-      "startTime": "",
-      "venue": {
-        "name": "Mindscape Fermentations",
-        "address": "1531 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://mindscape-fermentations.com/events/",
-        "phone": "(530) 820-4330"
-      },
-      "type": "music",
-      "tags": [
-        "music"
-      ],
-      "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181/",
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:23.504Z",
-      "source": "mindscape-fermentations",
-      "confidence": 0.8
-    },
-    {
-      "id": "evt-09714e4b",
-      "title": "Santacos",
-      "date": "2026-05-14T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.249Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-16fa86e7",
-      "title": "Fowler Ranch hosts a weekly cornhole competition open to anyone.",
-      "date": "2026-05-14T10:25:07.693Z",
-      "startTime": "6:00pm",
-      "venue": {
-        "name": "Fowler Ranch",
-        "city": "Newcastle",
-        "state": "CA",
-        "url": "https://www.fowlerranch.com/entertainment"
-      },
-      "type": "other",
-      "tags": [],
-      "isRecurring": true,
-      "recurringPattern": "weekly:thursday",
-      "scrapedAt": "2026-05-11T10:25:07.710Z",
-      "source": "fowler-ranch",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-a54a4845",
-      "title": "West Coast Tacos",
-      "description": "Recurring: Does not Repeat",
-      "date": "2026-05-15T00:00:00.000Z",
-      "startTime": "04:00 PM - 08:00 PM",
-      "venue": {
-        "name": "Crooked Lane Brewing",
-        "address": "518 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
-        "phone": "(530) 878-7848"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "imageUrl": "https://static.spotapps.co/spots/db/edef50caf142bc9ad41aea673d2c6d/w926",
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:24:11.191Z",
-      "source": "crooked-lane-brewing",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-27545428",
-      "title": "Live Music Anthony Frijia",
-      "description": "Anthony Frijia has his audience laughing one minute, and crying the next. A renowned songwriter and storyteller, Frijia was recently voted “Best Local Artist” in the Baltimore Reader's Poll, on the heels of his 11-track indie-rock record, “The Artifacts of Letting Go”.Welding folk, blues, and country influences, Frijia's lyrically-driven songwriting has built an audience in the mid-Altantic, and across the country as a touring artist, as he draws comparisons to Bob Dylan, Tyler Childers, and Todd Snider. His knack for storytelling and a great lyric have never been more evident than on “The Snuggery Sessions”, Frijia's recently-released (and first ever) live record. (Recurring: Does not Repeat)",
-      "date": "2026-05-15T00:00:00.000Z",
-      "startTime": "05:00 PM - 08:00 PM",
-      "venue": {
-        "name": "Crooked Lane Brewing",
-        "address": "518 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
-        "phone": "(530) 878-7848"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "paint"
-      ],
-      "imageUrl": "https://static.spotapps.co/spots/be/43f886fa6e48a6a51fc730df2f45c7/w926",
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:24:11.191Z",
-      "source": "crooked-lane-brewing",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-3bb22f9f",
-      "title": "Manny's BBW Dawgs",
-      "description": "Food truck at Goathouse Brewing",
-      "date": "2026-05-15T00:00:00.000Z",
-      "venue": {
-        "name": "Goathouse Brewing",
-        "address": "4311 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.goathousebrewing.com/"
-      },
-      "type": "food",
-      "tags": [
-        "food",
-        "beer"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:04.805Z",
-      "source": "goathouse-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-ee6ce72c",
-      "title": "Paint & Sip",
-      "date": "2026-05-15T00:00:00.000Z",
-      "startTime": "",
-      "venue": {
-        "name": "Mindscape Fermentations",
-        "address": "1531 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://mindscape-fermentations.com/events/",
-        "phone": "(530) 820-4330"
-      },
-      "type": "paint",
-      "tags": [
-        "paint"
-      ],
-      "url": "https://mindscape-fermentations.com/events/paint-sip-2/",
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:23.504Z",
-      "source": "mindscape-fermentations",
-      "confidence": 0.8
-    },
-    {
-      "id": "evt-b430e712",
-      "title": "Buckethead BBQ5:",
-      "date": "2026-05-15T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.249Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-c41e4b2d",
-      "title": "Live Music by Johnny Low",
-      "date": "2026-05-15T00:00:00.000Z",
-      "startTime": "0:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [
-        "music"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.249Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-9b2e2350",
-      "title": "Buckethead BBQ",
-      "date": "2026-05-15T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.249Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-3ea4aa9f",
-      "title": "Fowler Ranch presents a weekly Trivia competition hosted by Brain Freeze! Come out and win some prizes!",
-      "date": "2026-05-15T10:25:07.710Z",
-      "startTime": "6:00pm",
-      "venue": {
-        "name": "Fowler Ranch",
-        "city": "Newcastle",
-        "state": "CA",
-        "url": "https://www.fowlerranch.com/entertainment"
-      },
-      "type": "trivia",
-      "tags": [
-        "trivia"
-      ],
-      "isRecurring": true,
-      "recurringPattern": "weekly:friday",
-      "scrapedAt": "2026-05-11T10:25:07.711Z",
-      "source": "fowler-ranch",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-afd067bc",
-      "title": "On Stage with Cheap Trip",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by Cheap Trip. This band delivers the ultimate tribute to rock legends Cheap Trick, recreating the sound, style, and high-energy stage presence that made them iconic. Formed in 2021, the band brings fan-favorite hits to life with spot-on musicianship and a visually authentic show—complete with wild multi-neck guitars and all the flair you’d expect. If you’re looking to relive the magic of Cheap Trick live, Cheap Trip brings the party straight to the stage. You can learn more about them by clicking here to visit their website. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-05-15T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "paint",
-        "workshop"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-cheap-trip/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/03/High-Hand-Brewery-Music-Cheap-Trip-2.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.054Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-515d5105",
-      "title": "Manny's BBW Dawgs",
-      "description": "Recurring: Does not Repeat",
-      "date": "2026-05-16T00:00:00.000Z",
-      "startTime": "02:00 PM - 07:00 PM",
-      "venue": {
-        "name": "Crooked Lane Brewing",
-        "address": "518 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
-        "phone": "(530) 878-7848"
-      },
-      "type": "other",
-      "tags": [],
-      "imageUrl": "https://static.spotapps.co/spots/98/81e168b8fd4df3bd1e83f49aebecb9/w926",
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:24:11.191Z",
-      "source": "crooked-lane-brewing",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-c92c471e",
-      "title": "Staq and Creme",
-      "description": "Food truck at Goathouse Brewing",
-      "date": "2026-05-16T00:00:00.000Z",
-      "venue": {
-        "name": "Goathouse Brewing",
-        "address": "4311 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.goathousebrewing.com/"
-      },
-      "type": "food",
-      "tags": [
-        "food",
-        "beer"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:04.805Z",
-      "source": "goathouse-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-78fb214c",
-      "title": "Mindscape Makes: Beet Kvass",
-      "date": "2026-05-16T00:00:00.000Z",
-      "startTime": "",
-      "venue": {
-        "name": "Mindscape Fermentations",
-        "address": "1531 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://mindscape-fermentations.com/events/",
-        "phone": "(530) 820-4330"
-      },
-      "type": "other",
-      "tags": [],
-      "url": "https://mindscape-fermentations.com/events/mindscape-makes-beet-kvass/",
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:23.504Z",
-      "source": "mindscape-fermentations",
-      "confidence": 0.8
-    },
-    {
-      "id": "evt-0e38b864",
-      "title": "West Coast Tacos",
-      "date": "2026-05-16T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.249Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-d96e08c3",
-      "title": "Remedy Supply Co. @ Auburn Farmer’s Market",
-      "description": "Our sister boutique coffee roasting company, Remedy Supply Co., has a booth every week, selling all the great coffees they have to offer. From staple blends and unique single origins to instant coffee and cold brew concentrate—they aim to connect our community with coffee. One cup at a time. 150 Auburn Folsom Rd. Auburn, CA 95603 RemedySupplyCo.com @remedysupply.co",
-      "date": "2026-05-16T00:00:00.000Z",
-      "startTime": "1:00 AM",
-      "endTime": "5:00 AM",
-      "venue": {
-        "name": "The Pour Choice",
-        "address": "177 Sacramento St",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://thepourchoice.com/events/"
-      },
-      "type": "beer",
-      "tags": [
-        "beer"
-      ],
-      "url": "https://thepourchoice.com/event/auburn-farmers-market/",
-      "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/auburn.png",
-      "price": "0",
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:55.435Z",
-      "source": "pour-choice",
-      "confidence": 1
-    },
-    {
-      "id": "evt-207f065c",
-      "title": "On Stage with Rogue",
-      "description": "Come join us at the High-Hand Brewery to hear a live performance by Rogue. This band delivers a powerhouse mix of originals and covers that will blow you away. With Randy Scoles on lead vocals, Greg Young on guitar, Nick Nichols on bass, and Bobby Contreras on drums, this four-piece band knows how to bring the energy. Get ready for a night that will have you on your feet from start to finish! You can learn more about them by clicking here to visit their website. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-05-16T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "paint",
-        "workshop"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-rogue-5/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/11/High-Hand-Brewery-Music-Rogue.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.055Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-08f41a9f",
-      "title": "Dream Burger",
-      "description": "Recurring: Does not Repeat",
-      "date": "2026-05-17T00:00:00.000Z",
-      "startTime": "11:00 AM - 04:00 PM",
-      "venue": {
-        "name": "Crooked Lane Brewing",
-        "address": "518 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
-        "phone": "(530) 878-7848"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "imageUrl": "https://static.spotapps.co/spots/b2/a0dd4594ca4b0b992a67c27615ec0e/w926",
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:24:11.191Z",
-      "source": "crooked-lane-brewing",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-1cf3a6c1",
-      "title": "Clothing Swap",
-      "description": "We had such a great time at our first Clothing Swap, we decided to keep it going!Catch us every 3rd Sunday this spring and summer for good vibes, great beer, and even better finds. 👗🍻Bring your new or gently used clothes you no longer wear and swap them out for something new! (Recurring: Does not Repeat)",
-      "date": "2026-05-17T00:00:00.000Z",
-      "startTime": "12:00 PM - 04:00 PM",
-      "venue": {
-        "name": "Crooked Lane Brewing",
-        "address": "518 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
-        "phone": "(530) 878-7848"
-      },
-      "type": "beer",
-      "tags": [
-        "beer",
-        "sunday"
-      ],
-      "imageUrl": "https://static.spotapps.co/spots/a5/b4d58266f849d483f040f596e07e89/w926",
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:24:11.191Z",
-      "source": "crooked-lane-brewing",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-2a9ec947",
-      "title": "Los Pinches Tacos",
-      "description": "Food truck at Goathouse Brewing",
-      "date": "2026-05-17T00:00:00.000Z",
-      "venue": {
-        "name": "Goathouse Brewing",
-        "address": "4311 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.goathousebrewing.com/"
-      },
-      "type": "food",
-      "tags": [
-        "food",
-        "beer"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:04.805Z",
-      "source": "goathouse-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-a3363291",
-      "title": "Live Music Jam Session",
-      "date": "2026-05-17T00:00:00.000Z",
-      "startTime": "",
-      "venue": {
-        "name": "Mindscape Fermentations",
-        "address": "1531 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://mindscape-fermentations.com/events/",
-        "phone": "(530) 820-4330"
-      },
-      "type": "music",
-      "tags": [
-        "music"
-      ],
-      "url": "https://mindscape-fermentations.com/events/live-music-jam-session-888-945-466-721-925-529-440-944-874-888-219-573/",
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:23.504Z",
-      "source": "mindscape-fermentations",
-      "confidence": 0.8
-    },
-    {
-      "id": "evt-75b80a56",
-      "title": "TRIVIA NIGHT",
-      "date": "2026-05-17T00:00:00.000Z",
-      "startTime": "",
-      "venue": {
-        "name": "Mindscape Fermentations",
-        "address": "1531 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://mindscape-fermentations.com/events/",
-        "phone": "(530) 820-4330"
-      },
-      "type": "trivia",
-      "tags": [
-        "trivia"
-      ],
-      "url": "https://mindscape-fermentations.com/events/trivia-night-999-690-812-906-953-155-116-822-235-157-598/",
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:23.505Z",
-      "source": "mindscape-fermentations",
-      "confidence": 0.8
-    },
-    {
-      "id": "evt-225e8109",
-      "title": "Doggiestyle Hot Dogs",
-      "date": "2026-05-17T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [],
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.249Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-07e2a593",
-      "title": "Remedy Supply Co. @ Lincoln Farmer’s Market",
-      "description": "Our sister boutique coffee roasting company, Remedy Supply Co., has a booth every week, offering a selection of their great coffees. From staple blends and unique single origins to instant coffee and cold brew concentrate—they aim to connect our community with coffee. One cup at a time. 3111 Lincoln Newcastle Hwy Lincoln, CA 95648 RemedySupplyCo.com @remedysupply.co",
-      "date": "2026-05-17T00:00:00.000Z",
-      "startTime": "2:00 AM",
-      "endTime": "6:00 AM",
-      "venue": {
-        "name": "The Pour Choice",
-        "address": "177 Sacramento St",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://thepourchoice.com/events/"
-      },
-      "type": "beer",
-      "tags": [
-        "beer"
-      ],
-      "url": "https://thepourchoice.com/event/lincoln-farmers-market/",
-      "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/lincoln.png",
-      "price": "0",
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:55.436Z",
-      "source": "pour-choice",
-      "confidence": 1
-    },
-    {
-      "id": "evt-e99eae69",
-      "title": "On Stage with Wildheart",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by Wildheart. This is a cross-genre cover band led by Lisa Ellis, whose strong and dynamic vocals help drive the group’s energetic performances. Drawing inspiration from artists like Heart, Fleetwood Mac, CCR, Eagles, Linda Ronstadt, Tanya Tucker, Jo Dee Messina, The Rolling Stones, James Taylor, Joni Mitchell, and Stevie Wonder, Wildheart blends an eclectic mix of rock, pop and other genres into a captivating live experience. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-05-17T14:00:00.000Z",
-      "startTime": "2:00 PM",
-      "endTime": "5:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "paint"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-wildheart-5/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/08/High-Hand-Brewery-Music-Wildheart-Band-v2.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.055Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
     {
       "id": "evt-36a133e5",
       "title": "West Coast Tacos",
@@ -857,9 +37,39 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.249Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
+    },
+    {
+      "id": "evt-6d846130",
+      "title": "DJ Trivia",
+      "description": "Join us for Trivia Tuesdays!",
+      "date": "2026-05-19T00:00:00.000Z",
+      "startTime": "7:00 PM",
+      "endTime": "9:00 PM",
+      "venue": {
+        "name": "Knee Deep Brewing",
+        "address": "13395 New Airport Rd",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://kneedeepbrewing.com/api/events?upcoming=true&tapRoom=Auburn&limit=50",
+        "phone": "(530) 797-4676"
+      },
+      "type": "trivia",
+      "tags": [
+        "trivia",
+        "music",
+        "tuesday"
+      ],
+      "url": "https://kneedeepbrewing.com/events",
+      "imageUrl": "https://storage.googleapis.com/knee-deep-events/events/dj%20trivia.jfif-1775149081056.jpeg?GoogleAccessId=knee-deep-storage%40knee-deep-brewing.iam.gserviceaccount.com&Expires=1806685081&Signature=XEF2U598scjiMqpdSMS4XfziH0CptWLZSCpcpvNXNpQcg0HVhBoNPjH8xi0vzO73Ppw%2Fzd1OgCaWAMRBtqDo9exN0f7nJ%2FiO2c27PdGBlWGfT000CEAsPzfdSMv8IrrEN1%2B5hLo2Xjn%2FTXKQMbsiYlSwsadNhTunACpeUC46%2FAoWZnjya1r00xu7N57hJyh3RqYfEryxwgGycoGZvc9lVZrjBrxIlxzameUqI196JlVygpsKZeDNswgk7CMt6N7h7q6yBI2lHRsrVGHErevtb72XbV6xnrs2zwmYMizXpplCJ7Zi8lAgu8Awz7VPlXD3abe9d8bRqtykOGMTFTUm%2FA%3D%3D",
+      "price": "Free",
+      "isRecurring": false,
+      "scrapedAt": "2026-05-18T10:39:16.691Z",
+      "source": "knee-deep-brewing",
+      "confidence": 1
     },
     {
       "id": "evt-8caac647",
@@ -880,7 +90,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.249Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -907,7 +117,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/roseville.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:55.436Z",
+      "scrapedAt": "2026-05-18T10:40:01.909Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -933,7 +143,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/18/5b3bdf50004e068248228bf2cc9c27/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:24:11.191Z",
+      "scrapedAt": "2026-05-18T10:37:58.751Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -957,7 +167,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/sip-into-summer-party/",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:23.505Z",
+      "scrapedAt": "2026-05-18T10:39:29.879Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -980,7 +190,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.249Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1003,7 +213,7 @@
         "trivia"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.250Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1031,7 +241,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-05-20/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.055Z",
+      "scrapedAt": "2026-05-18T10:39:15.062Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -1054,7 +264,7 @@
       "tags": [],
       "imageUrl": "https://static.spotapps.co/spots/45/5776d091504a0b886fe9b1992a6540/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:24:11.191Z",
+      "scrapedAt": "2026-05-18T10:37:58.751Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1078,7 +288,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498/",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:23.505Z",
+      "scrapedAt": "2026-05-18T10:39:29.879Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -1099,8 +309,27 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.250Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-b9034cb8",
+      "title": "Fowler Ranch hosts a weekly cornhole competition open to anyone.",
+      "date": "2026-05-21T10:38:12.640Z",
+      "startTime": "6:00pm",
+      "venue": {
+        "name": "Fowler Ranch",
+        "city": "Newcastle",
+        "state": "CA",
+        "url": "https://www.fowlerranch.com/entertainment"
+      },
+      "type": "other",
+      "tags": [],
+      "isRecurring": true,
+      "recurringPattern": "weekly:thursday",
+      "scrapedAt": "2026-05-18T10:38:12.642Z",
+      "source": "fowler-ranch",
       "confidence": 0.85
     },
     {
@@ -1122,7 +351,7 @@
       "tags": [],
       "imageUrl": "https://static.spotapps.co/spots/98/81e168b8fd4df3bd1e83f49aebecb9/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:24:11.192Z",
+      "scrapedAt": "2026-05-18T10:37:58.751Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1148,7 +377,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/67/654f0b7cc0468cb21d6bd871818f86/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:24:11.192Z",
+      "scrapedAt": "2026-05-18T10:37:58.752Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1171,7 +400,7 @@
         "beer"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:04.805Z",
+      "scrapedAt": "2026-05-18T10:39:09.419Z",
       "source": "goathouse-brewing",
       "confidence": 0.85
     },
@@ -1194,7 +423,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.250Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1217,7 +446,7 @@
         "music"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.250Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1240,8 +469,29 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.250Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-f01e26d3",
+      "title": "Fowler Ranch presents a weekly Trivia competition hosted by Brain Freeze! Come out and win some prizes!",
+      "date": "2026-05-22T10:38:12.642Z",
+      "startTime": "6:00pm",
+      "venue": {
+        "name": "Fowler Ranch",
+        "city": "Newcastle",
+        "state": "CA",
+        "url": "https://www.fowlerranch.com/entertainment"
+      },
+      "type": "trivia",
+      "tags": [
+        "trivia"
+      ],
+      "isRecurring": true,
+      "recurringPattern": "weekly:friday",
+      "scrapedAt": "2026-05-18T10:38:12.642Z",
+      "source": "fowler-ranch",
       "confidence": 0.85
     },
     {
@@ -1268,7 +518,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-donnie-the-wayrads-2/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/10/High-Hand-Brewery-Donnie-and-the-Wayrads.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.055Z",
+      "scrapedAt": "2026-05-18T10:39:15.062Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -1291,7 +541,7 @@
         "beer"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:04.805Z",
+      "scrapedAt": "2026-05-18T10:39:09.419Z",
       "source": "goathouse-brewing",
       "confidence": 0.85
     },
@@ -1315,7 +565,7 @@
         "tasting"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:05.609Z",
+      "scrapedAt": "2026-05-18T10:39:11.341Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.85
     },
@@ -1336,7 +586,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.250Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1363,7 +613,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/auburn.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:55.436Z",
+      "scrapedAt": "2026-05-18T10:40:01.909Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -1392,7 +642,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-that-90s-band-4/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/10/High-Hand-Brewery-Music-That-Grunge-Band.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.055Z",
+      "scrapedAt": "2026-05-18T10:39:15.062Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -1415,7 +665,7 @@
         "beer"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:04.805Z",
+      "scrapedAt": "2026-05-18T10:39:09.420Z",
       "source": "goathouse-brewing",
       "confidence": 0.85
     },
@@ -1439,7 +689,7 @@
         "tasting"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:05.609Z",
+      "scrapedAt": "2026-05-18T10:39:11.341Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.85
     },
@@ -1463,7 +713,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/trivia-night-999-690-812-906-953-155-116-822-235-157-598-714/",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:23.505Z",
+      "scrapedAt": "2026-05-18T10:39:29.879Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -1486,7 +736,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.250Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1513,7 +763,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/lincoln.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:55.436Z",
+      "scrapedAt": "2026-05-18T10:40:01.909Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -1541,7 +791,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-group-therapy/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/01/High-Hand-Brewery-Music-Group-Therapy.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.055Z",
+      "scrapedAt": "2026-05-18T10:39:15.062Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -1566,7 +816,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/b2/a0dd4594ca4b0b992a67c27615ec0e/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:24:11.192Z",
+      "scrapedAt": "2026-05-18T10:37:58.752Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1587,9 +837,38 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.250Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
+    },
+    {
+      "id": "evt-8cae41ee",
+      "title": "DJ Trivia",
+      "description": "Join us for Trivia night!",
+      "date": "2026-05-26T00:00:00.000Z",
+      "startTime": "7:00 PM",
+      "endTime": "9:00 PM",
+      "venue": {
+        "name": "Knee Deep Brewing",
+        "address": "13395 New Airport Rd",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://kneedeepbrewing.com/api/events?upcoming=true&tapRoom=Auburn&limit=50",
+        "phone": "(530) 797-4676"
+      },
+      "type": "trivia",
+      "tags": [
+        "trivia",
+        "music"
+      ],
+      "url": "https://kneedeepbrewing.com/events",
+      "imageUrl": "https://storage.googleapis.com/knee-deep-events/events/dj%20trivia.jfif-1775149435403.jpeg?GoogleAccessId=knee-deep-storage%40knee-deep-brewing.iam.gserviceaccount.com&Expires=1806685435&Signature=qOGLuFMiltoEsMo8W%2FIskFOgCrelN0RwQ37T17HiyzKZOUPpxkN62yhLu6beNn7%2F9I%2BTRAvRjIQP9n4dJlhKiCMol7ZH3knptY%2F7aTZq%2FkfNCp9T%2F0U9blp1NMhR131Bmz88OhhFnHriT6hBFuQ586%2BE2O7kFelG2q9%2FoBymbm5d9RPcbV%2BoNIWG831ztU8XvGm5jmJB%2F1lnYywBq9n7%2BslKvhLiTcLwpo2Xh4VI6nhNNPqqhkJjiRgJT85spPdqn8tr%2FqxJTssGnFTc%2FfjqVSFX%2FHQwaQXn3SZeSf35bnrSPBoKz%2FpQiy97ix8sb4SqZUi0m3C%2Bh5MvnfRBlILdMQ%3D%3D",
+      "price": "Free",
+      "isRecurring": false,
+      "scrapedAt": "2026-05-18T10:39:16.691Z",
+      "source": "knee-deep-brewing",
+      "confidence": 1
     },
     {
       "id": "evt-b5e2f647",
@@ -1610,7 +889,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.250Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1637,7 +916,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/roseville.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:55.436Z",
+      "scrapedAt": "2026-05-18T10:40:01.909Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -1658,7 +937,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.250Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1681,7 +960,7 @@
         "trivia"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.250Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1709,7 +988,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew-16/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.055Z",
+      "scrapedAt": "2026-05-18T10:39:15.062Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -1733,7 +1012,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498-677/",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:23.505Z",
+      "scrapedAt": "2026-05-18T10:39:29.880Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -1754,7 +1033,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.250Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1780,7 +1059,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/94/0277e4e83f462eb2b96792c9d0292f/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:24:11.192Z",
+      "scrapedAt": "2026-05-18T10:37:58.752Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1803,7 +1082,7 @@
         "beer"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:04.805Z",
+      "scrapedAt": "2026-05-18T10:39:09.420Z",
       "source": "goathouse-brewing",
       "confidence": 0.85
     },
@@ -1824,7 +1103,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.250Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1847,7 +1126,7 @@
         "music"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.250Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1868,7 +1147,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.250Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1896,7 +1175,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-halfway-inn-5/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2023/09/High-Hand-Brewery-Music-Halfway-Inn.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.055Z",
+      "scrapedAt": "2026-05-18T10:39:15.062Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -1919,7 +1198,7 @@
         "beer"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:04.805Z",
+      "scrapedAt": "2026-05-18T10:39:09.420Z",
       "source": "goathouse-brewing",
       "confidence": 0.85
     },
@@ -1943,7 +1222,7 @@
         "special"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.250Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1970,7 +1249,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/auburn.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:55.436Z",
+      "scrapedAt": "2026-05-18T10:40:01.909Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -1998,7 +1277,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-total-recall-8/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/10/High-Hand-Brewery-Music-Total-Recall.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.055Z",
+      "scrapedAt": "2026-05-18T10:39:15.062Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -2021,7 +1300,7 @@
         "beer"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:04.805Z",
+      "scrapedAt": "2026-05-18T10:39:09.420Z",
       "source": "goathouse-brewing",
       "confidence": 0.85
     },
@@ -2045,7 +1324,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/live-music-jam-session-888-945-466-721-925-529-440-944-874-888-219-573-121/",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:23.505Z",
+      "scrapedAt": "2026-05-18T10:39:29.880Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -2069,7 +1348,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/trivia-night-999-690-812-906-953-155-116-822-235-157-598-714-415/",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:23.506Z",
+      "scrapedAt": "2026-05-18T10:39:29.880Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -2090,7 +1369,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.250Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2117,7 +1396,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/lincoln.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:55.436Z",
+      "scrapedAt": "2026-05-18T10:40:01.909Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -2146,7 +1425,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-roni-the-flight/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/03/High-Hand-Brewery-Music-Ronnie-and-The-Flight.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.055Z",
+      "scrapedAt": "2026-05-18T10:39:15.062Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -2170,7 +1449,7 @@
         "tasting"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:05.610Z",
+      "scrapedAt": "2026-05-18T10:39:11.342Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.95
     },
@@ -2194,7 +1473,7 @@
         "tasting"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:05.610Z",
+      "scrapedAt": "2026-05-18T10:39:11.342Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.85
     },
@@ -2217,7 +1496,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.250Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2240,7 +1519,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.250Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2263,7 +1542,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.250Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2286,7 +1565,7 @@
         "trivia"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.250Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2314,7 +1593,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew-14/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.055Z",
+      "scrapedAt": "2026-05-18T10:39:15.062Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -2338,7 +1617,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498-677-525/",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:23.506Z",
+      "scrapedAt": "2026-05-18T10:39:29.881Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -2359,9 +1638,34 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.250Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
+    },
+    {
+      "id": "evt-ae90f4de",
+      "title": "Live Music",
+      "description": "Dinosaur Sr is back on the Crooked Lane stage! (Recurring: Does not Repeat)",
+      "date": "2026-06-05T00:00:00.000Z",
+      "startTime": "05:00 PM - 08:00 PM",
+      "venue": {
+        "name": "Crooked Lane Brewing",
+        "address": "518 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
+        "phone": "(530) 878-7848"
+      },
+      "type": "music",
+      "tags": [
+        "music"
+      ],
+      "imageUrl": "https://static.spotapps.co/spots/fd/7ca8aceef44d2a974f55b5175b1e89/w926",
+      "isRecurring": false,
+      "scrapedAt": "2026-05-18T10:37:58.752Z",
+      "source": "crooked-lane-brewing",
+      "confidence": 0.95
     },
     {
       "id": "evt-354c73de",
@@ -2380,7 +1684,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.250Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2403,7 +1707,7 @@
         "music"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.250Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2424,7 +1728,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.250Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2452,7 +1756,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-def-lepp-a-tribute-to-def-leppard-2/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/04/High-Hand-Brewery-Music-Def-Lepp.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.055Z",
+      "scrapedAt": "2026-05-18T10:39:15.062Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -2479,7 +1783,7 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:24:05.957Z",
+      "scrapedAt": "2026-05-18T10:37:54.326Z",
       "source": "auburn-sra",
       "confidence": 1
     },
@@ -2502,7 +1806,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:52.250Z",
+      "scrapedAt": "2026-05-18T10:39:56.818Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2530,9 +1834,33 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-journeys-edge-6/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2023/12/High-Hand-Brewery-Music-Journeys-Edge.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.055Z",
+      "scrapedAt": "2026-05-18T10:39:15.062Z",
       "source": "high-hand-brewing",
       "confidence": 1
+    },
+    {
+      "id": "evt-0a8fddc3",
+      "title": "TRIVIA NIGHT",
+      "date": "2026-06-07T00:00:00.000Z",
+      "startTime": "",
+      "venue": {
+        "name": "Mindscape Fermentations",
+        "address": "1531 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://mindscape-fermentations.com/events/",
+        "phone": "(530) 820-4330"
+      },
+      "type": "trivia",
+      "tags": [
+        "trivia"
+      ],
+      "url": "https://mindscape-fermentations.com/events/trivia-night-999-690-812-906-953-155-116-822-235-157-598-714-415-873/",
+      "isRecurring": false,
+      "scrapedAt": "2026-05-18T10:39:29.881Z",
+      "source": "mindscape-fermentations",
+      "confidence": 0.8
     },
     {
       "id": "evt-120aa489",
@@ -2558,9 +1886,60 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-06-10/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.055Z",
+      "scrapedAt": "2026-05-18T10:39:15.062Z",
       "source": "high-hand-brewing",
       "confidence": 1
+    },
+    {
+      "id": "evt-df5640dd",
+      "title": "MUSIC BINGO!",
+      "date": "2026-06-11T00:00:00.000Z",
+      "startTime": "",
+      "venue": {
+        "name": "Mindscape Fermentations",
+        "address": "1531 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://mindscape-fermentations.com/events/",
+        "phone": "(530) 820-4330"
+      },
+      "type": "music",
+      "tags": [
+        "music"
+      ],
+      "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498-677-525-896/",
+      "isRecurring": false,
+      "scrapedAt": "2026-05-18T10:39:29.881Z",
+      "source": "mindscape-fermentations",
+      "confidence": 0.8
+    },
+    {
+      "id": "evt-f4d6b08e",
+      "title": "Live Music with Midnight Sun",
+      "description": "We are excited to welcome Midnight Sun to the Crooked Lane stage! Midnight Sun brings a great vibe, high energy performance with a very versatile set list and songs you don't hear everyday at a brewery, winery or bar. Their set list blends rock, pop and indie staples with a fresh dynamic feel - perfect for creating a lively atmosphere that keeps guests engaged and staying around for another round. (Recurring: Does not Repeat)",
+      "date": "2026-06-12T00:00:00.000Z",
+      "startTime": "05:00 PM - 08:00 PM",
+      "venue": {
+        "name": "Crooked Lane Brewing",
+        "address": "518 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
+        "phone": "(530) 878-7848"
+      },
+      "type": "music",
+      "tags": [
+        "music",
+        "wine",
+        "beer"
+      ],
+      "imageUrl": "https://static.spotapps.co/spots/55/c7920bd63242a9ad91a078c9a3a4f7/w926",
+      "isRecurring": false,
+      "scrapedAt": "2026-05-18T10:37:58.752Z",
+      "source": "crooked-lane-brewing",
+      "confidence": 0.95
     },
     {
       "id": "evt-0476403d",
@@ -2585,8 +1964,37 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-mania-the-beatles-experience-3/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2023/11/High-Hand-Brewery-Music-Mania-Beatles-Experience.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.055Z",
+      "scrapedAt": "2026-05-18T10:39:15.062Z",
       "source": "high-hand-brewing",
+      "confidence": 1
+    },
+    {
+      "id": "evt-bcf7f9f6",
+      "title": "Raft~ Camp & Craft Beer",
+      "description": "Nothing pairs better than beer and rafting! This two-day experience seamlessly blends whitewater rafting with a thoughtfully curated craft beer experience. Put on in partnership with Crooked Lane Brewing, and guided by the owner and brewer, Teresa Psuty, you’ll savor tastings of diverse array of beers including our collab brew, River Daze Hazy IPA. After each day on the river, guests will enjoy learning about the brewing process, Crooked Lane Brewing’s featured beers, and cheers to the river experience. Each pour will be accompanied by engaging stories and expert pairings! From campfire sessions to riverside meals, the trip offers a flavorful journey that celebrates the craft of brewing in the heart of nature, making it perfect for beer connoisseurs and outdoor adventurers.Our 2-day, 1-night rafting trip starts by meeting in the morning at Crooked Lane Brewing in Auburn. After taking a shuttle to the put-in, the real fun begins as we take on a challenging 18-mile section of the Middle Fork American River on day one. After a thrilling start, we’ll ease back the pace so you can enjoy the beauty of the lush, forested canyon and hopefully spot some wildlife. We’ll spend our night together camped on a remote, riverside beach. The next day, we’ll get back on the river and test our mettle on several other Class III and Class IV rapids. At the end of the second day, we’ll shuttle back to our meet up point, Crooked Lane Brewing. From there you will have the opportunity to tour the brewery and see first hand the beer making process. Plus it’s a perfect spot to end – cheers with new friends, grab a 6-pack or growler of your favorite tasters, and relive the moments from the trip. The Middle Fork American River rafting is a challenging, advanced river with numerous Class IV rapids. It is fun and fast and one you will always remember!For more info: https://whitewatertours.com/white-water-rafting/middle-fork-american-river-craft-beer-2-day/ (Recurring: Does not Repeat)",
+      "date": "2026-06-13T00:00:00.000Z",
+      "startTime": "10:00 AM - 10:00 PM",
+      "venue": {
+        "name": "Crooked Lane Brewing",
+        "address": "518 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
+        "phone": "(530) 878-7848"
+      },
+      "type": "beer",
+      "tags": [
+        "beer",
+        "paint",
+        "tasting",
+        "workshop"
+      ],
+      "url": "https://whitewatertours.com/river-rafting/middle-fork-american-river/",
+      "imageUrl": "https://static.spotapps.co/spots/13/b538c1871f4ae3ae235beebcc0e891/w926",
+      "isRecurring": false,
+      "scrapedAt": "2026-05-18T10:37:58.752Z",
+      "source": "crooked-lane-brewing",
       "confidence": 1
     },
     {
@@ -2609,9 +2017,34 @@
         "tasting"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:05.610Z",
+      "scrapedAt": "2026-05-18T10:39:11.342Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.95
+    },
+    {
+      "id": "evt-124976c1",
+      "title": "Macrame Wall Art Workshop",
+      "date": "2026-06-13T00:00:00.000Z",
+      "startTime": "",
+      "venue": {
+        "name": "Mindscape Fermentations",
+        "address": "1531 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://mindscape-fermentations.com/events/",
+        "phone": "(530) 820-4330"
+      },
+      "type": "paint",
+      "tags": [
+        "paint",
+        "workshop"
+      ],
+      "url": "https://mindscape-fermentations.com/events/macrame-plant-hanger-workshop-2-367/",
+      "isRecurring": false,
+      "scrapedAt": "2026-05-18T10:39:29.881Z",
+      "source": "mindscape-fermentations",
+      "confidence": 0.8
     },
     {
       "id": "evt-db5afafa",
@@ -2633,9 +2066,57 @@
         "tasting"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:05.610Z",
+      "scrapedAt": "2026-05-18T10:39:11.342Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.95
+    },
+    {
+      "id": "evt-2833c4f6",
+      "title": "Live Music Jam Session",
+      "date": "2026-06-14T00:00:00.000Z",
+      "startTime": "",
+      "venue": {
+        "name": "Mindscape Fermentations",
+        "address": "1531 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://mindscape-fermentations.com/events/",
+        "phone": "(530) 820-4330"
+      },
+      "type": "music",
+      "tags": [
+        "music"
+      ],
+      "url": "https://mindscape-fermentations.com/events/live-music-jam-session-888-945-466-721-925-529-440-944-874-888-219-573-121-835/",
+      "isRecurring": false,
+      "scrapedAt": "2026-05-18T10:39:29.881Z",
+      "source": "mindscape-fermentations",
+      "confidence": 0.8
+    },
+    {
+      "id": "evt-6680d622",
+      "title": "TRIVIA NIGHT",
+      "date": "2026-06-14T00:00:00.000Z",
+      "startTime": "",
+      "venue": {
+        "name": "Mindscape Fermentations",
+        "address": "1531 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://mindscape-fermentations.com/events/",
+        "phone": "(530) 820-4330"
+      },
+      "type": "trivia",
+      "tags": [
+        "trivia"
+      ],
+      "url": "https://mindscape-fermentations.com/events/trivia-night-999-690-812-906-953-155-116-822-235-157-598-714-415-873-555/",
+      "isRecurring": false,
+      "scrapedAt": "2026-05-18T10:39:29.882Z",
+      "source": "mindscape-fermentations",
+      "confidence": 0.8
     },
     {
       "id": "evt-c24ceb77",
@@ -2661,7 +2142,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-spiral-sunset/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/05/High-Hand-Brewery-Music-Spiral-Sunset.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.055Z",
+      "scrapedAt": "2026-05-18T10:39:15.062Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -2689,8 +2170,36 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-06-17/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.056Z",
+      "scrapedAt": "2026-05-18T10:39:15.063Z",
       "source": "high-hand-brewing",
+      "confidence": 1
+    },
+    {
+      "id": "evt-8be9fe5e",
+      "title": "Moos & Brews",
+      "description": "Get up close and personal with our famous miniature Highland cows during our hands-on cow cuddle experience and enjoy local craft beer.",
+      "date": "2026-06-20T00:00:00.000Z",
+      "startTime": "11:00 AM",
+      "endTime": "6:00 PM",
+      "venue": {
+        "name": "Knee Deep Brewing",
+        "address": "13395 New Airport Rd",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://kneedeepbrewing.com/api/events?upcoming=true&tapRoom=Auburn&limit=50",
+        "phone": "(530) 797-4676"
+      },
+      "type": "beer",
+      "tags": [
+        "beer"
+      ],
+      "url": "https://www.eventbrite.com/e/moos-brews-a-highland-hangout-with-knee-deep-brewing-co-tickets-1988019344375?aff=oddtdtcreator",
+      "imageUrl": "https://storage.googleapis.com/knee-deep-events/events/Unknown-1778713338702.png?GoogleAccessId=knee-deep-storage%40knee-deep-brewing.iam.gserviceaccount.com&Expires=1810249339&Signature=G0%2BpfdolVt9dWg9JM4GjU%2F%2BmZ1fZwQFBEMFp6BJD3dkeBccO8QvBQstfsQzt8M0UZ%2BwFt8Q1mfmJCfn1FlJ%2BP4sP3R127tswAF2GEO%2Bfcwe5UrYgVHCgpyz5b4cfa%2B4qMEUCk1ooAvKIoCzfs1FwfuI3j57yVQfn8f2IEYpwIvSRbBFuupTukBzN4PYPQ9LwQuD31mhy9%2BMxR3JVdTVUPHIEDC4TJHmUqFef82yXPbF3ybLigCaGsEsFSw66q2Y6TC4ZYG2S57m79zQLPGt4%2FHGFUDf9bMinDZaypnNfBw%2BA0A2iGIqHW6VHkODGB2wPpcHrdLf8fLTY0oar7DzIug%3D%3D",
+      "price": "Free",
+      "isRecurring": false,
+      "scrapedAt": "2026-05-18T10:39:16.691Z",
+      "source": "knee-deep-brewing",
       "confidence": 1
     },
     {
@@ -2717,7 +2226,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-renegade-road-2/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/07/High-Hand-Brewery-Music-Renegade-Road.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.056Z",
+      "scrapedAt": "2026-05-18T10:39:15.063Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -2744,7 +2253,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-the-frat-boys-2/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-The-Frat-Boys.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.056Z",
+      "scrapedAt": "2026-05-18T10:39:15.063Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -2772,7 +2281,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-06-24/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.056Z",
+      "scrapedAt": "2026-05-18T10:39:15.063Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -2801,7 +2310,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-petty-jack-flash-8/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/02/High-Hand-Brewery-Music-Petty-Jack-Flash.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.056Z",
+      "scrapedAt": "2026-05-18T10:39:15.063Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -2825,7 +2334,7 @@
         "tasting"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:05.610Z",
+      "scrapedAt": "2026-05-18T10:39:11.342Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.85
     },
@@ -2854,7 +2363,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-120-minutes-3/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/05/High-Hand-Brewery-Music-120-Minutes.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.056Z",
+      "scrapedAt": "2026-05-18T10:39:15.063Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -2878,7 +2387,7 @@
         "tasting"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:05.610Z",
+      "scrapedAt": "2026-05-18T10:39:11.342Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.85
     },
@@ -2906,9 +2415,58 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-rekindled/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/01/High-Hand-Brewery-Music-Rekindled.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.056Z",
+      "scrapedAt": "2026-05-18T10:39:15.063Z",
       "source": "high-hand-brewing",
       "confidence": 1
+    },
+    {
+      "id": "evt-c13c08fc",
+      "title": "Wine Club Weekend, Live Music, Food and new wine releases",
+      "description": "Wine Club Weekend, Live Music, Food and new wine releases",
+      "date": "2026-07-01T00:00:00.000Z",
+      "startTime": "12:00 PM",
+      "venue": {
+        "name": "Happy Dayz Vineyard",
+        "address": "5575 McCourtney Rd",
+        "city": "Lincoln",
+        "state": "CA",
+        "zip": "95648",
+        "url": "https://www.happydayzvineyard.com/visit-us/"
+      },
+      "type": "music",
+      "tags": [
+        "music",
+        "food",
+        "wine"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-05-18T10:39:11.342Z",
+      "source": "happy-dayz-vineyard",
+      "confidence": 0.95
+    },
+    {
+      "id": "evt-ac104327",
+      "title": "Summer Wine Tasting",
+      "description": "Summer Wine Tasting",
+      "date": "2026-07-01T00:00:00.000Z",
+      "startTime": "12:00 PM",
+      "venue": {
+        "name": "Happy Dayz Vineyard",
+        "address": "5575 McCourtney Rd",
+        "city": "Lincoln",
+        "state": "CA",
+        "zip": "95648",
+        "url": "https://www.happydayzvineyard.com/visit-us/"
+      },
+      "type": "wine",
+      "tags": [
+        "wine",
+        "tasting"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-05-18T10:39:11.343Z",
+      "source": "happy-dayz-vineyard",
+      "confidence": 0.85
     },
     {
       "id": "evt-969c22a3",
@@ -2934,7 +2492,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-07-01/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.056Z",
+      "scrapedAt": "2026-05-18T10:39:15.063Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -2962,7 +2520,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-total-recall-9/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/10/High-Hand-Brewery-Music-Total-Recall.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.056Z",
+      "scrapedAt": "2026-05-18T10:39:15.063Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -2989,7 +2547,7 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:24:05.958Z",
+      "scrapedAt": "2026-05-18T10:37:54.326Z",
       "source": "auburn-sra",
       "confidence": 1
     },
@@ -3011,7 +2569,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:24:11.192Z",
+      "scrapedAt": "2026-05-18T10:37:58.752Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -3039,7 +2597,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-the-clint-warner-band-4/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/08/High-Hand-Brewery-Music-Clint-Warner-Band.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.056Z",
+      "scrapedAt": "2026-05-18T10:39:15.063Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3067,7 +2625,35 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-07-08/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.056Z",
+      "scrapedAt": "2026-05-18T10:39:15.063Z",
+      "source": "high-hand-brewing",
+      "confidence": 1
+    },
+    {
+      "id": "evt-9e77a55f",
+      "title": "On Stage with the Skynyrd Nation",
+      "description": "Come join us at High-Hand Brewery to hear a live performance by Skynyrd Nation. This band delivers the ultimate Lynyrd Skynyrd experience, authentically replicating the Southern rock legends&#8217; iconic sound. Formed by a group of professional musicians with decades of experience, including stints with national acts like Lady Gaga, Three Dog Night, Keith Urban, Brad Paisley, and Good Charlotte, the 10-piece band brings the raw energy and spirit of Lynyrd Skynyrd&#8217;s music to life. With a repertoire spanning nearly six decades of timeless hits, Skynyrd Nation performs with passion, creating an electrifying atmosphere that’s impossible to resist. Their high-energy shows resonate with audiences, evoking the glory days of Southern rock and delivering a one-of-a-kind experience. Whether on the festival stage, in concert halls, or at private events, Skynyrd Nation guarantees a performance that will leave your audience wanting more. Expect a night of Southern rock magic, filled with an intoxicating mix of timeless tunes, powerful vocals, and a dedicated group of musicians that make every performance unforgettable. You can learn more about them by clicking here to visit their website. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
+      "date": "2026-07-10T18:00:00.000Z",
+      "startTime": "6:00 PM",
+      "endTime": "9:00 PM",
+      "venue": {
+        "name": "High Hand Brewing Company",
+        "address": "3750 Taylor Rd",
+        "city": "Loomis",
+        "state": "CA",
+        "zip": "95650",
+        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
+      },
+      "type": "music",
+      "tags": [
+        "music",
+        "beer",
+        "workshop"
+      ],
+      "url": "https://www.highhandnursery.com/event/on-stage-with-the-skynyrd-nation/",
+      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/11/High-Hand-Brewery-Music-skynyrd-nation.jpg",
+      "isRecurring": false,
+      "scrapedAt": "2026-05-18T10:39:15.063Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3095,7 +2681,36 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-manzanita-35/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2023/06/High-Hand-Brewery-Music-Manzanita.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.056Z",
+      "scrapedAt": "2026-05-18T10:39:15.063Z",
+      "source": "high-hand-brewing",
+      "confidence": 1
+    },
+    {
+      "id": "evt-fc93e248",
+      "title": "On Stage with Kenny Frye &#038; On Point",
+      "description": "Come join us at High-Hand Brewery to hear a live performance by Kenny Frye &#038; On Point. This seasoned group trades their country-rock roots for a high-octane tribute to the greatest eras of rock and roll. Expect powerhouse covers of iconic artists like Led Zeppelin, Tom Petty, and Van Halen. From heavy-hitting riffs to stadium-sized anthems, their &#8220;multi-artist&#8221; showcase is designed to keep the dance floor packed and the energy high. Come see why this veteran crew is officially On Point. You can learn more about them by clicking here to visit their website. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
+      "date": "2026-07-12T14:00:00.000Z",
+      "startTime": "2:00 PM",
+      "endTime": "5:00 PM",
+      "venue": {
+        "name": "High Hand Brewing Company",
+        "address": "3750 Taylor Rd",
+        "city": "Loomis",
+        "state": "CA",
+        "zip": "95650",
+        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
+      },
+      "type": "music",
+      "tags": [
+        "music",
+        "beer",
+        "paint",
+        "workshop"
+      ],
+      "url": "https://www.highhandnursery.com/event/on-stage-with-kenny-frye-and-on-point/",
+      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/05/High-Hand-Brewery-Music-Kenny-Frye-and-On-Point.jpg",
+      "isRecurring": false,
+      "scrapedAt": "2026-05-18T10:39:15.063Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3123,45 +2738,16 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-07-15/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.056Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-3866c53d",
-      "title": "On Stage with Unleashed",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by Unleashed. Grab a tambourine, sing along, and dance like no one is watching! Unleashed is a fun party band performing your favorite classic rock tunes of the 70’s, 80’s, 90’s, and beyond! You can learn more about them by clicking here to visit their website. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-07-17T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "paint",
-        "workshop"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-unleashed-9/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/05/High-Hand-Brewery-Music-Unleashed.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.056Z",
+      "scrapedAt": "2026-05-18T10:39:15.064Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
     {
       "id": "evt-0b149c69",
       "title": "Supreme Pro Wrestling July 18th",
-      "description": "💥 Supreme Pro Wrestling Returns to Crooked Lane! 💥Get ready for another season of high-flying action, big personalities, and unforgettable nights at the brewery. Supreme Pro Wrestling is back and bringing the energy with four epic shows this year:📅 April 11 📅 May 9 📅 July 18 📅 September 26Want to catch all the action? Grab a Season Pass for all four shows for just $40!Single-show tickets are $13 online presale or $15 at the door. This is an all-ages event, so bring the whole crew and enjoy a night of wrestling, great beer, and big-time entertainment.Get your tickets and get ready to rumble at the brewery! (Recurring: Does not Repeat)",
+      "description": "💥 Supreme Pro Wrestling Returns to Crooked Lane! 💥Get ready for another season of high-flying action, big personalities, and unforgettable nights at the brewery. Supreme Pro Wrestling is back and bringing the energy with four epic shows this year:📅 April 11 📅 May 9 📅 July 18 📅 September 26Single-show tickets are $13 online presale or $15 at the door. Kids tickets $5 must be purchased day of. This is an all-ages event, so bring the whole crew and enjoy a night of wrestling, great beer, and big-time entertainment.Get your tickets and get ready to rumble at the brewery! (Recurring: Does not Repeat)",
       "date": "2026-07-18T00:00:00.000Z",
-      "startTime": "06:00 PM - 09:00 PM",
+      "startTime": "06:30 PM - 09:00 PM",
       "venue": {
         "name": "Crooked Lane Brewing",
         "address": "518 Grass Valley Hwy",
@@ -3173,12 +2759,39 @@
       },
       "type": "beer",
       "tags": [
-        "beer"
+        "beer",
+        "for-kids"
       ],
+      "url": "https://products.spothopperapp.com/checkout?spotId=374859&externalProductId=2716484",
       "imageUrl": "https://static.spotapps.co/spots/8d/e44044f1e34f6fbebf0bcd827a671d/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:24:11.192Z",
+      "scrapedAt": "2026-05-18T10:37:58.752Z",
       "source": "crooked-lane-brewing",
+      "confidence": 1
+    },
+    {
+      "id": "evt-4d8a76e0",
+      "title": "Wine Club Weekend, Live Music, Food and new wine releases",
+      "description": "Wine Club Weekend, Live Music, Food and new wine releases",
+      "date": "2026-07-18T00:00:00.000Z",
+      "startTime": "12:00 PM",
+      "venue": {
+        "name": "Happy Dayz Vineyard",
+        "address": "5575 McCourtney Rd",
+        "city": "Lincoln",
+        "state": "CA",
+        "zip": "95648",
+        "url": "https://www.happydayzvineyard.com/visit-us/"
+      },
+      "type": "music",
+      "tags": [
+        "music",
+        "food",
+        "wine"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-05-18T10:39:11.342Z",
+      "source": "happy-dayz-vineyard",
       "confidence": 0.95
     },
     {
@@ -3205,9 +2818,34 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-the-wayward-buffalo-4/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/09/High-Hand-Brewery-Music-Wayward-Buffalo.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.056Z",
+      "scrapedAt": "2026-05-18T10:39:15.064Z",
       "source": "high-hand-brewing",
       "confidence": 1
+    },
+    {
+      "id": "evt-45a97060",
+      "title": "Wine Club Weekend, Live Music, Food and new wine releases",
+      "description": "Wine Club Weekend, Live Music, Food and new wine releases",
+      "date": "2026-07-19T00:00:00.000Z",
+      "startTime": "12:00 PM",
+      "venue": {
+        "name": "Happy Dayz Vineyard",
+        "address": "5575 McCourtney Rd",
+        "city": "Lincoln",
+        "state": "CA",
+        "zip": "95648",
+        "url": "https://www.happydayzvineyard.com/visit-us/"
+      },
+      "type": "music",
+      "tags": [
+        "music",
+        "food",
+        "wine"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-05-18T10:39:11.342Z",
+      "source": "happy-dayz-vineyard",
+      "confidence": 0.95
     },
     {
       "id": "evt-36949c75",
@@ -3236,7 +2874,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-rockhaven-2/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/04/High-Hand-Brewery-Music-Rockhaven.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.056Z",
+      "scrapedAt": "2026-05-18T10:39:15.064Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3264,38 +2902,33 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-07-22/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.056Z",
+      "scrapedAt": "2026-05-18T10:39:15.064Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
     {
-      "id": "evt-a361037c",
-      "title": "On Stage with Unleashed",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by Unleashed. Grab a tambourine, sing along, and dance like no one is watching! Unleashed is a fun party band performing your favorite classic rock tunes of the 70’s, 80’s, 90’s, and beyond! You can learn more about them by clicking here to visit their website. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-07-24T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
+      "id": "evt-435bc3f2",
+      "title": "Summer Wine Tasting",
+      "description": "Summer Wine Tasting",
+      "date": "2026-07-25T00:00:00.000Z",
+      "startTime": "12:00 PM",
       "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
+        "name": "Happy Dayz Vineyard",
+        "address": "5575 McCourtney Rd",
+        "city": "Lincoln",
         "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
+        "zip": "95648",
+        "url": "https://www.happydayzvineyard.com/visit-us/"
       },
-      "type": "music",
+      "type": "wine",
       "tags": [
-        "music",
-        "beer",
-        "paint",
-        "workshop"
+        "wine",
+        "tasting"
       ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-unleashed-8/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/05/High-Hand-Brewery-Music-Unleashed.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.056Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
+      "scrapedAt": "2026-05-18T10:39:11.343Z",
+      "source": "happy-dayz-vineyard",
+      "confidence": 0.85
     },
     {
       "id": "evt-74d0a401",
@@ -3321,9 +2954,33 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-wildheart-6/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/08/High-Hand-Brewery-Music-Wildheart-Band-v2.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.056Z",
+      "scrapedAt": "2026-05-18T10:39:15.064Z",
       "source": "high-hand-brewing",
       "confidence": 1
+    },
+    {
+      "id": "evt-bfac3c7d",
+      "title": "Summer Wine Tasting",
+      "description": "Summer Wine Tasting",
+      "date": "2026-07-26T00:00:00.000Z",
+      "startTime": "12:00 PM",
+      "venue": {
+        "name": "Happy Dayz Vineyard",
+        "address": "5575 McCourtney Rd",
+        "city": "Lincoln",
+        "state": "CA",
+        "zip": "95648",
+        "url": "https://www.happydayzvineyard.com/visit-us/"
+      },
+      "type": "wine",
+      "tags": [
+        "wine",
+        "tasting"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-05-18T10:39:11.343Z",
+      "source": "happy-dayz-vineyard",
+      "confidence": 0.85
     },
     {
       "id": "evt-0d25f73f",
@@ -3349,7 +3006,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-skylers-pool-featuring-kitty-oneal-a-little-mayhem-band/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/03/High-Hand-Brewery-Music-Skylers-Pool.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.057Z",
+      "scrapedAt": "2026-05-18T10:39:15.064Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3377,7 +3034,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-07-29/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.057Z",
+      "scrapedAt": "2026-05-18T10:39:15.064Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3406,7 +3063,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-8-track-massacre-12/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/01/High-Hand-Brewery-Music-8-Track-Massacre-v1.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.057Z",
+      "scrapedAt": "2026-05-18T10:39:15.064Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3433,7 +3090,7 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:24:05.959Z",
+      "scrapedAt": "2026-05-18T10:37:54.327Z",
       "source": "auburn-sra",
       "confidence": 1
     },
@@ -3461,7 +3118,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-08-05/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.057Z",
+      "scrapedAt": "2026-05-18T10:39:15.064Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3486,7 +3143,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/7a/643959a6534d4ba3e0dc02526aafe5/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:24:11.192Z",
+      "scrapedAt": "2026-05-18T10:37:58.752Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -3515,7 +3172,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-christopher-scott/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/03/High-Hand-Brewery-Music-Christopher-Scott.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.057Z",
+      "scrapedAt": "2026-05-18T10:39:15.064Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3543,7 +3200,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-08-12/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.057Z",
+      "scrapedAt": "2026-05-18T10:39:15.064Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3572,7 +3229,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-incognito-6/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/03/High-Hand-Brewery-Music-Incognito.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.057Z",
+      "scrapedAt": "2026-05-18T10:39:15.064Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3599,7 +3256,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-the-frat-boys-3/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-The-Frat-Boys.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.057Z",
+      "scrapedAt": "2026-05-18T10:39:15.064Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3627,7 +3284,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-08-19/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.057Z",
+      "scrapedAt": "2026-05-18T10:39:15.064Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3656,7 +3313,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-that-90s-band-7/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/10/High-Hand-Brewery-Music-That-Grunge-Band.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.057Z",
+      "scrapedAt": "2026-05-18T10:39:15.064Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3684,7 +3341,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-def-lepp-a-tribute-to-def-leppard/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/04/High-Hand-Brewery-Music-Def-Lepp.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.057Z",
+      "scrapedAt": "2026-05-18T10:39:15.064Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3712,7 +3369,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-08-26/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.057Z",
+      "scrapedAt": "2026-05-18T10:39:15.064Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3740,7 +3397,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-the-gen-xers-7/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/07/High-Hand-Brewery-Music-Gen-Xers.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.057Z",
+      "scrapedAt": "2026-05-18T10:39:15.064Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3768,7 +3425,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-manzanita-34/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2023/06/High-Hand-Brewery-Music-Manzanita.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.057Z",
+      "scrapedAt": "2026-05-18T10:39:15.065Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3796,7 +3453,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-09-02/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.057Z",
+      "scrapedAt": "2026-05-18T10:39:15.065Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3824,7 +3481,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-the-ramble-ensemble-led-zeppelin-tribute-band/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/07/High-Hand-Brewery-Music-The-Ramble-Ensemble.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.057Z",
+      "scrapedAt": "2026-05-18T10:39:15.065Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3851,7 +3508,7 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:24:05.959Z",
+      "scrapedAt": "2026-05-18T10:37:54.327Z",
       "source": "auburn-sra",
       "confidence": 1
     },
@@ -3880,7 +3537,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-120-minutes-4/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/05/High-Hand-Brewery-Music-120-Minutes.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.058Z",
+      "scrapedAt": "2026-05-18T10:39:15.065Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3909,7 +3566,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-static-sugar/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/03/High-Hand-Brewery-Music-Static-Sugar.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.058Z",
+      "scrapedAt": "2026-05-18T10:39:15.065Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3937,7 +3594,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-09-09/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.058Z",
+      "scrapedAt": "2026-05-18T10:39:15.065Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3966,7 +3623,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-the-used-cars-10/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2023/12/High-Hand-Brewery-Music-The-Used-Cars.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.058Z",
+      "scrapedAt": "2026-05-18T10:39:15.065Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3994,7 +3651,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-mere-mortals-3/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/01/High-Hand-Brewery-Music-Mere-Mortals-2.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.058Z",
+      "scrapedAt": "2026-05-18T10:39:15.065Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4022,7 +3679,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-09-16/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.058Z",
+      "scrapedAt": "2026-05-18T10:39:15.065Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4051,7 +3708,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-unleashed-11/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/05/High-Hand-Brewery-Music-Unleashed.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.058Z",
+      "scrapedAt": "2026-05-18T10:39:15.065Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4079,7 +3736,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-09-23/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.058Z",
+      "scrapedAt": "2026-05-18T10:39:15.065Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4107,7 +3764,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-class-of-85-4/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/07/High-Hand-Brewery-Music-Class-of-85.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.058Z",
+      "scrapedAt": "2026-05-18T10:39:15.065Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4116,7 +3773,7 @@
       "title": "Supreme Pro Wrestling September 26th",
       "description": "💥 Supreme Pro Wrestling Returns to Crooked Lane! 💥Get ready for another season of high-flying action, big personalities, and unforgettable nights at the brewery. Supreme Pro Wrestling is back and bringing the energy with four epic shows this year:📅 April 11 📅 May 9 📅 July 18 📅 September 26Want to catch all the action? Grab a Season Pass for all four shows for just $40!Single-show tickets are $13 online presale or $15 at the door. This is an all-ages event, so bring the whole crew and enjoy a night of wrestling, great beer, and big-time entertainment.Get your tickets and get ready to rumble at the brewery! (Recurring: Does not Repeat)",
       "date": "2026-09-26T00:00:00.000Z",
-      "startTime": "06:00 PM - 09:00 PM",
+      "startTime": "06:30 PM - 09:00 PM",
       "venue": {
         "name": "Crooked Lane Brewing",
         "address": "518 Grass Valley Hwy",
@@ -4133,7 +3790,7 @@
       "url": "https://products.spothopperapp.com/checkout?spotId=374859&externalProductId=2716485",
       "imageUrl": "https://static.spotapps.co/spots/8d/e44044f1e34f6fbebf0bcd827a671d/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:24:11.192Z",
+      "scrapedAt": "2026-05-18T10:37:58.752Z",
       "source": "crooked-lane-brewing",
       "confidence": 1
     },
@@ -4161,7 +3818,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-halfway-inn-4/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2023/09/High-Hand-Brewery-Music-Halfway-Inn.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.058Z",
+      "scrapedAt": "2026-05-18T10:39:15.065Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4189,7 +3846,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-the-vintage-tees-2/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/08/High-Hand-Brewery-Music-Vintage-Tees.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.058Z",
+      "scrapedAt": "2026-05-18T10:39:15.065Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4217,7 +3874,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-09-30/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.058Z",
+      "scrapedAt": "2026-05-18T10:39:15.065Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4245,7 +3902,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-ride-captain-ride-2/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/06/High-Hand-Brewery-Music-Ride-Captain-Ride.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.058Z",
+      "scrapedAt": "2026-05-18T10:39:15.065Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4272,7 +3929,7 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:24:05.959Z",
+      "scrapedAt": "2026-05-18T10:37:54.327Z",
       "source": "auburn-sra",
       "confidence": 1
     },
@@ -4300,7 +3957,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-manzanita-33/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2023/06/High-Hand-Brewery-Music-Manzanita.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.058Z",
+      "scrapedAt": "2026-05-18T10:39:15.066Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4328,7 +3985,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-wildheart-7/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/08/High-Hand-Brewery-Music-Wildheart-Band-v2.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.058Z",
+      "scrapedAt": "2026-05-18T10:39:15.066Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4356,7 +4013,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-10-07/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.059Z",
+      "scrapedAt": "2026-05-18T10:39:15.066Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4385,7 +4042,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-8-track-massacre-14/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/01/High-Hand-Brewery-Music-8-Track-Massacre-v1.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.059Z",
+      "scrapedAt": "2026-05-18T10:39:15.066Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4413,7 +4070,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-10-14/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.059Z",
+      "scrapedAt": "2026-05-18T10:39:15.066Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4442,7 +4099,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-petty-jack-flash-9/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/02/High-Hand-Brewery-Music-Petty-Jack-Flash.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.059Z",
+      "scrapedAt": "2026-05-18T10:39:15.066Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4470,7 +4127,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-10-21/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.059Z",
+      "scrapedAt": "2026-05-18T10:39:15.066Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4498,7 +4155,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-total-recall-10/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/10/High-Hand-Brewery-Music-Total-Recall.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.059Z",
+      "scrapedAt": "2026-05-18T10:39:15.066Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4526,7 +4183,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-journeys-edge-8/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2023/12/High-Hand-Brewery-Music-Journeys-Edge.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.059Z",
+      "scrapedAt": "2026-05-18T10:39:15.066Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4554,7 +4211,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-10-28/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.059Z",
+      "scrapedAt": "2026-05-18T10:39:15.066Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4582,7 +4239,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-11-04/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.059Z",
+      "scrapedAt": "2026-05-18T10:39:15.067Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4611,7 +4268,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-incognito-9/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/03/High-Hand-Brewery-Music-Incognito.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.059Z",
+      "scrapedAt": "2026-05-18T10:39:15.067Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4639,7 +4296,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-11-11/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.059Z",
+      "scrapedAt": "2026-05-18T10:39:15.067Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4667,7 +4324,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-def-lepp-a-tribute-to-def-leppard-3/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/04/High-Hand-Brewery-Music-Def-Lepp.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.059Z",
+      "scrapedAt": "2026-05-18T10:39:15.067Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4695,7 +4352,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-11-18/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.059Z",
+      "scrapedAt": "2026-05-18T10:39:15.067Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4724,7 +4381,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-the-used-cars-9/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2023/12/High-Hand-Brewery-Music-The-Used-Cars.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.059Z",
+      "scrapedAt": "2026-05-18T10:39:15.067Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4752,7 +4409,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-11-25/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.059Z",
+      "scrapedAt": "2026-05-18T10:39:15.067Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4780,7 +4437,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-12-02/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.059Z",
+      "scrapedAt": "2026-05-18T10:39:15.067Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4809,7 +4466,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-8-track-massacre-13/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/01/High-Hand-Brewery-Music-8-Track-Massacre-v1.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.059Z",
+      "scrapedAt": "2026-05-18T10:39:15.067Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4837,7 +4494,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-12-09/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.059Z",
+      "scrapedAt": "2026-05-18T10:39:15.067Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4865,7 +4522,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-total-recall-11/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/10/High-Hand-Brewery-Music-Total-Recall.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.059Z",
+      "scrapedAt": "2026-05-18T10:39:15.067Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4893,7 +4550,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-12-16/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.060Z",
+      "scrapedAt": "2026-05-18T10:39:15.067Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4921,7 +4578,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-12-23/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.060Z",
+      "scrapedAt": "2026-05-18T10:39:15.068Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4949,7 +4606,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-12-30/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.060Z",
+      "scrapedAt": "2026-05-18T10:39:15.068Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4977,7 +4634,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-01-06/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.060Z",
+      "scrapedAt": "2026-05-18T10:39:15.068Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5005,7 +4662,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-01-13/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.060Z",
+      "scrapedAt": "2026-05-18T10:39:15.068Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5033,7 +4690,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-01-20/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.060Z",
+      "scrapedAt": "2026-05-18T10:39:15.068Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5061,7 +4718,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-01-27/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.060Z",
+      "scrapedAt": "2026-05-18T10:39:15.068Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5089,7 +4746,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-02-03/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.060Z",
+      "scrapedAt": "2026-05-18T10:39:15.068Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5117,7 +4774,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-02-10/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.060Z",
+      "scrapedAt": "2026-05-18T10:39:15.068Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5145,7 +4802,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-02-17/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.060Z",
+      "scrapedAt": "2026-05-18T10:39:15.068Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5173,7 +4830,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-02-24/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.060Z",
+      "scrapedAt": "2026-05-18T10:39:15.068Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5201,7 +4858,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-03-03/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.060Z",
+      "scrapedAt": "2026-05-18T10:39:15.068Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5229,7 +4886,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-03-10/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.060Z",
+      "scrapedAt": "2026-05-18T10:39:15.068Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5257,7 +4914,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-03-17/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.060Z",
+      "scrapedAt": "2026-05-18T10:39:15.068Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5285,7 +4942,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-03-24/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.060Z",
+      "scrapedAt": "2026-05-18T10:39:15.069Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5313,7 +4970,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-03-31/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.060Z",
+      "scrapedAt": "2026-05-18T10:39:15.069Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5341,7 +4998,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-04-07/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.060Z",
+      "scrapedAt": "2026-05-18T10:39:15.069Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5369,7 +5026,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-04-14/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.060Z",
+      "scrapedAt": "2026-05-18T10:39:15.069Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5397,7 +5054,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-04-21/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.060Z",
+      "scrapedAt": "2026-05-18T10:39:15.069Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5425,7 +5082,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-04-28/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.061Z",
+      "scrapedAt": "2026-05-18T10:39:15.069Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5449,7 +5106,7 @@
         "tasting"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:05.609Z",
+      "scrapedAt": "2026-05-18T10:39:11.341Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.85
     },
@@ -5477,7 +5134,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-05-05/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.061Z",
+      "scrapedAt": "2026-05-18T10:39:15.069Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5505,7 +5162,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-05-12/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.061Z",
+      "scrapedAt": "2026-05-18T10:39:15.069Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5533,7 +5190,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-05-19/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.061Z",
+      "scrapedAt": "2026-05-18T10:39:15.069Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5561,7 +5218,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-05-26/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.061Z",
+      "scrapedAt": "2026-05-18T10:39:15.069Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5589,7 +5246,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-06-02/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.061Z",
+      "scrapedAt": "2026-05-18T10:39:15.069Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5617,7 +5274,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-06-09/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.061Z",
+      "scrapedAt": "2026-05-18T10:39:15.069Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5645,7 +5302,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-06-16/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.061Z",
+      "scrapedAt": "2026-05-18T10:39:15.069Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5673,7 +5330,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-06-23/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.061Z",
+      "scrapedAt": "2026-05-18T10:39:15.070Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5701,7 +5358,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-06-30/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.061Z",
+      "scrapedAt": "2026-05-18T10:39:15.070Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5729,7 +5386,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-07-07/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.061Z",
+      "scrapedAt": "2026-05-18T10:39:15.070Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5757,7 +5414,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-07-14/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.061Z",
+      "scrapedAt": "2026-05-18T10:39:15.070Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5785,7 +5442,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-07-21/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.061Z",
+      "scrapedAt": "2026-05-18T10:39:15.070Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5813,7 +5470,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-07-28/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.061Z",
+      "scrapedAt": "2026-05-18T10:39:15.070Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5841,7 +5498,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-08-04/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.061Z",
+      "scrapedAt": "2026-05-18T10:39:15.070Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5869,7 +5526,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-08-11/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.061Z",
+      "scrapedAt": "2026-05-18T10:39:15.070Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5897,7 +5554,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-08-18/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.061Z",
+      "scrapedAt": "2026-05-18T10:39:15.070Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5925,7 +5582,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-08-25/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.061Z",
+      "scrapedAt": "2026-05-18T10:39:15.070Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5953,7 +5610,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-09-01/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.062Z",
+      "scrapedAt": "2026-05-18T10:39:15.070Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5981,7 +5638,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-09-08/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.062Z",
+      "scrapedAt": "2026-05-18T10:39:15.070Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6009,7 +5666,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-09-15/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.062Z",
+      "scrapedAt": "2026-05-18T10:39:15.070Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6037,7 +5694,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-09-22/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.062Z",
+      "scrapedAt": "2026-05-18T10:39:15.071Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6065,7 +5722,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-09-29/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.062Z",
+      "scrapedAt": "2026-05-18T10:39:15.071Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6093,7 +5750,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-10-06/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.062Z",
+      "scrapedAt": "2026-05-18T10:39:15.071Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6121,7 +5778,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-10-13/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.062Z",
+      "scrapedAt": "2026-05-18T10:39:15.071Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6149,7 +5806,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-10-20/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.062Z",
+      "scrapedAt": "2026-05-18T10:39:15.071Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6177,7 +5834,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-10-27/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.062Z",
+      "scrapedAt": "2026-05-18T10:39:15.071Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6205,7 +5862,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-11-03/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.062Z",
+      "scrapedAt": "2026-05-18T10:39:15.071Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6233,7 +5890,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-11-10/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.062Z",
+      "scrapedAt": "2026-05-18T10:39:15.071Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6261,7 +5918,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-11-17/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.062Z",
+      "scrapedAt": "2026-05-18T10:39:15.071Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6289,7 +5946,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-11-24/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.062Z",
+      "scrapedAt": "2026-05-18T10:39:15.071Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6317,7 +5974,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-12-01/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.062Z",
+      "scrapedAt": "2026-05-18T10:39:15.071Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6345,7 +6002,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-12-08/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.062Z",
+      "scrapedAt": "2026-05-18T10:39:15.071Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6373,7 +6030,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-12-15/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.063Z",
+      "scrapedAt": "2026-05-18T10:39:15.072Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6401,7 +6058,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-12-22/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.063Z",
+      "scrapedAt": "2026-05-18T10:39:15.072Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6429,7 +6086,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-12-29/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.063Z",
+      "scrapedAt": "2026-05-18T10:39:15.072Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6457,7 +6114,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2028-01-05/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.063Z",
+      "scrapedAt": "2026-05-18T10:39:15.072Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6485,7 +6142,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2028-01-12/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.063Z",
+      "scrapedAt": "2026-05-18T10:39:15.072Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6513,7 +6170,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2028-01-19/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.063Z",
+      "scrapedAt": "2026-05-18T10:39:15.072Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6541,7 +6198,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2028-01-26/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.063Z",
+      "scrapedAt": "2026-05-18T10:39:15.072Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6569,7 +6226,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2028-02-02/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.063Z",
+      "scrapedAt": "2026-05-18T10:39:15.072Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6597,7 +6254,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2028-02-09/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.063Z",
+      "scrapedAt": "2026-05-18T10:39:15.072Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6625,7 +6282,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2028-02-16/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.063Z",
+      "scrapedAt": "2026-05-18T10:39:15.072Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6653,7 +6310,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2028-02-23/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.063Z",
+      "scrapedAt": "2026-05-18T10:39:15.072Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6681,7 +6338,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2028-03-01/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.063Z",
+      "scrapedAt": "2026-05-18T10:39:15.072Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6709,7 +6366,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2028-03-08/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.063Z",
+      "scrapedAt": "2026-05-18T10:39:15.072Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6737,7 +6394,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2028-03-15/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.063Z",
+      "scrapedAt": "2026-05-18T10:39:15.073Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6765,7 +6422,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2028-03-22/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.063Z",
+      "scrapedAt": "2026-05-18T10:39:15.073Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6793,7 +6450,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2028-03-29/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.063Z",
+      "scrapedAt": "2026-05-18T10:39:15.073Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6821,7 +6478,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2028-04-05/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.064Z",
+      "scrapedAt": "2026-05-18T10:39:15.073Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6849,7 +6506,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2028-04-12/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.064Z",
+      "scrapedAt": "2026-05-18T10:39:15.073Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6877,7 +6534,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2028-04-19/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.064Z",
+      "scrapedAt": "2026-05-18T10:39:15.073Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6905,7 +6562,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2028-04-26/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.064Z",
+      "scrapedAt": "2026-05-18T10:39:15.073Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6933,7 +6590,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2028-05-03/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.064Z",
+      "scrapedAt": "2026-05-18T10:39:15.073Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6961,7 +6618,35 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2028-05-10/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-05-11T10:26:10.064Z",
+      "scrapedAt": "2026-05-18T10:39:15.073Z",
+      "source": "high-hand-brewing",
+      "confidence": 1
+    },
+    {
+      "id": "evt-4dca9fc0",
+      "title": "Hump Day Live&#8217;s Jam Nite with Melissa &#038; Andrew",
+      "description": "Join us at High-Hand Brewery as we launch our new Hump Day Jam Nite! Every Wednesday, we’re opening the stage to musicians of all kinds—bring your axe, your voice, your full band, or just the urge to play. When you arrive, find Melissa to sign up and lock in your spot. High-Hand’s pro backline will be ready for you. Solo players will be paired up into spontaneous jam groups, and together you’ll decide what to play—keeping it loose, creative, and fun. It’s all about rocking out, connecting with fellow musicians, and celebrating the amazing music community we’re surrounded by. Each week will also feature a guest band to keep the night energized and inspiring. Come jam, hang out, and make your Wednesday groove. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
+      "date": "2028-05-17T18:00:00.000Z",
+      "startTime": "6:00 PM",
+      "endTime": "9:00 PM",
+      "venue": {
+        "name": "High Hand Brewing Company",
+        "address": "3750 Taylor Rd",
+        "city": "Loomis",
+        "state": "CA",
+        "zip": "95650",
+        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
+      },
+      "type": "music",
+      "tags": [
+        "music",
+        "beer",
+        "wednesday"
+      ],
+      "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2028-05-17/",
+      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
+      "isRecurring": false,
+      "scrapedAt": "2026-05-18T10:39:15.073Z",
       "source": "high-hand-brewing",
       "confidence": 1
     }
