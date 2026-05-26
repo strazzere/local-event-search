@@ -164,10 +164,15 @@ export const scrapeCommand = new Command('scrape')
     // Clean up browser if used
     await closeBrowserClient();
 
-    // Exit with non-zero code if any scrapes failed
+    // Report failures, but only exit non-zero if every venue failed.
+    // A single venue failing (e.g. a 404 from one site) should not fail the run.
     const failedCount = results.filter(r => !r.success).length;
+    const successCount = results.length - failedCount;
     if (failedCount > 0) {
-      console.log(`\nExiting with error: ${failedCount} venue(s) failed to scrape`);
+      console.log(`\n${failedCount} venue(s) failed to scrape (${successCount} succeeded)`);
+    }
+    if (results.length > 0 && successCount === 0) {
+      console.log('Exiting with error: all venues failed to scrape');
       process.exit(1);
     }
   });
