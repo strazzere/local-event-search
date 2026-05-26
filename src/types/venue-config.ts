@@ -71,7 +71,7 @@ export const VenueConfigSchema = z.object({
     retries: z.number().default(3),
     dateFormat: z.string().optional(),
     timezone: z.string().default('America/Los_Angeles')
-  }).default({}),
+  }).prefault({}),
   customParser: z.string().optional()
 });
 

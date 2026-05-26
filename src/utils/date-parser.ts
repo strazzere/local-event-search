@@ -10,7 +10,7 @@ import {
   setHours,
   setMinutes
 } from 'date-fns';
-import { utcToZonedTime, format as formatTz } from 'date-fns-tz';
+import { toZonedTime, format as formatTz } from 'date-fns-tz';
 import { logger } from './logger';
 
 const DEFAULT_TIMEZONE = 'America/Los_Angeles';
@@ -160,7 +160,7 @@ export class DateParser {
   }
 
   toLocalString(date: Date, fmt: string = 'yyyy-MM-dd HH:mm:ss'): string {
-    const zonedDate = utcToZonedTime(date, this.timezone);
+    const zonedDate = toZonedTime(date, this.timezone);
     return formatTz(zonedDate, fmt, { timeZone: this.timezone });
   }
 

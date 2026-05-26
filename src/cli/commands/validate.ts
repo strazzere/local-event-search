@@ -77,7 +77,7 @@ function validateConfigFile(filePath: string): boolean {
       return true;
     } else {
       console.log(`[FAIL] ${filename}:`);
-      for (const error of result.error.errors) {
+      for (const error of result.error.issues) {
         console.log(`  - ${error.path.join('.')}: ${error.message}`);
       }
       return false;

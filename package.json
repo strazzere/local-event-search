@@ -11,8 +11,6 @@
     "scrape": "ts-node src/cli/index.ts",
     "validate": "ts-node src/cli/index.ts validate",
     "test-scraper": "ts-node src/cli/index.ts test-scraper",
-    "test": "jest",
-    "lint": "eslint src/**/*.ts",
     "format": "prettier --write src/**/*.ts"
   },
   "keywords": [
@@ -25,25 +23,21 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "axios": "^1.6.0",
-    "axios-retry": "^4.0.0",
-    "cheerio": "^1.0.0-rc.12",
-    "commander": "^11.1.0",
-    "date-fns": "^2.30.0",
-    "date-fns-tz": "^2.0.0",
-    "ical-generator": "^6.0.0",
-    "playwright": "^1.41.0",
-    "winston": "^3.11.0",
-    "zod": "^3.22.0"
+    "axios": "^1.12.0",
+    "axios-retry": "^4.5.0",
+    "cheerio": "^1.0.0",
+    "commander": "^14.0.0",
+    "date-fns": "^4.1.0",
+    "date-fns-tz": "^3.2.0",
+    "ical-generator": "^10.0.0",
+    "playwright": "^1.55.0",
+    "winston": "^3.17.0",
+    "zod": "^4.0.0"
   },
   "devDependencies": {
-    "@types/jest": "^29.5.0",
-    "@types/node": "^20.10.0",
-    "eslint": "^8.55.0",
-    "jest": "^29.7.0",
-    "prettier": "^3.1.0",
-    "ts-jest": "^29.1.0",
+    "@types/node": "^22.0.0",
+    "prettier": "^3.4.0",
     "ts-node": "^10.9.0",
-    "typescript": "^5.3.0"
+    "typescript": "^5.9.0"
   }
 }
