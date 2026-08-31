@@ -1,802 +1,21 @@
 {
   "metadata": {
     "version": "1.0.0",
-    "generatedAt": "2026-08-24T09:24:05.907Z",
-    "eventCount": 111,
-    "venueCount": 10,
+    "generatedAt": "2026-08-31T09:27:32.512Z",
+    "eventCount": 69,
+    "venueCount": 8,
     "venues": [
       "Auburn State Recreation Area",
       "Crooked Lane Brewing",
       "Fowler Ranch",
       "Happy Dayz Vineyard",
-      "High Hand Brewing Company",
       "Knee Deep Brewing",
       "Mindscape Fermentations",
       "Moonraker Brewing",
-      "Omakase Por Favor",
       "The Pour Choice"
     ]
   },
   "events": [
-    {
-      "id": "evt-ec0a27f9",
-      "title": "Outlaw Cuisine",
-      "date": "2026-08-24T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [],
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:24:02.592Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-c69928cd",
-      "title": "Santaco's",
-      "date": "2026-08-25T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:24:02.592Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-81963e3b",
-      "title": "DANCH & GRANGER WINE DINNER",
-      "description": "Join us for a guided evening featuring 6 courses paired with 6 premium sakes from Heiwa Shuzo, an acclaimed brewery from Wakayama, Japan. Founded over 100 years ago, Heiwa Shuzo blends traditional brewing methods with a modern approach that has earned international recognition for its KID sake lineup. Throughout the dinner, sake sommelier Tayler Pecha will lead guests through each pairing, covering tasting notes, brewing techniques, rice polishing, and the story behind the brewery. Whether you're new to sake or already a fan, this is a great opportunity to explore a variety of styles in a relaxed and educational setting. Experience Includes: 6-course chef-curated dinner 6 Heiwa Shuzo sake pairings Guided tasting and education with Tayler Pecha #block-c5e9c41c048e0f7063a5 { } #block-c5e9c41c048e0f7063a5 .sqs-html-content { } #block-c5e9c41c048e0f7063a5 { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); } @media screen and (max-width: 767px) { #block-c5e9c41c048e0f7063a5 { } } @media screen and (max-width: 767px) { #block-c5e9c41c048e0f7063a5 .sqs-html-content { } } @media screen and (max-width: 767px) { }",
-      "date": "2026-08-25T00:00:00.000Z",
-      "startTime": "Tuesday, August 25, 2026",
-      "venue": {
-        "name": "Omakase Por Favor",
-        "address": "1174 Auburn Blvd",
-        "city": "Sacramento",
-        "state": "CA",
-        "zip": "95815",
-        "url": "https://www.omakaseporfavor.com/events-2",
-        "phone": "(916) 238-2638"
-      },
-      "type": "food",
-      "tags": [
-        "food",
-        "wine",
-        "beer",
-        "tasting",
-        "workshop"
-      ],
-      "url": "https://www.omakaseporfavor.com/events-2/danch-granger-wine-dinner",
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/62c5e419ba47737d0a58abda/a60da967-cb76-49de-baf5-192a26e26baa/NIght%2Bwave%2B1.png",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:24:03.016Z",
-      "source": "omakase-por-favor",
-      "confidence": 1
-    },
-    {
-      "id": "evt-a9153e8f",
-      "title": "Remedy Supply Co. @ Roseville Farmer’s Market",
-      "description": "Our sister coffee roasting company, Remedy Supply Co., has a booth every week, offering a selection of their great coffees. From staple blends and unique single origins to instant coffee and cold brew concentrate—they aim to connect our community with coffee. One cup at a time. The Fountains Roseville 1013 Galleria Blvd Roseville, CA 95678 RemedySupplyCo.com @remedysupply.co",
-      "date": "2026-08-25T00:00:00.000Z",
-      "startTime": "1:00 AM",
-      "endTime": "6:00 AM",
-      "venue": {
-        "name": "The Pour Choice",
-        "address": "177 Sacramento St",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://thepourchoice.com/events/"
-      },
-      "type": "beer",
-      "tags": [
-        "beer"
-      ],
-      "url": "https://thepourchoice.com/event/roseville-farmers-market/",
-      "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/roseville.png",
-      "price": "0",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:24:05.902Z",
-      "source": "pour-choice",
-      "confidence": 1
-    },
-    {
-      "id": "evt-8f5ab16c",
-      "title": "Buckethead BBQ",
-      "date": "2026-08-26T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:24:02.592Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-c21b5ca2",
-      "title": "Trivia Night",
-      "date": "2026-08-26T00:00:00.000Z",
-      "startTime": "6:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "trivia",
-      "tags": [
-        "trivia"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:24:02.592Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-6244bc34",
-      "title": "Hump Day Live&#8217;s Jam Nite with Melissa &#038; Andrew | Featuring guest band Keeping Kind",
-      "description": "Join us at High-Hand Brewery as we launch our new Hump Day Jam Nite! Every Wednesday, we’re opening the stage to musicians of all kinds—bring your axe, your voice, your full band, or just the urge to play. When you arrive, find Melissa to sign up and lock in your spot. High-Hand’s pro backline will be ready for you. Solo players will be paired up into spontaneous jam groups, and together you’ll decide what to play—keeping it loose, creative, and fun. It’s all about rocking out, connecting with fellow musicians, and celebrating the amazing music community we’re surrounded by. This week will also feature the guest band &#8220;Keeping Kind&#8221; to keep the night energized and inspiring. Come jam, hang out, and make your Wednesday groove. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-08-26T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "wednesday"
-      ],
-      "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew-28/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.555Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-5c2377a6",
-      "title": "Dream Burger",
-      "description": "Recurring: Does not Repeat",
-      "date": "2026-08-27T00:00:00.000Z",
-      "startTime": "04:00 PM - 08:00 PM",
-      "venue": {
-        "name": "Crooked Lane Brewing",
-        "address": "518 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
-        "phone": "(530) 878-7848"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "imageUrl": "https://static.spotapps.co/spots/b2/a0dd4594ca4b0b992a67c27615ec0e/w926",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:22:13.250Z",
-      "source": "crooked-lane-brewing",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-d02bbbc3",
-      "title": "MUSIC BINGO!",
-      "date": "2026-08-27T00:00:00.000Z",
-      "startTime": "",
-      "venue": {
-        "name": "Mindscape Fermentations",
-        "address": "1531 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://mindscape-fermentations.com/events/",
-        "phone": "(530) 820-4330"
-      },
-      "type": "music",
-      "tags": [
-        "music"
-      ],
-      "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498-677-525-896-674-283-601-278-786-611-856-839-986-831-474/",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:35.463Z",
-      "source": "mindscape-fermentations",
-      "confidence": 0.8
-    },
-    {
-      "id": "evt-f8eae8e0",
-      "title": "Santaco's",
-      "date": "2026-08-27T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:24:02.592Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-fe936ad0",
-      "title": "Paint & Sip",
-      "date": "2026-08-27T00:00:00.000Z",
-      "startTime": "6:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "paint",
-      "tags": [
-        "paint"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:24:02.592Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-ce5c5e72",
-      "title": "Fowler Ranch hosts a weekly cornhole competition open to anyone.",
-      "date": "2026-08-27T09:22:27.898Z",
-      "startTime": "6:00pm",
-      "venue": {
-        "name": "Fowler Ranch",
-        "city": "Newcastle",
-        "state": "CA",
-        "url": "https://www.fowlerranch.com/entertainment"
-      },
-      "type": "other",
-      "tags": [],
-      "isRecurring": true,
-      "recurringPattern": "weekly:thursday",
-      "scrapedAt": "2026-08-24T09:22:27.899Z",
-      "source": "fowler-ranch",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-ae3d1d8a",
-      "title": "National Red Wine Day",
-      "description": "It's National Red Wine Day! Come enjoy a glass from our excellent selection! (Recurring: Does not Repeat)",
-      "date": "2026-08-28T00:00:00.000Z",
-      "startTime": "11:00 AM - 08:00 PM",
-      "venue": {
-        "name": "Crooked Lane Brewing",
-        "address": "518 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
-        "phone": "(530) 878-7848"
-      },
-      "type": "wine",
-      "tags": [
-        "wine"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:22:13.256Z",
-      "source": "crooked-lane-brewing",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-d07a0970",
-      "title": "Staq & Cream",
-      "description": "Recurring: Does not Repeat",
-      "date": "2026-08-28T00:00:00.000Z",
-      "startTime": "04:00 PM - 08:00 PM",
-      "venue": {
-        "name": "Crooked Lane Brewing",
-        "address": "518 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
-        "phone": "(530) 878-7848"
-      },
-      "type": "other",
-      "tags": [],
-      "imageUrl": "https://static.spotapps.co/spots/e2/951f43ac974f0d8fc40d8719ca0a2b/w926",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:22:13.256Z",
-      "source": "crooked-lane-brewing",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-f840a0ab",
-      "title": "Live Music with Ma Barker",
-      "description": "Classic Rock, Country and 'British Invasion'Ma Barker comprises of five really talented lads of a certain age that play Classic Rock, some good old Pop and a little bit of Country. (Recurring: Does not Repeat)",
-      "date": "2026-08-28T00:00:00.000Z",
-      "startTime": "05:00 PM - 08:00 PM",
-      "venue": {
-        "name": "Crooked Lane Brewing",
-        "address": "518 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
-        "phone": "(530) 878-7848"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "workshop"
-      ],
-      "imageUrl": "https://static.spotapps.co/spots/54/a6ade3a71544de9c54c5fe71c52e69/w926",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:22:13.256Z",
-      "source": "crooked-lane-brewing",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-cddd49d2",
-      "title": "Maria's Tacos5:",
-      "date": "2026-08-28T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:24:02.592Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-0a762e37",
-      "title": "Live Music by Todd Fetherston",
-      "date": "2026-08-28T00:00:00.000Z",
-      "startTime": "0:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [
-        "music"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:24:02.592Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-def70799",
-      "title": "Maria's Tacos",
-      "date": "2026-08-28T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:24:02.593Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-626a0212",
-      "title": "Fowler Ranch presents a weekly Trivia competition hosted by Brain Freeze! Come out and win some prizes!",
-      "date": "2026-08-28T09:22:27.899Z",
-      "startTime": "6:00pm",
-      "venue": {
-        "name": "Fowler Ranch",
-        "city": "Newcastle",
-        "state": "CA",
-        "url": "https://www.fowlerranch.com/entertainment"
-      },
-      "type": "trivia",
-      "tags": [
-        "trivia"
-      ],
-      "isRecurring": true,
-      "recurringPattern": "weekly:friday",
-      "scrapedAt": "2026-08-24T09:22:27.899Z",
-      "source": "fowler-ranch",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-d645c77f",
-      "title": "On Stage with the Gen X&#8217;ers",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by the Gen X&#8217;ers. Get ready to be transported back to the iconic early days of MTV with The Gen X’ers Band! Experience the ultimate nostalgia as they play all your favorite synth-pop, rock, new wave, and even some classic grunge hits. Their electrifying performance and spot-on renditions will have you singing along and reminiscing about the golden era of music videos and unforgettable anthems. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-08-28T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "workshop"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-the-gen-xers-7/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/07/High-Hand-Brewery-Music-Gen-Xers.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.555Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-e1f45bd6",
-      "title": "Maria's Tacos",
-      "description": "Recurring: Does not Repeat",
-      "date": "2026-08-29T00:00:00.000Z",
-      "startTime": "04:00 PM - 08:00 PM",
-      "venue": {
-        "name": "Crooked Lane Brewing",
-        "address": "518 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
-        "phone": "(530) 878-7848"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "imageUrl": "https://static.spotapps.co/spots/f2/f484bbb1204addbfda035614835d92/w926",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:22:13.256Z",
-      "source": "crooked-lane-brewing",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-bbf5685a",
-      "title": "Summer Wine Tasting",
-      "description": "Summer Wine Tasting",
-      "date": "2026-08-29T00:00:00.000Z",
-      "startTime": "12:00 PM",
-      "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
-      },
-      "type": "wine",
-      "tags": [
-        "wine",
-        "tasting"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:25.929Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-ee92cdaf",
-      "title": "Mucho Nacho",
-      "date": "2026-08-29T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [],
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:24:02.593Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-deb7b2b4",
-      "title": "Remedy Supply Co. @ Auburn Farmer’s Market",
-      "description": "Our sister boutique coffee roasting company, Remedy Supply Co., has a booth every week, selling all the great coffees they have to offer. From staple blends and unique single origins to instant coffee and cold brew concentrate—they aim to connect our community with coffee. One cup at a time. 150 Auburn Folsom Rd. Auburn, CA 95603 RemedySupplyCo.com @remedysupply.co",
-      "date": "2026-08-29T00:00:00.000Z",
-      "startTime": "1:00 AM",
-      "endTime": "5:00 AM",
-      "venue": {
-        "name": "The Pour Choice",
-        "address": "177 Sacramento St",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://thepourchoice.com/events/"
-      },
-      "type": "beer",
-      "tags": [
-        "beer"
-      ],
-      "url": "https://thepourchoice.com/event/auburn-farmers-market/",
-      "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/auburn.png",
-      "price": "0",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:24:05.902Z",
-      "source": "pour-choice",
-      "confidence": 1
-    },
-    {
-      "id": "evt-d317fa0b",
-      "title": "On Stage with Manzanita",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by Manzanita. They are a Indie Folk band from Northern California with blends of Americana and Country. A Manzanita performance is a huge sound from two men. Aaron Shively&#8217;s pedal steel playing is seasoned and tasteful with a &#8216;Hammond organ-like&#8217; tone. His mandolin will delight any bluegrass lover. Nick Foster fronts with his parlor-style acoustic guitar, harmonica, kick drum and tambourine simultaneously. Original songwriting with storytelling, catchy vocal melodies and powerful harmonies give this duo a classic and eclectic sound all can enjoy. You can learn more about them by clicking here to visit their website. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-08-29T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "workshop"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-manzanita-34/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2023/06/High-Hand-Brewery-Music-Manzanita.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.555Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-4dfb4f9f",
-      "title": "Dream Burger",
-      "description": "Recurring: Does not Repeat",
-      "date": "2026-08-30T00:00:00.000Z",
-      "startTime": "04:00 PM - 08:00 PM",
-      "venue": {
-        "name": "Crooked Lane Brewing",
-        "address": "518 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
-        "phone": "(530) 878-7848"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "imageUrl": "https://static.spotapps.co/spots/b2/a0dd4594ca4b0b992a67c27615ec0e/w926",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:22:13.256Z",
-      "source": "crooked-lane-brewing",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-0916e6fe",
-      "title": "Summer Wine Tasting",
-      "description": "Summer Wine Tasting",
-      "date": "2026-08-30T00:00:00.000Z",
-      "startTime": "12:00 PM",
-      "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
-      },
-      "type": "wine",
-      "tags": [
-        "wine",
-        "tasting"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:25.929Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-524c7bb5",
-      "title": "TRIVIA NIGHT",
-      "date": "2026-08-30T00:00:00.000Z",
-      "startTime": "",
-      "venue": {
-        "name": "Mindscape Fermentations",
-        "address": "1531 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://mindscape-fermentations.com/events/",
-        "phone": "(530) 820-4330"
-      },
-      "type": "trivia",
-      "tags": [
-        "trivia"
-      ],
-      "url": "https://mindscape-fermentations.com/events/trivia-night-999-690-812-906-953-155-116-822-235-157-598-714-415-873-555-392-609-230-961-821-676-648-912-964-972-152/",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:35.463Z",
-      "source": "mindscape-fermentations",
-      "confidence": 0.8
-    },
-    {
-      "id": "evt-f4a048d0",
-      "title": "Summer Pop-Up Market",
-      "date": "2026-08-30T00:00:00.000Z",
-      "startTime": "1:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [],
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:24:02.593Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-a4ee8513",
-      "title": "Senor Burger",
-      "date": "2026-08-30T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:24:02.593Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-c12cf0c5",
-      "title": "Remedy Supply Co. @ Lincoln Farmer’s Market",
-      "description": "Our sister boutique coffee roasting company, Remedy Supply Co., has a booth every week, offering a selection of their great coffees. From staple blends and unique single origins to instant coffee and cold brew concentrate—they aim to connect our community with coffee. One cup at a time. 3111 Lincoln Newcastle Hwy Lincoln, CA 95648 RemedySupplyCo.com @remedysupply.co",
-      "date": "2026-08-30T00:00:00.000Z",
-      "startTime": "2:00 AM",
-      "endTime": "6:00 AM",
-      "venue": {
-        "name": "The Pour Choice",
-        "address": "177 Sacramento St",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://thepourchoice.com/events/"
-      },
-      "type": "beer",
-      "tags": [
-        "beer"
-      ],
-      "url": "https://thepourchoice.com/event/lincoln-farmers-market/",
-      "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/lincoln.png",
-      "price": "0",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:24:05.902Z",
-      "source": "pour-choice",
-      "confidence": 1
-    },
-    {
-      "id": "evt-408123b8",
-      "title": "On Stage with Bad Cat",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by Bad Cat. This band was founded in 2022 by lead guitarist, Vince Bonio. Based in the Sacramento area, the 10 person group plays a mix of classic Rock and Blues. The addition of horns gives them a big sound and creates their California Delta Fusion flair. Come jam, hang out, and make your Wednesday groove. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-08-30T14:00:00.000Z",
-      "startTime": "2:00 PM",
-      "endTime": "5:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "workshop",
-        "wednesday"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-bad-cat/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/05/High-Hand-Brewery-Music-Bad-Cat.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.556Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
     {
       "id": "evt-c1a2f69c",
       "title": "Doggiestyle Hot Dogs",
@@ -814,9 +33,36 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:24:02.593Z",
+      "scrapedAt": "2026-08-31T09:27:25.195Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
+    },
+    {
+      "id": "evt-c05ab4d9",
+      "title": "Magic The Gathering",
+      "description": "Tuesdays every 2 weeksMAGIC: THE GATHERING — CASUAL COMMANDER NIGHTS! New day, Same time!Gather your friends, shuffle your decks, and join us at Crooked Lane for a night of casual Commander gameplay, great beer, and good company!FREE TO PLAY~ALL AGES WELCOME~ALL SKILL LEVELS WELCOME ~CASUAL, FUN & FRIENDLYWhether you’re a seasoned Planeswalker or just learning the ropes, come play a few games and meet some fellow Magic fans! (Recurring: Custom)",
+      "date": "2026-09-01T00:00:00.000Z",
+      "startTime": "05:00 PM - 09:00 PM",
+      "venue": {
+        "name": "Crooked Lane Brewing",
+        "address": "518 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
+        "phone": "(530) 878-7848"
+      },
+      "type": "beer",
+      "tags": [
+        "beer",
+        "workshop",
+        "tuesday"
+      ],
+      "imageUrl": "https://static.spotapps.co/spots/13/644c8b944146828714ac06fe63f73a/w926",
+      "isRecurring": false,
+      "scrapedAt": "2026-08-31T09:26:38.455Z",
+      "source": "crooked-lane-brewing",
+      "confidence": 0.95
     },
     {
       "id": "evt-4086684a",
@@ -837,7 +83,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:24:02.593Z",
+      "scrapedAt": "2026-08-31T09:27:25.195Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -864,7 +110,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/roseville.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:24:05.902Z",
+      "scrapedAt": "2026-08-31T09:27:32.507Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -886,7 +132,7 @@
       "tags": [],
       "url": "https://mindscape-fermentations.com/events/fall-makers-market-2026/",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:35.463Z",
+      "scrapedAt": "2026-08-31T09:27:14.474Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -907,7 +153,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:24:02.593Z",
+      "scrapedAt": "2026-08-31T09:27:25.195Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -930,37 +176,34 @@
         "trivia"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:24:02.593Z",
+      "scrapedAt": "2026-08-31T09:27:25.195Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
     {
-      "id": "evt-73dfa736",
-      "title": "Hump Day Live&#8217;s Jam Nite with Melissa &#038; Andrew",
-      "description": "Join us at High-Hand Brewery as we launch our new Hump Day Jam Nite! Every Wednesday, we’re opening the stage to musicians of all kinds—bring your axe, your voice, your full band, or just the urge to play. When you arrive, find Melissa to sign up and lock in your spot. High-Hand’s pro backline will be ready for you. Solo players will be paired up into spontaneous jam groups, and together you’ll decide what to play—keeping it loose, creative, and fun. It’s all about rocking out, connecting with fellow musicians, and celebrating the amazing music community we’re surrounded by. Each week will also feature a guest band to keep the night energized and inspiring. Come jam, hang out, and make your Wednesday groove. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-09-02T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
+      "id": "evt-4982830a",
+      "title": "Staq & Cream",
+      "description": "“A Rolling Smashed Burger Drive-In Food Trailer” (Recurring: Does not Repeat)",
+      "date": "2026-09-03T00:00:00.000Z",
+      "startTime": "04:00 PM - 08:00 PM",
       "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
+        "name": "Crooked Lane Brewing",
+        "address": "518 Grass Valley Hwy",
+        "city": "Auburn",
         "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
+        "zip": "95603",
+        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
+        "phone": "(530) 878-7848"
       },
-      "type": "music",
+      "type": "food",
       "tags": [
-        "music",
-        "beer",
-        "wednesday"
+        "food"
       ],
-      "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-09-02/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
+      "imageUrl": "https://static.spotapps.co/spots/ea/a162d4a1d24a808b1e69aa7c3bda06/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.556Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
+      "scrapedAt": "2026-08-31T09:26:38.455Z",
+      "source": "crooked-lane-brewing",
+      "confidence": 0.95
     },
     {
       "id": "evt-75d65cf4",
@@ -982,7 +225,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498-677-525-896-674-283-601-278-786-611-856-839-986-831-474-307/",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:35.463Z",
+      "scrapedAt": "2026-08-31T09:27:14.474Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -1003,9 +246,101 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:24:02.593Z",
+      "scrapedAt": "2026-08-31T09:27:25.195Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
+    },
+    {
+      "id": "evt-df79f4e3",
+      "title": "Brushes & Brews",
+      "date": "2026-09-03T00:00:00.000Z",
+      "startTime": "6:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [
+        "beer"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-08-31T09:27:25.195Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-d9162c04",
+      "title": "Fowler Ranch hosts a weekly cornhole competition open to anyone.",
+      "date": "2026-09-03T09:26:53.004Z",
+      "startTime": "6:00pm",
+      "venue": {
+        "name": "Fowler Ranch",
+        "city": "Newcastle",
+        "state": "CA",
+        "url": "https://www.fowlerranch.com/entertainment"
+      },
+      "type": "other",
+      "tags": [],
+      "isRecurring": true,
+      "recurringPattern": "weekly:thursday",
+      "scrapedAt": "2026-08-31T09:26:53.005Z",
+      "source": "fowler-ranch",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-251e0944",
+      "title": "Dream Burger",
+      "description": "Gourmet Burgers! Fresh Never frozen! Beef tallow in the fryer! (Recurring: Does not Repeat)",
+      "date": "2026-09-04T00:00:00.000Z",
+      "startTime": "04:00 PM - 08:00 PM",
+      "venue": {
+        "name": "Crooked Lane Brewing",
+        "address": "518 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
+        "phone": "(530) 878-7848"
+      },
+      "type": "food",
+      "tags": [
+        "food"
+      ],
+      "imageUrl": "https://static.spotapps.co/spots/b2/a0dd4594ca4b0b992a67c27615ec0e/w926",
+      "isRecurring": false,
+      "scrapedAt": "2026-08-31T09:26:38.455Z",
+      "source": "crooked-lane-brewing",
+      "confidence": 0.95
+    },
+    {
+      "id": "evt-4a5fc52f",
+      "title": "Live Music with Jameson Roads",
+      "description": "Join us for an evening of live acoustic music from local favorite Jameson Roads. Grab a pint, bring your crew, and settle in for some great live music and good times! (Recurring: Does not Repeat)",
+      "date": "2026-09-04T00:00:00.000Z",
+      "startTime": "05:00 PM - 08:00 PM",
+      "venue": {
+        "name": "Crooked Lane Brewing",
+        "address": "518 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
+        "phone": "(530) 878-7848"
+      },
+      "type": "music",
+      "tags": [
+        "music"
+      ],
+      "imageUrl": "https://static.spotapps.co/spots/4a/eb6926124f4d5a99a91b04876c379f/w926",
+      "isRecurring": false,
+      "scrapedAt": "2026-08-31T09:26:38.455Z",
+      "source": "crooked-lane-brewing",
+      "confidence": 0.95
     },
     {
       "id": "evt-05694884",
@@ -1026,7 +361,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:24:02.593Z",
+      "scrapedAt": "2026-08-31T09:27:25.195Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1049,7 +384,7 @@
         "music"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:24:02.593Z",
+      "scrapedAt": "2026-08-31T09:27:25.195Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1072,37 +407,30 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:24:02.593Z",
+      "scrapedAt": "2026-08-31T09:27:25.195Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
     {
-      "id": "evt-ac313e57",
-      "title": "On Stage with The Ramble Ensemble (Led Zeppelin Tribute Band)",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by On Stage with The Ramble Ensemble. A tribute to the &#8220;live&#8221; Led Zeppelin experience, playing their catalog like they played it — unpredictable, uncontrollable, a new experience every night. A 6-piece tour-de-force of Zep mastery, playing the tale that can’t be told. You can learn more about them by clicking here to visit their Facebook page. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-09-04T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
+      "id": "evt-68471c5c",
+      "title": "Fowler Ranch presents a weekly Trivia competition hosted by Brain Freeze! Come out and win some prizes!",
+      "date": "2026-09-04T09:26:53.005Z",
+      "startTime": "6:00pm",
       "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
+        "name": "Fowler Ranch",
+        "city": "Newcastle",
         "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
+        "url": "https://www.fowlerranch.com/entertainment"
       },
-      "type": "music",
+      "type": "trivia",
       "tags": [
-        "music",
-        "beer",
-        "workshop"
+        "trivia"
       ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-the-ramble-ensemble-led-zeppelin-tribute-band/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/07/High-Hand-Brewery-Music-The-Ramble-Ensemble.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.556Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
+      "isRecurring": true,
+      "recurringPattern": "weekly:friday",
+      "scrapedAt": "2026-08-31T09:26:53.006Z",
+      "source": "fowler-ranch",
+      "confidence": 0.85
     },
     {
       "id": "evt-3f16a111",
@@ -1127,9 +455,34 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:22:08.648Z",
+      "scrapedAt": "2026-08-31T09:26:34.847Z",
       "source": "auburn-sra",
       "confidence": 1
+    },
+    {
+      "id": "evt-b30f5e61",
+      "title": "Maria's Mexican Tacos",
+      "description": "Recurring: Does not Repeat",
+      "date": "2026-09-05T00:00:00.000Z",
+      "startTime": "04:00 PM - 08:00 PM",
+      "venue": {
+        "name": "Crooked Lane Brewing",
+        "address": "518 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
+        "phone": "(530) 878-7848"
+      },
+      "type": "food",
+      "tags": [
+        "food"
+      ],
+      "imageUrl": "https://static.spotapps.co/spots/f2/f484bbb1204addbfda035614835d92/w926",
+      "isRecurring": false,
+      "scrapedAt": "2026-08-31T09:26:38.455Z",
+      "source": "crooked-lane-brewing",
+      "confidence": 0.95
     },
     {
       "id": "evt-a0c3c4b1",
@@ -1150,7 +503,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:24:02.593Z",
+      "scrapedAt": "2026-08-31T09:27:25.195Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1177,62 +530,9 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/auburn.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:24:05.902Z",
+      "scrapedAt": "2026-08-31T09:27:32.507Z",
       "source": "pour-choice",
       "confidence": 1
-    },
-    {
-      "id": "evt-5c530ca7",
-      "title": "On Stage with 120 Minutes",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by 120 Minutes. Sacramento’s ultimate time machine to the golden age of rock — this powerhouse band slams through the best of 90’s and early 2000’s alternative, grunge, and hard-hitting rock with raw energy and a rebel soul. Fronted by both the gritty vocals of Jon Grant and Owen Myers, the band features their ripping guitar work and keyboard melodies, respectively. Guitarists Alex Schmidt and Brian Ilagan shred with precision and passion, while Dave Wong lays down the thunder on bass and Gar Garvey keeps the heartbeat pounding on drums. From the anthems of The Smashing Pumpkins, Pearl Jam and Alice In Chains to the pulse of Foo Fighters, CAKE, Bush and more, 120 Minutes doesn’t just play the soundtrack of a generation—they ignite it. This band is a must-see for anyone who ever wore Doc Martens, blasted their car stereo, or just wanted to rock without apology. Get ready to relive the era when guitars ruled, angst was an art form, and every track hit like a shot of adrenaline. 120 Minutes brings it all back—louder, tighter, and harder than ever. Are you ready to feel it again? You can learn more about them by clicking here to visit their website. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-09-05T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "paint",
-        "workshop"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-120-minutes-4/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/05/High-Hand-Brewery-Music-120-Minutes.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.556Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-e501d509",
-      "title": "Live Music Jam Session",
-      "date": "2026-09-06T00:00:00.000Z",
-      "startTime": "",
-      "venue": {
-        "name": "Mindscape Fermentations",
-        "address": "1531 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://mindscape-fermentations.com/events/",
-        "phone": "(530) 820-4330"
-      },
-      "type": "music",
-      "tags": [
-        "music"
-      ],
-      "url": "https://mindscape-fermentations.com/events/live-music-jam-session-888-945-466-721-925-529-440-944-874-888-219-573-121-835-364-716-581-214-245-843/",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:35.463Z",
-      "source": "mindscape-fermentations",
-      "confidence": 0.8
     },
     {
       "id": "evt-db6423bd",
@@ -1254,7 +554,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/trivia-night-999-690-812-906-953-155-116-822-235-157-598-714-415-873-555-392-609-230-961-821-676-648-912-964-972-152-467/",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:35.463Z",
+      "scrapedAt": "2026-08-31T09:27:14.474Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -1281,37 +581,8 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/lincoln.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:24:05.902Z",
+      "scrapedAt": "2026-08-31T09:27:32.508Z",
       "source": "pour-choice",
-      "confidence": 1
-    },
-    {
-      "id": "evt-6e936c2f",
-      "title": "On Stage with Static Sugar",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by Static Sugar. SThis band brings a high-energy mix of rock and pop hits spanning generations, delivering a dance-ready set packed with crowd favorites and powerhouse vocals. With tight musicianship and a polished stage presence, this Sacramento-area band keeps the party going all night—perfect for anyone looking to sing along, hit the dance floor, and enjoy a fun, feel-good live show. You can learn more about them by clicking here to visit their Facebook page. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-09-06T14:00:00.000Z",
-      "startTime": "2:00 PM",
-      "endTime": "5:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "paint",
-        "workshop"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-static-sugar/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/03/High-Hand-Brewery-Music-Static-Sugar.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.556Z",
-      "source": "high-hand-brewing",
       "confidence": 1
     },
     {
@@ -1332,37 +603,83 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:22:13.257Z",
+      "scrapedAt": "2026-08-31T09:26:38.455Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
     {
-      "id": "evt-0c995a1b",
-      "title": "Hump Day Live&#8217;s Jam Nite with Melissa &#038; Andrew",
-      "description": "Join us at High-Hand Brewery as we launch our new Hump Day Jam Nite! Every Wednesday, we’re opening the stage to musicians of all kinds—bring your axe, your voice, your full band, or just the urge to play. When you arrive, find Melissa to sign up and lock in your spot. High-Hand’s pro backline will be ready for you. Solo players will be paired up into spontaneous jam groups, and together you’ll decide what to play—keeping it loose, creative, and fun. It’s all about rocking out, connecting with fellow musicians, and celebrating the amazing music community we’re surrounded by. Each week will also feature a guest band to keep the night energized and inspiring. Come jam, hang out, and make your Wednesday groove. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-09-09T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
+      "id": "evt-d69427b2",
+      "title": "Dream Burger",
+      "description": "Gourmet Burgers! Fresh Never frozen! Beef tallow in the fryer! (Recurring: Does not Repeat)",
+      "date": "2026-09-09T00:00:00.000Z",
+      "startTime": "04:00 PM - 08:00 PM",
       "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
+        "name": "Crooked Lane Brewing",
+        "address": "518 Grass Valley Hwy",
+        "city": "Auburn",
         "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
+        "zip": "95603",
+        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
+        "phone": "(530) 878-7848"
       },
-      "type": "music",
+      "type": "food",
       "tags": [
-        "music",
-        "beer",
-        "wednesday"
+        "food"
       ],
-      "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-09-09/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
+      "imageUrl": "https://static.spotapps.co/spots/b2/a0dd4594ca4b0b992a67c27615ec0e/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.556Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
+      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "source": "crooked-lane-brewing",
+      "confidence": 0.95
+    },
+    {
+      "id": "evt-8774b9bd",
+      "title": "Paint & Sip",
+      "date": "2026-09-09T00:00:00.000Z",
+      "startTime": "",
+      "venue": {
+        "name": "Mindscape Fermentations",
+        "address": "1531 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://mindscape-fermentations.com/events/",
+        "phone": "(530) 820-4330"
+      },
+      "type": "paint",
+      "tags": [
+        "paint"
+      ],
+      "url": "https://mindscape-fermentations.com/events/paint-sip-6/",
+      "isRecurring": false,
+      "scrapedAt": "2026-08-31T09:27:14.474Z",
+      "source": "mindscape-fermentations",
+      "confidence": 0.8
+    },
+    {
+      "id": "evt-38b448b6",
+      "title": "San Tacos",
+      "description": "Recurring: Does not Repeat",
+      "date": "2026-09-10T00:00:00.000Z",
+      "startTime": "04:00 PM - 08:00 PM",
+      "venue": {
+        "name": "Crooked Lane Brewing",
+        "address": "518 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
+        "phone": "(530) 878-7848"
+      },
+      "type": "food",
+      "tags": [
+        "food"
+      ],
+      "imageUrl": "https://static.spotapps.co/spots/ba/35b8df0f7749119b1932fd88a6e9eb/w926",
+      "isRecurring": false,
+      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "source": "crooked-lane-brewing",
+      "confidence": 0.95
     },
     {
       "id": "evt-947a9fb8",
@@ -1384,7 +701,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498-677-525-896-674-283-601-278-786-611-856-839-986-831-474-307-980/",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:35.463Z",
+      "scrapedAt": "2026-08-31T09:27:14.474Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -1411,38 +728,9 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/55/c7920bd63242a9ad91a078c9a3a4f7/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:22:13.257Z",
+      "scrapedAt": "2026-08-31T09:26:38.456Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
-    },
-    {
-      "id": "evt-06e89b1f",
-      "title": "On Stage with The Used Cars",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by The Used Cars. Step into a nostalgic journey through the iconic sounds of the 80s new wave synth-pop era with The Used Cars. Keeping the spirit of The Cars alive, this dynamic band faithfully delivers all the hits from the 1978 eponymous album to the 1984 release of Heartbeat City. With dual lead singers expertly channeling the essence of Ric Ocasek and Benjamin Orr, The Used Cars create an authentic experience that might make you believe you&#8217;re listening to the original legends. Their genuine passion for the music propels them to infuse an extra dose of magic into every performance, ensuring a night on the dance floor that&#8217;s exactly what you&#8217;ve been craving. You can learn more about them by clicking here to visit their website. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-09-12T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "paint",
-        "workshop"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-the-used-cars-10/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2023/12/High-Hand-Brewery-Music-The-Used-Cars.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.556Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
     },
     {
       "id": "evt-ce098705",
@@ -1464,65 +752,111 @@
       ],
       "url": "https://mindscape-fermentations.com/events/trivia-night-999-690-812-906-953-155-116-822-235-157-598-714-415-873-555-392-609-230-961-821-676-648-912-964-972-152-467-923/",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:35.463Z",
+      "scrapedAt": "2026-08-31T09:27:14.474Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
     {
-      "id": "evt-997e0623",
-      "title": "On Stage with Mere Mortals",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by Mere Mortals. Since 2001, this band has been energizing Sacramento with their dynamic mix of classic rock from the ’60s to the ’90s, sprinkled with R&#038;B, blues rock, and timeless oldies. This high-energy four-piece band tailors each performance from a repertoire of over 100 songs, guaranteeing a night of music that will keep you on your feet. Don’t miss their electrifying show! You can learn more about them by clicking here to visit their website. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-09-13T14:00:00.000Z",
-      "startTime": "2:00 PM",
-      "endTime": "5:00 PM",
+      "id": "evt-df65efce",
+      "title": "West Coast Taco Bar",
+      "description": "Mobile food truck offering your favorite classics with a cool Cali twist (Recurring: Does not Repeat)",
+      "date": "2026-09-16T00:00:00.000Z",
+      "startTime": "04:00 PM - 08:00 PM",
       "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
+        "name": "Crooked Lane Brewing",
+        "address": "518 Grass Valley Hwy",
+        "city": "Auburn",
         "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
+        "zip": "95603",
+        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
+        "phone": "(530) 878-7848"
       },
-      "type": "music",
+      "type": "food",
       "tags": [
-        "music",
-        "beer",
+        "food",
         "workshop"
       ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-mere-mortals-3/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/01/High-Hand-Brewery-Music-Mere-Mortals-2.jpg",
+      "imageUrl": "https://static.spotapps.co/spots/db/edef50caf142bc9ad41aea673d2c6d/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.556Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
+      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "source": "crooked-lane-brewing",
+      "confidence": 0.95
     },
     {
-      "id": "evt-f540a11d",
-      "title": "Hump Day Live&#8217;s Jam Nite with Melissa &#038; Andrew | Featuring guest band Groove Tube",
-      "description": "Join us at High-Hand Brewery as we launch our new Hump Day Jam Nite! Every Wednesday, we’re opening the stage to musicians of all kinds—bring your axe, your voice, your full band, or just the urge to play. When you arrive, find Melissa to sign up and lock in your spot. High-Hand’s pro backline will be ready for you. Solo players will be paired up into spontaneous jam groups, and together you’ll decide what to play—keeping it loose, creative, and fun. It’s all about rocking out, connecting with fellow musicians, and celebrating the amazing music community we’re surrounded by. This week will also feature the guest band &#8220;Groove Tube&#8221; to keep the night energized and inspiring. Come jam, hang out, and make your Wednesday groove. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-09-16T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
+      "id": "evt-57782eb6",
+      "title": "Paint & Sip",
+      "description": "Moonlit MushroomsA little magical, a little moody, and seriously fun to paint. Join us for an evening escape at Crooked Lane as we create Moonlit Mushrooms—a whimsical cluster of bright red mushrooms glowing beneath a starry midnight sky.We’ll walk you through the painting step-by-step, from the dramatic black background and glowing moon to those classic red-and-white mushroom caps and lush woodland greenery. Make it just like the original or add your own enchanted touches!🎨 What’s Included: • Step-by-step instruction — beginners absolutely welcome! • All painting supplies included • Your own finished canvas to take home • Food and drinks available for purchase at Crooked Lane • A relaxed and fun evening of painting, sipping & treating yourself to a creative escapeCome with friends, make it a date night, or fly solo and meet some fellow creative people. These magical little mushrooms won’t be hanging around forever—grab your seat before this one disappears into the forest. 🌙✨ https://sips.art/products/moonlit-mushrooms-crooked-lane-weds-sept-16th-6p (Recurring: Does not Repeat)",
+      "date": "2026-09-16T00:00:00.000Z",
+      "startTime": "05:30 PM - 09:00 PM",
       "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
+        "name": "Crooked Lane Brewing",
+        "address": "518 Grass Valley Hwy",
+        "city": "Auburn",
         "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
+        "zip": "95603",
+        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
+        "phone": "(530) 878-7848"
       },
-      "type": "music",
+      "type": "food",
       "tags": [
-        "music",
-        "beer",
-        "wednesday"
+        "food",
+        "paint",
+        "workshop"
       ],
-      "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew-27/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
+      "imageUrl": "https://static.spotapps.co/spots/19/e4a9f6474b4c45aaa95b001c25f8a2/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.556Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
+      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "source": "crooked-lane-brewing",
+      "confidence": 0.95
+    },
+    {
+      "id": "evt-ada797d1",
+      "title": "Oktoberfest Party",
+      "date": "2026-09-16T00:00:00.000Z",
+      "startTime": "",
+      "venue": {
+        "name": "Mindscape Fermentations",
+        "address": "1531 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://mindscape-fermentations.com/events/",
+        "phone": "(530) 820-4330"
+      },
+      "type": "paint",
+      "tags": [
+        "paint"
+      ],
+      "url": "https://mindscape-fermentations.com/events/oktoberfest-party/",
+      "isRecurring": false,
+      "scrapedAt": "2026-08-31T09:27:14.474Z",
+      "source": "mindscape-fermentations",
+      "confidence": 0.8
+    },
+    {
+      "id": "evt-a2d4b134",
+      "title": "Maria's Mexican Tacos",
+      "description": "Recurring: Does not Repeat",
+      "date": "2026-09-17T00:00:00.000Z",
+      "startTime": "04:00 PM - 08:00 PM",
+      "venue": {
+        "name": "Crooked Lane Brewing",
+        "address": "518 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
+        "phone": "(530) 878-7848"
+      },
+      "type": "food",
+      "tags": [
+        "food"
+      ],
+      "imageUrl": "https://static.spotapps.co/spots/f2/f484bbb1204addbfda035614835d92/w926",
+      "isRecurring": false,
+      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "source": "crooked-lane-brewing",
+      "confidence": 0.95
     },
     {
       "id": "evt-05788e99",
@@ -1544,67 +878,158 @@
       ],
       "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498-677-525-896-674-283-601-278-786-611-856-839-986-831-474-307-980-318/",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:35.463Z",
+      "scrapedAt": "2026-08-31T09:27:14.474Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
     {
-      "id": "evt-ecc6938f",
-      "title": "On Stage with Unleashed",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by Unleashed. Grab a tambourine, sing along, and dance like no one is watching! Unleashed is a fun party band performing your favorite classic rock tunes of the 70’s, 80’s, 90’s, and beyond! You can learn more about them by clicking here to visit their website. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-09-18T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
+      "id": "evt-bc2c021a",
+      "title": "Maria's Mexican Tacos",
+      "description": "Recurring: Does not Repeat",
+      "date": "2026-09-18T00:00:00.000Z",
+      "startTime": "04:00 PM - 08:00 PM",
       "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
+        "name": "Crooked Lane Brewing",
+        "address": "518 Grass Valley Hwy",
+        "city": "Auburn",
         "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
+        "zip": "95603",
+        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
+        "phone": "(530) 878-7848"
       },
-      "type": "music",
+      "type": "food",
       "tags": [
-        "music",
-        "beer",
-        "paint",
-        "workshop"
+        "food"
       ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-unleashed-11/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/05/High-Hand-Brewery-Music-Unleashed.jpg",
+      "imageUrl": "https://static.spotapps.co/spots/f2/f484bbb1204addbfda035614835d92/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.556Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
+      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "source": "crooked-lane-brewing",
+      "confidence": 0.95
     },
     {
-      "id": "evt-59374153",
-      "title": "On Stage with Rogue",
-      "description": "Come join us at the High-Hand Brewery to hear a live performance by Rogue. This band delivers a powerhouse mix of originals and covers that will blow you away. With Randy Scoles on lead vocals, Greg Young on guitar, Nick Nichols on bass, and Bobby Contreras on drums, this four-piece band knows how to bring the energy. Get ready for a night that will have you on your feet from start to finish! You can learn more about them by clicking here to visit their website. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-09-19T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
+      "id": "evt-7bc1aff4",
+      "title": "Freemont Sierra Expedition",
+      "description": "Auburn State Theatre Features History Expedition Presents… Fremont Sierra Expedition Men, animals, and supplies were pushed to the edge as they fought deep snow, bitter wind, and unforgiving elevation in one of the harshest crossings of the entire journey. Our Expeditions team tested Frémont’s legend against the realities of snowpack, altitude, and human endurance. Step by step, we’re asking how much of his famous narrative the land itself is willing to confirm.Join the intrepid History Expedition team for a post‑expedition presentation to see what we discovered—where the Pathfinder’s story holds, where it fractures, and what it feels like to shoulder his route in the present day. To dive deeper into the history, maps, and upcoming film work, visit www.Historyexp.orgCome enjoy a taste of Crooked Lane’s special craft brew created for this event, “The Pathfinder”, as you enjoy a most entertaining evening about a remarkable America West story, inspiring people and with breathtaking imagery of the Sierra.Running time: approx. 2h (Recurring: Does not Repeat)",
+      "date": "2026-09-18T00:00:00.000Z",
+      "startTime": "07:00 PM - 09:00 PM",
       "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
+        "name": "Crooked Lane Brewing",
+        "address": "518 Grass Valley Hwy",
+        "city": "Auburn",
         "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
+        "zip": "95603",
+        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
+        "phone": "(530) 878-7848"
+      },
+      "type": "beer",
+      "tags": [
+        "beer",
+        "special"
+      ],
+      "imageUrl": "https://static.spotapps.co/spots/3f/97fa705fa5469e8516eea3ae05ccf2/w926",
+      "isRecurring": false,
+      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "source": "crooked-lane-brewing",
+      "confidence": 0.95
+    },
+    {
+      "id": "evt-ea052c8a",
+      "title": "Menagerie Oddities Market",
+      "description": "Bugs, Bones, Taxidermy PopUp w/the Menagerie Oddities Market (Recurring: Does not Repeat)",
+      "date": "2026-09-19T00:00:00.000Z",
+      "startTime": "11:00 AM - 06:00 PM",
+      "venue": {
+        "name": "Crooked Lane Brewing",
+        "address": "518 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
+        "phone": "(530) 878-7848"
+      },
+      "type": "other",
+      "tags": [],
+      "imageUrl": "https://static.spotapps.co/spots/5f/9cf1be9c9c40318665469aa3b3baa7/w926",
+      "isRecurring": false,
+      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "source": "crooked-lane-brewing",
+      "confidence": 0.95
+    },
+    {
+      "id": "evt-3bc3ed3b",
+      "title": "Dream Burger",
+      "description": "Gourmet Burgers! Fresh Never frozen! Beef tallow in the fryer! (Recurring: Does not Repeat)",
+      "date": "2026-09-19T00:00:00.000Z",
+      "startTime": "12:00 PM - 07:00 PM",
+      "venue": {
+        "name": "Crooked Lane Brewing",
+        "address": "518 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
+        "phone": "(530) 878-7848"
+      },
+      "type": "food",
+      "tags": [
+        "food"
+      ],
+      "imageUrl": "https://static.spotapps.co/spots/b2/a0dd4594ca4b0b992a67c27615ec0e/w926",
+      "isRecurring": false,
+      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "source": "crooked-lane-brewing",
+      "confidence": 0.95
+    },
+    {
+      "id": "evt-60d9bfbc",
+      "title": "Bingo Fundraiser",
+      "description": "To benefit the Foresthill High School Boosters Club (Recurring: Does not Repeat)",
+      "date": "2026-09-19T00:00:00.000Z",
+      "startTime": "05:00 PM - 09:00 PM",
+      "venue": {
+        "name": "Crooked Lane Brewing",
+        "address": "518 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
+        "phone": "(530) 878-7848"
       },
       "type": "music",
       "tags": [
-        "music",
-        "beer",
-        "paint",
-        "workshop"
+        "music"
       ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-rogue-7/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/11/High-Hand-Brewery-Music-Rogue.jpg",
+      "imageUrl": "https://static.spotapps.co/spots/ff/d4f5c4a8574a6d952cda61205181f4/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.556Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
+      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "source": "crooked-lane-brewing",
+      "confidence": 0.95
+    },
+    {
+      "id": "evt-5d8381ae",
+      "title": "Bingo Fundraiser",
+      "description": "To benefit the Auburn Gymnastics Competitive Team (Recurring: Does not Repeat)",
+      "date": "2026-09-20T00:00:00.000Z",
+      "startTime": "04:00 PM - 09:00 PM",
+      "venue": {
+        "name": "Crooked Lane Brewing",
+        "address": "518 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
+        "phone": "(530) 878-7848"
+      },
+      "type": "music",
+      "tags": [
+        "music"
+      ],
+      "imageUrl": "https://static.spotapps.co/spots/67/33de31a518463099268650fa1fa748/w926",
+      "isRecurring": false,
+      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "source": "crooked-lane-brewing",
+      "confidence": 0.95
     },
     {
       "id": "evt-b13e6008",
@@ -1626,7 +1051,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/live-music-jam-session-888-945-466-721-925-529-440-944-874-888-219-573-121-835-364-716-581-214-245-843-810/",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:35.463Z",
+      "scrapedAt": "2026-08-31T09:27:14.474Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -1650,65 +1075,34 @@
       ],
       "url": "https://mindscape-fermentations.com/events/trivia-night-999-690-812-906-953-155-116-822-235-157-598-714-415-873-555-392-609-230-961-821-676-648-912-964-972-152-467-923-497/",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:35.463Z",
+      "scrapedAt": "2026-08-31T09:27:14.475Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
     {
-      "id": "evt-1a8848dd",
-      "title": "On Stage with Bone Shakers",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by the Bone Shakers. are a dynamic band shining a spotlight on 70s/80s classic rock and blues. Whether it’s a cover of an arena‑rock staple or a gritty blues tune, they’re devoted to delivering feel‑good music that brings people to their feet. Locally active, community oriented, and driven by a love for vintage rock‑blues crossover, they offer both nostalgia and raw musical energy to audiences. You can learn more about them by clicking here to visit their Facebook page. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-09-20T14:00:00.000Z",
-      "startTime": "2:00 PM",
-      "endTime": "5:00 PM",
+      "id": "evt-bcabfd2b",
+      "title": "Dream Burger",
+      "description": "Gourmet Burgers! Fresh Never frozen! Beef tallow in the fryer! (Recurring: Does not Repeat)",
+      "date": "2026-09-24T00:00:00.000Z",
+      "startTime": "04:00 PM - 08:00 PM",
       "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
+        "name": "Crooked Lane Brewing",
+        "address": "518 Grass Valley Hwy",
+        "city": "Auburn",
         "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
+        "zip": "95603",
+        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
+        "phone": "(530) 878-7848"
       },
-      "type": "music",
+      "type": "food",
       "tags": [
-        "music",
-        "beer",
-        "workshop"
+        "food"
       ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-bone-shakers-3/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/07/High-Hand-Brewery-Music-Bone-Shakers.jpg",
+      "imageUrl": "https://static.spotapps.co/spots/b2/a0dd4594ca4b0b992a67c27615ec0e/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.556Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-bacba97b",
-      "title": "Hump Day Live&#8217;s Jam Nite with Melissa &#038; Andrew",
-      "description": "Join us at High-Hand Brewery as we launch our new Hump Day Jam Nite! Every Wednesday, we’re opening the stage to musicians of all kinds—bring your axe, your voice, your full band, or just the urge to play. When you arrive, find Melissa to sign up and lock in your spot. High-Hand’s pro backline will be ready for you. Solo players will be paired up into spontaneous jam groups, and together you’ll decide what to play—keeping it loose, creative, and fun. It’s all about rocking out, connecting with fellow musicians, and celebrating the amazing music community we’re surrounded by. Each week will also feature a guest band to keep the night energized and inspiring. Come jam, hang out, and make your Wednesday groove. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-09-23T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "wednesday"
-      ],
-      "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-09-23/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.556Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
+      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "source": "crooked-lane-brewing",
+      "confidence": 0.95
     },
     {
       "id": "evt-3033c547",
@@ -1730,37 +1124,59 @@
       ],
       "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498-677-525-896-674-283-601-278-786-611-856-839-986-831-474-307-980-318-364/",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:35.463Z",
+      "scrapedAt": "2026-08-31T09:27:14.475Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
     {
-      "id": "evt-bd150e5d",
-      "title": "On Stage with Class Of 85",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by Class Of 85. Class of 85 is an all 80’s new wave tribute band that brings high dance energy with synth soaked sounds of Depeche Mode, Inxs, The cure and many more! Come dance and sing along to the iconic anthems that defined a generation! Shoulder pads and members only jackets optional — a great night guaranteed! You can learn more about them by clicking here to visit their Facebook page. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-09-25T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
+      "id": "evt-928a7708",
+      "title": "Live Music with Dinosaur Sr",
+      "description": "Recurring: Does not Repeat",
+      "date": "2026-09-25T00:00:00.000Z",
+      "startTime": "05:00 PM - 08:00 PM",
       "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
+        "name": "Crooked Lane Brewing",
+        "address": "518 Grass Valley Hwy",
+        "city": "Auburn",
         "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
+        "zip": "95603",
+        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
+        "phone": "(530) 878-7848"
       },
       "type": "music",
       "tags": [
-        "music",
-        "beer",
-        "workshop"
+        "music"
       ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-class-of-85-4/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/07/High-Hand-Brewery-Music-Class-of-85.jpg",
+      "imageUrl": "https://static.spotapps.co/spots/b4/f34dee72824b33a14ceb35b0b13acc/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.556Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
+      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "source": "crooked-lane-brewing",
+      "confidence": 0.95
+    },
+    {
+      "id": "evt-4d36d870",
+      "title": "Maria's Mexican Tacos",
+      "description": "Recurring: Does not Repeat",
+      "date": "2026-09-26T00:00:00.000Z",
+      "startTime": "04:00 PM - 08:00 PM",
+      "venue": {
+        "name": "Crooked Lane Brewing",
+        "address": "518 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
+        "phone": "(530) 878-7848"
+      },
+      "type": "food",
+      "tags": [
+        "food"
+      ],
+      "imageUrl": "https://static.spotapps.co/spots/f2/f484bbb1204addbfda035614835d92/w926",
+      "isRecurring": false,
+      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "source": "crooked-lane-brewing",
+      "confidence": 0.95
     },
     {
       "id": "evt-ecc5fefa",
@@ -1785,65 +1201,60 @@
       "url": "https://products.spothopperapp.com/checkout?spotId=374859&externalProductId=2716485",
       "imageUrl": "https://static.spotapps.co/spots/8d/e44044f1e34f6fbebf0bcd827a671d/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:22:13.257Z",
+      "scrapedAt": "2026-08-31T09:26:38.456Z",
       "source": "crooked-lane-brewing",
       "confidence": 1
     },
     {
-      "id": "evt-940b278f",
-      "title": "On Stage with Halfway Inn",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by Halfway Inn. Prepare to be electrified by the dynamic energy of Halfway Inn, a powerhouse Hard Rock band that demands your attention. Their electrifying performances transport you through the greatest hits of past decades, igniting the stage with their relentless passion for music. A regular fixture in Sacramento&#8217;s vibrant music scene, Halfway Inn consistently leaves their mark on diverse venues across the region. Their live shows are nothing short of spectacular, as they pour their hearts and souls into each performance, captivating the audience with an unforgettable blend of raw talent and captivating showmanship. Don&#8217;t miss the chance to experience Halfway Inn in action – it&#8217;s not just a concert; it&#8217;s a musical journey that will leave you craving more. Here&#8217;s what you can expect… 70’s Vintage Hard Rock: UFO, THIN LIZZY, BAD COMPANY, LED ZEPPELIN, AC/DC, QUEEN,LYNYRD SKYNYRD 80’s Arena Rock: Y&#038;T, EDDIE MONEY, DANZIG, SCORPIONS,IRON MAIDEN, POISON, BRYAN ADAMS, WHITESNAKE 90’s ALTERNATIVE/GRUNGE: PEARL JAM, THE TOADIES,BUSH, STP, LIVE, SEVEN MARY THREE 2000’s Bangers: BUCK CHERRY, FINGER ELEVEN, PUDDLE OF MUD, DEAD DAISIES AND MANY MORE! Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-09-26T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
+      "id": "evt-3a369d1d",
+      "title": "Sunday Funday!",
+      "description": "Join us for a full day of fun, shopping, swapping, and live music!Maker’s Market | 12–5 PM Discover an amazing selection of local makers and shop their unique treasures, handmade goods, and creations.Clothing Swap | 12–5 PM Bring your new or gently used clothing and trade it for something new to you! Refresh your closet while giving your clothes a second life.Live Music with Blue Soul Acoustic | 1–4 PM Grab a pint, kick back, and enjoy live acoustic music in the Biergarten.Come shop it, swap it, and rock it with us! (Recurring: Does not Repeat)",
+      "date": "2026-09-27T00:00:00.000Z",
+      "startTime": "12:00 PM - 05:00 PM",
       "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
+        "name": "Crooked Lane Brewing",
+        "address": "518 Grass Valley Hwy",
+        "city": "Auburn",
         "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
+        "zip": "95603",
+        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
+        "phone": "(530) 878-7848"
       },
       "type": "music",
       "tags": [
         "music",
-        "beer",
-        "paint"
+        "paint",
+        "sunday"
       ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-halfway-inn-4/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2023/09/High-Hand-Brewery-Music-Halfway-Inn.jpg",
+      "imageUrl": "https://static.spotapps.co/spots/e8/74f07fe887468993151f3bbb8b5a38/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.556Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
+      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "source": "crooked-lane-brewing",
+      "confidence": 0.95
     },
     {
-      "id": "evt-f4ebee57",
-      "title": "On Stage with The Vintage Tees",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by The Vintage Tees. The Vintage Tees are a four‑piece powerhouse from Folsom, CA, featuring Will Kouvaris (guitar/vocals), Steve Crain (lead guitar), JJ Flores (bass), and Robert Lundstrom (drums). We light up the stage with a foot‑stompin’ blend of classic and southern rock, bluesy favorites, country‑tinged tunes, and beloved rock hits from the ’80s and ’90s. Whether you&#8217;re in the mood for Lynyrd Skynyrd, Led Zeppelin, Dwight Yoakam, or the Killers, we&#8217;ve got you covered — something for every music lover. You can learn more about them by clicking here to visit their Facebook page. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-09-27T14:00:00.000Z",
-      "startTime": "2:00 PM",
-      "endTime": "5:00 PM",
+      "id": "evt-cdf55942",
+      "title": "TRIVIA NIGHT",
+      "date": "2026-09-27T00:00:00.000Z",
+      "startTime": "",
       "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
+        "name": "Mindscape Fermentations",
+        "address": "1531 Grass Valley Hwy",
+        "city": "Auburn",
         "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
+        "zip": "95603",
+        "url": "https://mindscape-fermentations.com/events/",
+        "phone": "(530) 820-4330"
       },
-      "type": "music",
+      "type": "trivia",
       "tags": [
-        "music",
-        "beer",
-        "workshop"
+        "trivia"
       ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-the-vintage-tees-2/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/08/High-Hand-Brewery-Music-Vintage-Tees.jpg",
+      "url": "https://mindscape-fermentations.com/events/trivia-night-999-690-812-906-953-155-116-822-235-157-598-714-415-873-555-392-609-230-961-821-676-648-912-964-972-152-467-923-497-976/",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.556Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
+      "scrapedAt": "2026-08-31T09:27:14.475Z",
+      "source": "mindscape-fermentations",
+      "confidence": 0.8
     },
     {
       "id": "evt-3eef5666",
@@ -1865,65 +1276,108 @@
         "beer"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:22:13.257Z",
+      "scrapedAt": "2026-08-31T09:26:38.456Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
     {
-      "id": "evt-d1ba6c6b",
-      "title": "Hump Day Live&#8217;s Jam Nite with Melissa &#038; Andrew",
-      "description": "Join us at High-Hand Brewery as we launch our new Hump Day Jam Nite! Every Wednesday, we’re opening the stage to musicians of all kinds—bring your axe, your voice, your full band, or just the urge to play. When you arrive, find Melissa to sign up and lock in your spot. High-Hand’s pro backline will be ready for you. Solo players will be paired up into spontaneous jam groups, and together you’ll decide what to play—keeping it loose, creative, and fun. It’s all about rocking out, connecting with fellow musicians, and celebrating the amazing music community we’re surrounded by. Each week will also feature a guest band to keep the night energized and inspiring. Come jam, hang out, and make your Wednesday groove. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-09-30T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
+      "id": "evt-4bd00cef",
+      "title": "Dream Burger",
+      "description": "Gourmet Burgers! Fresh Never frozen! Beef tallow in the fryer! (Recurring: Does not Repeat)",
+      "date": "2026-09-30T00:00:00.000Z",
+      "startTime": "04:00 PM - 08:00 PM",
       "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
+        "name": "Crooked Lane Brewing",
+        "address": "518 Grass Valley Hwy",
+        "city": "Auburn",
         "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
+        "zip": "95603",
+        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
+        "phone": "(530) 878-7848"
       },
-      "type": "music",
+      "type": "food",
       "tags": [
-        "music",
-        "beer",
-        "wednesday"
+        "food"
       ],
-      "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-09-30/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
+      "imageUrl": "https://static.spotapps.co/spots/b2/a0dd4594ca4b0b992a67c27615ec0e/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.556Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
+      "scrapedAt": "2026-08-31T09:26:38.457Z",
+      "source": "crooked-lane-brewing",
+      "confidence": 0.95
     },
     {
-      "id": "evt-1aeabf92",
-      "title": "On Stage with Ride Captain Ride",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by Ride Captain Ride. Sacramento’s Ride Captain Ride channels yacht rock royalty with smooth, nostalgic performances, nautical flair, and a polished setlist that keeps dance floors full and cruise-mode vibes flowing. It&#8217;s summer on a platter — no yacht required. You can learn more about them by clicking here to visit their website. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-10-02T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
+      "id": "evt-77f75a34",
+      "title": "Bingo Fundraiser",
+      "description": "To benefit the Placer High School Girls Volleyball Team (Recurring: Does not Repeat)",
+      "date": "2026-09-30T00:00:00.000Z",
+      "startTime": "05:00 PM - 09:00 PM",
       "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
+        "name": "Crooked Lane Brewing",
+        "address": "518 Grass Valley Hwy",
+        "city": "Auburn",
         "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
+        "zip": "95603",
+        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
+        "phone": "(530) 878-7848"
+      },
+      "type": "music",
+      "tags": [
+        "music"
+      ],
+      "imageUrl": "https://static.spotapps.co/spots/94/bd8c58f6df4e7db4dcde8c2fc932ea/w926",
+      "isRecurring": false,
+      "scrapedAt": "2026-08-31T09:26:38.457Z",
+      "source": "crooked-lane-brewing",
+      "confidence": 0.95
+    },
+    {
+      "id": "evt-b6bcfe9e",
+      "title": "Wine Club weekend Live Music and food available.",
+      "description": "Wine Club weekend Live Music and food available.",
+      "date": "2026-10-01T00:00:00.000Z",
+      "startTime": "12:00 PM",
+      "venue": {
+        "name": "Happy Dayz Vineyard",
+        "address": "5575 McCourtney Rd",
+        "city": "Lincoln",
+        "state": "CA",
+        "zip": "95648",
+        "url": "https://www.happydayzvineyard.com/visit-us/"
       },
       "type": "music",
       "tags": [
         "music",
-        "beer",
-        "workshop"
+        "food",
+        "wine"
       ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-ride-captain-ride-2/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/06/High-Hand-Brewery-Music-Ride-Captain-Ride.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.556Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
+      "scrapedAt": "2026-08-31T09:27:07.392Z",
+      "source": "happy-dayz-vineyard",
+      "confidence": 0.95
+    },
+    {
+      "id": "evt-cd58c059",
+      "title": "Fall wine tasting",
+      "description": "Fall wine tasting",
+      "date": "2026-10-01T00:00:00.000Z",
+      "startTime": "12:00 PM",
+      "venue": {
+        "name": "Happy Dayz Vineyard",
+        "address": "5575 McCourtney Rd",
+        "city": "Lincoln",
+        "state": "CA",
+        "zip": "95648",
+        "url": "https://www.happydayzvineyard.com/visit-us/"
+      },
+      "type": "wine",
+      "tags": [
+        "wine",
+        "tasting"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-08-31T09:27:07.392Z",
+      "source": "happy-dayz-vineyard",
+      "confidence": 0.85
     },
     {
       "id": "evt-f3a55931",
@@ -1948,404 +1402,108 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:22:08.648Z",
+      "scrapedAt": "2026-08-31T09:26:34.848Z",
       "source": "auburn-sra",
       "confidence": 1
     },
     {
-      "id": "evt-404781e5",
-      "title": "On Stage with Manzanita",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by Manzanita. They are a Indie Folk band from Northern California with blends of Americana and Country. A Manzanita performance is a huge sound from two men. Aaron Shively&#8217;s pedal steel playing is seasoned and tasteful with a &#8216;Hammond organ-like&#8217; tone. His mandolin will delight any bluegrass lover. Nick Foster fronts with his parlor-style acoustic guitar, harmonica, kick drum and tambourine simultaneously. Original songwriting with storytelling, catchy vocal melodies and powerful harmonies give this duo a classic and eclectic sound all can enjoy. You can learn more about them by clicking here to visit their website. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-10-03T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
+      "id": "evt-4ff05b37",
+      "title": "Wine Club weekend Live Music and food available.",
+      "description": "Wine Club weekend Live Music and food available.",
+      "date": "2026-10-03T00:00:00.000Z",
+      "startTime": "12:00 PM",
       "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
+        "name": "Happy Dayz Vineyard",
+        "address": "5575 McCourtney Rd",
+        "city": "Lincoln",
         "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "workshop"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-manzanita-33/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2023/06/High-Hand-Brewery-Music-Manzanita.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.556Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-52b84458",
-      "title": "On Stage with Wildheart",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by Wildheart. This is a cross-genre cover band led by Lisa Ellis, whose strong and dynamic vocals help drive the group’s energetic performances. Drawing inspiration from artists like Heart, Fleetwood Mac, CCR, Eagles, Linda Ronstadt, Tanya Tucker, Jo Dee Messina, The Rolling Stones, James Taylor, Joni Mitchell, and Stevie Wonder, Wildheart blends an eclectic mix of rock, pop and other genres into a captivating live experience. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-10-04T14:00:00.000Z",
-      "startTime": "2:00 PM",
-      "endTime": "5:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "paint"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-wildheart-7/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/08/High-Hand-Brewery-Music-Wildheart-Band-v2.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.557Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-043e78a0",
-      "title": "Hump Day Live&#8217;s Jam Nite with Melissa &#038; Andrew",
-      "description": "Join us at High-Hand Brewery as we launch our new Hump Day Jam Nite! Every Wednesday, we’re opening the stage to musicians of all kinds—bring your axe, your voice, your full band, or just the urge to play. When you arrive, find Melissa to sign up and lock in your spot. High-Hand’s pro backline will be ready for you. Solo players will be paired up into spontaneous jam groups, and together you’ll decide what to play—keeping it loose, creative, and fun. It’s all about rocking out, connecting with fellow musicians, and celebrating the amazing music community we’re surrounded by. Each week will also feature a guest band to keep the night energized and inspiring. Come jam, hang out, and make your Wednesday groove. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-10-07T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "wednesday"
-      ],
-      "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-10-07/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.557Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-55792093",
-      "title": "On Stage with 8 Track Massacre",
-      "description": "Come join us at the High-Hand Brewery to hear a live performance by 8 Track Massacre. Embark on a musical journey where they redefine the cover band experience. Beyond the hits, they act as your time machine, transporting you through the decades with electrifying performances that will set the dance floor ablaze. Our mission is to ignite nostalgia, ensuring an unforgettable night of dancing, singing, and perhaps even finding yourself center stage. Let&#8217;s create lasting memories with 8 Track Massacre, where every performance becomes a celebration of timeless tunes and the joy of shared music. You can learn more about them by clicking here to visit their website. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-10-09T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "workshop",
-        "special"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-8-track-massacre-14/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/01/High-Hand-Brewery-Music-8-Track-Massacre-v1.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.557Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-03fd1d75",
-      "title": "On Stage with Busy Being Fabulous",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by Busy Being Fabulous. A new star-studded band featuring Barry del Carlo on Bass, Curtis Blankenship on Drums, Roberto Reyes on Guitars and the simply fabulous, Lori Sacco on keys and vocals. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-10-11T14:00:00.000Z",
-      "startTime": "2:00 PM",
-      "endTime": "5:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-busy-being-fabulous/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/04/High-Hand-Brewery-Music-Busy-Being-Fabulous.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.557Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-273b4c26",
-      "title": "Hump Day Live&#8217;s Jam Nite with Melissa &#038; Andrew",
-      "description": "Join us at High-Hand Brewery as we launch our new Hump Day Jam Nite! Every Wednesday, we’re opening the stage to musicians of all kinds—bring your axe, your voice, your full band, or just the urge to play. When you arrive, find Melissa to sign up and lock in your spot. High-Hand’s pro backline will be ready for you. Solo players will be paired up into spontaneous jam groups, and together you’ll decide what to play—keeping it loose, creative, and fun. It’s all about rocking out, connecting with fellow musicians, and celebrating the amazing music community we’re surrounded by. Each week will also feature a guest band to keep the night energized and inspiring. Come jam, hang out, and make your Wednesday groove. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-10-14T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "wednesday"
-      ],
-      "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-10-14/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.557Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-e86fc42e",
-      "title": "On Stage with Darth Mozart",
-      "description": "Come join us at the High-Hand Brewery to hear a live performance by Darth Mozart. This classic rock cover band from Folsom, California has a setlist that spans timeless favorites from The Beatles and Led Zeppelin to modern rock hits, delivering a lively and engaging performance. With a mix of skillful musicianship and stage charisma, Darth Mozart makes every show a memorable experience. You can learn more about them by clicking here to visit their website. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-10-16T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "paint",
-        "workshop"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-darth-mozart-2/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/10/High-Hand-Brewery-Darth-Mozart.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.557Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-d3f65bb1",
-      "title": "On Stage with Petty Jack Flash",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by Petty Jack Flash. Get ready to rock out as they bring the best of Tom Petty and the Heartbreakers, along with the timeless classics of the Rolling Stones, to the stage! This dynamic band faithfully recreates the iconic tunes of both legendary groups, delivering an electrifying concert experience that will have you singing along all night long. From the infectious melodies of Tom Petty to the raw energy of the Rolling Stones, Petty Jack Flash brings the spirit of rock &#8216;n&#8217; roll to life with their full-throttle performances. Don&#8217;t miss your chance to experience the magic of these two powerhouse bands in one unforgettable show! You can learn more about them by clicking here to visit their website. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-10-17T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "paint",
-        "workshop"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-petty-jack-flash-9/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/02/High-Hand-Brewery-Music-Petty-Jack-Flash.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.557Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-41b95723",
-      "title": "On Stage with the Southbound Band",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by the Southbound Band. Get ready for a night of pure Southern rock energy as Southbound hits the stage. This Sacramento-based six-piece brings the grit, soul, and swagger of the genre’s greats, channeling the spirit of Lynyrd Skynyrd, The Allman Brothers, Marshall Tucker Band, and more. With tight harmonies, driving guitars, and a high-octane rhythm section, Southbound delivers a powerful live show that keeps crowds moving from the first chord to the last. If you’re looking for authentic Southern rock done right — big sound, big heart, and nothing but good vibes — Southbound always brings the party. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-10-18T14:00:00.000Z",
-      "startTime": "2:00 PM",
-      "endTime": "5:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "paint"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-the-southbound-band-2/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/12/High-Hand-Brewery-Music-Southbound.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.557Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-f3aa74ca",
-      "title": "Hump Day Live&#8217;s Jam Nite with Melissa &#038; Andrew",
-      "description": "Join us at High-Hand Brewery as we launch our new Hump Day Jam Nite! Every Wednesday, we’re opening the stage to musicians of all kinds—bring your axe, your voice, your full band, or just the urge to play. When you arrive, find Melissa to sign up and lock in your spot. High-Hand’s pro backline will be ready for you. Solo players will be paired up into spontaneous jam groups, and together you’ll decide what to play—keeping it loose, creative, and fun. It’s all about rocking out, connecting with fellow musicians, and celebrating the amazing music community we’re surrounded by. Each week will also feature a guest band to keep the night energized and inspiring. Come jam, hang out, and make your Wednesday groove. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-10-21T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "wednesday"
-      ],
-      "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-10-21/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.557Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-ab43a431",
-      "title": "On Stage with Total Recall",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by Total Recall. Hailing from Sacramento, CA, Total Recall provides an authentic experience of 90&#8217;s alternative rock. Their performance will transport you back to the golden era of bands like Weezer, Foo Fighters, Third Eye Blind, and many more. You can learn more about them by clicking here to visit their website. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-10-23T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "workshop"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-total-recall-10/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/10/High-Hand-Brewery-Music-Total-Recall.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.557Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-bbcc7c79",
-      "title": "On Stage with Journey&#8217;s Edge",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by Journey&#8217;s Edge. Hailing from Northern California, Journey&#8217;s Edge brings you an unparalleled tribute to the iconic sounds of Journey! Transport yourself back to the vibrant 80s with each electrifying performance, capturing the essence of that unique era through the band&#8217;s exceptional sound, authentic appearance, and captivating stage presence. Immerse yourself in the nostalgia of Journey&#8217;s greatest hits and relive the magic of a bygone era. Don&#8217;t miss the next Journey&#8217;s Edge concert – an unforgettable homage to one of the greatest rock bands of all time! You can learn more about them by clicking here to visit their website. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-10-24T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "workshop"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-journeys-edge-8/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2023/12/High-Hand-Brewery-Music-Journeys-Edge.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.557Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-3f0fd42b",
-      "title": "On Stage with Jam Addicts",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by Jam Addicts. This band brings the soundtrack to your weekend with a crowd-pleasing mix of rock, pop, funk, and dance favorites spanning multiple decades. Known for high-energy performances, tight musicianship, and a setlist built to keep the patio singing along, this Sacramento-area band delivers the kind of feel-good live music that pairs perfectly with great food, cold drinks, and a summer evening at High-Hand Brewing Co. Whether you&#8217;re here to dance, relax with friends, or discover your next favorite cover band, Jam Addicts is ready to keep the good times rolling. You can learn more about them by clicking here to visit their Facebook page. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-10-25T14:00:00.000Z",
-      "startTime": "2:00 PM",
-      "endTime": "6:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
+        "zip": "95648",
+        "url": "https://www.happydayzvineyard.com/visit-us/"
       },
       "type": "music",
       "tags": [
         "music",
         "food",
-        "beer",
-        "workshop"
+        "wine"
       ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-jam-addicts/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/07/High-Hand-Brewery-Music-Jam-Addicts.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.557Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
+      "scrapedAt": "2026-08-31T09:27:07.392Z",
+      "source": "happy-dayz-vineyard",
+      "confidence": 0.95
     },
     {
-      "id": "evt-19aea45d",
-      "title": "Hump Day Live&#8217;s Jam Nite with Melissa &#038; Andrew",
-      "description": "Join us at High-Hand Brewery as we launch our new Hump Day Jam Nite! Every Wednesday, we’re opening the stage to musicians of all kinds—bring your axe, your voice, your full band, or just the urge to play. When you arrive, find Melissa to sign up and lock in your spot. High-Hand’s pro backline will be ready for you. Solo players will be paired up into spontaneous jam groups, and together you’ll decide what to play—keeping it loose, creative, and fun. It’s all about rocking out, connecting with fellow musicians, and celebrating the amazing music community we’re surrounded by. Each week will also feature a guest band to keep the night energized and inspiring. Come jam, hang out, and make your Wednesday groove. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-10-28T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
+      "id": "evt-44d645d0",
+      "title": "Wine Club weekend Live Music and food available.",
+      "description": "Wine Club weekend Live Music and food available.",
+      "date": "2026-10-04T00:00:00.000Z",
+      "startTime": "12:00 PM",
       "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
+        "name": "Happy Dayz Vineyard",
+        "address": "5575 McCourtney Rd",
+        "city": "Lincoln",
         "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
+        "zip": "95648",
+        "url": "https://www.happydayzvineyard.com/visit-us/"
       },
       "type": "music",
       "tags": [
         "music",
-        "beer",
-        "wednesday"
+        "food",
+        "wine"
       ],
-      "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-10-28/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.557Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
+      "scrapedAt": "2026-08-31T09:27:07.392Z",
+      "source": "happy-dayz-vineyard",
+      "confidence": 0.95
+    },
+    {
+      "id": "evt-10207222",
+      "title": "Fall wine tasting",
+      "description": "Fall wine tasting",
+      "date": "2026-10-10T00:00:00.000Z",
+      "startTime": "12:00 PM",
+      "venue": {
+        "name": "Happy Dayz Vineyard",
+        "address": "5575 McCourtney Rd",
+        "city": "Lincoln",
+        "state": "CA",
+        "zip": "95648",
+        "url": "https://www.happydayzvineyard.com/visit-us/"
+      },
+      "type": "wine",
+      "tags": [
+        "wine",
+        "tasting"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-08-31T09:27:07.392Z",
+      "source": "happy-dayz-vineyard",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-a99c500e",
+      "title": "Find us at the Auburn Wine, Ale & food festival.",
+      "description": "Find us at the Auburn Wine, Ale & food festival.",
+      "date": "2026-10-10T00:00:00.000Z",
+      "startTime": "1:00 PM",
+      "venue": {
+        "name": "Happy Dayz Vineyard",
+        "address": "5575 McCourtney Rd",
+        "city": "Lincoln",
+        "state": "CA",
+        "zip": "95648",
+        "url": "https://www.happydayzvineyard.com/visit-us/"
+      },
+      "type": "food",
+      "tags": [
+        "food",
+        "wine",
+        "beer"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-08-31T09:27:07.393Z",
+      "source": "happy-dayz-vineyard",
+      "confidence": 0.95
     },
     {
       "id": "evt-9796dd5c",
@@ -2367,66 +1525,9 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:22:13.257Z",
+      "scrapedAt": "2026-08-31T09:26:38.457Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
-    },
-    {
-      "id": "evt-3e655c25",
-      "title": "Hump Day Live&#8217;s Jam Nite with Melissa &#038; Andrew",
-      "description": "Join us at High-Hand Brewery as we launch our new Hump Day Jam Nite! Every Wednesday, we’re opening the stage to musicians of all kinds—bring your axe, your voice, your full band, or just the urge to play. When you arrive, find Melissa to sign up and lock in your spot. High-Hand’s pro backline will be ready for you. Solo players will be paired up into spontaneous jam groups, and together you’ll decide what to play—keeping it loose, creative, and fun. It’s all about rocking out, connecting with fellow musicians, and celebrating the amazing music community we’re surrounded by. Each week will also feature a guest band to keep the night energized and inspiring. Come jam, hang out, and make your Wednesday groove. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-11-04T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "wednesday"
-      ],
-      "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-11-04/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.557Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-dd7192b1",
-      "title": "On Stage with Incognito",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by Incognito. Step into a time machine of sound and sensation as Incognito whisks you away on a thrilling musical journey through the unforgettable hits of the &#8217;70s, &#8217;80s, and &#8217;90s. Their electrifying performance promises to reignite your passion for classic rock, delivering a high-octane fusion of iconic anthems and chart-topping favorites. Join us for a musical experience like no other, where every riff, every beat, and every note is a testament to the timeless magic of rock music. You can learn more about them by clicking here to visit their Facebook page. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-11-06T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "paint",
-        "workshop"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-incognito-9/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/03/High-Hand-Brewery-Music-Incognito.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.557Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
     },
     {
       "id": "evt-f8d4d8ad",
@@ -2451,7 +1552,7 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:22:08.648Z",
+      "scrapedAt": "2026-08-31T09:26:34.848Z",
       "source": "auburn-sra",
       "confidence": 1
     },
@@ -2476,237 +1577,11 @@
         "beer"
       ],
       "url": "https://www.eventbrite.com/e/moos-brews-a-highland-hangout-with-knee-deep-brewing-co-tickets-1988019344375?aff=oddtdtcreator",
-      "imageUrl": "https://storage.googleapis.com/knee-deep-events/events/Unknown-1778713338702.png?GoogleAccessId=knee-deep-storage%40knee-deep-brewing.iam.gserviceaccount.com&Expires=1810249339&Signature=G0%2BpfdolVt9dWg9JM4GjU%2F%2BmZ1fZwQFBEMFp6BJD3dkeBccO8QvBQstfsQzt8M0UZ%2BwFt8Q1mfmJCfn1FlJ%2BP4sP3R127tswAF2GEO%2Bfcwe5UrYgVHCgpyz5b4cfa%2B4qMEUCk1ooAvKIoCzfs1FwfuI3j57yVQfn8f2IEYpwIvSRbBFuupTukBzN4PYPQ9LwQuD31mhy9%2BMxR3JVdTVUPHIEDC4TJHmUqFef82yXPbF3ybLigCaGsEsFSw66q2Y6TC4ZYG2S57m79zQLPGt4%2FHGFUDf9bMinDZaypnNfBw%2BA0A2iGIqHW6VHkODGB2wPpcHrdLf8fLTY0oar7DzIug%3D%3D",
+      "imageUrl": "https://storage.googleapis.com/knee-deep-events/events/Unknown-1778713338702.png",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:29.607Z",
+      "scrapedAt": "2026-08-31T09:27:09.536Z",
       "source": "knee-deep-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-8e11c973",
-      "title": "Hump Day Live&#8217;s Jam Nite with Melissa &#038; Andrew",
-      "description": "Join us at High-Hand Brewery as we launch our new Hump Day Jam Nite! Every Wednesday, we’re opening the stage to musicians of all kinds—bring your axe, your voice, your full band, or just the urge to play. When you arrive, find Melissa to sign up and lock in your spot. High-Hand’s pro backline will be ready for you. Solo players will be paired up into spontaneous jam groups, and together you’ll decide what to play—keeping it loose, creative, and fun. It’s all about rocking out, connecting with fellow musicians, and celebrating the amazing music community we’re surrounded by. Each week will also feature a guest band to keep the night energized and inspiring. Come jam, hang out, and make your Wednesday groove. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-11-11T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "wednesday"
-      ],
-      "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-11-11/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.557Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-7a8865a6",
-      "title": "On Stage with Def Lepp – A Tribute to Def Leppard",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by Def Lepp. They are a premier Def Leppard tribute band bringing the sound, style, and swagger of one of rock’s most iconic acts to the stage. Known for their high-energy performances, they keep crowds on their feet with a full-scale production featuring lasers, fog, and dynamic lighting. Regularly appearing at venues and events across Northern California, Def Lepp delivers a hit-packed set of ‘80s arena rock favorites—capturing the spirit and excitement of a true Def Leppard concert experience. You can learn more about them by clicking here to visit their website. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-11-14T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "workshop"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-def-lepp-a-tribute-to-def-leppard-3/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/04/High-Hand-Brewery-Music-Def-Lepp.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.557Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-9419b71a",
-      "title": "On Stage with Nothin&#8217; Personal",
-      "description": "Nothin&#8217; Personal has been entertaining Northern California audiences for years with an energetic mix of classic rock, pop, country, dance, and R&#038;B favorites spanning the &#8217;60s through today. Known for their polished musicianship, powerhouse vocals, and engaging stage presence, they bring a little something for everyone—whether you&#8217;re singing along to timeless classics or dancing to modern hits. Grab a craft beer, gather your friends, and enjoy a fun-filled evening of live music at High-Hand Brewing Co. You can learn more about The Van Animals by clicking here to visit their website. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-11-15T14:00:00.000Z",
-      "startTime": "2:00 PM",
-      "endTime": "5:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "workshop"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-nothin-personal/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/07/High-Hand-Brewery-Music-Nothin-Personal.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.557Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-443a8c48",
-      "title": "Hump Day Live&#8217;s Jam Nite with Melissa &#038; Andrew",
-      "description": "Join us at High-Hand Brewery as we launch our new Hump Day Jam Nite! Every Wednesday, we’re opening the stage to musicians of all kinds—bring your axe, your voice, your full band, or just the urge to play. When you arrive, find Melissa to sign up and lock in your spot. High-Hand’s pro backline will be ready for you. Solo players will be paired up into spontaneous jam groups, and together you’ll decide what to play—keeping it loose, creative, and fun. It’s all about rocking out, connecting with fellow musicians, and celebrating the amazing music community we’re surrounded by. Each week will also feature a guest band to keep the night energized and inspiring. Come jam, hang out, and make your Wednesday groove. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-11-18T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "wednesday"
-      ],
-      "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-11-18/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.557Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-b67f5c25",
-      "title": "On Stage with The Used Cars",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by The Used Cars. Step into a nostalgic journey through the iconic sounds of the 80s new wave synth-pop era with The Used Cars. Keeping the spirit of The Cars alive, this dynamic band faithfully delivers all the hits from the 1978 eponymous album to the 1984 release of Heartbeat City. With dual lead singers expertly channeling the essence of Ric Ocasek and Benjamin Orr, The Used Cars create an authentic experience that might make you believe you&#8217;re listening to the original legends. Their genuine passion for the music propels them to infuse an extra dose of magic into every performance, ensuring a night on the dance floor that&#8217;s exactly what you&#8217;ve been craving. You can learn more about them by clicking here to visit their website. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-11-20T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "paint",
-        "workshop"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-the-used-cars-9/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2023/12/High-Hand-Brewery-Music-The-Used-Cars.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.558Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-c85eec35",
-      "title": "On Stage with That 70&#8217;s Band",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by That 70&#8217;S Band. That 70&#8217;s Band brings the iconic soundtrack of the disco decade to High-Hand Brewing Co. with an energetic celebration of the music that defined the 1970s. From classic rock and soulful ballads to funk, disco, and pop favorites, their lively performance is packed with the unforgettable hits that filled dance floors and airwaves throughout the decade. Whether you grew up with these timeless songs or simply love great live music, you&#8217;ll be singing along all night. Grab a craft beer, bring your friends, and enjoy an evening of pure &#8217;70s nostalgia at High-Hand Brewing Co.! Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-11-21T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "workshop",
-        "special"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-that-70s-band/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/07/High-Hand-Brewery-Music-That-70s-Band.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.558Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-85c4d51e",
-      "title": "Hump Day Live&#8217;s Jam Nite with Melissa &#038; Andrew",
-      "description": "Join us at High-Hand Brewery as we launch our new Hump Day Jam Nite! Every Wednesday, we’re opening the stage to musicians of all kinds—bring your axe, your voice, your full band, or just the urge to play. When you arrive, find Melissa to sign up and lock in your spot. High-Hand’s pro backline will be ready for you. Solo players will be paired up into spontaneous jam groups, and together you’ll decide what to play—keeping it loose, creative, and fun. It’s all about rocking out, connecting with fellow musicians, and celebrating the amazing music community we’re surrounded by. Each week will also feature a guest band to keep the night energized and inspiring. Come jam, hang out, and make your Wednesday groove. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-11-25T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "wednesday"
-      ],
-      "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-11-25/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.558Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-4d42114a",
-      "title": "Hump Day Live&#8217;s Jam Nite with Melissa &#038; Andrew",
-      "description": "Join us at High-Hand Brewery as we launch our new Hump Day Jam Nite! Every Wednesday, we’re opening the stage to musicians of all kinds—bring your axe, your voice, your full band, or just the urge to play. When you arrive, find Melissa to sign up and lock in your spot. High-Hand’s pro backline will be ready for you. Solo players will be paired up into spontaneous jam groups, and together you’ll decide what to play—keeping it loose, creative, and fun. It’s all about rocking out, connecting with fellow musicians, and celebrating the amazing music community we’re surrounded by. Each week will also feature a guest band to keep the night energized and inspiring. Come jam, hang out, and make your Wednesday groove. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-12-02T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "wednesday"
-      ],
-      "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-12-02/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.558Z",
-      "source": "high-hand-brewing",
       "confidence": 1
     },
     {
@@ -2732,121 +1607,8 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:22:08.649Z",
+      "scrapedAt": "2026-08-31T09:26:34.848Z",
       "source": "auburn-sra",
-      "confidence": 1
-    },
-    {
-      "id": "evt-881d8441",
-      "title": "On Stage with 8 Track Massacre",
-      "description": "Come join us at the High-Hand Brewery to hear a live performance by 8 Track Massacre. Embark on a musical journey where they redefine the cover band experience. Beyond the hits, they act as your time machine, transporting you through the decades with electrifying performances that will set the dance floor ablaze. Our mission is to ignite nostalgia, ensuring an unforgettable night of dancing, singing, and perhaps even finding yourself center stage. Let&#8217;s create lasting memories with 8 Track Massacre, where every performance becomes a celebration of timeless tunes and the joy of shared music. You can learn more about them by clicking here to visit their website. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-12-05T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "workshop",
-        "special"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-8-track-massacre-13/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/01/High-Hand-Brewery-Music-8-Track-Massacre-v1.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.558Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-01a03afb",
-      "title": "Hump Day Live&#8217;s Jam Nite with Melissa &#038; Andrew",
-      "description": "Join us at High-Hand Brewery as we launch our new Hump Day Jam Nite! Every Wednesday, we’re opening the stage to musicians of all kinds—bring your axe, your voice, your full band, or just the urge to play. When you arrive, find Melissa to sign up and lock in your spot. High-Hand’s pro backline will be ready for you. Solo players will be paired up into spontaneous jam groups, and together you’ll decide what to play—keeping it loose, creative, and fun. It’s all about rocking out, connecting with fellow musicians, and celebrating the amazing music community we’re surrounded by. Each week will also feature a guest band to keep the night energized and inspiring. Come jam, hang out, and make your Wednesday groove. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-12-09T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "wednesday"
-      ],
-      "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-12-09/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.558Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-6f744aae",
-      "title": "On Stage with Total Recall",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by Total Recall. Hailing from Sacramento, CA, Total Recall provides an authentic experience of 90&#8217;s alternative rock. Their performance will transport you back to the golden era of bands like Weezer, Foo Fighters, Third Eye Blind, and many more. You can learn more about them by clicking here to visit their website. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-12-11T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "workshop"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-total-recall-11/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/10/High-Hand-Brewery-Music-Total-Recall.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.558Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-a52951b2",
-      "title": "Hump Day Live&#8217;s Jam Nite with Melissa &#038; Andrew",
-      "description": "Join us at High-Hand Brewery as we launch our new Hump Day Jam Nite! Every Wednesday, we’re opening the stage to musicians of all kinds—bring your axe, your voice, your full band, or just the urge to play. When you arrive, find Melissa to sign up and lock in your spot. High-Hand’s pro backline will be ready for you. Solo players will be paired up into spontaneous jam groups, and together you’ll decide what to play—keeping it loose, creative, and fun. It’s all about rocking out, connecting with fellow musicians, and celebrating the amazing music community we’re surrounded by. Each week will also feature a guest band to keep the night energized and inspiring. Come jam, hang out, and make your Wednesday groove. Only guests 18 and older may attend our &#8220;On Stage&#8221; concerts.",
-      "date": "2026-12-16T18:00:00.000Z",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "wednesday"
-      ],
-      "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-12-16/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-Jam-Nite.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:27.558Z",
-      "source": "high-hand-brewing",
       "confidence": 1
     },
     {
@@ -2872,7 +1634,7 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:22:08.649Z",
+      "scrapedAt": "2026-08-31T09:26:34.849Z",
       "source": "auburn-sra",
       "confidence": 1
     },
@@ -2896,7 +1658,55 @@
         "tasting"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-08-24T09:23:25.929Z",
+      "scrapedAt": "2026-08-31T09:27:07.392Z",
+      "source": "happy-dayz-vineyard",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-e360bf20",
+      "title": "Summer Wine Tasting",
+      "description": "Summer Wine Tasting",
+      "date": "2027-08-29T00:00:00.000Z",
+      "startTime": "12:00 PM",
+      "venue": {
+        "name": "Happy Dayz Vineyard",
+        "address": "5575 McCourtney Rd",
+        "city": "Lincoln",
+        "state": "CA",
+        "zip": "95648",
+        "url": "https://www.happydayzvineyard.com/visit-us/"
+      },
+      "type": "wine",
+      "tags": [
+        "wine",
+        "tasting"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-08-31T09:27:07.392Z",
+      "source": "happy-dayz-vineyard",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-2ca8704f",
+      "title": "Summer Wine Tasting",
+      "description": "Summer Wine Tasting",
+      "date": "2027-08-30T00:00:00.000Z",
+      "startTime": "12:00 PM",
+      "venue": {
+        "name": "Happy Dayz Vineyard",
+        "address": "5575 McCourtney Rd",
+        "city": "Lincoln",
+        "state": "CA",
+        "zip": "95648",
+        "url": "https://www.happydayzvineyard.com/visit-us/"
+      },
+      "type": "wine",
+      "tags": [
+        "wine",
+        "tasting"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-08-31T09:27:07.392Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.85
     }
