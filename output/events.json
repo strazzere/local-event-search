@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "1.0.0",
-    "generatedAt": "2026-08-31T09:27:32.512Z",
-    "eventCount": 69,
+    "generatedAt": "2026-09-07T09:28:50.014Z",
+    "eventCount": 102,
     "venueCount": 8,
     "venues": [
       "Auburn State Recreation Area",
@@ -16,575 +16,6 @@
     ]
   },
   "events": [
-    {
-      "id": "evt-c1a2f69c",
-      "title": "Doggiestyle Hot Dogs",
-      "date": "2026-08-31T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [],
-      "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:25.195Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-c05ab4d9",
-      "title": "Magic The Gathering",
-      "description": "Tuesdays every 2 weeksMAGIC: THE GATHERING — CASUAL COMMANDER NIGHTS! New day, Same time!Gather your friends, shuffle your decks, and join us at Crooked Lane for a night of casual Commander gameplay, great beer, and good company!FREE TO PLAY~ALL AGES WELCOME~ALL SKILL LEVELS WELCOME ~CASUAL, FUN & FRIENDLYWhether you’re a seasoned Planeswalker or just learning the ropes, come play a few games and meet some fellow Magic fans! (Recurring: Custom)",
-      "date": "2026-09-01T00:00:00.000Z",
-      "startTime": "05:00 PM - 09:00 PM",
-      "venue": {
-        "name": "Crooked Lane Brewing",
-        "address": "518 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
-        "phone": "(530) 878-7848"
-      },
-      "type": "beer",
-      "tags": [
-        "beer",
-        "workshop",
-        "tuesday"
-      ],
-      "imageUrl": "https://static.spotapps.co/spots/13/644c8b944146828714ac06fe63f73a/w926",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:38.455Z",
-      "source": "crooked-lane-brewing",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-4086684a",
-      "title": "West Coast Tacos",
-      "date": "2026-09-01T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:25.195Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-16c6b85b",
-      "title": "Remedy Supply Co. @ Roseville Farmer’s Market",
-      "description": "Our sister coffee roasting company, Remedy Supply Co., has a booth every week, offering a selection of their great coffees. From staple blends and unique single origins to instant coffee and cold brew concentrate—they aim to connect our community with coffee. One cup at a time. The Fountains Roseville 1013 Galleria Blvd Roseville, CA 95678 RemedySupplyCo.com @remedysupply.co",
-      "date": "2026-09-01T00:00:00.000Z",
-      "startTime": "1:00 AM",
-      "endTime": "6:00 AM",
-      "venue": {
-        "name": "The Pour Choice",
-        "address": "177 Sacramento St",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://thepourchoice.com/events/"
-      },
-      "type": "beer",
-      "tags": [
-        "beer"
-      ],
-      "url": "https://thepourchoice.com/event/roseville-farmers-market/",
-      "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/roseville.png",
-      "price": "0",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:32.507Z",
-      "source": "pour-choice",
-      "confidence": 1
-    },
-    {
-      "id": "evt-333b5940",
-      "title": "Fall Makers Market",
-      "date": "2026-09-02T00:00:00.000Z",
-      "startTime": "",
-      "venue": {
-        "name": "Mindscape Fermentations",
-        "address": "1531 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://mindscape-fermentations.com/events/",
-        "phone": "(530) 820-4330"
-      },
-      "type": "other",
-      "tags": [],
-      "url": "https://mindscape-fermentations.com/events/fall-makers-market-2026/",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:14.474Z",
-      "source": "mindscape-fermentations",
-      "confidence": 0.8
-    },
-    {
-      "id": "evt-81be004e",
-      "title": "Bella Familia",
-      "date": "2026-09-02T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [],
-      "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:25.195Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-127a2bbf",
-      "title": "Trivia Night",
-      "date": "2026-09-02T00:00:00.000Z",
-      "startTime": "6:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "trivia",
-      "tags": [
-        "trivia"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:25.195Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-4982830a",
-      "title": "Staq & Cream",
-      "description": "“A Rolling Smashed Burger Drive-In Food Trailer” (Recurring: Does not Repeat)",
-      "date": "2026-09-03T00:00:00.000Z",
-      "startTime": "04:00 PM - 08:00 PM",
-      "venue": {
-        "name": "Crooked Lane Brewing",
-        "address": "518 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
-        "phone": "(530) 878-7848"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "imageUrl": "https://static.spotapps.co/spots/ea/a162d4a1d24a808b1e69aa7c3bda06/w926",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:38.455Z",
-      "source": "crooked-lane-brewing",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-75d65cf4",
-      "title": "MUSIC BINGO!",
-      "date": "2026-09-03T00:00:00.000Z",
-      "startTime": "",
-      "venue": {
-        "name": "Mindscape Fermentations",
-        "address": "1531 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://mindscape-fermentations.com/events/",
-        "phone": "(530) 820-4330"
-      },
-      "type": "music",
-      "tags": [
-        "music"
-      ],
-      "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498-677-525-896-674-283-601-278-786-611-856-839-986-831-474-307/",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:14.474Z",
-      "source": "mindscape-fermentations",
-      "confidence": 0.8
-    },
-    {
-      "id": "evt-e56ed36b",
-      "title": "JJ's Fusion",
-      "date": "2026-09-03T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [],
-      "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:25.195Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-df79f4e3",
-      "title": "Brushes & Brews",
-      "date": "2026-09-03T00:00:00.000Z",
-      "startTime": "6:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [
-        "beer"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:25.195Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-d9162c04",
-      "title": "Fowler Ranch hosts a weekly cornhole competition open to anyone.",
-      "date": "2026-09-03T09:26:53.004Z",
-      "startTime": "6:00pm",
-      "venue": {
-        "name": "Fowler Ranch",
-        "city": "Newcastle",
-        "state": "CA",
-        "url": "https://www.fowlerranch.com/entertainment"
-      },
-      "type": "other",
-      "tags": [],
-      "isRecurring": true,
-      "recurringPattern": "weekly:thursday",
-      "scrapedAt": "2026-08-31T09:26:53.005Z",
-      "source": "fowler-ranch",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-251e0944",
-      "title": "Dream Burger",
-      "description": "Gourmet Burgers! Fresh Never frozen! Beef tallow in the fryer! (Recurring: Does not Repeat)",
-      "date": "2026-09-04T00:00:00.000Z",
-      "startTime": "04:00 PM - 08:00 PM",
-      "venue": {
-        "name": "Crooked Lane Brewing",
-        "address": "518 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
-        "phone": "(530) 878-7848"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "imageUrl": "https://static.spotapps.co/spots/b2/a0dd4594ca4b0b992a67c27615ec0e/w926",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:38.455Z",
-      "source": "crooked-lane-brewing",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-4a5fc52f",
-      "title": "Live Music with Jameson Roads",
-      "description": "Join us for an evening of live acoustic music from local favorite Jameson Roads. Grab a pint, bring your crew, and settle in for some great live music and good times! (Recurring: Does not Repeat)",
-      "date": "2026-09-04T00:00:00.000Z",
-      "startTime": "05:00 PM - 08:00 PM",
-      "venue": {
-        "name": "Crooked Lane Brewing",
-        "address": "518 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
-        "phone": "(530) 878-7848"
-      },
-      "type": "music",
-      "tags": [
-        "music"
-      ],
-      "imageUrl": "https://static.spotapps.co/spots/4a/eb6926124f4d5a99a91b04876c379f/w926",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:38.455Z",
-      "source": "crooked-lane-brewing",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-05694884",
-      "title": "Santacos5:",
-      "date": "2026-09-04T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:25.195Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-353b85c8",
-      "title": "Live Music by Dinosaur Sr",
-      "date": "2026-09-04T00:00:00.000Z",
-      "startTime": "0:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [
-        "music"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:25.195Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-059a9bf0",
-      "title": "Santacos",
-      "date": "2026-09-04T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:25.195Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-68471c5c",
-      "title": "Fowler Ranch presents a weekly Trivia competition hosted by Brain Freeze! Come out and win some prizes!",
-      "date": "2026-09-04T09:26:53.005Z",
-      "startTime": "6:00pm",
-      "venue": {
-        "name": "Fowler Ranch",
-        "city": "Newcastle",
-        "state": "CA",
-        "url": "https://www.fowlerranch.com/entertainment"
-      },
-      "type": "trivia",
-      "tags": [
-        "trivia"
-      ],
-      "isRecurring": true,
-      "recurringPattern": "weekly:friday",
-      "scrapedAt": "2026-08-31T09:26:53.006Z",
-      "source": "fowler-ranch",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-3f16a111",
-      "title": "Junior Cubs Program",
-      "description": "Nature program for ages 3-6. Includes story and craft. Held at Murphy House (501 El Dorado Street, Auburn). Free program, no RSVP required.",
-      "date": "2026-09-05T00:00:00.000Z",
-      "startTime": "10:00AM",
-      "endTime": "11:00 AM",
-      "venue": {
-        "name": "Auburn State Recreation Area",
-        "address": "501 El Dorado Street",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://www.parks.ca.gov/?page_id=26506",
-        "phone": "(530) 745-2202"
-      },
-      "type": "workshop",
-      "tags": [
-        "for-kids"
-      ],
-      "url": "https://www.parks.ca.gov/?page_id=26506",
-      "price": "Free",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:34.847Z",
-      "source": "auburn-sra",
-      "confidence": 1
-    },
-    {
-      "id": "evt-b30f5e61",
-      "title": "Maria's Mexican Tacos",
-      "description": "Recurring: Does not Repeat",
-      "date": "2026-09-05T00:00:00.000Z",
-      "startTime": "04:00 PM - 08:00 PM",
-      "venue": {
-        "name": "Crooked Lane Brewing",
-        "address": "518 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
-        "phone": "(530) 878-7848"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "imageUrl": "https://static.spotapps.co/spots/f2/f484bbb1204addbfda035614835d92/w926",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:38.455Z",
-      "source": "crooked-lane-brewing",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-a0c3c4b1",
-      "title": "Buckethead BBQ",
-      "date": "2026-09-05T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:25.195Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-2d28c64b",
-      "title": "Remedy Supply Co. @ Auburn Farmer’s Market",
-      "description": "Our sister boutique coffee roasting company, Remedy Supply Co., has a booth every week, selling all the great coffees they have to offer. From staple blends and unique single origins to instant coffee and cold brew concentrate—they aim to connect our community with coffee. One cup at a time. 150 Auburn Folsom Rd. Auburn, CA 95603 RemedySupplyCo.com @remedysupply.co",
-      "date": "2026-09-05T00:00:00.000Z",
-      "startTime": "1:00 AM",
-      "endTime": "5:00 AM",
-      "venue": {
-        "name": "The Pour Choice",
-        "address": "177 Sacramento St",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://thepourchoice.com/events/"
-      },
-      "type": "beer",
-      "tags": [
-        "beer"
-      ],
-      "url": "https://thepourchoice.com/event/auburn-farmers-market/",
-      "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/auburn.png",
-      "price": "0",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:32.507Z",
-      "source": "pour-choice",
-      "confidence": 1
-    },
-    {
-      "id": "evt-db6423bd",
-      "title": "TRIVIA NIGHT",
-      "date": "2026-09-06T00:00:00.000Z",
-      "startTime": "",
-      "venue": {
-        "name": "Mindscape Fermentations",
-        "address": "1531 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://mindscape-fermentations.com/events/",
-        "phone": "(530) 820-4330"
-      },
-      "type": "trivia",
-      "tags": [
-        "trivia"
-      ],
-      "url": "https://mindscape-fermentations.com/events/trivia-night-999-690-812-906-953-155-116-822-235-157-598-714-415-873-555-392-609-230-961-821-676-648-912-964-972-152-467/",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:14.474Z",
-      "source": "mindscape-fermentations",
-      "confidence": 0.8
-    },
-    {
-      "id": "evt-de165a3f",
-      "title": "Remedy Supply Co. @ Lincoln Farmer’s Market",
-      "description": "Our sister boutique coffee roasting company, Remedy Supply Co., has a booth every week, offering a selection of their great coffees. From staple blends and unique single origins to instant coffee and cold brew concentrate—they aim to connect our community with coffee. One cup at a time. 3111 Lincoln Newcastle Hwy Lincoln, CA 95648 RemedySupplyCo.com @remedysupply.co",
-      "date": "2026-09-06T00:00:00.000Z",
-      "startTime": "2:00 AM",
-      "endTime": "6:00 AM",
-      "venue": {
-        "name": "The Pour Choice",
-        "address": "177 Sacramento St",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://thepourchoice.com/events/"
-      },
-      "type": "beer",
-      "tags": [
-        "beer"
-      ],
-      "url": "https://thepourchoice.com/event/lincoln-farmers-market/",
-      "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/lincoln.png",
-      "price": "0",
-      "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:32.508Z",
-      "source": "pour-choice",
-      "confidence": 1
-    },
     {
       "id": "evt-6b888913",
       "title": "Labor Day",
@@ -603,9 +34,80 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:38.455Z",
+      "scrapedAt": "2026-09-07T09:27:10.974Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
+    },
+    {
+      "id": "evt-b822e1c0",
+      "title": "Doggiestyle Hot Dogs",
+      "date": "2026-09-07T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-30030d0d",
+      "title": "Santacos",
+      "date": "2026-09-08T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [
+        "food"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-1a172a13",
+      "title": "Remedy Supply Co. @ Roseville Farmer’s Market",
+      "description": "Our sister coffee roasting company, Remedy Supply Co., has a booth every week, offering a selection of their great coffees. From staple blends and unique single origins to instant coffee and cold brew concentrate—they aim to connect our community with coffee. One cup at a time. The Fountains Roseville 1013 Galleria Blvd Roseville, CA 95678 RemedySupplyCo.com @remedysupply.co",
+      "date": "2026-09-08T00:00:00.000Z",
+      "startTime": "1:00 AM",
+      "endTime": "6:00 AM",
+      "venue": {
+        "name": "The Pour Choice",
+        "address": "177 Sacramento St",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://thepourchoice.com/events/"
+      },
+      "type": "beer",
+      "tags": [
+        "beer"
+      ],
+      "url": "https://thepourchoice.com/event/roseville-farmers-market/",
+      "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/roseville.png",
+      "price": "0",
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:50.007Z",
+      "source": "pour-choice",
+      "confidence": 1
     },
     {
       "id": "evt-d69427b2",
@@ -628,7 +130,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/b2/a0dd4594ca4b0b992a67c27615ec0e/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "scrapedAt": "2026-09-07T09:27:10.975Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -652,9 +154,53 @@
       ],
       "url": "https://mindscape-fermentations.com/events/paint-sip-6/",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:14.474Z",
+      "scrapedAt": "2026-09-07T09:28:35.956Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
+    },
+    {
+      "id": "evt-04853e0b",
+      "title": "Bella Familia",
+      "date": "2026-09-09T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-7860eb5c",
+      "title": "Trivia Night",
+      "date": "2026-09-09T00:00:00.000Z",
+      "startTime": "6:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "trivia",
+      "tags": [
+        "trivia"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
     },
     {
       "id": "evt-38b448b6",
@@ -677,7 +223,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/ba/35b8df0f7749119b1932fd88a6e9eb/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "scrapedAt": "2026-09-07T09:27:10.975Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -701,9 +247,49 @@
       ],
       "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498-677-525-896-674-283-601-278-786-611-856-839-986-831-474-307-980/",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:14.474Z",
+      "scrapedAt": "2026-09-07T09:28:35.956Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
+    },
+    {
+      "id": "evt-c7227c73",
+      "title": "Portu-Goal",
+      "date": "2026-09-10T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-83fbe409",
+      "title": "Fowler Ranch hosts a weekly cornhole competition open to anyone.",
+      "date": "2026-09-10T09:27:25.247Z",
+      "startTime": "6:00pm",
+      "venue": {
+        "name": "Fowler Ranch",
+        "city": "Newcastle",
+        "state": "CA",
+        "url": "https://www.fowlerranch.com/entertainment"
+      },
+      "type": "other",
+      "tags": [],
+      "isRecurring": true,
+      "recurringPattern": "weekly:thursday",
+      "scrapedAt": "2026-09-07T09:27:25.248Z",
+      "source": "fowler-ranch",
+      "confidence": 0.85
     },
     {
       "id": "evt-05a73bfa",
@@ -728,9 +314,188 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/55/c7920bd63242a9ad91a078c9a3a4f7/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "scrapedAt": "2026-09-07T09:27:10.975Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
+    },
+    {
+      "id": "evt-83e1a897",
+      "title": "Bella Familia5:",
+      "date": "2026-09-11T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-8542df55",
+      "title": "Live Music by RIVVRS",
+      "date": "2026-09-11T00:00:00.000Z",
+      "startTime": "0:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [
+        "music"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-728a071a",
+      "title": "Bella Familia",
+      "date": "2026-09-11T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-cc53eafc",
+      "title": "Fowler Ranch presents a weekly Trivia competition hosted by Brain Freeze! Come out and win some prizes!",
+      "date": "2026-09-11T09:27:25.248Z",
+      "startTime": "6:00pm",
+      "venue": {
+        "name": "Fowler Ranch",
+        "city": "Newcastle",
+        "state": "CA",
+        "url": "https://www.fowlerranch.com/entertainment"
+      },
+      "type": "trivia",
+      "tags": [
+        "trivia"
+      ],
+      "isRecurring": true,
+      "recurringPattern": "weekly:friday",
+      "scrapedAt": "2026-09-07T09:27:25.249Z",
+      "source": "fowler-ranch",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-90404dd0",
+      "title": "Buenos Aires",
+      "date": "2026-09-12T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-677c2b6d",
+      "title": "Junebug foundation - Dog Adoption Event",
+      "date": "2026-09-12T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-7f8c12e3",
+      "title": "Remedy Supply Co. @ Auburn Farmer’s Market",
+      "description": "Our sister boutique coffee roasting company, Remedy Supply Co., has a booth every week, selling all the great coffees they have to offer. From staple blends and unique single origins to instant coffee and cold brew concentrate—they aim to connect our community with coffee. One cup at a time. 150 Auburn Folsom Rd. Auburn, CA 95603 RemedySupplyCo.com @remedysupply.co",
+      "date": "2026-09-12T00:00:00.000Z",
+      "startTime": "1:00 AM",
+      "endTime": "5:00 AM",
+      "venue": {
+        "name": "The Pour Choice",
+        "address": "177 Sacramento St",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://thepourchoice.com/events/"
+      },
+      "type": "beer",
+      "tags": [
+        "beer"
+      ],
+      "url": "https://thepourchoice.com/event/auburn-farmers-market/",
+      "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/auburn.png",
+      "price": "0",
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:50.007Z",
+      "source": "pour-choice",
+      "confidence": 1
+    },
+    {
+      "id": "evt-12f64b7a",
+      "title": "Macrame Pumpkin Workshop",
+      "date": "2026-09-13T00:00:00.000Z",
+      "startTime": "",
+      "venue": {
+        "name": "Mindscape Fermentations",
+        "address": "1531 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://mindscape-fermentations.com/events/",
+        "phone": "(530) 820-4330"
+      },
+      "type": "workshop",
+      "tags": [
+        "workshop"
+      ],
+      "url": "https://mindscape-fermentations.com/events/macrame-pumpkin-workshop/",
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:35.957Z",
+      "source": "mindscape-fermentations",
+      "confidence": 0.8
     },
     {
       "id": "evt-ce098705",
@@ -752,9 +517,130 @@
       ],
       "url": "https://mindscape-fermentations.com/events/trivia-night-999-690-812-906-953-155-116-822-235-157-598-714-415-873-555-392-609-230-961-821-676-648-912-964-972-152-467-923/",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:14.474Z",
+      "scrapedAt": "2026-09-07T09:28:35.957Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
+    },
+    {
+      "id": "evt-ee682cd2",
+      "title": "Senor Burger",
+      "date": "2026-09-13T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [
+        "food"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-2ad47792",
+      "title": "Remedy Supply Co. @ Lincoln Farmer’s Market",
+      "description": "Our sister boutique coffee roasting company, Remedy Supply Co., has a booth every week, offering a selection of their great coffees. From staple blends and unique single origins to instant coffee and cold brew concentrate—they aim to connect our community with coffee. One cup at a time. 3111 Lincoln Newcastle Hwy Lincoln, CA 95648 RemedySupplyCo.com @remedysupply.co",
+      "date": "2026-09-13T00:00:00.000Z",
+      "startTime": "2:00 AM",
+      "endTime": "6:00 AM",
+      "venue": {
+        "name": "The Pour Choice",
+        "address": "177 Sacramento St",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://thepourchoice.com/events/"
+      },
+      "type": "beer",
+      "tags": [
+        "beer"
+      ],
+      "url": "https://thepourchoice.com/event/lincoln-farmers-market/",
+      "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/lincoln.png",
+      "price": "0",
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:50.007Z",
+      "source": "pour-choice",
+      "confidence": 1
+    },
+    {
+      "id": "evt-2796988a",
+      "title": "Outlaw Cuisine",
+      "date": "2026-09-14T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-c1b3f6f2",
+      "title": "Santacos",
+      "date": "2026-09-15T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [
+        "food"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-f1bfc300",
+      "title": "Remedy Supply Co. @ Roseville Farmer’s Market",
+      "description": "Our sister coffee roasting company, Remedy Supply Co., has a booth every week, offering a selection of their great coffees. From staple blends and unique single origins to instant coffee and cold brew concentrate—they aim to connect our community with coffee. One cup at a time. The Fountains Roseville 1013 Galleria Blvd Roseville, CA 95678 RemedySupplyCo.com @remedysupply.co",
+      "date": "2026-09-15T00:00:00.000Z",
+      "startTime": "1:00 AM",
+      "endTime": "6:00 AM",
+      "venue": {
+        "name": "The Pour Choice",
+        "address": "177 Sacramento St",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://thepourchoice.com/events/"
+      },
+      "type": "beer",
+      "tags": [
+        "beer"
+      ],
+      "url": "https://thepourchoice.com/event/roseville-farmers-market/",
+      "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/roseville.png",
+      "price": "0",
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:50.007Z",
+      "source": "pour-choice",
+      "confidence": 1
     },
     {
       "id": "evt-df65efce",
@@ -778,7 +664,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/db/edef50caf142bc9ad41aea673d2c6d/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "scrapedAt": "2026-09-07T09:27:10.975Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -805,7 +691,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/19/e4a9f6474b4c45aaa95b001c25f8a2/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "scrapedAt": "2026-09-07T09:27:10.976Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -829,9 +715,53 @@
       ],
       "url": "https://mindscape-fermentations.com/events/oktoberfest-party/",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:14.474Z",
+      "scrapedAt": "2026-09-07T09:28:35.957Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
+    },
+    {
+      "id": "evt-b2838dfb",
+      "title": "Bella Familia",
+      "date": "2026-09-16T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-a02158e2",
+      "title": "Trivia Night",
+      "date": "2026-09-16T00:00:00.000Z",
+      "startTime": "6:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "trivia",
+      "tags": [
+        "trivia"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
     },
     {
       "id": "evt-a2d4b134",
@@ -854,7 +784,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/f2/f484bbb1204addbfda035614835d92/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "scrapedAt": "2026-09-07T09:27:10.976Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -878,9 +808,30 @@
       ],
       "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498-677-525-896-674-283-601-278-786-611-856-839-986-831-474-307-980-318/",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:14.474Z",
+      "scrapedAt": "2026-09-07T09:28:35.957Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
+    },
+    {
+      "id": "evt-6e4a35ae",
+      "title": "Outlaw Cuisine",
+      "date": "2026-09-17T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
     },
     {
       "id": "evt-bc2c021a",
@@ -903,7 +854,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/f2/f484bbb1204addbfda035614835d92/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "scrapedAt": "2026-09-07T09:27:10.976Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -929,9 +880,74 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/3f/97fa705fa5469e8516eea3ae05ccf2/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "scrapedAt": "2026-09-07T09:27:10.976Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
+    },
+    {
+      "id": "evt-f631e4b4",
+      "title": "Bridgehouse5:",
+      "date": "2026-09-18T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-48bf0892",
+      "title": "Live Music by Derek James",
+      "date": "2026-09-18T00:00:00.000Z",
+      "startTime": "0:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [
+        "music"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-977c1948",
+      "title": "Bridgehouse",
+      "date": "2026-09-18T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
     },
     {
       "id": "evt-ea052c8a",
@@ -952,7 +968,7 @@
       "tags": [],
       "imageUrl": "https://static.spotapps.co/spots/5f/9cf1be9c9c40318665469aa3b3baa7/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "scrapedAt": "2026-09-07T09:27:10.976Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -977,7 +993,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/b2/a0dd4594ca4b0b992a67c27615ec0e/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "scrapedAt": "2026-09-07T09:27:10.976Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1002,9 +1018,59 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/ff/d4f5c4a8574a6d952cda61205181f4/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "scrapedAt": "2026-09-07T09:27:10.976Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
+    },
+    {
+      "id": "evt-e7190d81",
+      "title": "West Coast Tacos",
+      "date": "2026-09-19T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [
+        "food"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-85bd6a2a",
+      "title": "Remedy Supply Co. @ Auburn Farmer’s Market",
+      "description": "Our sister boutique coffee roasting company, Remedy Supply Co., has a booth every week, selling all the great coffees they have to offer. From staple blends and unique single origins to instant coffee and cold brew concentrate—they aim to connect our community with coffee. One cup at a time. 150 Auburn Folsom Rd. Auburn, CA 95603 RemedySupplyCo.com @remedysupply.co",
+      "date": "2026-09-19T00:00:00.000Z",
+      "startTime": "1:00 AM",
+      "endTime": "5:00 AM",
+      "venue": {
+        "name": "The Pour Choice",
+        "address": "177 Sacramento St",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://thepourchoice.com/events/"
+      },
+      "type": "beer",
+      "tags": [
+        "beer"
+      ],
+      "url": "https://thepourchoice.com/event/auburn-farmers-market/",
+      "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/auburn.png",
+      "price": "0",
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:50.007Z",
+      "source": "pour-choice",
+      "confidence": 1
     },
     {
       "id": "evt-5d8381ae",
@@ -1027,7 +1093,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/67/33de31a518463099268650fa1fa748/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "scrapedAt": "2026-09-07T09:27:10.976Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1051,7 +1117,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/live-music-jam-session-888-945-466-721-925-529-440-944-874-888-219-573-121-835-364-716-581-214-245-843-810/",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:14.474Z",
+      "scrapedAt": "2026-09-07T09:28:35.957Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -1075,9 +1141,176 @@
       ],
       "url": "https://mindscape-fermentations.com/events/trivia-night-999-690-812-906-953-155-116-822-235-157-598-714-415-873-555-392-609-230-961-821-676-648-912-964-972-152-467-923-497/",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:14.475Z",
+      "scrapedAt": "2026-09-07T09:28:35.957Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
+    },
+    {
+      "id": "evt-8b4bdce4",
+      "title": "Senor Burger",
+      "date": "2026-09-20T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [
+        "food"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-70bf3c18",
+      "title": "Remedy Supply Co. @ Lincoln Farmer’s Market",
+      "description": "Our sister boutique coffee roasting company, Remedy Supply Co., has a booth every week, offering a selection of their great coffees. From staple blends and unique single origins to instant coffee and cold brew concentrate—they aim to connect our community with coffee. One cup at a time. 3111 Lincoln Newcastle Hwy Lincoln, CA 95648 RemedySupplyCo.com @remedysupply.co",
+      "date": "2026-09-20T00:00:00.000Z",
+      "startTime": "2:00 AM",
+      "endTime": "6:00 AM",
+      "venue": {
+        "name": "The Pour Choice",
+        "address": "177 Sacramento St",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://thepourchoice.com/events/"
+      },
+      "type": "beer",
+      "tags": [
+        "beer"
+      ],
+      "url": "https://thepourchoice.com/event/lincoln-farmers-market/",
+      "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/lincoln.png",
+      "price": "0",
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:50.007Z",
+      "source": "pour-choice",
+      "confidence": 1
+    },
+    {
+      "id": "evt-dbb0f816",
+      "title": "Maria's Tacos",
+      "date": "2026-09-21T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [
+        "food"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-93849396",
+      "title": "Santacos",
+      "date": "2026-09-22T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [
+        "food"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-c3628c0a",
+      "title": "Remedy Supply Co. @ Roseville Farmer’s Market",
+      "description": "Our sister coffee roasting company, Remedy Supply Co., has a booth every week, offering a selection of their great coffees. From staple blends and unique single origins to instant coffee and cold brew concentrate—they aim to connect our community with coffee. One cup at a time. The Fountains Roseville 1013 Galleria Blvd Roseville, CA 95678 RemedySupplyCo.com @remedysupply.co",
+      "date": "2026-09-22T00:00:00.000Z",
+      "startTime": "1:00 AM",
+      "endTime": "6:00 AM",
+      "venue": {
+        "name": "The Pour Choice",
+        "address": "177 Sacramento St",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://thepourchoice.com/events/"
+      },
+      "type": "beer",
+      "tags": [
+        "beer"
+      ],
+      "url": "https://thepourchoice.com/event/roseville-farmers-market/",
+      "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/roseville.png",
+      "price": "0",
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:50.007Z",
+      "source": "pour-choice",
+      "confidence": 1
+    },
+    {
+      "id": "evt-698d9370",
+      "title": "Bella Familia",
+      "date": "2026-09-23T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-e8010fc8",
+      "title": "Trivia Night",
+      "date": "2026-09-23T00:00:00.000Z",
+      "startTime": "6:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "trivia",
+      "tags": [
+        "trivia"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
     },
     {
       "id": "evt-bcabfd2b",
@@ -1100,7 +1333,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/b2/a0dd4594ca4b0b992a67c27615ec0e/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "scrapedAt": "2026-09-07T09:27:10.976Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1124,9 +1357,32 @@
       ],
       "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498-677-525-896-674-283-601-278-786-611-856-839-986-831-474-307-980-318-364/",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:14.475Z",
+      "scrapedAt": "2026-09-07T09:28:35.957Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
+    },
+    {
+      "id": "evt-14a09ef5",
+      "title": "Buckethead BBQ",
+      "date": "2026-09-24T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [
+        "food"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
     },
     {
       "id": "evt-928a7708",
@@ -1149,9 +1405,74 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/b4/f34dee72824b33a14ceb35b0b13acc/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "scrapedAt": "2026-09-07T09:27:10.976Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
+    },
+    {
+      "id": "evt-3bf0bce6",
+      "title": "Fry Boys5:",
+      "date": "2026-09-25T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-08aba4b6",
+      "title": "Live Music by Sugar & Spice",
+      "date": "2026-09-25T00:00:00.000Z",
+      "startTime": "0:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [
+        "music"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.881Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-89f30e22",
+      "title": "Fry Boys",
+      "date": "2026-09-25T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.881Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
     },
     {
       "id": "evt-4d36d870",
@@ -1174,7 +1495,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/f2/f484bbb1204addbfda035614835d92/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "scrapedAt": "2026-09-07T09:27:10.976Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1201,8 +1522,58 @@
       "url": "https://products.spothopperapp.com/checkout?spotId=374859&externalProductId=2716485",
       "imageUrl": "https://static.spotapps.co/spots/8d/e44044f1e34f6fbebf0bcd827a671d/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "scrapedAt": "2026-09-07T09:27:10.976Z",
       "source": "crooked-lane-brewing",
+      "confidence": 1
+    },
+    {
+      "id": "evt-211e38ee",
+      "title": "Maria's Tacos",
+      "date": "2026-09-26T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [
+        "food"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.881Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-da47e553",
+      "title": "Remedy Supply Co. @ Auburn Farmer’s Market",
+      "description": "Our sister boutique coffee roasting company, Remedy Supply Co., has a booth every week, selling all the great coffees they have to offer. From staple blends and unique single origins to instant coffee and cold brew concentrate—they aim to connect our community with coffee. One cup at a time. 150 Auburn Folsom Rd. Auburn, CA 95603 RemedySupplyCo.com @remedysupply.co",
+      "date": "2026-09-26T00:00:00.000Z",
+      "startTime": "1:00 AM",
+      "endTime": "5:00 AM",
+      "venue": {
+        "name": "The Pour Choice",
+        "address": "177 Sacramento St",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://thepourchoice.com/events/"
+      },
+      "type": "beer",
+      "tags": [
+        "beer"
+      ],
+      "url": "https://thepourchoice.com/event/auburn-farmers-market/",
+      "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/auburn.png",
+      "price": "0",
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:50.007Z",
+      "source": "pour-choice",
       "confidence": 1
     },
     {
@@ -1228,7 +1599,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/e8/74f07fe887468993151f3bbb8b5a38/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "scrapedAt": "2026-09-07T09:27:10.976Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1252,9 +1623,80 @@
       ],
       "url": "https://mindscape-fermentations.com/events/trivia-night-999-690-812-906-953-155-116-822-235-157-598-714-415-873-555-392-609-230-961-821-676-648-912-964-972-152-467-923-497-976/",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:14.475Z",
+      "scrapedAt": "2026-09-07T09:28:35.957Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
+    },
+    {
+      "id": "evt-a986ac10",
+      "title": "Summer Pop-Up Market",
+      "date": "2026-09-27T00:00:00.000Z",
+      "startTime": "1:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.881Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-0e915e77",
+      "title": "Senor Burger",
+      "date": "2026-09-27T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [
+        "food"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.881Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-9c06e586",
+      "title": "Remedy Supply Co. @ Lincoln Farmer’s Market",
+      "description": "Our sister boutique coffee roasting company, Remedy Supply Co., has a booth every week, offering a selection of their great coffees. From staple blends and unique single origins to instant coffee and cold brew concentrate—they aim to connect our community with coffee. One cup at a time. 3111 Lincoln Newcastle Hwy Lincoln, CA 95648 RemedySupplyCo.com @remedysupply.co",
+      "date": "2026-09-27T00:00:00.000Z",
+      "startTime": "2:00 AM",
+      "endTime": "6:00 AM",
+      "venue": {
+        "name": "The Pour Choice",
+        "address": "177 Sacramento St",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://thepourchoice.com/events/"
+      },
+      "type": "beer",
+      "tags": [
+        "beer"
+      ],
+      "url": "https://thepourchoice.com/event/lincoln-farmers-market/",
+      "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/lincoln.png",
+      "price": "0",
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:50.007Z",
+      "source": "pour-choice",
+      "confidence": 1
     },
     {
       "id": "evt-3eef5666",
@@ -1276,9 +1718,82 @@
         "beer"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:38.456Z",
+      "scrapedAt": "2026-09-07T09:27:10.976Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
+    },
+    {
+      "id": "evt-853ee083",
+      "title": "Maria's Tacos",
+      "date": "2026-09-28T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [
+        "food"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.881Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-4e4bd255",
+      "title": "Santacos",
+      "date": "2026-09-29T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [
+        "food"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.881Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-09100844",
+      "title": "Remedy Supply Co. @ Roseville Farmer’s Market",
+      "description": "Our sister coffee roasting company, Remedy Supply Co., has a booth every week, offering a selection of their great coffees. From staple blends and unique single origins to instant coffee and cold brew concentrate—they aim to connect our community with coffee. One cup at a time. The Fountains Roseville 1013 Galleria Blvd Roseville, CA 95678 RemedySupplyCo.com @remedysupply.co",
+      "date": "2026-09-29T00:00:00.000Z",
+      "startTime": "1:00 AM",
+      "endTime": "6:00 AM",
+      "venue": {
+        "name": "The Pour Choice",
+        "address": "177 Sacramento St",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://thepourchoice.com/events/"
+      },
+      "type": "beer",
+      "tags": [
+        "beer"
+      ],
+      "url": "https://thepourchoice.com/event/roseville-farmers-market/",
+      "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/roseville.png",
+      "price": "0",
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:50.008Z",
+      "source": "pour-choice",
+      "confidence": 1
     },
     {
       "id": "evt-4bd00cef",
@@ -1301,7 +1816,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/b2/a0dd4594ca4b0b992a67c27615ec0e/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:38.457Z",
+      "scrapedAt": "2026-09-07T09:27:10.976Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1326,9 +1841,53 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/94/bd8c58f6df4e7db4dcde8c2fc932ea/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:38.457Z",
+      "scrapedAt": "2026-09-07T09:27:10.976Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
+    },
+    {
+      "id": "evt-049c4234",
+      "title": "Bella Familia",
+      "date": "2026-09-30T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.881Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-ff720b10",
+      "title": "Trivia Night",
+      "date": "2026-09-30T00:00:00.000Z",
+      "startTime": "6:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "trivia",
+      "tags": [
+        "trivia"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.881Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
     },
     {
       "id": "evt-b6bcfe9e",
@@ -1351,7 +1910,7 @@
         "wine"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:07.392Z",
+      "scrapedAt": "2026-09-07T09:28:21.821Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.95
     },
@@ -1375,8 +1934,120 @@
         "tasting"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:07.392Z",
+      "scrapedAt": "2026-09-07T09:28:21.822Z",
       "source": "happy-dayz-vineyard",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-69969f62",
+      "title": "MUSIC BINGO!",
+      "date": "2026-10-01T00:00:00.000Z",
+      "startTime": "",
+      "venue": {
+        "name": "Mindscape Fermentations",
+        "address": "1531 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://mindscape-fermentations.com/events/",
+        "phone": "(530) 820-4330"
+      },
+      "type": "music",
+      "tags": [
+        "music"
+      ],
+      "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498-677-525-896-674-283-601-278-786-611-856-839-986-831-474-307-980-318-364-878/",
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:35.957Z",
+      "source": "mindscape-fermentations",
+      "confidence": 0.8
+    },
+    {
+      "id": "evt-03907738",
+      "title": "West Coast Tacos",
+      "date": "2026-10-01T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [
+        "food"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.881Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-eaf5e605",
+      "title": "JJ's Fusion5:",
+      "date": "2026-10-02T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.881Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-2e8f7473",
+      "title": "Live Music by Johnny Low",
+      "date": "2026-10-02T00:00:00.000Z",
+      "startTime": "0:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [
+        "music"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.881Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-fc2081ca",
+      "title": "JJ's Fusion",
+      "date": "2026-10-02T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.881Z",
+      "source": "moonraker-brewing",
       "confidence": 0.85
     },
     {
@@ -1402,7 +2073,7 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:34.848Z",
+      "scrapedAt": "2026-09-07T09:27:07.368Z",
       "source": "auburn-sra",
       "confidence": 1
     },
@@ -1427,9 +2098,57 @@
         "wine"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:07.392Z",
+      "scrapedAt": "2026-09-07T09:28:21.821Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.95
+    },
+    {
+      "id": "evt-0aeb7729",
+      "title": "Bridgehouse",
+      "date": "2026-10-03T00:00:00.000Z",
+      "startTime": "2:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "food",
+      "tags": [],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:46.881Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-15724d56",
+      "title": "Remedy Supply Co. @ Auburn Farmer’s Market",
+      "description": "Our sister boutique coffee roasting company, Remedy Supply Co., has a booth every week, selling all the great coffees they have to offer. From staple blends and unique single origins to instant coffee and cold brew concentrate—they aim to connect our community with coffee. One cup at a time. 150 Auburn Folsom Rd. Auburn, CA 95603 RemedySupplyCo.com @remedysupply.co",
+      "date": "2026-10-03T00:00:00.000Z",
+      "startTime": "1:00 AM",
+      "endTime": "5:00 AM",
+      "venue": {
+        "name": "The Pour Choice",
+        "address": "177 Sacramento St",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://thepourchoice.com/events/"
+      },
+      "type": "beer",
+      "tags": [
+        "beer"
+      ],
+      "url": "https://thepourchoice.com/event/auburn-farmers-market/",
+      "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/auburn.png",
+      "price": "0",
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:50.008Z",
+      "source": "pour-choice",
+      "confidence": 1
     },
     {
       "id": "evt-44d645d0",
@@ -1452,9 +2171,80 @@
         "wine"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:07.392Z",
+      "scrapedAt": "2026-09-07T09:28:21.821Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.95
+    },
+    {
+      "id": "evt-6e97502e",
+      "title": "Live Music Jam Session",
+      "date": "2026-10-04T00:00:00.000Z",
+      "startTime": "",
+      "venue": {
+        "name": "Mindscape Fermentations",
+        "address": "1531 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://mindscape-fermentations.com/events/",
+        "phone": "(530) 820-4330"
+      },
+      "type": "music",
+      "tags": [
+        "music"
+      ],
+      "url": "https://mindscape-fermentations.com/events/live-music-jam-session-888-945-466-721-925-529-440-944-874-888-219-573-121-835-364-716-581-214-245-843-810-874/",
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:35.957Z",
+      "source": "mindscape-fermentations",
+      "confidence": 0.8
+    },
+    {
+      "id": "evt-5778fca9",
+      "title": "Remedy Supply Co. @ Lincoln Farmer’s Market",
+      "description": "Our sister boutique coffee roasting company, Remedy Supply Co., has a booth every week, offering a selection of their great coffees. From staple blends and unique single origins to instant coffee and cold brew concentrate—they aim to connect our community with coffee. One cup at a time. 3111 Lincoln Newcastle Hwy Lincoln, CA 95648 RemedySupplyCo.com @remedysupply.co",
+      "date": "2026-10-04T00:00:00.000Z",
+      "startTime": "2:00 AM",
+      "endTime": "6:00 AM",
+      "venue": {
+        "name": "The Pour Choice",
+        "address": "177 Sacramento St",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://thepourchoice.com/events/"
+      },
+      "type": "beer",
+      "tags": [
+        "beer"
+      ],
+      "url": "https://thepourchoice.com/event/lincoln-farmers-market/",
+      "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/lincoln.png",
+      "price": "0",
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:28:50.008Z",
+      "source": "pour-choice",
+      "confidence": 1
+    },
+    {
+      "id": "evt-7847ecb3",
+      "title": "Thursday",
+      "description": "register your team now!",
+      "date": "2026-10-08T00:00:00.000Z",
+      "venue": {
+        "name": "Fowler Ranch",
+        "city": "Newcastle",
+        "state": "CA",
+        "url": "https://www.fowlerranch.com/entertainment"
+      },
+      "type": "other",
+      "tags": [
+        "thursday"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-07T09:27:25.249Z",
+      "source": "fowler-ranch",
+      "confidence": 0.85
     },
     {
       "id": "evt-10207222",
@@ -1476,7 +2266,7 @@
         "tasting"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:07.392Z",
+      "scrapedAt": "2026-09-07T09:28:21.821Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.85
     },
@@ -1501,7 +2291,7 @@
         "beer"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:07.393Z",
+      "scrapedAt": "2026-09-07T09:28:21.822Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.95
     },
@@ -1525,7 +2315,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:38.457Z",
+      "scrapedAt": "2026-09-07T09:27:10.981Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1552,7 +2342,7 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:34.848Z",
+      "scrapedAt": "2026-09-07T09:27:07.369Z",
       "source": "auburn-sra",
       "confidence": 1
     },
@@ -1580,7 +2370,7 @@
       "imageUrl": "https://storage.googleapis.com/knee-deep-events/events/Unknown-1778713338702.png",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:09.536Z",
+      "scrapedAt": "2026-09-07T09:28:24.340Z",
       "source": "knee-deep-brewing",
       "confidence": 1
     },
@@ -1607,7 +2397,7 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:34.848Z",
+      "scrapedAt": "2026-09-07T09:27:07.369Z",
       "source": "auburn-sra",
       "confidence": 1
     },
@@ -1634,81 +2424,36 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:26:34.849Z",
+      "scrapedAt": "2026-09-07T09:27:07.369Z",
       "source": "auburn-sra",
       "confidence": 1
     },
     {
-      "id": "evt-52bcfe66",
-      "title": "Summer Wine Tasting",
-      "description": "Summer Wine Tasting",
-      "date": "2027-08-01T00:00:00.000Z",
-      "startTime": "12:00 PM",
+      "id": "evt-8ad58165",
+      "title": "Junior Cubs Program",
+      "description": "Nature program for ages 3-6. Includes story and craft. Held at Murphy House (501 El Dorado Street, Auburn). Free program, no RSVP required.",
+      "date": "2027-02-06T00:00:00.000Z",
+      "startTime": "10:00AM",
+      "endTime": "11:00 AM",
       "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
+        "name": "Auburn State Recreation Area",
+        "address": "501 El Dorado Street",
+        "city": "Auburn",
         "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
+        "zip": "95603",
+        "url": "https://www.parks.ca.gov/?page_id=26506",
+        "phone": "(530) 745-2202"
       },
-      "type": "wine",
+      "type": "workshop",
       "tags": [
-        "wine",
-        "tasting"
+        "for-kids"
       ],
+      "url": "https://www.parks.ca.gov/?page_id=26506",
+      "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:07.392Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-e360bf20",
-      "title": "Summer Wine Tasting",
-      "description": "Summer Wine Tasting",
-      "date": "2027-08-29T00:00:00.000Z",
-      "startTime": "12:00 PM",
-      "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
-      },
-      "type": "wine",
-      "tags": [
-        "wine",
-        "tasting"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:07.392Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-2ca8704f",
-      "title": "Summer Wine Tasting",
-      "description": "Summer Wine Tasting",
-      "date": "2027-08-30T00:00:00.000Z",
-      "startTime": "12:00 PM",
-      "venue": {
-        "name": "Happy Dayz Vineyard",
-        "address": "5575 McCourtney Rd",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.happydayzvineyard.com/visit-us/"
-      },
-      "type": "wine",
-      "tags": [
-        "wine",
-        "tasting"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-08-31T09:27:07.392Z",
-      "source": "happy-dayz-vineyard",
-      "confidence": 0.85
+      "scrapedAt": "2026-09-07T09:27:07.370Z",
+      "source": "auburn-sra",
+      "confidence": 1
     }
   ]
 }
