@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "1.0.0",
-    "generatedAt": "2026-09-07T09:28:50.014Z",
-    "eventCount": 102,
+    "generatedAt": "2026-09-14T09:29:18.818Z",
+    "eventCount": 86,
     "venueCount": 8,
     "venues": [
       "Auburn State Recreation Area",
@@ -16,561 +16,6 @@
     ]
   },
   "events": [
-    {
-      "id": "evt-6b888913",
-      "title": "Labor Day",
-      "description": "Come celebrate the long Labor Day weekend with us! (Recurring: Does not Repeat)",
-      "date": "2026-09-07T00:00:00.000Z",
-      "startTime": "11:00 AM - 08:00 PM",
-      "venue": {
-        "name": "Crooked Lane Brewing",
-        "address": "518 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
-        "phone": "(530) 878-7848"
-      },
-      "type": "other",
-      "tags": [],
-      "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:27:10.974Z",
-      "source": "crooked-lane-brewing",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-b822e1c0",
-      "title": "Doggiestyle Hot Dogs",
-      "date": "2026-09-07T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [],
-      "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.880Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-30030d0d",
-      "title": "Santacos",
-      "date": "2026-09-08T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.880Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-1a172a13",
-      "title": "Remedy Supply Co. @ Roseville Farmer’s Market",
-      "description": "Our sister coffee roasting company, Remedy Supply Co., has a booth every week, offering a selection of their great coffees. From staple blends and unique single origins to instant coffee and cold brew concentrate—they aim to connect our community with coffee. One cup at a time. The Fountains Roseville 1013 Galleria Blvd Roseville, CA 95678 RemedySupplyCo.com @remedysupply.co",
-      "date": "2026-09-08T00:00:00.000Z",
-      "startTime": "1:00 AM",
-      "endTime": "6:00 AM",
-      "venue": {
-        "name": "The Pour Choice",
-        "address": "177 Sacramento St",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://thepourchoice.com/events/"
-      },
-      "type": "beer",
-      "tags": [
-        "beer"
-      ],
-      "url": "https://thepourchoice.com/event/roseville-farmers-market/",
-      "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/roseville.png",
-      "price": "0",
-      "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:50.007Z",
-      "source": "pour-choice",
-      "confidence": 1
-    },
-    {
-      "id": "evt-d69427b2",
-      "title": "Dream Burger",
-      "description": "Gourmet Burgers! Fresh Never frozen! Beef tallow in the fryer! (Recurring: Does not Repeat)",
-      "date": "2026-09-09T00:00:00.000Z",
-      "startTime": "04:00 PM - 08:00 PM",
-      "venue": {
-        "name": "Crooked Lane Brewing",
-        "address": "518 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
-        "phone": "(530) 878-7848"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "imageUrl": "https://static.spotapps.co/spots/b2/a0dd4594ca4b0b992a67c27615ec0e/w926",
-      "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:27:10.975Z",
-      "source": "crooked-lane-brewing",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-8774b9bd",
-      "title": "Paint & Sip",
-      "date": "2026-09-09T00:00:00.000Z",
-      "startTime": "",
-      "venue": {
-        "name": "Mindscape Fermentations",
-        "address": "1531 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://mindscape-fermentations.com/events/",
-        "phone": "(530) 820-4330"
-      },
-      "type": "paint",
-      "tags": [
-        "paint"
-      ],
-      "url": "https://mindscape-fermentations.com/events/paint-sip-6/",
-      "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:35.956Z",
-      "source": "mindscape-fermentations",
-      "confidence": 0.8
-    },
-    {
-      "id": "evt-04853e0b",
-      "title": "Bella Familia",
-      "date": "2026-09-09T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [],
-      "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.880Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-7860eb5c",
-      "title": "Trivia Night",
-      "date": "2026-09-09T00:00:00.000Z",
-      "startTime": "6:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "trivia",
-      "tags": [
-        "trivia"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.880Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-38b448b6",
-      "title": "San Tacos",
-      "description": "Recurring: Does not Repeat",
-      "date": "2026-09-10T00:00:00.000Z",
-      "startTime": "04:00 PM - 08:00 PM",
-      "venue": {
-        "name": "Crooked Lane Brewing",
-        "address": "518 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
-        "phone": "(530) 878-7848"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "imageUrl": "https://static.spotapps.co/spots/ba/35b8df0f7749119b1932fd88a6e9eb/w926",
-      "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:27:10.975Z",
-      "source": "crooked-lane-brewing",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-947a9fb8",
-      "title": "MUSIC BINGO!",
-      "date": "2026-09-10T00:00:00.000Z",
-      "startTime": "",
-      "venue": {
-        "name": "Mindscape Fermentations",
-        "address": "1531 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://mindscape-fermentations.com/events/",
-        "phone": "(530) 820-4330"
-      },
-      "type": "music",
-      "tags": [
-        "music"
-      ],
-      "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498-677-525-896-674-283-601-278-786-611-856-839-986-831-474-307-980/",
-      "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:35.956Z",
-      "source": "mindscape-fermentations",
-      "confidence": 0.8
-    },
-    {
-      "id": "evt-c7227c73",
-      "title": "Portu-Goal",
-      "date": "2026-09-10T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [],
-      "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.880Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-83fbe409",
-      "title": "Fowler Ranch hosts a weekly cornhole competition open to anyone.",
-      "date": "2026-09-10T09:27:25.247Z",
-      "startTime": "6:00pm",
-      "venue": {
-        "name": "Fowler Ranch",
-        "city": "Newcastle",
-        "state": "CA",
-        "url": "https://www.fowlerranch.com/entertainment"
-      },
-      "type": "other",
-      "tags": [],
-      "isRecurring": true,
-      "recurringPattern": "weekly:thursday",
-      "scrapedAt": "2026-09-07T09:27:25.248Z",
-      "source": "fowler-ranch",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-05a73bfa",
-      "title": "Live Music with Midnight Sun",
-      "description": "We are excited to welcome Midnight Sun to the Crooked Lane stage! Midnight Sun brings a great vibe, high energy performance with a very versatile set list and songs you don't hear everyday at a brewery, winery or bar. Their set list blends rock, pop and indie staples with a fresh dynamic feel - perfect for creating a lively atmosphere that keeps guests engaged and staying around for another round. (Recurring: Does not Repeat)",
-      "date": "2026-09-11T00:00:00.000Z",
-      "startTime": "05:00 PM - 08:00 PM",
-      "venue": {
-        "name": "Crooked Lane Brewing",
-        "address": "518 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
-        "phone": "(530) 878-7848"
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "wine",
-        "beer"
-      ],
-      "imageUrl": "https://static.spotapps.co/spots/55/c7920bd63242a9ad91a078c9a3a4f7/w926",
-      "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:27:10.975Z",
-      "source": "crooked-lane-brewing",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-83e1a897",
-      "title": "Bella Familia5:",
-      "date": "2026-09-11T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [],
-      "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.880Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-8542df55",
-      "title": "Live Music by RIVVRS",
-      "date": "2026-09-11T00:00:00.000Z",
-      "startTime": "0:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [
-        "music"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.880Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-728a071a",
-      "title": "Bella Familia",
-      "date": "2026-09-11T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [],
-      "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.880Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-cc53eafc",
-      "title": "Fowler Ranch presents a weekly Trivia competition hosted by Brain Freeze! Come out and win some prizes!",
-      "date": "2026-09-11T09:27:25.248Z",
-      "startTime": "6:00pm",
-      "venue": {
-        "name": "Fowler Ranch",
-        "city": "Newcastle",
-        "state": "CA",
-        "url": "https://www.fowlerranch.com/entertainment"
-      },
-      "type": "trivia",
-      "tags": [
-        "trivia"
-      ],
-      "isRecurring": true,
-      "recurringPattern": "weekly:friday",
-      "scrapedAt": "2026-09-07T09:27:25.249Z",
-      "source": "fowler-ranch",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-90404dd0",
-      "title": "Buenos Aires",
-      "date": "2026-09-12T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [],
-      "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.880Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-677c2b6d",
-      "title": "Junebug foundation - Dog Adoption Event",
-      "date": "2026-09-12T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [],
-      "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.880Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-7f8c12e3",
-      "title": "Remedy Supply Co. @ Auburn Farmer’s Market",
-      "description": "Our sister boutique coffee roasting company, Remedy Supply Co., has a booth every week, selling all the great coffees they have to offer. From staple blends and unique single origins to instant coffee and cold brew concentrate—they aim to connect our community with coffee. One cup at a time. 150 Auburn Folsom Rd. Auburn, CA 95603 RemedySupplyCo.com @remedysupply.co",
-      "date": "2026-09-12T00:00:00.000Z",
-      "startTime": "1:00 AM",
-      "endTime": "5:00 AM",
-      "venue": {
-        "name": "The Pour Choice",
-        "address": "177 Sacramento St",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://thepourchoice.com/events/"
-      },
-      "type": "beer",
-      "tags": [
-        "beer"
-      ],
-      "url": "https://thepourchoice.com/event/auburn-farmers-market/",
-      "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/auburn.png",
-      "price": "0",
-      "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:50.007Z",
-      "source": "pour-choice",
-      "confidence": 1
-    },
-    {
-      "id": "evt-12f64b7a",
-      "title": "Macrame Pumpkin Workshop",
-      "date": "2026-09-13T00:00:00.000Z",
-      "startTime": "",
-      "venue": {
-        "name": "Mindscape Fermentations",
-        "address": "1531 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://mindscape-fermentations.com/events/",
-        "phone": "(530) 820-4330"
-      },
-      "type": "workshop",
-      "tags": [
-        "workshop"
-      ],
-      "url": "https://mindscape-fermentations.com/events/macrame-pumpkin-workshop/",
-      "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:35.957Z",
-      "source": "mindscape-fermentations",
-      "confidence": 0.8
-    },
-    {
-      "id": "evt-ce098705",
-      "title": "TRIVIA NIGHT",
-      "date": "2026-09-13T00:00:00.000Z",
-      "startTime": "",
-      "venue": {
-        "name": "Mindscape Fermentations",
-        "address": "1531 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://mindscape-fermentations.com/events/",
-        "phone": "(530) 820-4330"
-      },
-      "type": "trivia",
-      "tags": [
-        "trivia"
-      ],
-      "url": "https://mindscape-fermentations.com/events/trivia-night-999-690-812-906-953-155-116-822-235-157-598-714-415-873-555-392-609-230-961-821-676-648-912-964-972-152-467-923/",
-      "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:35.957Z",
-      "source": "mindscape-fermentations",
-      "confidence": 0.8
-    },
-    {
-      "id": "evt-ee682cd2",
-      "title": "Senor Burger",
-      "date": "2026-09-13T00:00:00.000Z",
-      "startTime": "2:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12960 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816"
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.880Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-2ad47792",
-      "title": "Remedy Supply Co. @ Lincoln Farmer’s Market",
-      "description": "Our sister boutique coffee roasting company, Remedy Supply Co., has a booth every week, offering a selection of their great coffees. From staple blends and unique single origins to instant coffee and cold brew concentrate—they aim to connect our community with coffee. One cup at a time. 3111 Lincoln Newcastle Hwy Lincoln, CA 95648 RemedySupplyCo.com @remedysupply.co",
-      "date": "2026-09-13T00:00:00.000Z",
-      "startTime": "2:00 AM",
-      "endTime": "6:00 AM",
-      "venue": {
-        "name": "The Pour Choice",
-        "address": "177 Sacramento St",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://thepourchoice.com/events/"
-      },
-      "type": "beer",
-      "tags": [
-        "beer"
-      ],
-      "url": "https://thepourchoice.com/event/lincoln-farmers-market/",
-      "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/lincoln.png",
-      "price": "0",
-      "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:50.007Z",
-      "source": "pour-choice",
-      "confidence": 1
-    },
     {
       "id": "evt-2796988a",
       "title": "Outlaw Cuisine",
@@ -588,7 +33,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -611,7 +56,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -638,7 +83,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/roseville.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:50.007Z",
+      "scrapedAt": "2026-09-14T09:29:18.814Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -664,7 +109,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/db/edef50caf142bc9ad41aea673d2c6d/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:27:10.975Z",
+      "scrapedAt": "2026-09-14T09:26:43.314Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -691,7 +136,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/19/e4a9f6474b4c45aaa95b001c25f8a2/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:27:10.976Z",
+      "scrapedAt": "2026-09-14T09:26:43.314Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -715,7 +160,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/oktoberfest-party/",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:35.957Z",
+      "scrapedAt": "2026-09-14T09:28:47.363Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -736,7 +181,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -759,7 +204,7 @@
         "trivia"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -784,7 +229,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/f2/f484bbb1204addbfda035614835d92/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:27:10.976Z",
+      "scrapedAt": "2026-09-14T09:26:43.314Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -808,7 +253,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498-677-525-896-674-283-601-278-786-611-856-839-986-831-474-307-980-318/",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:35.957Z",
+      "scrapedAt": "2026-09-14T09:28:47.363Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -829,8 +274,27 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-423fc536",
+      "title": "Fowler Ranch hosts a weekly cornhole competition open to anyone.",
+      "date": "2026-09-17T09:27:41.647Z",
+      "startTime": "6:00pm",
+      "venue": {
+        "name": "Fowler Ranch",
+        "city": "Newcastle",
+        "state": "CA",
+        "url": "https://www.fowlerranch.com/entertainment"
+      },
+      "type": "other",
+      "tags": [],
+      "isRecurring": true,
+      "recurringPattern": "weekly:thursday",
+      "scrapedAt": "2026-09-14T09:27:41.648Z",
+      "source": "fowler-ranch",
       "confidence": 0.85
     },
     {
@@ -854,7 +318,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/f2/f484bbb1204addbfda035614835d92/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:27:10.976Z",
+      "scrapedAt": "2026-09-14T09:26:43.314Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -880,7 +344,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/3f/97fa705fa5469e8516eea3ae05ccf2/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:27:10.976Z",
+      "scrapedAt": "2026-09-14T09:26:43.314Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -901,7 +365,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -924,7 +388,7 @@
         "music"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -945,8 +409,29 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-dc8542e8",
+      "title": "Fowler Ranch presents a weekly Trivia competition hosted by Brain Freeze! Come out and win some prizes!",
+      "date": "2026-09-18T09:27:41.648Z",
+      "startTime": "6:00pm",
+      "venue": {
+        "name": "Fowler Ranch",
+        "city": "Newcastle",
+        "state": "CA",
+        "url": "https://www.fowlerranch.com/entertainment"
+      },
+      "type": "trivia",
+      "tags": [
+        "trivia"
+      ],
+      "isRecurring": true,
+      "recurringPattern": "weekly:friday",
+      "scrapedAt": "2026-09-14T09:27:41.649Z",
+      "source": "fowler-ranch",
       "confidence": 0.85
     },
     {
@@ -966,9 +451,9 @@
       },
       "type": "other",
       "tags": [],
-      "imageUrl": "https://static.spotapps.co/spots/5f/9cf1be9c9c40318665469aa3b3baa7/w926",
+      "imageUrl": "https://static.spotapps.co/spots/2a/9614b841af4cf09524cd0abd7f7cae/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:27:10.976Z",
+      "scrapedAt": "2026-09-14T09:26:43.314Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -993,7 +478,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/b2/a0dd4594ca4b0b992a67c27615ec0e/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:27:10.976Z",
+      "scrapedAt": "2026-09-14T09:26:43.314Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1018,7 +503,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/ff/d4f5c4a8574a6d952cda61205181f4/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:27:10.976Z",
+      "scrapedAt": "2026-09-14T09:26:43.314Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1041,7 +526,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1068,7 +553,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/auburn.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:50.007Z",
+      "scrapedAt": "2026-09-14T09:29:18.814Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -1093,7 +578,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/67/33de31a518463099268650fa1fa748/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:27:10.976Z",
+      "scrapedAt": "2026-09-14T09:26:43.314Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1117,7 +602,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/live-music-jam-session-888-945-466-721-925-529-440-944-874-888-219-573-121-835-364-716-581-214-245-843-810/",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:35.957Z",
+      "scrapedAt": "2026-09-14T09:28:47.363Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -1141,7 +626,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/trivia-night-999-690-812-906-953-155-116-822-235-157-598-714-415-873-555-392-609-230-961-821-676-648-912-964-972-152-467-923-497/",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:35.957Z",
+      "scrapedAt": "2026-09-14T09:28:47.363Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -1164,7 +649,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1191,7 +676,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/lincoln.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:50.007Z",
+      "scrapedAt": "2026-09-14T09:29:18.814Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -1214,7 +699,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1237,7 +722,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1264,7 +749,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/roseville.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:50.007Z",
+      "scrapedAt": "2026-09-14T09:29:18.814Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -1285,7 +770,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1308,7 +793,7 @@
         "trivia"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1333,7 +818,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/b2/a0dd4594ca4b0b992a67c27615ec0e/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:27:10.976Z",
+      "scrapedAt": "2026-09-14T09:26:43.314Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1357,7 +842,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498-677-525-896-674-283-601-278-786-611-856-839-986-831-474-307-980-318-364/",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:35.957Z",
+      "scrapedAt": "2026-09-14T09:28:47.363Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -1380,7 +865,30 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
+      "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-f5411a96",
+      "title": "Paint & Sip",
+      "date": "2026-09-24T00:00:00.000Z",
+      "startTime": "6:00 PM",
+      "venue": {
+        "name": "Moonraker Brewing",
+        "address": "12960 Earhart Ave",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95602",
+        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
+        "phone": "(530) 745-6816"
+      },
+      "type": "paint",
+      "tags": [
+        "paint"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1405,7 +913,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/b4/f34dee72824b33a14ceb35b0b13acc/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:27:10.976Z",
+      "scrapedAt": "2026-09-14T09:26:43.314Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1426,7 +934,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.880Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1449,7 +957,7 @@
         "music"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.881Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1470,7 +978,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.881Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1495,7 +1003,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/f2/f484bbb1204addbfda035614835d92/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:27:10.976Z",
+      "scrapedAt": "2026-09-14T09:26:43.314Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1522,7 +1030,7 @@
       "url": "https://products.spothopperapp.com/checkout?spotId=374859&externalProductId=2716485",
       "imageUrl": "https://static.spotapps.co/spots/8d/e44044f1e34f6fbebf0bcd827a671d/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:27:10.976Z",
+      "scrapedAt": "2026-09-14T09:26:43.314Z",
       "source": "crooked-lane-brewing",
       "confidence": 1
     },
@@ -1545,7 +1053,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.881Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1572,7 +1080,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/auburn.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:50.007Z",
+      "scrapedAt": "2026-09-14T09:29:18.814Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -1599,7 +1107,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/e8/74f07fe887468993151f3bbb8b5a38/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:27:10.976Z",
+      "scrapedAt": "2026-09-14T09:26:43.314Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1623,7 +1131,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/trivia-night-999-690-812-906-953-155-116-822-235-157-598-714-415-873-555-392-609-230-961-821-676-648-912-964-972-152-467-923-497-976/",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:35.957Z",
+      "scrapedAt": "2026-09-14T09:28:47.363Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -1644,7 +1152,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.881Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1667,7 +1175,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.881Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1694,7 +1202,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/lincoln.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:50.007Z",
+      "scrapedAt": "2026-09-14T09:29:18.814Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -1718,7 +1226,7 @@
         "beer"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:27:10.976Z",
+      "scrapedAt": "2026-09-14T09:26:43.315Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1741,7 +1249,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.881Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1764,7 +1272,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.881Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1791,7 +1299,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/roseville.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:50.008Z",
+      "scrapedAt": "2026-09-14T09:29:18.814Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -1816,7 +1324,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/b2/a0dd4594ca4b0b992a67c27615ec0e/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:27:10.976Z",
+      "scrapedAt": "2026-09-14T09:26:43.315Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1841,7 +1349,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/94/bd8c58f6df4e7db4dcde8c2fc932ea/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:27:10.976Z",
+      "scrapedAt": "2026-09-14T09:26:43.315Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1862,7 +1370,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.881Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1885,14 +1393,14 @@
         "trivia"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.881Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
     {
-      "id": "evt-b6bcfe9e",
-      "title": "Wine Club weekend Live Music and food available.",
-      "description": "Wine Club weekend Live Music and food available.",
+      "id": "evt-c9a36594",
+      "title": "WINE CLUB WEEKEND Live Music by Mark Musallan and food from Manny’s BBW dawgs. Club member specials. Open to the public",
+      "description": "WINE CLUB WEEKEND Live Music by Mark Musallan and food from Manny’s BBW dawgs. Club member specials. Open to the public",
       "date": "2026-10-01T00:00:00.000Z",
       "startTime": "12:00 PM",
       "venue": {
@@ -1907,10 +1415,37 @@
       "tags": [
         "music",
         "food",
-        "wine"
+        "wine",
+        "special"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:21.821Z",
+      "scrapedAt": "2026-09-14T09:28:40.046Z",
+      "source": "happy-dayz-vineyard",
+      "confidence": 0.95
+    },
+    {
+      "id": "evt-028c0416",
+      "title": "WINE CLUB WEEKEND Live music by Doc Dibble and food from Wheel & Wedge Charcuterie. Club meber specials. Open to the public.",
+      "description": "WINE CLUB WEEKEND Live music by Doc Dibble and food from Wheel & Wedge Charcuterie. Club meber specials. Open to the public.",
+      "date": "2026-10-01T00:00:00.000Z",
+      "startTime": "12:00 PM",
+      "venue": {
+        "name": "Happy Dayz Vineyard",
+        "address": "5575 McCourtney Rd",
+        "city": "Lincoln",
+        "state": "CA",
+        "zip": "95648",
+        "url": "https://www.happydayzvineyard.com/visit-us/"
+      },
+      "type": "music",
+      "tags": [
+        "music",
+        "food",
+        "wine",
+        "special"
+      ],
+      "isRecurring": false,
+      "scrapedAt": "2026-09-14T09:28:40.046Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.95
     },
@@ -1934,7 +1469,7 @@
         "tasting"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:21.822Z",
+      "scrapedAt": "2026-09-14T09:28:40.046Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.85
     },
@@ -1958,7 +1493,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498-677-525-896-674-283-601-278-786-611-856-839-986-831-474-307-980-318-364-878/",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:35.957Z",
+      "scrapedAt": "2026-09-14T09:28:47.363Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -1981,7 +1516,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.881Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2002,7 +1537,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.881Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2025,7 +1560,7 @@
         "music"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.881Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2046,7 +1581,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.881Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2073,14 +1608,14 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:27:07.368Z",
+      "scrapedAt": "2026-09-14T09:26:37.609Z",
       "source": "auburn-sra",
       "confidence": 1
     },
     {
-      "id": "evt-4ff05b37",
-      "title": "Wine Club weekend Live Music and food available.",
-      "description": "Wine Club weekend Live Music and food available.",
+      "id": "evt-3182613d",
+      "title": "WINE CLUB WEEKEND Live Music by Mark Musallan and food from Manny’s BBW dawgs. Club member specials. Open to the public",
+      "description": "WINE CLUB WEEKEND Live Music by Mark Musallan and food from Manny’s BBW dawgs. Club member specials. Open to the public",
       "date": "2026-10-03T00:00:00.000Z",
       "startTime": "12:00 PM",
       "venue": {
@@ -2095,10 +1630,11 @@
       "tags": [
         "music",
         "food",
-        "wine"
+        "wine",
+        "special"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:21.821Z",
+      "scrapedAt": "2026-09-14T09:28:40.045Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.95
     },
@@ -2119,7 +1655,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:46.881Z",
+      "scrapedAt": "2026-09-14T09:29:14.445Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2146,14 +1682,14 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/auburn.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:50.008Z",
+      "scrapedAt": "2026-09-14T09:29:18.814Z",
       "source": "pour-choice",
       "confidence": 1
     },
     {
-      "id": "evt-44d645d0",
-      "title": "Wine Club weekend Live Music and food available.",
-      "description": "Wine Club weekend Live Music and food available.",
+      "id": "evt-9a085971",
+      "title": "WINE CLUB WEEKEND Live music by Doc Dibble and food from Wheel & Wedge Charcuterie. Club meber specials. Open to the public.",
+      "description": "WINE CLUB WEEKEND Live music by Doc Dibble and food from Wheel & Wedge Charcuterie. Club meber specials. Open to the public.",
       "date": "2026-10-04T00:00:00.000Z",
       "startTime": "12:00 PM",
       "venue": {
@@ -2168,10 +1704,11 @@
       "tags": [
         "music",
         "food",
-        "wine"
+        "wine",
+        "special"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:21.821Z",
+      "scrapedAt": "2026-09-14T09:28:40.046Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.95
     },
@@ -2195,7 +1732,31 @@
       ],
       "url": "https://mindscape-fermentations.com/events/live-music-jam-session-888-945-466-721-925-529-440-944-874-888-219-573-121-835-364-716-581-214-245-843-810-874/",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:35.957Z",
+      "scrapedAt": "2026-09-14T09:28:47.363Z",
+      "source": "mindscape-fermentations",
+      "confidence": 0.8
+    },
+    {
+      "id": "evt-c84a21bb",
+      "title": "TRIVIA NIGHT",
+      "date": "2026-10-04T00:00:00.000Z",
+      "startTime": "",
+      "venue": {
+        "name": "Mindscape Fermentations",
+        "address": "1531 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://mindscape-fermentations.com/events/",
+        "phone": "(530) 820-4330"
+      },
+      "type": "trivia",
+      "tags": [
+        "trivia"
+      ],
+      "url": "https://mindscape-fermentations.com/events/trivia-night-999-690-812-906-953-155-116-822-235-157-598-714-415-873-555-392-609-230-961-821-676-648-912-964-972-152-467-923-497-976-179/",
+      "isRecurring": false,
+      "scrapedAt": "2026-09-14T09:28:47.363Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -2222,7 +1783,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/lincoln.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:50.008Z",
+      "scrapedAt": "2026-09-14T09:29:18.814Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -2242,9 +1803,33 @@
         "thursday"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:27:25.249Z",
+      "scrapedAt": "2026-09-14T09:27:41.649Z",
       "source": "fowler-ranch",
       "confidence": 0.85
+    },
+    {
+      "id": "evt-52329d8b",
+      "title": "MUSIC BINGO!",
+      "date": "2026-10-08T00:00:00.000Z",
+      "startTime": "",
+      "venue": {
+        "name": "Mindscape Fermentations",
+        "address": "1531 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://mindscape-fermentations.com/events/",
+        "phone": "(530) 820-4330"
+      },
+      "type": "music",
+      "tags": [
+        "music"
+      ],
+      "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498-677-525-896-674-283-601-278-786-611-856-839-986-831-474-307-980-318-364-878-863/",
+      "isRecurring": false,
+      "scrapedAt": "2026-09-14T09:28:47.363Z",
+      "source": "mindscape-fermentations",
+      "confidence": 0.8
     },
     {
       "id": "evt-10207222",
@@ -2266,7 +1851,7 @@
         "tasting"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:21.821Z",
+      "scrapedAt": "2026-09-14T09:28:40.046Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.85
     },
@@ -2291,9 +1876,57 @@
         "beer"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:21.822Z",
+      "scrapedAt": "2026-09-14T09:28:40.046Z",
       "source": "happy-dayz-vineyard",
       "confidence": 0.95
+    },
+    {
+      "id": "evt-dabd28b2",
+      "title": "TRIVIA NIGHT",
+      "date": "2026-10-11T00:00:00.000Z",
+      "startTime": "",
+      "venue": {
+        "name": "Mindscape Fermentations",
+        "address": "1531 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://mindscape-fermentations.com/events/",
+        "phone": "(530) 820-4330"
+      },
+      "type": "trivia",
+      "tags": [
+        "trivia"
+      ],
+      "url": "https://mindscape-fermentations.com/events/trivia-night-999-690-812-906-953-155-116-822-235-157-598-714-415-873-555-392-609-230-961-821-676-648-912-964-972-152-467-923-497-976-179-150/",
+      "isRecurring": false,
+      "scrapedAt": "2026-09-14T09:28:47.363Z",
+      "source": "mindscape-fermentations",
+      "confidence": 0.8
+    },
+    {
+      "id": "evt-a4087491",
+      "title": "MUSIC BINGO!",
+      "date": "2026-10-15T00:00:00.000Z",
+      "startTime": "",
+      "venue": {
+        "name": "Mindscape Fermentations",
+        "address": "1531 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://mindscape-fermentations.com/events/",
+        "phone": "(530) 820-4330"
+      },
+      "type": "music",
+      "tags": [
+        "music"
+      ],
+      "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498-677-525-896-674-283-601-278-786-611-856-839-986-831-474-307-980-318-364-878-863-788/",
+      "isRecurring": false,
+      "scrapedAt": "2026-09-14T09:28:47.363Z",
+      "source": "mindscape-fermentations",
+      "confidence": 0.8
     },
     {
       "id": "evt-9796dd5c",
@@ -2315,7 +1948,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:27:10.981Z",
+      "scrapedAt": "2026-09-14T09:26:43.315Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -2342,7 +1975,7 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:27:07.369Z",
+      "scrapedAt": "2026-09-14T09:26:37.610Z",
       "source": "auburn-sra",
       "confidence": 1
     },
@@ -2370,7 +2003,7 @@
       "imageUrl": "https://storage.googleapis.com/knee-deep-events/events/Unknown-1778713338702.png",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:28:24.340Z",
+      "scrapedAt": "2026-09-14T09:28:42.338Z",
       "source": "knee-deep-brewing",
       "confidence": 1
     },
@@ -2397,7 +2030,7 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:27:07.369Z",
+      "scrapedAt": "2026-09-14T09:26:37.610Z",
       "source": "auburn-sra",
       "confidence": 1
     },
@@ -2424,7 +2057,7 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:27:07.369Z",
+      "scrapedAt": "2026-09-14T09:26:37.610Z",
       "source": "auburn-sra",
       "confidence": 1
     },
@@ -2451,7 +2084,7 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-09-07T09:27:07.370Z",
+      "scrapedAt": "2026-09-14T09:26:37.610Z",
       "source": "auburn-sra",
       "confidence": 1
     }
