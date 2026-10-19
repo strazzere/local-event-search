@@ -3,7 +3,7 @@
   "name": "Goathouse Brewing",
   "url": "https://www.goathousebrewing.com/",
   "platform": "wix",
-  "enabled": true,
+  "enabled": false,
   "venue": {
     "name": "Goathouse Brewing",
     "address": "4311 Taylor Rd",

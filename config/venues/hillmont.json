@@ -3,7 +3,7 @@
   "name": "The Hillmont",
   "url": "https://www.hillmontauburn.com/",
   "platform": "squarespace",
-  "enabled": true,
+  "enabled": false,
   "venue": {
     "name": "The Hillmont",
     "address": "899 Lincoln Way",

@@ -3,7 +3,7 @@
   "name": "Buenos Aires Grill",
   "url": "https://buenosairesgrillsac.com/",
   "platform": "godaddy",
-  "enabled": true,
+  "enabled": false,
   "venue": {
     "name": "Buenos Aires Grill (Food Truck)",
     "city": "Sacramento Area",
