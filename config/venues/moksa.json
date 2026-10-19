@@ -3,7 +3,7 @@
   "name": "Moksa Brewing",
   "url": "https://moksabrewing.com/food-and-events.html",
   "platform": "custom",
-  "enabled": true,
+  "enabled": false,
   "venue": {
     "name": "Moksa Brewing",
     "address": "5860 Pacific St",

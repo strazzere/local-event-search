@@ -3,7 +3,7 @@
   "name": "Auburn Alehouse",
   "url": "https://auburnalehouse.com/pages/events",
   "platform": "shopify",
-  "enabled": true,
+  "enabled": false,
   "venue": {
     "name": "Auburn Alehouse",
     "address": "289 Washington St",
