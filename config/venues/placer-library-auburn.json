@@ -1,0 +1,24 @@
+{
+  "id": "placer-library-auburn",
+  "name": "Placer County Library - Auburn",
+  "url": "https://placer.libcal.com/calendar/auburn",
+  "platform": "custom",
+  "enabled": true,
+  "venue": {
+    "name": "Placer County Library - Auburn",
+    "address": "350 Nevada St",
+    "city": "Auburn",
+    "state": "CA",
+    "zip": "95603",
+    "lat": 38.906594,
+    "lng": -121.082352
+  },
+  "config": {
+    "icsUrl": "https://placer.libcal.com/ical_subscribe.php?src=p&cid=22320",
+    "icsFilters": {
+      "excludeKeywords": ["baby storytime", "toddler storytime", "preschool storytime"]
+    },
+    "maxDaysAhead": 60,
+    "timezone": "America/Los_Angeles"
+  }
+}

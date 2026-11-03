@@ -10,7 +10,9 @@
     "city": "Auburn",
     "state": "CA",
     "zip": "95602",
-    "phone": "(530) 797-4676"
+    "phone": "(530) 797-4676",
+    "lat": 38.951636,
+    "lng": -121.079658
   },
   "config": {
     "useBrowser": false,

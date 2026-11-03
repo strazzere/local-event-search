@@ -5,12 +5,13 @@ import { BaseScraper } from '../core/base-scraper';
 import { logger } from '../utils/logger';
 
 // Import all scrapers
-import { WordPressScraper, MindscapeScraper, HappyDayzScraper, HighHandScraper, PourChoiceScraper } from './wordpress';
+import { WordPressScraper, MindscapeScraper, HappyDayzScraper, HighHandScraper, PourChoiceScraper, TribeRestScraper } from './wordpress';
 import { SquarespaceScraper, OmakaseScraper } from './squarespace';
 import { ShopifyScraper } from './shopify';
 import { SpotHopperScraper } from './spothopper';
 import { WixScraper, MoonrakerScraper, GoathouseScraper } from './wix';
 import { BuenosAiresScraper, MoksaScraper, AuburnSraScraper, KneeDeepScraper, GenericScraper } from './custom';
+import { IcsScraper } from './ics';
 
 type ScraperClass = new (config: VenueConfig) => BaseScraper;
 
@@ -95,6 +96,16 @@ export class ScraperRegistry {
 
     // Try venue-specific scraper first
     let ScraperClass = SCRAPER_MAP[venueId];
+
+    // Check for ICS URL in config
+    if (!ScraperClass && config.config?.icsUrl) {
+      ScraperClass = IcsScraper;
+    }
+
+    // Check for WordPress REST API URL in config
+    if (!ScraperClass && config.config?.wordpressRestUrl) {
+      ScraperClass = TribeRestScraper;
+    }
 
     // Fall back to platform scraper
     if (!ScraperClass) {

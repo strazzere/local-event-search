@@ -6,11 +6,13 @@
   "enabled": true,
   "venue": {
     "name": "Moonraker Brewing",
-    "address": "12960 Earhart Ave",
+    "address": "12970 Earhart Ave",
     "city": "Auburn",
     "state": "CA",
     "zip": "95602",
-    "phone": "(530) 745-6816"
+    "phone": "(530) 745-6816",
+    "lat": 38.950782,
+    "lng": -121.081713
   },
   "selectors": {
     "eventContainer": "[data-hook='event-list-item'], .event-item, article",

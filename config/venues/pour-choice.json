@@ -9,7 +9,9 @@
     "address": "177 Sacramento St",
     "city": "Auburn",
     "state": "CA",
-    "zip": "95603"
+    "zip": "95603",
+    "lat": 38.895019,
+    "lng": -121.07801
   },
   "config": {
     "useBrowser": false,

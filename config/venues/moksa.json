@@ -9,7 +9,9 @@
     "address": "5860 Pacific St",
     "city": "Rocklin",
     "state": "CA",
-    "zip": "95677"
+    "zip": "95677",
+    "lat": 38.783195,
+    "lng": -121.241309
   },
   "selectors": {
     "eventContainer": ".event, .event-item, article, .post",

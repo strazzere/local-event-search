@@ -1,0 +1,24 @@
+{
+  "id": "loomis-town",
+  "name": "Town of Loomis",
+  "url": "https://loomis.ca.gov/event-list-view/",
+  "platform": "custom",
+  "enabled": true,
+  "venue": {
+    "name": "Town of Loomis",
+    "address": "3665 Taylor Rd",
+    "city": "Loomis",
+    "state": "CA",
+    "zip": "95650",
+    "lat": 38.819456,
+    "lng": -121.195111
+  },
+  "config": {
+    "icsUrl": "https://loomis.ca.gov/events.ics",
+    "icsFilters": {
+      "excludeKeywords": ["meeting", "closure", "closed"]
+    },
+    "maxDaysAhead": 60,
+    "timezone": "America/Los_Angeles"
+  }
+}

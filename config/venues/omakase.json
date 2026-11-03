@@ -10,7 +10,9 @@
     "city": "Sacramento",
     "state": "CA",
     "zip": "95815",
-    "phone": "(916) 238-2638"
+    "phone": "(916) 238-2638",
+    "lat": 38.621847,
+    "lng": -121.423077
   },
   "selectors": {
     "eventContainer": ".eventlist-event, .summary-item, article",

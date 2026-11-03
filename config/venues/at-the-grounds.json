@@ -1,0 +1,21 @@
+{
+  "id": "at-the-grounds",
+  "name": "@the Grounds (Placer County Fairgrounds)",
+  "url": "https://www.atthegrounds.com/events/",
+  "platform": "wordpress",
+  "enabled": true,
+  "venue": {
+    "name": "@the Grounds",
+    "address": "700 Event Center Dr",
+    "city": "Roseville",
+    "state": "CA",
+    "zip": "95678",
+    "lat": 38.758255,
+    "lng": -121.298361
+  },
+  "config": {
+    "wordpressRestUrl": "https://www.atthegrounds.com/wp-json/tribe/events/v1/events",
+    "maxDaysAhead": 60,
+    "timezone": "America/Los_Angeles"
+  }
+}

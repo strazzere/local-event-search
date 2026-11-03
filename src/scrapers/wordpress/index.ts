@@ -3,3 +3,4 @@ export * from './mindscape-scraper';
 export * from './happy-dayz-scraper';
 export * from './highhand-scraper';
 export * from './pour-choice-scraper';
+export * from './tribe-rest-scraper';

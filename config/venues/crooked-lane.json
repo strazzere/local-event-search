@@ -6,11 +6,13 @@
   "enabled": true,
   "venue": {
     "name": "Crooked Lane Brewing",
-    "address": "518 Grass Valley Hwy",
+    "address": "536 Grass Valley Hwy",
     "city": "Auburn",
     "state": "CA",
     "zip": "95603",
-    "phone": "(530) 878-7848"
+    "phone": "(530) 878-7848",
+    "lat": 38.909827,
+    "lng": -121.077143
   },
   "selectors": {
     "eventContainer": ".event-calendar-card",

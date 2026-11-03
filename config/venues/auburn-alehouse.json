@@ -10,7 +10,9 @@
     "city": "Auburn",
     "state": "CA",
     "zip": "95603",
-    "phone": "(530) 885-2537"
+    "phone": "(530) 885-2537",
+    "lat": 38.895328,
+    "lng": -121.078465
   },
   "selectors": {
     "eventContainer": ".event-card, .collection-product-card, article, .grid-item",

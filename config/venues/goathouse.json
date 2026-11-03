@@ -6,10 +6,12 @@
   "enabled": false,
   "venue": {
     "name": "Goathouse Brewing",
-    "address": "4311 Taylor Rd",
-    "city": "Loomis",
+    "address": "600 Wise Rd",
+    "city": "Lincoln",
     "state": "CA",
-    "zip": "95650"
+    "zip": "95648",
+    "lat": 38.926459,
+    "lng": -121.269044
   },
   "selectors": {
     "eventContainer": "[data-hook='event-list-item'], .event-item, article",

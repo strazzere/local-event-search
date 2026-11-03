@@ -6,10 +6,12 @@
   "enabled": false,
   "venue": {
     "name": "The Hillmont",
-    "address": "899 Lincoln Way",
+    "address": "875 Lincoln Way",
     "city": "Auburn",
     "state": "CA",
-    "zip": "95603"
+    "zip": "95603",
+    "lat": 38.899864,
+    "lng": -121.069033
   },
   "selectors": {
     "eventContainer": ".eventlist-event, .summary-item, article",
