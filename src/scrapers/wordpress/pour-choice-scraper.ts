@@ -1,6 +1,7 @@
 import * as cheerio from 'cheerio';
 import { WordPressScraper } from './wordpress-scraper';
 import { RawEventData } from '../../utils/event-normalizer';
+import { stripHtml } from '../../utils/html-text';
 
 interface JsonLdEvent {
   '@type'?: string | string[];
@@ -12,25 +13,6 @@ interface JsonLdEvent {
   image?: string;
   location?: { name?: string; address?: string };
   offers?: { url?: string; price?: string };
-}
-
-function decodeEntities(text: string): string {
-  return text
-    .replace(/&#(\d+);/g, (_, code) => String.fromCharCode(parseInt(code, 10)))
-    .replace(/&#x([0-9a-fA-F]+);/g, (_, code) => String.fromCharCode(parseInt(code, 16)))
-    .replace(/&amp;/g, '&')
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&quot;/g, '"')
-    .replace(/&#039;/g, "'")
-    .replace(/&apos;/g, "'")
-    .replace(/&nbsp;/g, ' ');
-}
-
-function stripHtml(html: string): string {
-  return decodeEntities(html.replace(/<[^>]*>/g, ' '))
-    .replace(/\s+/g, ' ')
-    .trim();
 }
 
 function formatTime(iso: string): string | undefined {
