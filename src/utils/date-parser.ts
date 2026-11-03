@@ -10,7 +10,7 @@ import {
   setHours,
   setMinutes
 } from 'date-fns';
-import { toZonedTime, format as formatTz } from 'date-fns-tz';
+import { toZonedTime, fromZonedTime, formatInTimeZone } from 'date-fns-tz';
 import { logger } from './logger';
 
 const DEFAULT_TIMEZONE = 'America/Los_Angeles';
@@ -75,6 +75,11 @@ export class DateParser {
     // Try ISO format first
     const isoDate = parseISO(cleanedDate);
     if (isValid(isoDate)) {
+      // ISO dates with timezone info are already correct
+      // ISO dates without timezone should be interpreted as Pacific time
+      if (!cleanedDate.match(/[+-]\d{2}:\d{2}|Z$/)) {
+        return fromZonedTime(isoDate, this.timezone);
+      }
       return isoDate;
     }
 
@@ -83,14 +88,35 @@ export class DateParser {
       try {
         const parsed = parse(cleanedDate, fmt, reference);
         if (isValid(parsed)) {
+          // Extract components from the parsed date
+          let year = parsed.getFullYear();
+          const month = parsed.getMonth();
+          const day = parsed.getDate();
+          const hours = parsed.getHours();
+          const minutes = parsed.getMinutes();
+          const seconds = parsed.getSeconds();
+          
           // If year is missing (e.g., "January 15"), assume current/next year
+          // Compare by calendar date in Pacific timezone to avoid off-by-one errors
           if (!cleanedDate.match(/\d{4}/)) {
-            const now = new Date();
-            if (parsed < now) {
-              parsed.setFullYear(now.getFullYear() + 1);
+            const nowPacific = toZonedTime(new Date(), this.timezone);
+            
+            // Compare year, month, and day
+            if (
+              year < nowPacific.getFullYear() ||
+              (year === nowPacific.getFullYear() && 
+               (month < nowPacific.getMonth() ||
+                (month === nowPacific.getMonth() && 
+                 day < nowPacific.getDate())))
+            ) {
+              year = nowPacific.getFullYear() + 1;
             }
           }
-          return parsed;
+          
+          // Create a date with these components in Pacific timezone
+          // by constructing a local date and converting it
+          const pacificDate = new Date(year, month, day, hours, minutes, seconds);
+          return fromZonedTime(pacificDate, this.timezone);
         }
       } catch {
         continue;
@@ -148,7 +174,10 @@ export class DateParser {
     if (timeStr) {
       const time = this.parseTime(timeStr);
       if (time) {
-        date.setHours(time.hours, time.minutes, 0, 0);
+        // Convert back to zoned time to manipulate, then convert to UTC
+        const zonedDate = toZonedTime(date, this.timezone);
+        zonedDate.setHours(time.hours, time.minutes, 0, 0);
+        return fromZonedTime(zonedDate, this.timezone);
       }
     }
 
@@ -156,12 +185,14 @@ export class DateParser {
   }
 
   toISOString(date: Date): string {
-    return date.toISOString();
+    // Format the date in Pacific timezone with explicit offset
+    // This produces strings like "2026-11-07T18:00:00-08:00" or "2026-05-15T18:00:00-07:00"
+    // DST is handled automatically by the formatter
+    return formatInTimeZone(date, this.timezone, "yyyy-MM-dd'T'HH:mm:ssXXX");
   }
 
   toLocalString(date: Date, fmt: string = 'yyyy-MM-dd HH:mm:ss'): string {
-    const zonedDate = toZonedTime(date, this.timezone);
-    return formatTz(zonedDate, fmt, { timeZone: this.timezone });
+    return formatInTimeZone(date, this.timezone, fmt);
   }
 
   formatForDisplay(date: Date): string {
@@ -191,19 +222,22 @@ export class DateParser {
   private parseRelativeDate(dateStr: string, reference: Date): Date | null {
     const lower = dateStr.toLowerCase();
 
-    if (lower === 'today') return reference;
-    if (lower === 'tomorrow') return addDays(reference, 1);
+    // Work with Pacific time for relative dates
+    const pacificRef = toZonedTime(reference, this.timezone);
+
+    if (lower === 'today') return fromZonedTime(pacificRef, this.timezone);
+    if (lower === 'tomorrow') return fromZonedTime(addDays(pacificRef, 1), this.timezone);
 
     // "next Monday", "this Friday"
     const dayMatch = lower.match(/(next|this)?\s*(monday|tuesday|wednesday|thursday|friday|saturday|sunday)/);
     if (dayMatch) {
       const dayNum = DAY_NAMES[dayMatch[2]];
       if (dayNum !== undefined) {
-        let result = nextDay(reference, dayNum);
+        let result = nextDay(pacificRef, dayNum);
         if (dayMatch[1] === 'next') {
           result = addWeeks(result, 1);
         }
-        return result;
+        return fromZonedTime(result, this.timezone);
       }
     }
 
@@ -212,7 +246,7 @@ export class DateParser {
     if (everyMatch) {
       const dayNum = DAY_NAMES[everyMatch[1]];
       if (dayNum !== undefined) {
-        return nextDay(reference, dayNum);
+        return fromZonedTime(nextDay(pacificRef, dayNum), this.timezone);
       }
     }
 
