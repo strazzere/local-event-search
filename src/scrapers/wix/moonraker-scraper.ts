@@ -51,50 +51,57 @@ export class MoonrakerScraper extends WixScraper {
 
         if (!eventText || eventText.length < 3) return;
 
-        // Handle multiple events concatenated (e.g., "12pSenior Burger6pTrivia Night")
-        // Split on time patterns
-        const eventParts = eventText.split(/(?=\d{1,2}(?:p|pm|a|am))/i).filter(p => p.trim());
+        // Use a regex to match all event patterns in the text
+        // Match patterns like "12p Title", "6pm Title", "10:30am Title"
+        // This avoids the splitting problem with "12p" being split into "1" + "2p"
+        const eventPattern = /(\d{1,2})(?::(\d{2}))?(am|pm|a|p)\s*([^0-9][^\d{1,2}(?:am|pm|a|p)]{2,}?)(?=\d{1,2}(?:am|pm|a|p)|$)/gi;
+        const matches = Array.from(eventText.matchAll(eventPattern));
 
-        for (const part of eventParts) {
-          const trimmedPart = part.trim();
-          if (!trimmedPart || trimmedPart.length < 3) continue;
-
-          // Parse time and title from format like "12pSenior Burger"
-          const timeMatch = trimmedPart.match(/^(\d{1,2})(?:p|pm|a|am)\s*(.*)$/i);
-
-          let title: string;
-          let startTime: string | undefined;
-
-          if (timeMatch) {
-            const hour = parseInt(timeMatch[1]);
-            title = timeMatch[2].trim();
-            // Convert to 12-hour format with PM (most events are afternoon/evening)
-            startTime = hour <= 12 ? `${hour}:00 PM` : `${hour - 12}:00 PM`;
-          } else {
-            title = trimmedPart;
+        if (matches.length === 0) {
+          // No matches found, try treating the whole text as a single event
+          const singlePattern = /^(\d{1,2})(?::(\d{2}))?(am|pm|a|p)\s*(.+)$/i;
+          const singleMatch = singlePattern.exec(eventText);
+          if (singleMatch) {
+            matches.push(singleMatch);
           }
+        }
 
-          // Skip if title is just a time or too short
-          if (!title || title.length < 3 || /^\d+p?m?$/i.test(title)) continue;
+        for (const match of matches) {
+          let hour = parseInt(match[1]);
+          const minutes = match[2] || '00';
+          const period = match[3].toLowerCase();
+          let title = match[4].trim();
+          
+          // Properly handle AM/PM conversion
+          const isAM = period === 'a' || period === 'am';
+          const isPM = period === 'p' || period === 'pm';
+          
+          if (isPM && hour !== 12) {
+            hour += 12;
+          } else if (isAM && hour === 12) {
+            hour = 0;
+          }
+          
+          // Convert back to 12-hour format for display
+          let displayHour = hour % 12;
+          if (displayHour === 0) displayHour = 12;
+          const displayPeriod = hour >= 12 ? 'PM' : 'AM';
+          const startTime = `${displayHour}:${minutes} ${displayPeriod}`;
 
-          // Skip if title looks like just a number
+          // Clean up title - remove trailing time patterns and numbers
+          title = title.replace(/\d{1,2}(?::\d{2})?(?:am|pm|a|p)?$/i, '').trim();
+          
+          // Skip if title is too short, just a number, or contains noise
+          if (!title || title.length < 3) continue;
           if (/^\d+$/.test(title)) continue;
+          if (/^(?:closing|closed|open)/i.test(title)) continue;
 
-          // Skip "closing" events (e.g., "Closing at 5pm")
-          if (/closing/i.test(title)) continue;
-
-          const key = `${dateStr}:${title}:${startTime || ''}`;
+          const key = `${dateStr}:${title}:${startTime}`;
           if (seenEvents.has(key)) continue;
           seenEvents.add(key);
 
-          // Determine event type based on title
-          let eventType: 'food' | 'paint' | 'trivia' = 'food';
-          const lowerTitle = title.toLowerCase();
-          if (lowerTitle.includes('paint')) {
-            eventType = 'paint';
-          } else if (lowerTitle.includes('trivia')) {
-            eventType = 'trivia';
-          }
+          // Determine event type based on title keywords
+          const eventType = this.detectBoomtechEventType(title);
 
           events.push({
             title,
@@ -111,6 +118,37 @@ export class MoonrakerScraper extends WixScraper {
 
     this.logger.debug(`Parsed ${uniqueEvents.length} events from Boomtech calendar`);
     return uniqueEvents;
+  }
+
+  private detectBoomtechEventType(title: string): 'food' | 'music' | 'paint' | 'trivia' | 'other' {
+    const lower = title.toLowerCase();
+    
+    // Check for music events
+    if (lower.includes('live music') || lower.includes('band') || 
+        lower.includes('acoustic') || lower.includes('karaoke') ||
+        lower.includes('dj ') || lower.includes('concert')) {
+      return 'music';
+    }
+    
+    // Check for trivia
+    if (lower.includes('trivia')) {
+      return 'trivia';
+    }
+    
+    // Check for paint events
+    if (lower.includes('paint')) {
+      return 'paint';
+    }
+    
+    // Check for food trucks and food events
+    if (lower.includes('food truck') || lower.includes('truck') || 
+        lower.includes('taco') || lower.includes('burger') ||
+        lower.includes('bbq') || lower.includes('cuisine') ||
+        lower.includes('hot dog')) {
+      return 'food';
+    }
+    
+    return 'other';
   }
 
   private deduplicateEvents(events: RawEventData[]): RawEventData[] {
