@@ -6,11 +6,13 @@
   "enabled": true,
   "venue": {
     "name": "Mindscape Fermentations",
-    "address": "1531 Grass Valley Hwy",
-    "city": "Auburn",
+    "address": "5424 Crossings Dr",
+    "city": "Rocklin",
     "state": "CA",
-    "zip": "95603",
-    "phone": "(530) 820-4330"
+    "zip": "95677",
+    "phone": "(530) 820-4330",
+    "lat": 38.799853,
+    "lng": -121.203275
   },
   "selectors": {
     "eventContainer": ".mec-event-article, .mec-event-grid-modern article, .mec-wrap article",

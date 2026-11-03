@@ -6,8 +6,12 @@
   "enabled": true,
   "venue": {
     "name": "Fowler Ranch",
-    "city": "Newcastle",
-    "state": "CA"
+    "address": "3111 Lincoln Newcastle Hwy",
+    "city": "Lincoln",
+    "state": "CA",
+    "zip": "95648",
+    "lat": 38.886578,
+    "lng": -121.236461
   },
   "selectors": {
     "eventContainer": "[data-hook='event-list-item'], .event-item, .wixui-events-widget article",

@@ -1,0 +1,24 @@
+{
+  "id": "placer-library-granite-bay",
+  "name": "Placer County Library - Granite Bay",
+  "url": "https://placer.libcal.com/calendar/granite-bay",
+  "platform": "custom",
+  "enabled": true,
+  "venue": {
+    "name": "Placer County Library - Granite Bay",
+    "address": "6475 Douglas Blvd",
+    "city": "Granite Bay",
+    "state": "CA",
+    "zip": "95746",
+    "lat": 38.743746,
+    "lng": -121.180929
+  },
+  "config": {
+    "icsUrl": "https://placer.libcal.com/ical_subscribe.php?src=p&cid=22616",
+    "icsFilters": {
+      "excludeKeywords": ["baby storytime", "toddler storytime", "preschool storytime"]
+    },
+    "maxDaysAhead": 60,
+    "timezone": "America/Los_Angeles"
+  }
+}

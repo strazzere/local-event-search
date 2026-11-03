@@ -61,17 +61,34 @@ export const VenueConfigSchema = z.object({
     city: z.string().optional(),
     state: z.string().optional(),
     zip: z.string().optional(),
-    phone: z.string().optional()
+    phone: z.string().optional(),
+    lat: z.number().optional(),
+    lng: z.number().optional()
   }),
   selectors: SelectorsSchema.optional(),
   config: z.object({
-    useBrowser: z.boolean().default(false),
+    useBrowser: z.boolean().optional().default(false),
     waitForSelector: CssSelectorSchema.optional(),
-    timeout: z.number().default(30000),
-    retries: z.number().default(3),
+    timeout: z.number().optional().default(30000),
+    retries: z.number().optional().default(3),
     dateFormat: z.string().optional(),
-    timezone: z.string().default('America/Los_Angeles')
-  }).prefault({}),
+    timezone: z.string().optional().default('America/Los_Angeles'),
+    icsUrl: z.string().url().optional(),
+    icsFilters: z.object({
+      includeKeywords: z.array(z.string()).optional(),
+      excludeKeywords: z.array(z.string()).optional(),
+      includeCategories: z.array(z.string()).optional(),
+      excludeCategories: z.array(z.string()).optional()
+    }).optional(),
+    wordpressRestUrl: z.string().url().optional(),
+    maxDaysAhead: z.number().optional().default(60)
+  }).optional().default(() => ({
+    useBrowser: false,
+    timeout: 30000,
+    retries: 3,
+    timezone: 'America/Los_Angeles',
+    maxDaysAhead: 60
+  })),
   customParser: z.string().optional()
 });
 

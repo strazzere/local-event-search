@@ -1,0 +1,21 @@
+{
+  "id": "blue-line-arts",
+  "name": "Blue Line Arts",
+  "url": "https://www.bluelinearts.org/events/",
+  "platform": "wordpress",
+  "enabled": true,
+  "venue": {
+    "name": "Blue Line Arts",
+    "address": "405 Vernon St",
+    "city": "Roseville",
+    "state": "CA",
+    "zip": "95678",
+    "lat": 38.747963,
+    "lng": -121.285243
+  },
+  "config": {
+    "wordpressRestUrl": "https://www.bluelinearts.org/wp-json/tribe/events/v1/events",
+    "maxDaysAhead": 60,
+    "timezone": "America/Los_Angeles"
+  }
+}

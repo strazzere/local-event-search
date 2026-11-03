@@ -24,7 +24,9 @@ export const VenueInfoSchema = z.object({
   state: z.string().optional(),
   zip: z.string().optional(),
   url: z.string().url().optional(),
-  phone: z.string().optional()
+  phone: z.string().optional(),
+  lat: z.number().optional(),
+  lng: z.number().optional()
 });
 
 export type VenueInfo = z.infer<typeof VenueInfoSchema>;

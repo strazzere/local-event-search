@@ -100,18 +100,27 @@ npm run scrape -- --all --dry-run
 
 | Venue | Platform | Status |
 |-------|----------|--------|
-| Mindscape Fermentations | WordPress | Enabled |
+| @the Grounds (Placer County Fairgrounds) | WordPress (Events Calendar REST) | Enabled |
+| Auburn Alehouse | Shopify | Enabled |
+| Auburn State Recreation Area | Custom | Enabled |
+| Blue Line Arts | WordPress (Events Calendar REST) | Enabled |
 | Buenos Aires Grill | GoDaddy | Enabled |
-| Omakase Por Favor | Squarespace | Enabled |
-| Happy Dayz Vineyard | WordPress | Enabled |
+| Crooked Lane Brewing | SpotHopper | Enabled |
 | Fowler Ranch | Wix | Enabled |
 | Goathouse Brewing | Wix | Enabled |
-| Auburn Alehouse | Shopify | Enabled |
-| Crooked Lane Brewing | SpotHopper | Enabled |
+| Happy Dayz Vineyard | WordPress | Enabled |
+| High Hand Brewing Company | WordPress (Events Calendar REST) | Enabled |
 | The Hillmont | Squarespace | Enabled |
-| Moonraker Brewing | Wix | Enabled |
+| Knee Deep Brewing | Custom | Enabled |
+| Mindscape Fermentations | WordPress | Enabled |
 | Moksa Brewing | Custom | Enabled |
-| Gander Taphouse | Squarespace | Enabled |
+| Moonraker Brewing | Wix | Enabled |
+| Omakase Por Favor | Squarespace | Enabled |
+| Placer County Library - Auburn | ICS (LibCal) | Enabled |
+| Placer County Library - Granite Bay | ICS (LibCal) | Enabled |
+| Placer County Library - Rocklin | ICS (LibCal) | Enabled |
+| The Pour Choice | WordPress | Enabled |
+| Town of Loomis | ICS (Events Manager) | Enabled |
 
 ## Development
 

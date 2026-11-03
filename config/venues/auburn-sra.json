@@ -10,7 +10,9 @@
     "city": "Auburn",
     "state": "CA",
     "zip": "95603",
-    "phone": "(530) 745-2202"
+    "phone": "(530) 745-2202",
+    "lat": 38.901562,
+    "lng": -121.055992
   },
   "config": {
     "useBrowser": false,

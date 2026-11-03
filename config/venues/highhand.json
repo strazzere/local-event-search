@@ -9,7 +9,9 @@
     "address": "3750 Taylor Rd",
     "city": "Loomis",
     "state": "CA",
-    "zip": "95650"
+    "zip": "95650",
+    "lat": 38.818554,
+    "lng": -121.196137
   },
   "config": {
     "useBrowser": false,

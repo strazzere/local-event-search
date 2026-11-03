@@ -6,10 +6,10 @@
   "enabled": true,
   "venue": {
     "name": "Happy Dayz Vineyard",
-    "address": "5575 McCourtney Rd",
-    "city": "Lincoln",
+    "address": "2338 Mandarin Hill Ln",
+    "city": "Penryn",
     "state": "CA",
-    "zip": "95648"
+    "zip": "95663"
   },
   "selectors": {
     "eventContainer": ".tribe-events-calendar-list__event, .event-item, article",

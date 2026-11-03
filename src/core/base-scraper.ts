@@ -111,7 +111,9 @@ export abstract class BaseScraper {
       state: this.config.venue.state,
       zip: this.config.venue.zip,
       url: this.config.url,
-      phone: this.config.venue.phone
+      phone: this.config.venue.phone,
+      lat: this.config.venue.lat,
+      lng: this.config.venue.lng
     };
   }
 
