@@ -116,6 +116,7 @@ npm run scrape -- --all --dry-run
 | Moksa Brewing | Custom | Enabled |
 | Moonraker Brewing | Wix | Enabled |
 | Omakase Por Favor | Squarespace | Enabled |
+| Penryn PTC (Penryn School) | ICS (Google Calendar) | Enabled |
 | Placer County Library - Auburn | ICS (LibCal) | Enabled |
 | Placer County Library - Granite Bay | ICS (LibCal) | Enabled |
 | Placer County Library - Rocklin | ICS (LibCal) | Enabled |
