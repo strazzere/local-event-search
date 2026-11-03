@@ -1,0 +1,37 @@
+{
+  "id": "penryn-ptc",
+  "name": "Penryn PTC",
+  "url": "https://www.penrynptc.com/calendar",
+  "platform": "custom",
+  "enabled": true,
+  "venue": {
+    "name": "Penryn School / Penryn PTC",
+    "address": "2001 Taylor Rd",
+    "city": "Penryn",
+    "state": "CA",
+    "zip": "95663",
+    "lat": 38.8510,
+    "lng": -121.1858
+  },
+  "config": {
+    "icsUrl": "https://calendar.google.com/calendar/ical/c_72211b6f3da0e9353134f5d37cae7fe6facff54fc69a5cbbed1e5e952ac8ff43%40group.calendar.google.com/public/basic.ics",
+    "icsFilters": {
+      "excludeKeywords": [
+        "lunch",
+        "lunch menu",
+        "registration closes",
+        "minimum day",
+        "staff development",
+        "teacher only",
+        "penryn @",
+        "away game",
+        "@ "
+      ],
+      "includeKeywords": []
+    },
+    "maxDaysAhead": 60,
+    "timeout": 45000,
+    "retries": 3,
+    "timezone": "America/Los_Angeles"
+  }
+}
