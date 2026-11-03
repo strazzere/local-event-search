@@ -4,3 +4,4 @@ export * from './browser-client';
 export * from './date-parser';
 export * from './event-normalizer';
 export * from './deduplicator';
+export * from './html-text';

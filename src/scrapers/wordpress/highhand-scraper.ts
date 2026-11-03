@@ -1,9 +1,11 @@
 import { BaseScraper } from '../../core/base-scraper';
 import { Event, ScraperResult } from '../../types';
 import { RawEventData } from '../../utils/event-normalizer';
+import { stripHtml } from '../../utils/html-text';
 
 const API_BASE = 'https://www.highhandnursery.com/wp-json/tribe/events/v1/events';
 const CATEGORY = 'high-hand-brewing-company';
+const DAYS_AHEAD = 60;
 
 interface TribeEventDateDetails {
   year: string;
@@ -32,19 +34,6 @@ interface TribeEventsResponse {
   events: TribeEvent[];
   total: number;
   total_pages: number;
-}
-
-function stripHtml(html: string): string {
-  return html
-    .replace(/<[^>]*>/g, '')
-    .replace(/&amp;/g, '&')
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&quot;/g, '"')
-    .replace(/&#039;/g, "'")
-    .replace(/&nbsp;/g, ' ')
-    .replace(/\s+/g, ' ')
-    .trim();
 }
 
 function formatTime(details: TribeEventDateDetails): string {
@@ -132,8 +121,16 @@ export class HighHandScraper extends BaseScraper {
     let page = 1;
     let totalPages = 1;
 
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+    const endDate = new Date(today);
+    endDate.setDate(endDate.getDate() + DAYS_AHEAD);
+
+    const startDateParam = today.toISOString().split('T')[0];
+    const endDateParam = endDate.toISOString().split('T')[0];
+
     do {
-      const url = `${API_BASE}?categories=${CATEGORY}&page=${page}&per_page=50`;
+      const url = `${API_BASE}?categories=${CATEGORY}&start_date=${startDateParam}&end_date=${endDateParam}&page=${page}&per_page=50`;
       this.logger.info(`Fetching page ${page}/${totalPages}: ${url}`);
 
       let response: TribeEventsResponse;
