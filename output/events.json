@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0.0",
-    "generatedAt": "2026-11-09T19:45:10.662Z",
+    "generatedAt": "2026-11-10T17:57:25.361Z",
     "eventCount": 227,
     "venueCount": 15,
     "venues": [
@@ -23,53 +23,6 @@
     ]
   },
   "events": [
-    {
-      "id": "evt-af57c7db",
-      "title": "Doggiestyle Hot Dogs",
-      "date": "2026-11-09T00:00:00-08:00",
-      "startTime": "12:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12970 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816",
-        "lat": 38.950782,
-        "lng": -121.081713
-      },
-      "type": "food",
-      "tags": [],
-      "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.696Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-4b4a0347",
-      "title": "PTC Meeting",
-      "description": "PTC Meeting in the Library",
-      "date": "2026-11-09T14:45:00-08:00",
-      "startTime": "10:45 PM",
-      "endTime": "11:45 PM",
-      "venue": {
-        "name": "Penryn School / Penryn PTC",
-        "address": "2001 Taylor Rd",
-        "city": "Penryn",
-        "state": "CA",
-        "zip": "95663",
-        "url": "https://www.penrynptc.com/calendar",
-        "lat": 38.851,
-        "lng": -121.1858
-      },
-      "type": "other",
-      "tags": [],
-      "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:04.888Z",
-      "source": "penryn-ptc",
-      "confidence": 0.95
-    },
     {
       "id": "evt-88aa39b7",
       "title": "BINGO Fundraiser",
@@ -93,7 +46,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/10/f06f96293245f385dfcb54983129be/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:13.705Z",
+      "scrapedAt": "2026-11-10T17:55:45.758Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -118,7 +71,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.696Z",
+      "scrapedAt": "2026-11-10T17:57:17.843Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -147,7 +100,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/roseville.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:10.616Z",
+      "scrapedAt": "2026-11-10T17:57:25.338Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -156,8 +109,8 @@
       "title": "Baby Lapsit at the Auburn Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-11-10T09:30:00-08:00",
-      "startTime": "5:30 PM",
-      "endTime": "6:30 PM",
+      "startTime": "9:30 AM",
+      "endTime": "10:30 AM",
       "venue": {
         "name": "Placer County Library - Auburn",
         "address": "350 Nevada St",
@@ -172,7 +125,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/event/17437239",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:05.836Z",
+      "scrapedAt": "2026-11-10T17:57:20.266Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -181,8 +134,8 @@
       "title": "Baby Lapsit at the Rocklin Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-11-10T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:30 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:30 AM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -197,7 +150,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.754Z",
+      "scrapedAt": "2026-11-10T17:57:21.989Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -206,8 +159,8 @@
       "title": "Esports Practice",
       "description": "4th & 5th grade esports practice. Free to join, no experience needed.",
       "date": "2026-11-10T14:30:00-08:00",
-      "startTime": "10:30 PM",
-      "endTime": "11:30 PM",
+      "startTime": "2:30 PM",
+      "endTime": "3:30 PM",
       "venue": {
         "name": "Penryn School / Penryn PTC",
         "address": "2001 Taylor Rd",
@@ -221,7 +174,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:04.887Z",
+      "scrapedAt": "2026-11-10T17:57:19.198Z",
       "source": "penryn-ptc",
       "confidence": 0.95
     },
@@ -245,7 +198,7 @@
         "special"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:04.888Z",
+      "scrapedAt": "2026-11-10T17:57:19.198Z",
       "source": "penryn-ptc",
       "confidence": 0.85
     },
@@ -271,7 +224,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/paint-sip-7-140/",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:36.136Z",
+      "scrapedAt": "2026-11-10T17:56:51.357Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -296,7 +249,7 @@
         "trivia"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.696Z",
+      "scrapedAt": "2026-11-10T17:57:17.843Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -319,7 +272,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.696Z",
+      "scrapedAt": "2026-11-10T17:57:17.843Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -344,7 +297,7 @@
         "trivia"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.697Z",
+      "scrapedAt": "2026-11-10T17:57:17.843Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -353,8 +306,8 @@
       "title": "Toddler Time at the Auburn Library",
       "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
       "date": "2026-11-11T09:30:00-08:00",
-      "startTime": "5:30 PM",
-      "endTime": "6:00 PM",
+      "startTime": "9:30 AM",
+      "endTime": "10:00 AM",
       "venue": {
         "name": "Placer County Library - Auburn",
         "address": "350 Nevada St",
@@ -371,7 +324,7 @@
       ],
       "url": "https://placer.libcal.com/event/17437319",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:05.836Z",
+      "scrapedAt": "2026-11-10T17:57:20.266Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -401,7 +354,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew-featuring-guest-band-deviant-strays/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewing-Company-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.457Z",
+      "scrapedAt": "2026-11-10T17:56:45.462Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -427,7 +380,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498-677-525-896-674-283-601-278-786-611-856-839-986-831-474-307-980-318-364-878-863-788-944-499-393-714/",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:36.137Z",
+      "scrapedAt": "2026-11-10T17:56:51.357Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -450,8 +403,31 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.697Z",
+      "scrapedAt": "2026-11-10T17:57:17.843Z",
       "source": "moonraker-brewing",
+      "confidence": 0.85
+    },
+    {
+      "id": "evt-0113ea4c",
+      "title": "Fowler Ranch hosts a weekly cornhole competition open to anyone.",
+      "date": "2026-11-12T09:56:42-08:00",
+      "startTime": "6:00pm",
+      "venue": {
+        "name": "Fowler Ranch",
+        "address": "3111 Lincoln Newcastle Hwy",
+        "city": "Lincoln",
+        "state": "CA",
+        "zip": "95648",
+        "url": "https://www.fowlerranch.com/entertainment",
+        "lat": 38.886578,
+        "lng": -121.236461
+      },
+      "type": "other",
+      "tags": [],
+      "isRecurring": true,
+      "recurringPattern": "weekly:thursday",
+      "scrapedAt": "2026-11-10T17:56:42.389Z",
+      "source": "fowler-ranch",
       "confidence": 0.85
     },
     {
@@ -459,8 +435,8 @@
       "title": "Toddler Time at the Granite Bay Library",
       "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
       "date": "2026-11-12T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:00 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:00 AM",
       "venue": {
         "name": "Placer County Library - Granite Bay",
         "address": "6475 Douglas Blvd",
@@ -477,7 +453,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/GraniteBay/ToddlerTime",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:06.684Z",
+      "scrapedAt": "2026-11-10T17:57:20.945Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -486,8 +462,8 @@
       "title": "Baby Lapsit at the Rocklin Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-11-12T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:30 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:30 AM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -502,40 +478,17 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.755Z",
+      "scrapedAt": "2026-11-10T17:57:21.989Z",
       "source": "placer-library-rocklin",
       "confidence": 1
-    },
-    {
-      "id": "evt-8acfa040",
-      "title": "Fowler Ranch hosts a weekly cornhole competition open to anyone.",
-      "date": "2026-11-12T11:44:27-08:00",
-      "startTime": "6:00pm",
-      "venue": {
-        "name": "Fowler Ranch",
-        "address": "3111 Lincoln Newcastle Hwy",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.fowlerranch.com/entertainment",
-        "lat": 38.886578,
-        "lng": -121.236461
-      },
-      "type": "other",
-      "tags": [],
-      "isRecurring": true,
-      "recurringPattern": "weekly:thursday",
-      "scrapedAt": "2026-11-09T19:44:27.962Z",
-      "source": "fowler-ranch",
-      "confidence": 0.85
     },
     {
       "id": "evt-0822a35d",
       "title": "Book Club at the Rocklin Library",
       "description": "Join us for our monthly book club discussions for adults. You'll meet new people with similar interests and chat with our library staff about our monthly selection. Learn and discuss different perspectives in this safe and respectful environment. No Registration Required",
       "date": "2026-11-12T15:30:00-08:00",
-      "startTime": "11:30 PM",
-      "endTime": "12:30 AM",
+      "startTime": "3:30 PM",
+      "endTime": "4:30 PM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -552,7 +505,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/Rocklin/BookClub",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.755Z",
+      "scrapedAt": "2026-11-10T17:57:21.989Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -579,7 +532,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/e1/06d2ba7b0649cab8cfc77a32632564/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:13.705Z",
+      "scrapedAt": "2026-11-10T17:55:45.759Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -604,7 +557,7 @@
         "music"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.697Z",
+      "scrapedAt": "2026-11-10T17:57:17.844Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -627,7 +580,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.697Z",
+      "scrapedAt": "2026-11-10T17:57:17.844Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -652,7 +605,7 @@
         "music"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.697Z",
+      "scrapedAt": "2026-11-10T17:57:17.844Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -661,8 +614,8 @@
       "title": "Toddler Time at the Rocklin Library",
       "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
       "date": "2026-11-13T09:30:00-08:00",
-      "startTime": "5:30 PM",
-      "endTime": "6:00 PM",
+      "startTime": "9:30 AM",
+      "endTime": "10:00 AM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -679,9 +632,34 @@
       ],
       "url": "https://placer.libcal.com/event/16047467",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.755Z",
+      "scrapedAt": "2026-11-10T17:57:21.989Z",
       "source": "placer-library-rocklin",
       "confidence": 1
+    },
+    {
+      "id": "evt-b045c64e",
+      "title": "Fowler Ranch presents a weekly Trivia competition hosted by Brain Freeze! Come out and win some prizes!",
+      "date": "2026-11-13T09:56:42-08:00",
+      "startTime": "6:00pm",
+      "venue": {
+        "name": "Fowler Ranch",
+        "address": "3111 Lincoln Newcastle Hwy",
+        "city": "Lincoln",
+        "state": "CA",
+        "zip": "95648",
+        "url": "https://www.fowlerranch.com/entertainment",
+        "lat": 38.886578,
+        "lng": -121.236461
+      },
+      "type": "trivia",
+      "tags": [
+        "trivia"
+      ],
+      "isRecurring": true,
+      "recurringPattern": "weekly:friday",
+      "scrapedAt": "2026-11-10T17:56:42.389Z",
+      "source": "fowler-ranch",
+      "confidence": 0.85
     },
     {
       "id": "evt-1a1aa6f7",
@@ -711,34 +689,9 @@
       "url": "https://www.bluelinearts.org/event/placer-artists-tour-weekend-ll",
       "imageUrl": "https://www.bluelinearts.org/wp-content/uploads/2026/10/Placer-Tour-2026-weekend-ll.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:11.310Z",
+      "scrapedAt": "2026-11-10T17:55:43.435Z",
       "source": "blue-line-arts",
       "confidence": 1
-    },
-    {
-      "id": "evt-b68b19d4",
-      "title": "Fowler Ranch presents a weekly Trivia competition hosted by Brain Freeze! Come out and win some prizes!",
-      "date": "2026-11-13T11:44:27-08:00",
-      "startTime": "6:00pm",
-      "venue": {
-        "name": "Fowler Ranch",
-        "address": "3111 Lincoln Newcastle Hwy",
-        "city": "Lincoln",
-        "state": "CA",
-        "zip": "95648",
-        "url": "https://www.fowlerranch.com/entertainment",
-        "lat": 38.886578,
-        "lng": -121.236461
-      },
-      "type": "trivia",
-      "tags": [
-        "trivia"
-      ],
-      "isRecurring": true,
-      "recurringPattern": "weekly:friday",
-      "scrapedAt": "2026-11-09T19:44:27.962Z",
-      "source": "fowler-ranch",
-      "confidence": 0.85
     },
     {
       "id": "evt-a1998a31",
@@ -763,7 +716,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/5a/beebbdbfc44a9aae8ad7034924b566/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:13.705Z",
+      "scrapedAt": "2026-11-10T17:55:45.759Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -790,7 +743,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/25/5f75568cad4229a1876d2a7f141008/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:13.705Z",
+      "scrapedAt": "2026-11-10T17:55:45.759Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -822,7 +775,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-victori-3/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/07/High-Hand-Brewery-Music-Victori.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.457Z",
+      "scrapedAt": "2026-11-10T17:56:45.462Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -848,7 +801,7 @@
       "url": "https://www.atthegrounds.com/event/west-coast-clash-wcvba-boys-power-league/",
       "imageUrl": "https://www.atthegrounds.com/wp-content/uploads/2026/05/Featured-Images-ATG-29.png",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:09.462Z",
+      "scrapedAt": "2026-11-10T17:55:41.265Z",
       "source": "at-the-grounds",
       "confidence": 1
     },
@@ -874,7 +827,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/meet-the-artist-custom-jewelry-pop-up/",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:36.137Z",
+      "scrapedAt": "2026-11-10T17:56:51.357Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -900,7 +853,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/80s-new-wave-night-with-dj-snacks/",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:36.137Z",
+      "scrapedAt": "2026-11-10T17:56:51.357Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -923,7 +876,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.697Z",
+      "scrapedAt": "2026-11-10T17:57:17.844Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -952,7 +905,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/auburn.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:10.616Z",
+      "scrapedAt": "2026-11-10T17:57:25.338Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -979,7 +932,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/66/618150609b49f488f4650cc114d4a9/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:13.705Z",
+      "scrapedAt": "2026-11-10T17:55:45.759Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1010,7 +963,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-rogue-house-rockers/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/10/High-Hand-Brewing-Company-Rogue-City-Rockers.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.457Z",
+      "scrapedAt": "2026-11-10T17:56:45.462Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -1036,7 +989,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/live-music-jam-session-888-945-466-721-925-529-440-944-874-888-219-573-121-835-364-716-581-214-245-843-810-874-114-354-537/",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:36.137Z",
+      "scrapedAt": "2026-11-10T17:56:51.357Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -1062,7 +1015,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/trivia-night-999-690-812-906-953-155-116-822-235-157-598-714-415-873-555-392-609-230-961-821-676-648-912-964-972-152-467-923-497-976-179-150-995-236-318-553-633/",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:36.138Z",
+      "scrapedAt": "2026-11-10T17:56:51.357Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -1087,7 +1040,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.697Z",
+      "scrapedAt": "2026-11-10T17:57:17.844Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1116,7 +1069,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/lincoln.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:10.616Z",
+      "scrapedAt": "2026-11-10T17:57:25.338Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -1146,7 +1099,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-nothin-personal/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/07/High-Hand-Brewery-Music-Nothin-Personal.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.457Z",
+      "scrapedAt": "2026-11-10T17:56:45.462Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -1155,8 +1108,8 @@
       "title": "After Hours Trivia at the Auburn Library",
       "description": "Join us for a fun night of trivia at the library! Bring your friends, form a team, and compete for prizes. Don’t miss out on the fun! This Month's Theme: Friendsgiving Gather at our table for a feast of Thanksgiving and FRIENDS themed trivia! Test your knowledge of one of America’s favorite traditions and be able to PIVOT to proving whether Ross and Rachel really were on a break.",
       "date": "2026-11-15T17:30:00-08:00",
-      "startTime": "1:30 AM",
-      "endTime": "3:00 AM",
+      "startTime": "5:30 PM",
+      "endTime": "7:00 PM",
       "venue": {
         "name": "Placer County Library - Auburn",
         "address": "350 Nevada St",
@@ -1173,7 +1126,7 @@
       ],
       "url": "https://placer.libcal.com/event/17817410",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:05.836Z",
+      "scrapedAt": "2026-11-10T17:57:20.266Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -1196,7 +1149,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.697Z",
+      "scrapedAt": "2026-11-10T17:57:17.844Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1221,7 +1174,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.697Z",
+      "scrapedAt": "2026-11-10T17:57:17.844Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1250,7 +1203,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/roseville.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:10.616Z",
+      "scrapedAt": "2026-11-10T17:57:25.338Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -1259,8 +1212,8 @@
       "title": "Baby Lapsit at the Auburn Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-11-17T09:30:00-08:00",
-      "startTime": "5:30 PM",
-      "endTime": "6:30 PM",
+      "startTime": "9:30 AM",
+      "endTime": "10:30 AM",
       "venue": {
         "name": "Placer County Library - Auburn",
         "address": "350 Nevada St",
@@ -1275,7 +1228,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/event/17437240",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:05.837Z",
+      "scrapedAt": "2026-11-10T17:57:20.267Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -1284,8 +1237,8 @@
       "title": "Baby Lapsit at the Rocklin Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-11-17T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:30 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:30 AM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -1300,7 +1253,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.755Z",
+      "scrapedAt": "2026-11-10T17:57:21.989Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -1309,8 +1262,8 @@
       "title": "Esports Practice",
       "description": "4th & 5th grade esports practice. Free to join, no experience needed.",
       "date": "2026-11-17T14:30:00-08:00",
-      "startTime": "10:30 PM",
-      "endTime": "11:30 PM",
+      "startTime": "2:30 PM",
+      "endTime": "3:30 PM",
       "venue": {
         "name": "Penryn School / Penryn PTC",
         "address": "2001 Taylor Rd",
@@ -1324,7 +1277,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:04.888Z",
+      "scrapedAt": "2026-11-10T17:57:19.198Z",
       "source": "penryn-ptc",
       "confidence": 0.95
     },
@@ -1333,8 +1286,8 @@
       "title": "Read to a Dog at the Rocklin Library",
       "description": "Children 5 and up are invited to attend Read to a Dog the third Tuesday of each month at 3:30 p.m. at the Rocklin Library. This program aims to boost children's reading abilities and self-confidence through the practice of reading aloud to trained therapy dogs. Discover the joy and comfort in reading to these compassionate, non-judgmental, and gentle dogs. No registration required; just grab a book and let the tail-wagging adventures begin!",
       "date": "2026-11-17T15:30:00-08:00",
-      "startTime": "11:30 PM",
-      "endTime": "12:30 AM",
+      "startTime": "3:30 PM",
+      "endTime": "4:30 PM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -1352,7 +1305,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/Rocklin/ReadToADog",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.755Z",
+      "scrapedAt": "2026-11-10T17:57:21.989Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -1377,7 +1330,7 @@
         "trivia"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.697Z",
+      "scrapedAt": "2026-11-10T17:57:17.844Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1400,7 +1353,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.697Z",
+      "scrapedAt": "2026-11-10T17:57:17.844Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1425,7 +1378,7 @@
         "trivia"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.698Z",
+      "scrapedAt": "2026-11-10T17:57:17.844Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1434,8 +1387,8 @@
       "title": "Toddler Time at the Auburn Library",
       "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
       "date": "2026-11-18T09:30:00-08:00",
-      "startTime": "5:30 PM",
-      "endTime": "6:00 PM",
+      "startTime": "9:30 AM",
+      "endTime": "10:00 AM",
       "venue": {
         "name": "Placer County Library - Auburn",
         "address": "350 Nevada St",
@@ -1452,7 +1405,7 @@
       ],
       "url": "https://placer.libcal.com/event/17437320",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:05.837Z",
+      "scrapedAt": "2026-11-10T17:57:20.267Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -1461,8 +1414,8 @@
       "title": "Baby Lapsit at the Granite Bay Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-11-18T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:30 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:30 AM",
       "venue": {
         "name": "Placer County Library - Granite Bay",
         "address": "6475 Douglas Blvd",
@@ -1477,7 +1430,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/GraniteBay/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:06.684Z",
+      "scrapedAt": "2026-11-10T17:57:20.945Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -1486,8 +1439,8 @@
       "title": "Toddler Time at the Rocklin Library",
       "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
       "date": "2026-11-18T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:00 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:00 AM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -1504,7 +1457,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/Rocklin/ToddlerTime",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.755Z",
+      "scrapedAt": "2026-11-10T17:57:21.989Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -1513,8 +1466,8 @@
       "title": "Book Club at the Granite Bay Library",
       "description": "Join us for our monthly book club discussions for adults. You'll meet new people with similar interests and chat with our library staff about our monthly selection. Learn and discuss different perspectives in this safe and respectful environment. No Registration Required",
       "date": "2026-11-18T14:00:00-08:00",
-      "startTime": "10:00 PM",
-      "endTime": "11:00 PM",
+      "startTime": "2:00 PM",
+      "endTime": "3:00 PM",
       "venue": {
         "name": "Placer County Library - Granite Bay",
         "address": "6475 Douglas Blvd",
@@ -1531,7 +1484,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/GraniteBay/BookClub",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:06.684Z",
+      "scrapedAt": "2026-11-10T17:57:20.945Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -1540,8 +1493,8 @@
       "title": "Esports Practice",
       "description": "4th & 5th grade esports practice. Free to join, no experience needed.",
       "date": "2026-11-18T14:30:00-08:00",
-      "startTime": "10:30 PM",
-      "endTime": "11:30 PM",
+      "startTime": "2:30 PM",
+      "endTime": "3:30 PM",
       "venue": {
         "name": "Penryn School / Penryn PTC",
         "address": "2001 Taylor Rd",
@@ -1555,7 +1508,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:04.888Z",
+      "scrapedAt": "2026-11-10T17:57:19.198Z",
       "source": "penryn-ptc",
       "confidence": 0.95
     },
@@ -1564,8 +1517,8 @@
       "title": "Builders Club at the Auburn Library",
       "description": "Calling all LEGO® lovers! Join us each month to construct our building challenge or create your own design! No Registration Required",
       "date": "2026-11-18T15:30:00-08:00",
-      "startTime": "11:30 PM",
-      "endTime": "12:30 AM",
+      "startTime": "3:30 PM",
+      "endTime": "4:30 PM",
       "venue": {
         "name": "Placer County Library - Auburn",
         "address": "350 Nevada St",
@@ -1580,7 +1533,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/event/17437400",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:05.837Z",
+      "scrapedAt": "2026-11-10T17:57:20.267Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -1602,7 +1555,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:04.887Z",
+      "scrapedAt": "2026-11-10T17:57:19.198Z",
       "source": "penryn-ptc",
       "confidence": 0.85
     },
@@ -1632,7 +1585,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew-30/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewing-Company-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.457Z",
+      "scrapedAt": "2026-11-10T17:56:45.462Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -1658,7 +1611,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498-677-525-896-674-283-601-278-786-611-856-839-986-831-474-307-980-318-364-878-863-788-944-499-393-714-735/",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:36.138Z",
+      "scrapedAt": "2026-11-10T17:56:51.358Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -1681,7 +1634,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.698Z",
+      "scrapedAt": "2026-11-10T17:57:17.844Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1690,8 +1643,8 @@
       "title": "Toddler Time at the Granite Bay Library",
       "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
       "date": "2026-11-19T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:00 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:00 AM",
       "venue": {
         "name": "Placer County Library - Granite Bay",
         "address": "6475 Douglas Blvd",
@@ -1708,7 +1661,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/GraniteBay/ToddlerTime",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:06.684Z",
+      "scrapedAt": "2026-11-10T17:57:20.945Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -1717,8 +1670,8 @@
       "title": "Baby Lapsit at the Rocklin Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-11-19T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:30 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:30 AM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -1733,7 +1686,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.755Z",
+      "scrapedAt": "2026-11-10T17:57:21.989Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -1761,7 +1714,7 @@
       "url": "https://www.atthegrounds.com/event/salcidos-christmas-trees/",
       "imageUrl": "https://www.atthegrounds.com/wp-content/uploads/2025/11/Untitled-3.jpeg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:09.462Z",
+      "scrapedAt": "2026-11-10T17:55:41.266Z",
       "source": "at-the-grounds",
       "confidence": 1
     },
@@ -1791,7 +1744,7 @@
       "url": "https://www.atthegrounds.com/event/mountain-mandarin-festival-3/",
       "imageUrl": "https://www.atthegrounds.com/wp-content/uploads/2026/06/Featured-Images-ATG-28.png",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:09.463Z",
+      "scrapedAt": "2026-11-10T17:55:41.266Z",
       "source": "at-the-grounds",
       "confidence": 1
     },
@@ -1816,7 +1769,7 @@
         "music"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.698Z",
+      "scrapedAt": "2026-11-10T17:57:17.844Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1839,7 +1792,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.698Z",
+      "scrapedAt": "2026-11-10T17:57:17.844Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1864,7 +1817,7 @@
         "music"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.698Z",
+      "scrapedAt": "2026-11-10T17:57:17.844Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1873,8 +1826,8 @@
       "title": "Toddler Time at the Rocklin Library",
       "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
       "date": "2026-11-20T09:30:00-08:00",
-      "startTime": "5:30 PM",
-      "endTime": "6:00 PM",
+      "startTime": "9:30 AM",
+      "endTime": "10:00 AM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -1891,7 +1844,7 @@
       ],
       "url": "https://placer.libcal.com/event/16047468",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.755Z",
+      "scrapedAt": "2026-11-10T17:57:21.990Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -1918,7 +1871,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/41/80bdb0d0354885befeca4886feb0e2/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:13.705Z",
+      "scrapedAt": "2026-11-10T17:55:45.759Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1949,7 +1902,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-the-used-cars-9/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2023/12/High-Hand-Brewery-Music-The-Used-Cars.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.457Z",
+      "scrapedAt": "2026-11-10T17:56:45.462Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -1972,7 +1925,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.698Z",
+      "scrapedAt": "2026-11-10T17:57:17.844Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2001,7 +1954,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/auburn.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:10.616Z",
+      "scrapedAt": "2026-11-10T17:57:25.338Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -2010,8 +1963,8 @@
       "title": "STEM Saturday at the Granite Bay Library",
       "description": "Discover the world of STEM at this monthly program for children ages 5–10 and their caregivers.",
       "date": "2026-11-21T02:00:00-08:00",
-      "startTime": "10:00 AM",
-      "endTime": "11:00 AM",
+      "startTime": "2:00 AM",
+      "endTime": "3:00 AM",
       "venue": {
         "name": "Placer County Library - Granite Bay",
         "address": "6475 Douglas Blvd",
@@ -2029,7 +1982,7 @@
       ],
       "url": "https://placer.libcal.com/event/16218159",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:06.684Z",
+      "scrapedAt": "2026-11-10T17:57:20.945Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -2051,7 +2004,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:04.887Z",
+      "scrapedAt": "2026-11-10T17:57:19.198Z",
       "source": "penryn-ptc",
       "confidence": 0.85
     },
@@ -2082,7 +2035,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-that-70s-band/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/07/High-Hand-Brewery-Music-That-70s-Band.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.458Z",
+      "scrapedAt": "2026-11-10T17:56:45.462Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -2108,7 +2061,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/trivia-night-999-690-812-906-953-155-116-822-235-157-598-714-415-873-555-392-609-230-961-821-676-648-912-964-972-152-467-923-497-976-179-150-995-236-318-553-633-633/",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:36.138Z",
+      "scrapedAt": "2026-11-10T17:56:51.358Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -2133,7 +2086,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.698Z",
+      "scrapedAt": "2026-11-10T17:57:17.844Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2162,7 +2115,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/lincoln.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:10.617Z",
+      "scrapedAt": "2026-11-10T17:57:25.338Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -2193,7 +2146,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-busy-being-fabulous-2/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/11/High-Hand-Brewery-Music-Busy-Being-Fabulous-2.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.458Z",
+      "scrapedAt": "2026-11-10T17:56:45.462Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -2215,7 +2168,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:04.887Z",
+      "scrapedAt": "2026-11-10T17:57:19.198Z",
       "source": "penryn-ptc",
       "confidence": 0.75
     },
@@ -2238,7 +2191,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.698Z",
+      "scrapedAt": "2026-11-10T17:57:17.844Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2263,7 +2216,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.698Z",
+      "scrapedAt": "2026-11-10T17:57:17.844Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2291,7 +2244,7 @@
       "url": "https://www.omakaseporfavor.com/events-2/all-star-dinner",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/62c5e419ba47737d0a58abda/a60da967-cb76-49de-baf5-192a26e26baa/NIght%2Bwave%2B1.png",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:04.607Z",
+      "scrapedAt": "2026-11-10T17:57:18.179Z",
       "source": "omakase-por-favor",
       "confidence": 0.9
     },
@@ -2320,7 +2273,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/roseville.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:10.617Z",
+      "scrapedAt": "2026-11-10T17:57:25.338Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -2329,8 +2282,8 @@
       "title": "Baby Lapsit at the Auburn Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-11-24T09:30:00-08:00",
-      "startTime": "5:30 PM",
-      "endTime": "6:30 PM",
+      "startTime": "9:30 AM",
+      "endTime": "10:30 AM",
       "venue": {
         "name": "Placer County Library - Auburn",
         "address": "350 Nevada St",
@@ -2345,7 +2298,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/event/17437241",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:05.837Z",
+      "scrapedAt": "2026-11-10T17:57:20.267Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -2354,8 +2307,8 @@
       "title": "Baby Lapsit at the Rocklin Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-11-24T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:30 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:30 AM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -2370,7 +2323,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.756Z",
+      "scrapedAt": "2026-11-10T17:57:21.990Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -2397,7 +2350,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/5a/beebbdbfc44a9aae8ad7034924b566/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:13.706Z",
+      "scrapedAt": "2026-11-10T17:55:45.759Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -2422,7 +2375,7 @@
         "trivia"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.698Z",
+      "scrapedAt": "2026-11-10T17:57:17.844Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2445,7 +2398,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.698Z",
+      "scrapedAt": "2026-11-10T17:57:17.844Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2470,7 +2423,7 @@
         "trivia"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.699Z",
+      "scrapedAt": "2026-11-10T17:57:17.844Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2478,8 +2431,8 @@
       "id": "evt-01584c2b",
       "title": "Day Before Thanksgiving Day Parade",
       "date": "2026-11-25T09:00:00-08:00",
-      "startTime": "5:00 PM",
-      "endTime": "6:00 PM",
+      "startTime": "9:00 AM",
+      "endTime": "10:00 AM",
       "venue": {
         "name": "Town of Loomis",
         "address": "3665 Taylor Rd",
@@ -2494,7 +2447,7 @@
       "tags": [],
       "url": "https://loomis.ca.gov/event/day-before-thanksgiving-day-parade/",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:31.924Z",
+      "scrapedAt": "2026-11-10T17:56:47.349Z",
       "source": "loomis-town",
       "confidence": 0.9
     },
@@ -2503,8 +2456,8 @@
       "title": "Toddler Time at the Auburn Library",
       "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
       "date": "2026-11-25T09:30:00-08:00",
-      "startTime": "5:30 PM",
-      "endTime": "6:00 PM",
+      "startTime": "9:30 AM",
+      "endTime": "10:00 AM",
       "venue": {
         "name": "Placer County Library - Auburn",
         "address": "350 Nevada St",
@@ -2521,7 +2474,7 @@
       ],
       "url": "https://placer.libcal.com/event/17437321",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:05.837Z",
+      "scrapedAt": "2026-11-10T17:57:20.267Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -2530,8 +2483,8 @@
       "title": "Baby Lapsit at the Granite Bay Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-11-25T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:30 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:30 AM",
       "venue": {
         "name": "Placer County Library - Granite Bay",
         "address": "6475 Douglas Blvd",
@@ -2546,7 +2499,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/GraniteBay/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:06.685Z",
+      "scrapedAt": "2026-11-10T17:57:20.945Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -2555,8 +2508,8 @@
       "title": "Toddler Time at the Rocklin Library",
       "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
       "date": "2026-11-25T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:00 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:00 AM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -2573,7 +2526,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/Rocklin/ToddlerTime",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.756Z",
+      "scrapedAt": "2026-11-10T17:57:21.990Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -2582,8 +2535,8 @@
       "title": "Book Club at the Auburn Library",
       "description": "Join us for our monthly book club discussions for adults. You'll meet new people with similar interests and chat with our library staff about our monthly selection. Learn and discuss different perspectives in this safe and respectful environment. No Registration Required",
       "date": "2026-11-25T15:00:00-08:00",
-      "startTime": "11:00 PM",
-      "endTime": "12:00 AM",
+      "startTime": "3:00 PM",
+      "endTime": "4:00 PM",
       "venue": {
         "name": "Placer County Library - Auburn",
         "address": "350 Nevada St",
@@ -2600,7 +2553,7 @@
       ],
       "url": "https://placer.libcal.com/event/17437424",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:05.838Z",
+      "scrapedAt": "2026-11-10T17:57:20.267Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -2625,7 +2578,7 @@
       "tags": [],
       "imageUrl": "https://static.spotapps.co/spots/02/281edb2abf44358c7f35e7119771ee/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:13.706Z",
+      "scrapedAt": "2026-11-10T17:55:45.759Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -2655,35 +2608,9 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew-31/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewing-Company-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.458Z",
+      "scrapedAt": "2026-11-10T17:56:45.462Z",
       "source": "high-hand-brewing",
       "confidence": 1
-    },
-    {
-      "id": "evt-002178eb",
-      "title": "MUSIC BINGO!",
-      "date": "2026-11-26T00:00:00-08:00",
-      "startTime": "",
-      "venue": {
-        "name": "Mindscape Fermentations",
-        "address": "5424 Crossings Dr",
-        "city": "Rocklin",
-        "state": "CA",
-        "zip": "95677",
-        "url": "https://mindscape-fermentations.com/events/",
-        "phone": "(530) 820-4330",
-        "lat": 38.799853,
-        "lng": -121.203275
-      },
-      "type": "music",
-      "tags": [
-        "music"
-      ],
-      "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498-677-525-896-674-283-601-278-786-611-856-839-986-831-474-307-980-318-364-878-863-788-944-499-393-714-735-568/",
-      "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:36.138Z",
-      "source": "mindscape-fermentations",
-      "confidence": 0.8
     },
     {
       "id": "evt-72fb1d1c",
@@ -2711,7 +2638,7 @@
       "url": "https://www.atthegrounds.com/event/salvation-army-thanksgiving-dinner/",
       "imageUrl": "https://www.atthegrounds.com/wp-content/uploads/2026/11/Slavation-Army.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:09.463Z",
+      "scrapedAt": "2026-11-10T17:55:41.266Z",
       "source": "at-the-grounds",
       "confidence": 1
     },
@@ -2738,7 +2665,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/70/2f30dfe48345438ec4a2ee65cfdae6/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:13.706Z",
+      "scrapedAt": "2026-11-10T17:55:45.759Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -2765,7 +2692,7 @@
         "beer"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.699Z",
+      "scrapedAt": "2026-11-10T17:57:17.844Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2790,7 +2717,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.699Z",
+      "scrapedAt": "2026-11-10T17:57:17.844Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2816,7 +2743,7 @@
         "beer"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.699Z",
+      "scrapedAt": "2026-11-10T17:57:17.845Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2847,7 +2774,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-tom-and-the-broken-hearts-2/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/01/High-Hand-Brewery-Music-Tom-And-The-Brokern-Hearts.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.458Z",
+      "scrapedAt": "2026-11-10T17:56:45.462Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -2870,7 +2797,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.699Z",
+      "scrapedAt": "2026-11-10T17:57:17.845Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2899,7 +2826,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/auburn.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:10.617Z",
+      "scrapedAt": "2026-11-10T17:57:25.338Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -2908,8 +2835,8 @@
       "title": "Builders Club at the Rocklin Library",
       "description": "Calling all LEGO® lovers! Join us each month to construct our building challenge or create your own design! No Registration Required",
       "date": "2026-11-28T14:00:00-08:00",
-      "startTime": "10:00 PM",
-      "endTime": "11:00 PM",
+      "startTime": "2:00 PM",
+      "endTime": "3:00 PM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -2924,7 +2851,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/event/17693433",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.756Z",
+      "scrapedAt": "2026-11-10T17:57:21.990Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -2954,7 +2881,7 @@
       "url": "https://www.bluelinearts.org/event/3rd-saturday-reception-exhibitions-art-mart-member-bash",
       "imageUrl": "https://www.bluelinearts.org/wp-content/uploads/2026/10/reception-112826.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:11.310Z",
+      "scrapedAt": "2026-11-10T17:55:43.435Z",
       "source": "blue-line-arts",
       "confidence": 1
     },
@@ -2983,7 +2910,7 @@
       "url": "https://www.bluelinearts.org/event/the-blue-line-art-mart-november",
       "imageUrl": "https://www.bluelinearts.org/wp-content/uploads/2026/10/The-Blue-Line-Art-Mart-November-1.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:11.310Z",
+      "scrapedAt": "2026-11-10T17:55:43.435Z",
       "source": "blue-line-arts",
       "confidence": 1
     },
@@ -3014,7 +2941,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-bananafish-let-the-good-times-roll/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/09/High-Hand-Brewery-Music-Bananafish.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.458Z",
+      "scrapedAt": "2026-11-10T17:56:45.463Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3040,7 +2967,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/trivia-night-999-690-812-906-953-155-116-822-235-157-598-714-415-873-555-392-609-230-961-821-676-648-912-964-972-152-467-923-497-976-179-150-995-236-318-553-633-633-653/",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:36.139Z",
+      "scrapedAt": "2026-11-10T17:56:51.358Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -3065,7 +2992,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.699Z",
+      "scrapedAt": "2026-11-10T17:57:17.845Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -3094,7 +3021,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/lincoln.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:10.617Z",
+      "scrapedAt": "2026-11-10T17:57:25.338Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -3125,7 +3052,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-diva-rox-9/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2023/09/High-Hand-Brewery-Music-Diva-ROX.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.458Z",
+      "scrapedAt": "2026-11-10T17:56:45.463Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3148,7 +3075,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.699Z",
+      "scrapedAt": "2026-11-10T17:57:17.845Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -3174,7 +3101,7 @@
       "url": "https://www.atthegrounds.com/event/wwsra-winter-review/",
       "imageUrl": "https://www.atthegrounds.com/wp-content/uploads/2026/06/Featured-Images-ATG-30.png",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:09.463Z",
+      "scrapedAt": "2026-11-10T17:55:41.266Z",
       "source": "at-the-grounds",
       "confidence": 1
     },
@@ -3199,7 +3126,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.699Z",
+      "scrapedAt": "2026-11-10T17:57:17.845Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -3228,7 +3155,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/roseville.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:10.617Z",
+      "scrapedAt": "2026-11-10T17:57:25.338Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -3237,8 +3164,8 @@
       "title": "Baby Lapsit at the Auburn Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-12-01T09:30:00-08:00",
-      "startTime": "5:30 PM",
-      "endTime": "6:30 PM",
+      "startTime": "9:30 AM",
+      "endTime": "10:30 AM",
       "venue": {
         "name": "Placer County Library - Auburn",
         "address": "350 Nevada St",
@@ -3253,7 +3180,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/event/17437242",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:05.838Z",
+      "scrapedAt": "2026-11-10T17:57:20.267Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -3262,8 +3189,8 @@
       "title": "Baby Lapsit at the Rocklin Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-12-01T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:30 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:30 AM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -3278,7 +3205,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.756Z",
+      "scrapedAt": "2026-11-10T17:57:21.990Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -3287,8 +3214,8 @@
       "title": "Esports Practice",
       "description": "4th & 5th grade esports practice. Free to join, no experience needed.",
       "date": "2026-12-01T14:30:00-08:00",
-      "startTime": "10:30 PM",
-      "endTime": "11:30 PM",
+      "startTime": "2:30 PM",
+      "endTime": "3:30 PM",
       "venue": {
         "name": "Penryn School / Penryn PTC",
         "address": "2001 Taylor Rd",
@@ -3302,7 +3229,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:04.888Z",
+      "scrapedAt": "2026-11-10T17:57:19.198Z",
       "source": "penryn-ptc",
       "confidence": 0.95
     },
@@ -3327,7 +3254,7 @@
         "trivia"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.699Z",
+      "scrapedAt": "2026-11-10T17:57:17.845Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -3350,7 +3277,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.699Z",
+      "scrapedAt": "2026-11-10T17:57:17.845Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -3375,7 +3302,7 @@
         "trivia"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.699Z",
+      "scrapedAt": "2026-11-10T17:57:17.845Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -3384,8 +3311,8 @@
       "title": "Toddler Time at the Auburn Library",
       "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
       "date": "2026-12-02T09:30:00-08:00",
-      "startTime": "5:30 PM",
-      "endTime": "6:00 PM",
+      "startTime": "9:30 AM",
+      "endTime": "10:00 AM",
       "venue": {
         "name": "Placer County Library - Auburn",
         "address": "350 Nevada St",
@@ -3402,7 +3329,7 @@
       ],
       "url": "https://placer.libcal.com/event/17437322",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:05.838Z",
+      "scrapedAt": "2026-11-10T17:57:20.267Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -3411,8 +3338,8 @@
       "title": "Baby Lapsit at the Granite Bay Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-12-02T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:30 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:30 AM",
       "venue": {
         "name": "Placer County Library - Granite Bay",
         "address": "6475 Douglas Blvd",
@@ -3427,7 +3354,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/GraniteBay/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:06.685Z",
+      "scrapedAt": "2026-11-10T17:57:20.945Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -3436,8 +3363,8 @@
       "title": "Toddler Time at the Rocklin Library",
       "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
       "date": "2026-12-02T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:00 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:00 AM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -3454,7 +3381,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/Rocklin/ToddlerTime",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.756Z",
+      "scrapedAt": "2026-11-10T17:57:21.990Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -3463,8 +3390,8 @@
       "title": "Esports Practice",
       "description": "4th & 5th grade esports practice. Free to join, no experience needed.",
       "date": "2026-12-02T14:30:00-08:00",
-      "startTime": "10:30 PM",
-      "endTime": "11:30 PM",
+      "startTime": "2:30 PM",
+      "endTime": "3:30 PM",
       "venue": {
         "name": "Penryn School / Penryn PTC",
         "address": "2001 Taylor Rd",
@@ -3478,7 +3405,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:04.887Z",
+      "scrapedAt": "2026-11-10T17:57:19.198Z",
       "source": "penryn-ptc",
       "confidence": 0.95
     },
@@ -3508,7 +3435,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew-featuring-guest-band-new-sincerity/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewing-Company-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.459Z",
+      "scrapedAt": "2026-11-10T17:56:45.463Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3534,7 +3461,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498-677-525-896-674-283-601-278-786-611-856-839-986-831-474-307-980-318-364-878-863-788-944-499-393-714-735-568-532/",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:36.139Z",
+      "scrapedAt": "2026-11-10T17:56:51.358Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -3557,7 +3484,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.699Z",
+      "scrapedAt": "2026-11-10T17:57:17.845Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -3566,8 +3493,8 @@
       "title": "Esports District Tournament",
       "description": "4th & 5th grade esports district tournament.",
       "date": "2026-12-03T09:00:00-08:00",
-      "startTime": "5:00 PM",
-      "endTime": "6:30 PM",
+      "startTime": "9:00 AM",
+      "endTime": "10:30 AM",
       "venue": {
         "name": "Penryn School / Penryn PTC",
         "address": "2001 Taylor Rd",
@@ -3581,7 +3508,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:04.888Z",
+      "scrapedAt": "2026-11-10T17:57:19.198Z",
       "source": "penryn-ptc",
       "confidence": 0.95
     },
@@ -3590,8 +3517,8 @@
       "title": "Toddler Time at the Granite Bay Library",
       "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
       "date": "2026-12-03T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:00 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:00 AM",
       "venue": {
         "name": "Placer County Library - Granite Bay",
         "address": "6475 Douglas Blvd",
@@ -3608,7 +3535,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/GraniteBay/ToddlerTime",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:06.685Z",
+      "scrapedAt": "2026-11-10T17:57:20.945Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -3617,8 +3544,8 @@
       "title": "Baby Lapsit at the Rocklin Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-12-03T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:30 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:30 AM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -3633,7 +3560,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.756Z",
+      "scrapedAt": "2026-11-10T17:57:21.990Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -3642,8 +3569,8 @@
       "title": "Esports Team Party",
       "description": "4th & 5th grade esports Team Party",
       "date": "2026-12-03T14:30:00-08:00",
-      "startTime": "10:30 PM",
-      "endTime": "11:30 PM",
+      "startTime": "2:30 PM",
+      "endTime": "3:30 PM",
       "venue": {
         "name": "Penryn School / Penryn PTC",
         "address": "2001 Taylor Rd",
@@ -3659,7 +3586,7 @@
         "paint"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:04.888Z",
+      "scrapedAt": "2026-11-10T17:57:19.198Z",
       "source": "penryn-ptc",
       "confidence": 0.95
     },
@@ -3682,7 +3609,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.700Z",
+      "scrapedAt": "2026-11-10T17:57:17.845Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -3691,8 +3618,8 @@
       "title": "Toddler Time at the Rocklin Library",
       "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
       "date": "2026-12-04T09:30:00-08:00",
-      "startTime": "5:30 PM",
-      "endTime": "6:00 PM",
+      "startTime": "9:30 AM",
+      "endTime": "10:00 AM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -3709,7 +3636,7 @@
       ],
       "url": "https://placer.libcal.com/event/16047470",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.756Z",
+      "scrapedAt": "2026-11-10T17:57:21.990Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -3739,7 +3666,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-halfway-inn-6/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2023/09/High-Hand-Brewery-Music-Halfway-Inn.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.459Z",
+      "scrapedAt": "2026-11-10T17:56:45.463Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3769,7 +3696,7 @@
       "url": "https://www.atthegrounds.com/event/american-cheer-power-roseville-showdown-2026/",
       "imageUrl": "https://www.atthegrounds.com/wp-content/uploads/2026/06/Featured-Images-ATG-32.png",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:09.463Z",
+      "scrapedAt": "2026-11-10T17:55:41.266Z",
       "source": "at-the-grounds",
       "confidence": 1
     },
@@ -3798,7 +3725,7 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:09.905Z",
+      "scrapedAt": "2026-11-10T17:55:41.579Z",
       "source": "auburn-sra",
       "confidence": 1
     },
@@ -3823,7 +3750,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:02.700Z",
+      "scrapedAt": "2026-11-10T17:57:17.845Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -3852,7 +3779,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/auburn.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:10.617Z",
+      "scrapedAt": "2026-11-10T17:57:25.338Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -3861,8 +3788,8 @@
       "title": "Read to a Dog at the Granite Bay Library",
       "description": "Children 5 and up are invited to attend Read to a Dog the first Saturday of each month at 10:30 a.m. at the Granite Bay Library. This program aims to boost children's reading abilities and self-confidence through the practice of reading aloud to trained therapy dogs. Discover the joy and comfort in reading to these compassionate, non-judgmental, and gentle dogs. No registration required; just grab a book and let the tail-wagging adventures begin!",
       "date": "2026-12-05T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:30 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:30 AM",
       "venue": {
         "name": "Placer County Library - Granite Bay",
         "address": "6475 Douglas Blvd",
@@ -3880,7 +3807,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/GraniteBay/ReadToADog",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:06.685Z",
+      "scrapedAt": "2026-11-10T17:57:20.945Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -3911,7 +3838,7 @@
       "url": "https://www.bluelinearts.org/event/monthly-family-activity-day-december",
       "imageUrl": "https://www.bluelinearts.org/wp-content/uploads/2023/10/1st-December.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:11.310Z",
+      "scrapedAt": "2026-11-10T17:55:43.435Z",
       "source": "blue-line-arts",
       "confidence": 1
     },
@@ -3919,8 +3846,8 @@
       "id": "evt-8b491665",
       "title": "Loomis Family Christmas Tree Lighting",
       "date": "2026-12-05T17:30:00-08:00",
-      "startTime": "1:30 AM",
-      "endTime": "3:00 AM",
+      "startTime": "5:30 PM",
+      "endTime": "7:00 PM",
       "venue": {
         "name": "Town of Loomis",
         "address": "3665 Taylor Rd",
@@ -3937,7 +3864,7 @@
       ],
       "url": "https://loomis.ca.gov/event/loomis-family-christmas-tree-lighting/",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:31.924Z",
+      "scrapedAt": "2026-11-10T17:56:47.349Z",
       "source": "loomis-town",
       "confidence": 0.9
     },
@@ -3968,7 +3895,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-8-track-massacre-13/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/01/High-Hand-Brewery-Music-8-Track-Massacre-v1.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.459Z",
+      "scrapedAt": "2026-11-10T17:56:45.463Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3994,7 +3921,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/trivia-night-999-690-812-906-953-155-116-822-235-157-598-714-415-873-555-392-609-230-961-821-676-648-912-964-972-152-467-923-497-976-179-150-995-236-318-553-633-633-653-549/",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:36.139Z",
+      "scrapedAt": "2026-11-10T17:56:51.358Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -4023,7 +3950,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/lincoln.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:10.617Z",
+      "scrapedAt": "2026-11-10T17:57:25.338Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -4053,7 +3980,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-donnie-the-wayrads-3/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/10/High-Hand-Brewery-Donnie-and-the-Wayrads.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.459Z",
+      "scrapedAt": "2026-11-10T17:56:45.463Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4062,8 +3989,8 @@
       "title": "After Hours Trivia at the Rocklin Library",
       "description": "Join us for a fun night of trivia at the library! Bring your friends, form a team, and compete for prizes. Don’t miss out on the fun! This Month's Theme: General Knowledge From literature to science, pop culture to music, test your knowledge in a variety of topics!",
       "date": "2026-12-06T17:30:00-08:00",
-      "startTime": "1:30 AM",
-      "endTime": "3:00 AM",
+      "startTime": "5:30 PM",
+      "endTime": "7:00 PM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -4081,7 +4008,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/Rocklin/Trivia",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.756Z",
+      "scrapedAt": "2026-11-10T17:57:21.990Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -4090,8 +4017,8 @@
       "title": "Baby Lapsit at the Auburn Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-12-08T09:30:00-08:00",
-      "startTime": "5:30 PM",
-      "endTime": "6:30 PM",
+      "startTime": "9:30 AM",
+      "endTime": "10:30 AM",
       "venue": {
         "name": "Placer County Library - Auburn",
         "address": "350 Nevada St",
@@ -4106,7 +4033,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/event/17437243",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:05.838Z",
+      "scrapedAt": "2026-11-10T17:57:20.267Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -4115,8 +4042,8 @@
       "title": "Baby Lapsit at the Rocklin Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-12-08T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:30 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:30 AM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -4131,7 +4058,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.756Z",
+      "scrapedAt": "2026-11-10T17:57:21.990Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -4140,8 +4067,8 @@
       "title": "Toddler Time at the Auburn Library",
       "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
       "date": "2026-12-09T09:30:00-08:00",
-      "startTime": "5:30 PM",
-      "endTime": "6:00 PM",
+      "startTime": "9:30 AM",
+      "endTime": "10:00 AM",
       "venue": {
         "name": "Placer County Library - Auburn",
         "address": "350 Nevada St",
@@ -4158,7 +4085,7 @@
       ],
       "url": "https://placer.libcal.com/event/17437323",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:05.838Z",
+      "scrapedAt": "2026-11-10T17:57:20.267Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -4167,8 +4094,8 @@
       "title": "Baby Lapsit at the Granite Bay Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-12-09T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:30 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:30 AM",
       "venue": {
         "name": "Placer County Library - Granite Bay",
         "address": "6475 Douglas Blvd",
@@ -4183,7 +4110,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/GraniteBay/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:06.685Z",
+      "scrapedAt": "2026-11-10T17:57:20.945Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -4192,8 +4119,8 @@
       "title": "Toddler Time at the Rocklin Library",
       "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
       "date": "2026-12-09T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:00 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:00 AM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -4210,7 +4137,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/Rocklin/ToddlerTime",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.756Z",
+      "scrapedAt": "2026-11-10T17:57:21.990Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -4219,8 +4146,8 @@
       "title": "Builders Club at the Granite Bay Library",
       "description": "Calling all LEGO® lovers! Join us each month to construct our building challenge or create your own design! No Registration Required",
       "date": "2026-12-09T15:00:00-08:00",
-      "startTime": "11:00 PM",
-      "endTime": "12:00 AM",
+      "startTime": "3:00 PM",
+      "endTime": "4:00 PM",
       "venue": {
         "name": "Placer County Library - Granite Bay",
         "address": "6475 Douglas Blvd",
@@ -4235,7 +4162,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/GraniteBay/BuildersClub",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:06.685Z",
+      "scrapedAt": "2026-11-10T17:57:20.946Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -4265,17 +4192,43 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-12-09/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewing-Company-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.459Z",
+      "scrapedAt": "2026-11-10T17:56:45.463Z",
       "source": "high-hand-brewing",
       "confidence": 1
+    },
+    {
+      "id": "evt-919dd01b",
+      "title": "MUSIC BINGO!",
+      "date": "2026-12-10T00:00:00-08:00",
+      "startTime": "",
+      "venue": {
+        "name": "Mindscape Fermentations",
+        "address": "5424 Crossings Dr",
+        "city": "Rocklin",
+        "state": "CA",
+        "zip": "95677",
+        "url": "https://mindscape-fermentations.com/events/",
+        "phone": "(530) 820-4330",
+        "lat": 38.799853,
+        "lng": -121.203275
+      },
+      "type": "music",
+      "tags": [
+        "music"
+      ],
+      "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498-677-525-896-674-283-601-278-786-611-856-839-986-831-474-307-980-318-364-878-863-788-944-499-393-714-735-568/",
+      "isRecurring": false,
+      "scrapedAt": "2026-11-10T17:56:51.358Z",
+      "source": "mindscape-fermentations",
+      "confidence": 0.8
     },
     {
       "id": "evt-9be4b4e0",
       "title": "Toddler Time at the Granite Bay Library",
       "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
       "date": "2026-12-10T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:00 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:00 AM",
       "venue": {
         "name": "Placer County Library - Granite Bay",
         "address": "6475 Douglas Blvd",
@@ -4292,7 +4245,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/GraniteBay/ToddlerTime",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:06.685Z",
+      "scrapedAt": "2026-11-10T17:57:20.946Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -4301,8 +4254,8 @@
       "title": "Baby Lapsit at the Rocklin Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-12-10T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:30 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:30 AM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -4317,7 +4270,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.756Z",
+      "scrapedAt": "2026-11-10T17:57:21.990Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -4326,8 +4279,8 @@
       "title": "Book Club at the Rocklin Library",
       "description": "Join us for our monthly book club discussions for adults. You'll meet new people with similar interests and chat with our library staff about our monthly selection. Learn and discuss different perspectives in this safe and respectful environment. No Registration Required",
       "date": "2026-12-10T15:30:00-08:00",
-      "startTime": "11:30 PM",
-      "endTime": "12:30 AM",
+      "startTime": "3:30 PM",
+      "endTime": "4:30 PM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -4344,7 +4297,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/Rocklin/BookClub",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.757Z",
+      "scrapedAt": "2026-11-10T17:57:21.990Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -4353,8 +4306,8 @@
       "title": "Toddler Time at the Rocklin Library",
       "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
       "date": "2026-12-11T09:30:00-08:00",
-      "startTime": "5:30 PM",
-      "endTime": "6:00 PM",
+      "startTime": "9:30 AM",
+      "endTime": "10:00 AM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -4371,7 +4324,7 @@
       ],
       "url": "https://placer.libcal.com/event/16047471",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.757Z",
+      "scrapedAt": "2026-11-10T17:57:21.990Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -4401,7 +4354,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-total-recall-11/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/10/High-Hand-Brewery-Music-Total-Recall.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.459Z",
+      "scrapedAt": "2026-11-10T17:56:45.463Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4427,7 +4380,7 @@
       "url": "https://www.atthegrounds.com/event/made-hoops-west-coast-circuit-2/",
       "imageUrl": "https://www.atthegrounds.com/wp-content/uploads/2026/06/Featured-Images-ATG-33.png",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:09.464Z",
+      "scrapedAt": "2026-11-10T17:55:41.267Z",
       "source": "at-the-grounds",
       "confidence": 1
     },
@@ -4456,7 +4409,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-rogue-8/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/11/High-Hand-Brewery-Music-Rogue.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.459Z",
+      "scrapedAt": "2026-11-10T17:56:45.463Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4484,7 +4437,7 @@
       "url": "https://www.atthegrounds.com/event/shadow-pack-promotions-ikf-point-muay-thai/",
       "imageUrl": "https://www.atthegrounds.com/wp-content/uploads/2026/05/Featured-Images-ATG-14.png",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:09.464Z",
+      "scrapedAt": "2026-11-10T17:55:41.267Z",
       "source": "at-the-grounds",
       "confidence": 1
     },
@@ -4515,7 +4468,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-the-nitwits-2/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/10/High-Hand-Brewery-Music-Nitwits-2.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.460Z",
+      "scrapedAt": "2026-11-10T17:56:45.463Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4523,8 +4476,8 @@
       "id": "evt-c2e5324d",
       "title": "LUSD Board Meeting",
       "date": "2026-12-14T18:00:00-08:00",
-      "startTime": "2:00 AM",
-      "endTime": "3:00 AM",
+      "startTime": "6:00 PM",
+      "endTime": "7:00 PM",
       "venue": {
         "name": "Penryn School / Penryn PTC",
         "address": "2001 Taylor Rd",
@@ -4538,7 +4491,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:04.888Z",
+      "scrapedAt": "2026-11-10T17:57:19.198Z",
       "source": "penryn-ptc",
       "confidence": 0.85
     },
@@ -4547,8 +4500,8 @@
       "title": "Baby Lapsit at the Auburn Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-12-15T09:30:00-08:00",
-      "startTime": "5:30 PM",
-      "endTime": "6:30 PM",
+      "startTime": "9:30 AM",
+      "endTime": "10:30 AM",
       "venue": {
         "name": "Placer County Library - Auburn",
         "address": "350 Nevada St",
@@ -4563,7 +4516,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/event/17437244",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:05.838Z",
+      "scrapedAt": "2026-11-10T17:57:20.267Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -4572,8 +4525,8 @@
       "title": "Baby Lapsit at the Rocklin Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-12-15T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:30 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:30 AM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -4588,7 +4541,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.757Z",
+      "scrapedAt": "2026-11-10T17:57:21.990Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -4597,8 +4550,8 @@
       "title": "Read to a Dog at the Rocklin Library",
       "description": "Children 5 and up are invited to attend Read to a Dog the third Tuesday of each month at 3:30 p.m. at the Rocklin Library. This program aims to boost children's reading abilities and self-confidence through the practice of reading aloud to trained therapy dogs. Discover the joy and comfort in reading to these compassionate, non-judgmental, and gentle dogs. No registration required; just grab a book and let the tail-wagging adventures begin!",
       "date": "2026-12-15T15:30:00-08:00",
-      "startTime": "11:30 PM",
-      "endTime": "12:30 AM",
+      "startTime": "3:30 PM",
+      "endTime": "4:30 PM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -4616,7 +4569,7 @@
       ],
       "url": "https://placer.libcal.com/event/15985590",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.757Z",
+      "scrapedAt": "2026-11-10T17:57:21.990Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -4625,8 +4578,8 @@
       "title": "Toddler Time at the Auburn Library",
       "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
       "date": "2026-12-16T09:30:00-08:00",
-      "startTime": "5:30 PM",
-      "endTime": "6:00 PM",
+      "startTime": "9:30 AM",
+      "endTime": "10:00 AM",
       "venue": {
         "name": "Placer County Library - Auburn",
         "address": "350 Nevada St",
@@ -4643,7 +4596,7 @@
       ],
       "url": "https://placer.libcal.com/event/17437324",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:05.838Z",
+      "scrapedAt": "2026-11-10T17:57:20.267Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -4652,8 +4605,8 @@
       "title": "Baby Lapsit at the Granite Bay Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-12-16T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:30 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:30 AM",
       "venue": {
         "name": "Placer County Library - Granite Bay",
         "address": "6475 Douglas Blvd",
@@ -4668,7 +4621,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/GraniteBay/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:06.685Z",
+      "scrapedAt": "2026-11-10T17:57:20.946Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -4677,8 +4630,8 @@
       "title": "Toddler Time at the Rocklin Library",
       "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
       "date": "2026-12-16T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:00 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:00 AM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -4695,7 +4648,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/Rocklin/ToddlerTime",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.757Z",
+      "scrapedAt": "2026-11-10T17:57:21.990Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -4704,8 +4657,8 @@
       "title": "Book Club at the Granite Bay Library",
       "description": "Join us for our monthly book club discussions for adults. You'll meet new people with similar interests and chat with our library staff about our monthly selection. Learn and discuss different perspectives in this safe and respectful environment. No Registration Required",
       "date": "2026-12-16T14:00:00-08:00",
-      "startTime": "10:00 PM",
-      "endTime": "11:00 PM",
+      "startTime": "2:00 PM",
+      "endTime": "3:00 PM",
       "venue": {
         "name": "Placer County Library - Granite Bay",
         "address": "6475 Douglas Blvd",
@@ -4722,7 +4675,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/GraniteBay/BookClub",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:06.685Z",
+      "scrapedAt": "2026-11-10T17:57:20.946Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -4731,8 +4684,8 @@
       "title": "Builders Club at the Auburn Library",
       "description": "Calling all LEGO® lovers! Join us each month to construct our building challenge or create your own design! No Registration Required",
       "date": "2026-12-16T15:30:00-08:00",
-      "startTime": "11:30 PM",
-      "endTime": "12:30 AM",
+      "startTime": "3:30 PM",
+      "endTime": "4:30 PM",
       "venue": {
         "name": "Placer County Library - Auburn",
         "address": "350 Nevada St",
@@ -4747,7 +4700,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/event/17437401",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:05.838Z",
+      "scrapedAt": "2026-11-10T17:57:20.267Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -4777,7 +4730,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-12-16/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewing-Company-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.460Z",
+      "scrapedAt": "2026-11-10T17:56:45.463Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4786,8 +4739,8 @@
       "title": "Toddler Time at the Granite Bay Library",
       "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
       "date": "2026-12-17T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:00 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:00 AM",
       "venue": {
         "name": "Placer County Library - Granite Bay",
         "address": "6475 Douglas Blvd",
@@ -4804,7 +4757,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/GraniteBay/ToddlerTime",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:06.686Z",
+      "scrapedAt": "2026-11-10T17:57:20.946Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -4813,8 +4766,8 @@
       "title": "Baby Lapsit at the Rocklin Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-12-17T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:30 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:30 AM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -4829,7 +4782,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.757Z",
+      "scrapedAt": "2026-11-10T17:57:21.991Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -4853,7 +4806,7 @@
         "special"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:04.888Z",
+      "scrapedAt": "2026-11-10T17:57:19.198Z",
       "source": "penryn-ptc",
       "confidence": 0.75
     },
@@ -4861,8 +4814,8 @@
       "id": "evt-105b8010",
       "title": "7th & 8th Grade Dance",
       "date": "2026-12-17T17:00:00-08:00",
-      "startTime": "1:00 AM",
-      "endTime": "3:00 AM",
+      "startTime": "5:00 PM",
+      "endTime": "7:00 PM",
       "venue": {
         "name": "Penryn School / Penryn PTC",
         "address": "2001 Taylor Rd",
@@ -4876,7 +4829,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:04.888Z",
+      "scrapedAt": "2026-11-10T17:57:19.198Z",
       "source": "penryn-ptc",
       "confidence": 0.85
     },
@@ -4885,8 +4838,8 @@
       "title": "Toddler Time at the Rocklin Library",
       "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
       "date": "2026-12-18T09:30:00-08:00",
-      "startTime": "5:30 PM",
-      "endTime": "6:00 PM",
+      "startTime": "9:30 AM",
+      "endTime": "10:00 AM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -4903,7 +4856,7 @@
       ],
       "url": "https://placer.libcal.com/event/16047472",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.757Z",
+      "scrapedAt": "2026-11-10T17:57:21.991Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -4929,7 +4882,7 @@
       "url": "https://www.atthegrounds.com/event/wcvba-boys-2/",
       "imageUrl": "https://www.atthegrounds.com/wp-content/uploads/2026/05/Featured-Images-ATG-15.png",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:09.464Z",
+      "scrapedAt": "2026-11-10T17:55:41.267Z",
       "source": "at-the-grounds",
       "confidence": 1
     },
@@ -4938,8 +4891,8 @@
       "title": "STEM Saturday at the Granite Bay Library",
       "description": "Discover the world of STEM at this monthly program for children ages 5–10 and their caregivers.",
       "date": "2026-12-19T02:00:00-08:00",
-      "startTime": "10:00 AM",
-      "endTime": "11:00 AM",
+      "startTime": "2:00 AM",
+      "endTime": "3:00 AM",
       "venue": {
         "name": "Placer County Library - Granite Bay",
         "address": "6475 Douglas Blvd",
@@ -4957,7 +4910,7 @@
       ],
       "url": "https://placer.libcal.com/event/16218160",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:06.686Z",
+      "scrapedAt": "2026-11-10T17:57:20.946Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -4981,7 +4934,7 @@
         "special"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:04.888Z",
+      "scrapedAt": "2026-11-10T17:57:19.198Z",
       "source": "penryn-ptc",
       "confidence": 0.75
     },
@@ -4990,8 +4943,8 @@
       "title": "After Hours Trivia at the Auburn Library",
       "description": "Join us for a fun night of trivia at the library! Bring your friends, form a team, and compete for prizes. Don’t miss out on the fun! This Month’s Theme: Trivia Rewind – 90s & 2000’s Millennials, this one’s for you! Relive all the nostalgia and show off how much you remember Y2K before it became a “retro” fashion trend.",
       "date": "2026-12-20T17:30:00-08:00",
-      "startTime": "1:30 AM",
-      "endTime": "3:00 AM",
+      "startTime": "5:30 PM",
+      "endTime": "7:00 PM",
       "venue": {
         "name": "Placer County Library - Auburn",
         "address": "350 Nevada St",
@@ -5008,7 +4961,7 @@
       ],
       "url": "https://placer.libcal.com/event/17817411",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:05.839Z",
+      "scrapedAt": "2026-11-10T17:57:20.267Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -5042,7 +4995,7 @@
       "url": "https://www.bluelinearts.org/event/winter-workshop-l-handmade-holiday-frames-cards",
       "imageUrl": "https://www.bluelinearts.org/wp-content/uploads/2026/06/Winter-Workshop-l-Handmade-Holiday-Frames-Handmade-Cards.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:11.311Z",
+      "scrapedAt": "2026-11-10T17:55:43.435Z",
       "source": "blue-line-arts",
       "confidence": 1
     },
@@ -5075,7 +5028,7 @@
       "url": "https://www.bluelinearts.org/event/winter-workshop-ll-tote-bags-handmade-cards",
       "imageUrl": "https://www.bluelinearts.org/wp-content/uploads/2026/06/Winter-Workshop-ll-Tote-Bags-Handmade-Cards.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:11.311Z",
+      "scrapedAt": "2026-11-10T17:55:43.435Z",
       "source": "blue-line-arts",
       "confidence": 1
     },
@@ -5084,8 +5037,8 @@
       "title": "Baby Lapsit at the Auburn Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-12-22T09:30:00-08:00",
-      "startTime": "5:30 PM",
-      "endTime": "6:30 PM",
+      "startTime": "9:30 AM",
+      "endTime": "10:30 AM",
       "venue": {
         "name": "Placer County Library - Auburn",
         "address": "350 Nevada St",
@@ -5100,7 +5053,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/event/17437245",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:05.839Z",
+      "scrapedAt": "2026-11-10T17:57:20.267Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -5109,8 +5062,8 @@
       "title": "Baby Lapsit at the Rocklin Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-12-22T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:30 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:30 AM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -5125,7 +5078,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.757Z",
+      "scrapedAt": "2026-11-10T17:57:21.991Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -5158,7 +5111,7 @@
       "url": "https://www.bluelinearts.org/event/winter-workshop-lll-trinket-box-handmade-cards",
       "imageUrl": "https://www.bluelinearts.org/wp-content/uploads/2026/06/Winter-Workshop-lll-Trinket-Box-Handmade-Cards.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:11.311Z",
+      "scrapedAt": "2026-11-10T17:55:43.435Z",
       "source": "blue-line-arts",
       "confidence": 1
     },
@@ -5167,8 +5120,8 @@
       "title": "Toddler Time at the Auburn Library",
       "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
       "date": "2026-12-23T09:30:00-08:00",
-      "startTime": "5:30 PM",
-      "endTime": "6:00 PM",
+      "startTime": "9:30 AM",
+      "endTime": "10:00 AM",
       "venue": {
         "name": "Placer County Library - Auburn",
         "address": "350 Nevada St",
@@ -5185,7 +5138,7 @@
       ],
       "url": "https://placer.libcal.com/event/17437325",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:05.839Z",
+      "scrapedAt": "2026-11-10T17:57:20.267Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -5194,8 +5147,8 @@
       "title": "Baby Lapsit at the Granite Bay Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-12-23T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:30 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:30 AM",
       "venue": {
         "name": "Placer County Library - Granite Bay",
         "address": "6475 Douglas Blvd",
@@ -5210,7 +5163,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/GraniteBay/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:06.686Z",
+      "scrapedAt": "2026-11-10T17:57:20.946Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -5219,8 +5172,8 @@
       "title": "Toddler Time at the Rocklin Library",
       "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
       "date": "2026-12-23T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:00 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:00 AM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -5237,7 +5190,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/Rocklin/ToddlerTime",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.757Z",
+      "scrapedAt": "2026-11-10T17:57:21.991Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -5246,8 +5199,8 @@
       "title": "Book Club at the Auburn Library",
       "description": "Join us for our monthly book club discussions for adults. You'll meet new people with similar interests and chat with our library staff about our monthly selection. Learn and discuss different perspectives in this safe and respectful environment. No Registration Required",
       "date": "2026-12-23T15:00:00-08:00",
-      "startTime": "11:00 PM",
-      "endTime": "12:00 AM",
+      "startTime": "3:00 PM",
+      "endTime": "4:00 PM",
       "venue": {
         "name": "Placer County Library - Auburn",
         "address": "350 Nevada St",
@@ -5264,7 +5217,7 @@
       ],
       "url": "https://placer.libcal.com/event/17437425",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:05.839Z",
+      "scrapedAt": "2026-11-10T17:57:20.268Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -5294,7 +5247,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-12-23/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewing-Company-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.460Z",
+      "scrapedAt": "2026-11-10T17:56:45.463Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5303,8 +5256,8 @@
       "title": "Toddler Time at the Granite Bay Library",
       "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
       "date": "2026-12-24T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:00 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:00 AM",
       "venue": {
         "name": "Placer County Library - Granite Bay",
         "address": "6475 Douglas Blvd",
@@ -5321,7 +5274,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/GraniteBay/ToddlerTime",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:06.686Z",
+      "scrapedAt": "2026-11-10T17:57:20.946Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -5330,8 +5283,8 @@
       "title": "Baby Lapsit at the Rocklin Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-12-24T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:30 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:30 AM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -5346,7 +5299,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.758Z",
+      "scrapedAt": "2026-11-10T17:57:21.991Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -5355,8 +5308,8 @@
       "title": "Builders Club at the Rocklin Library",
       "description": "Calling all LEGO® lovers! Join us each month to construct our building challenge or create your own design! No Registration Required",
       "date": "2026-12-26T14:00:00-08:00",
-      "startTime": "10:00 PM",
-      "endTime": "11:00 PM",
+      "startTime": "2:00 PM",
+      "endTime": "3:00 PM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -5371,7 +5324,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/event/17693434",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.758Z",
+      "scrapedAt": "2026-11-10T17:57:21.991Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -5402,7 +5355,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-unleashed-12/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/05/High-Hand-Brewery-Music-Unleashed.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.460Z",
+      "scrapedAt": "2026-11-10T17:56:45.464Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5411,8 +5364,8 @@
       "title": "Baby Lapsit at the Auburn Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-12-29T09:30:00-08:00",
-      "startTime": "5:30 PM",
-      "endTime": "6:30 PM",
+      "startTime": "9:30 AM",
+      "endTime": "10:30 AM",
       "venue": {
         "name": "Placer County Library - Auburn",
         "address": "350 Nevada St",
@@ -5427,7 +5380,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/event/17437246",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:05.839Z",
+      "scrapedAt": "2026-11-10T17:57:20.268Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -5436,8 +5389,8 @@
       "title": "Baby Lapsit at the Rocklin Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-12-29T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:30 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:30 AM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -5452,7 +5405,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.758Z",
+      "scrapedAt": "2026-11-10T17:57:21.991Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -5461,8 +5414,8 @@
       "title": "Toddler Time at the Auburn Library",
       "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
       "date": "2026-12-30T09:30:00-08:00",
-      "startTime": "5:30 PM",
-      "endTime": "6:00 PM",
+      "startTime": "9:30 AM",
+      "endTime": "10:00 AM",
       "venue": {
         "name": "Placer County Library - Auburn",
         "address": "350 Nevada St",
@@ -5479,7 +5432,7 @@
       ],
       "url": "https://placer.libcal.com/event/17437326",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:05.839Z",
+      "scrapedAt": "2026-11-10T17:57:20.268Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -5488,8 +5441,8 @@
       "title": "Baby Lapsit at the Granite Bay Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-12-30T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:30 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:30 AM",
       "venue": {
         "name": "Placer County Library - Granite Bay",
         "address": "6475 Douglas Blvd",
@@ -5504,7 +5457,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/GraniteBay/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:06.686Z",
+      "scrapedAt": "2026-11-10T17:57:20.946Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -5513,8 +5466,8 @@
       "title": "Toddler Time at the Rocklin Library",
       "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
       "date": "2026-12-30T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:00 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:00 AM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -5531,7 +5484,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/Rocklin/ToddlerTime",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.758Z",
+      "scrapedAt": "2026-11-10T17:57:21.991Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -5561,7 +5514,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-12-30/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewing-Company-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.460Z",
+      "scrapedAt": "2026-11-10T17:56:45.464Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5588,7 +5541,7 @@
       ],
       "url": "https://www.omakaseporfavor.com/events-2/new-years-eve-dinner",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:04.607Z",
+      "scrapedAt": "2026-11-10T17:57:18.179Z",
       "source": "omakase-por-favor",
       "confidence": 0.9
     },
@@ -5597,8 +5550,8 @@
       "title": "Toddler Time at the Granite Bay Library",
       "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
       "date": "2026-12-31T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:00 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:00 AM",
       "venue": {
         "name": "Placer County Library - Granite Bay",
         "address": "6475 Douglas Blvd",
@@ -5615,7 +5568,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/GraniteBay/ToddlerTime",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:06.686Z",
+      "scrapedAt": "2026-11-10T17:57:20.946Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -5624,8 +5577,8 @@
       "title": "Baby Lapsit at the Rocklin Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2026-12-31T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:30 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:30 AM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -5640,7 +5593,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.758Z",
+      "scrapedAt": "2026-11-10T17:57:21.991Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -5672,7 +5625,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-victori-4/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/07/High-Hand-Brewery-Music-Victori.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.460Z",
+      "scrapedAt": "2026-11-10T17:56:45.464Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5703,7 +5656,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-static-sugar-2/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/03/High-Hand-Brewery-Music-Static-Sugar.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.461Z",
+      "scrapedAt": "2026-11-10T17:56:45.464Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5731,7 +5684,7 @@
       "url": "https://www.atthegrounds.com/event/redwood-rumble-3/",
       "imageUrl": "https://www.atthegrounds.com/wp-content/uploads/2026/07/Featured-Images-ATG-35.png",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:09.464Z",
+      "scrapedAt": "2026-11-10T17:55:41.267Z",
       "source": "at-the-grounds",
       "confidence": 1
     },
@@ -5760,7 +5713,7 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:09.905Z",
+      "scrapedAt": "2026-11-10T17:55:41.579Z",
       "source": "auburn-sra",
       "confidence": 1
     },
@@ -5769,8 +5722,8 @@
       "title": "Read to a Dog at the Granite Bay Library",
       "description": "Children 5 and up are invited to attend Read to a Dog the first Saturday of each month at 10:30 a.m. at the Granite Bay Library. This program aims to boost children's reading abilities and self-confidence through the practice of reading aloud to trained therapy dogs. Discover the joy and comfort in reading to these compassionate, non-judgmental, and gentle dogs. No registration required; just grab a book and let the tail-wagging adventures begin!",
       "date": "2027-01-02T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:30 PM",
+      "startTime": "10:30 AM",
+      "endTime": "11:30 AM",
       "venue": {
         "name": "Placer County Library - Granite Bay",
         "address": "6475 Douglas Blvd",
@@ -5788,7 +5741,7 @@
       ],
       "url": "https://placer.libcal.com/event/17763607",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:06.686Z",
+      "scrapedAt": "2026-11-10T17:57:20.946Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -5818,7 +5771,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-spiral-sunset-2/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/05/High-Hand-Brewery-Music-Spiral-Sunset.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.461Z",
+      "scrapedAt": "2026-11-10T17:56:45.464Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5827,8 +5780,8 @@
       "title": "After Hours Trivia at the Rocklin Library",
       "description": "Join us for a fun night of trivia at the library! Bring your friends, form a team, and compete for prizes. Don’t miss out on the fun!",
       "date": "2027-01-03T17:30:00-08:00",
-      "startTime": "1:30 AM",
-      "endTime": "3:00 AM",
+      "startTime": "5:30 PM",
+      "endTime": "7:00 PM",
       "venue": {
         "name": "Placer County Library - Rocklin",
         "address": "4890 Granite Dr",
@@ -5845,7 +5798,7 @@
       ],
       "url": "https://placer.libcal.com/event/17770884",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:07.758Z",
+      "scrapedAt": "2026-11-10T17:57:21.991Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -5854,8 +5807,8 @@
       "title": "Baby Lapsit at the Auburn Library",
       "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
       "date": "2027-01-05T09:30:00-08:00",
-      "startTime": "5:30 PM",
-      "endTime": "6:30 PM",
+      "startTime": "9:30 AM",
+      "endTime": "10:30 AM",
       "venue": {
         "name": "Placer County Library - Auburn",
         "address": "350 Nevada St",
@@ -5870,7 +5823,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/event/17437247",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:05.839Z",
+      "scrapedAt": "2026-11-10T17:57:20.268Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -5879,8 +5832,8 @@
       "title": "Toddler Time at the Auburn Library",
       "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
       "date": "2027-01-06T09:30:00-08:00",
-      "startTime": "5:30 PM",
-      "endTime": "6:00 PM",
+      "startTime": "9:30 AM",
+      "endTime": "10:00 AM",
       "venue": {
         "name": "Placer County Library - Auburn",
         "address": "350 Nevada St",
@@ -5897,7 +5850,7 @@
       ],
       "url": "https://placer.libcal.com/event/17437327",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:45:05.839Z",
+      "scrapedAt": "2026-11-10T17:57:20.268Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -5927,9 +5880,32 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-01-06/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewing-Company-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.461Z",
+      "scrapedAt": "2026-11-10T17:56:45.464Z",
       "source": "high-hand-brewing",
       "confidence": 1
+    },
+    {
+      "id": "evt-41980e1a",
+      "title": "LUSD Board Meeting",
+      "date": "2027-01-07T18:00:00-08:00",
+      "startTime": "6:00 PM",
+      "endTime": "7:00 PM",
+      "venue": {
+        "name": "Penryn School / Penryn PTC",
+        "address": "2001 Taylor Rd",
+        "city": "Penryn",
+        "state": "CA",
+        "zip": "95663",
+        "url": "https://www.penrynptc.com/calendar",
+        "lat": 38.851,
+        "lng": -121.1858
+      },
+      "type": "other",
+      "tags": [],
+      "isRecurring": false,
+      "scrapedAt": "2026-11-10T17:57:19.198Z",
+      "source": "penryn-ptc",
+      "confidence": 0.85
     },
     {
       "id": "evt-250287c7",
@@ -5956,7 +5932,38 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-the-frat-boys-6/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-The-Frat-Boys.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:30.461Z",
+      "scrapedAt": "2026-11-10T17:56:45.464Z",
+      "source": "high-hand-brewing",
+      "confidence": 1
+    },
+    {
+      "id": "evt-270489ce",
+      "title": "On Stage with Mullet Mechanix",
+      "description": "Come join us at High-Hand Brewery to hear a live performance by Mullet Mechanix. Power up your flux capacitor and ride the space-time continuum to a totally awesome throwback party! The Mullet Mechanix are all tuned up and ready to lay some rubber on a thrill ride through the decade of the 1980’s. So revvv up your otherwise idle life with a nitrous fueled catalog of the bigget smash hits. Be sure to grab your de-greaser and let your mullet fly, as we take a trip through a musical decade like no other. You can learn more about them by clicking here to visit their website . Only guests 18 and older may attend our “On Stage” concerts.",
+      "date": "2027-01-09T18:00:00-08:00",
+      "startTime": "6:00 PM",
+      "endTime": "9:00 PM",
+      "venue": {
+        "name": "High Hand Brewing Company",
+        "address": "3750 Taylor Rd",
+        "city": "Loomis",
+        "state": "CA",
+        "zip": "95650",
+        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/",
+        "lat": 38.818554,
+        "lng": -121.196137
+      },
+      "type": "music",
+      "tags": [
+        "music",
+        "beer",
+        "paint",
+        "workshop"
+      ],
+      "url": "https://www.highhandnursery.com/event/on-stage-with-mullet-mechanix-4/",
+      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/12/High-Hand-Brewery-Music-Mullet-Mechanix.jpg",
+      "isRecurring": false,
+      "scrapedAt": "2026-11-10T17:56:45.464Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5985,7 +5992,7 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:09.905Z",
+      "scrapedAt": "2026-11-10T17:55:41.579Z",
       "source": "auburn-sra",
       "confidence": 1
     },
@@ -6009,7 +6016,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:13.706Z",
+      "scrapedAt": "2026-11-10T17:55:45.759Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -6038,7 +6045,7 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:09.906Z",
+      "scrapedAt": "2026-11-10T17:55:41.579Z",
       "source": "auburn-sra",
       "confidence": 1
     },
@@ -6067,7 +6074,7 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-11-09T19:44:09.906Z",
+      "scrapedAt": "2026-11-10T17:55:41.580Z",
       "source": "auburn-sra",
       "confidence": 1
     }
