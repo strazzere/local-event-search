@@ -1,4 +1,5 @@
 import ICAL from 'ical.js';
+import { formatInTimeZone } from 'date-fns-tz';
 import { BaseScraper } from '../../core/base-scraper';
 import { Event, ScraperResult } from '../../types';
 import { RawEventData } from '../../utils/event-normalizer';
@@ -175,9 +176,10 @@ export class IcsScraper extends BaseScraper {
     let endTime: string | undefined;
 
     if (!isAllDay) {
-      startTime = this.formatTime(startDate);
+      const timezone = this.config.config?.timezone || 'America/Los_Angeles';
+      startTime = this.formatTime(startDate, timezone);
       if (endDate) {
-        endTime = this.formatTime(endDate);
+        endTime = this.formatTime(endDate, timezone);
       }
     }
 
@@ -191,13 +193,8 @@ export class IcsScraper extends BaseScraper {
     };
   }
 
-  private formatTime(date: Date): string {
-    const hours = date.getHours();
-    const minutes = date.getMinutes();
-    const ampm = hours >= 12 ? 'PM' : 'AM';
-    const hour12 = hours === 0 ? 12 : hours > 12 ? hours - 12 : hours;
-    const minutesStr = minutes.toString().padStart(2, '0');
-    return `${hour12}:${minutesStr} ${ampm}`;
+  private formatTime(date: Date, timezone: string): string {
+    return formatInTimeZone(date, timezone, 'h:mm a');
   }
 
   private passesFilters(
