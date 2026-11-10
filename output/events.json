@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "1.0.0",
-    "generatedAt": "2026-11-06T20:25:06.110Z",
-    "eventCount": 242,
-    "venueCount": 16,
+    "generatedAt": "2026-11-09T19:45:10.662Z",
+    "eventCount": 227,
+    "venueCount": 15,
     "venues": [
       "@the Grounds",
       "Auburn State Recreation Area",
@@ -11,7 +11,6 @@
       "Crooked Lane Brewing",
       "Fowler Ranch",
       "High Hand Brewing Company",
-      "Knee Deep Brewing",
       "Town of Loomis",
       "Mindscape Fermentations",
       "Moonraker Brewing",
@@ -24,606 +23,6 @@
     ]
   },
   "events": [
-    {
-      "id": "evt-03141b49",
-      "title": "Live Music with Bill Reiland",
-      "description": "Recurring: Does not Repeat",
-      "date": "2026-11-05T16:00:00-08:00",
-      "startTime": "05:00 PM - 08:00 PM",
-      "venue": {
-        "name": "Crooked Lane Brewing",
-        "address": "536 Grass Valley Hwy",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
-        "phone": "(530) 878-7848",
-        "lat": 38.909827,
-        "lng": -121.077143
-      },
-      "type": "music",
-      "tags": [
-        "music"
-      ],
-      "imageUrl": "https://static.spotapps.co/spots/e8/dee6607dfa492fb3b5dde0c28326c2/w926",
-      "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:37.351Z",
-      "source": "crooked-lane-brewing",
-      "confidence": 0.95
-    },
-    {
-      "id": "evt-4c2c84f0",
-      "title": "LUSD Board Meeting",
-      "date": "2026-11-05T18:00:00-08:00",
-      "startTime": "2:00 AM",
-      "endTime": "3:00 AM",
-      "venue": {
-        "name": "Penryn School / Penryn PTC",
-        "address": "2001 Taylor Rd",
-        "city": "Penryn",
-        "state": "CA",
-        "zip": "95663",
-        "url": "https://www.penrynptc.com/calendar",
-        "lat": 38.851,
-        "lng": -121.1858
-      },
-      "type": "other",
-      "tags": [],
-      "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:59.445Z",
-      "source": "penryn-ptc",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-e8c18405",
-      "title": "Doggiestyle Hot Dogs5:30pLive Music by Kai",
-      "date": "2026-11-06T00:00:00-08:00",
-      "startTime": "12:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12970 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816",
-        "lat": 38.950782,
-        "lng": -121.081713
-      },
-      "type": "music",
-      "tags": [
-        "music"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.109Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-608865c5",
-      "title": "Doggiestyle Hot Dogs",
-      "date": "2026-11-06T00:00:00-08:00",
-      "startTime": "12:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12970 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816",
-        "lat": 38.950782,
-        "lng": -121.081713
-      },
-      "type": "food",
-      "tags": [],
-      "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.109Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-46855dc6",
-      "title": "Live Music by Kai",
-      "date": "2026-11-06T00:00:00-08:00",
-      "startTime": "5:30 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12970 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816",
-        "lat": 38.950782,
-        "lng": -121.081713
-      },
-      "type": "music",
-      "tags": [
-        "music"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.109Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-27d806c0",
-      "title": "Toddler Time at the Rocklin Library",
-      "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
-      "date": "2026-11-06T09:30:00-08:00",
-      "startTime": "5:30 PM",
-      "endTime": "6:00 PM",
-      "venue": {
-        "name": "Placer County Library - Rocklin",
-        "address": "4890 Granite Dr",
-        "city": "Rocklin",
-        "state": "CA",
-        "zip": "95677",
-        "url": "https://placer.libcal.com/calendar/rocklin",
-        "lat": 38.789203,
-        "lng": -121.225991
-      },
-      "type": "other",
-      "tags": [
-        "for-kids"
-      ],
-      "url": "https://placer.libcal.com/event/16047466",
-      "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.249Z",
-      "source": "placer-library-rocklin",
-      "confidence": 1
-    },
-    {
-      "id": "evt-075784de",
-      "title": "Placer Artists Tour Weekend l",
-      "description": "Experience art where it’s made. Over two November weekends, artists, schools, and galleries across Placer County open their studios for a self-guided tour featuring artist talks, demonstrations, artwork for sale, with live local music at select locations. Learn more about the Placer Artists Tour ! Friday-Sunday November 6th-8th, 2026 10AM-5PM",
-      "date": "2026-11-06T10:00:00-08:00",
-      "startTime": "10:00 AM",
-      "endTime": "5:00 PM",
-      "venue": {
-        "name": "Blue Line Arts",
-        "address": "405 Vernon St",
-        "city": "Roseville",
-        "state": "CA",
-        "zip": "95678",
-        "url": "https://www.bluelinearts.org/events/",
-        "lat": 38.747963,
-        "lng": -121.285243
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "paint",
-        "workshop",
-        "friday"
-      ],
-      "url": "https://www.bluelinearts.org/event/placer-artists-tour-weekend-l",
-      "imageUrl": "https://www.bluelinearts.org/wp-content/uploads/2026/10/Placer-Tour-2026-weekend-l.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:34.913Z",
-      "source": "blue-line-arts",
-      "confidence": 1
-    },
-    {
-      "id": "evt-1a1be481",
-      "title": "Moos & Brews",
-      "description": "Get up close and personal with our famous miniature Highland cows during our hands-on cow cuddle experience and enjoy local craft beer.",
-      "date": "2026-11-06T16:00:00-08:00",
-      "startTime": "11:00 AM",
-      "endTime": "6:00 PM",
-      "venue": {
-        "name": "Knee Deep Brewing",
-        "address": "13395 New Airport Rd",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://kneedeepbrewing.com/api/events?upcoming=true&tapRoom=Auburn&limit=50",
-        "phone": "(530) 797-4676",
-        "lat": 38.951636,
-        "lng": -121.079658
-      },
-      "type": "beer",
-      "tags": [
-        "beer"
-      ],
-      "url": "https://www.eventbrite.com/e/moos-brews-a-highland-hangout-with-knee-deep-brewing-co-tickets-1988019344375?aff=oddtdtcreator",
-      "imageUrl": "https://storage.googleapis.com/knee-deep-events/events/Unknown-1778713338702.png",
-      "price": "Free",
-      "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:39.029Z",
-      "source": "knee-deep-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-caaedb64",
-      "title": "On Stage with The Bad Boyfriend Band",
-      "description": "Come join us at High-Hand Brewery to hear a live performance by Bad Boyfriend Band. They are a newly formed high-energy cover band based in the Sacramento area. Their tagline/motto is a tongue-in-cheek reference to their name: “We won’t text you back, but we will be playing the best rock”. Only guests 18 and older may attend our “On Stage” concerts.",
-      "date": "2026-11-06T18:00:00-08:00",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/",
-        "lat": 38.818554,
-        "lng": -121.196137
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-the-bad-boyfriend-band/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/09/High-Hand-Brewery-Music-Bad-Boyfriend-Band.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.768Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-7a6131c0",
-      "title": "JAMZ Battle at the Capitol / Capitol City Championship",
-      "description": "Battle at the Capitol – November 7th Capitol City Championship – November 8th Spectator Rates: General Admission: $20 Child 4-15: $15 Child 3 & Under: Free Hotel Information @the Grounds Parking: $15",
-      "date": "2026-11-07T00:00:00-08:00",
-      "startTime": "12:00 AM",
-      "endTime": "11:59 PM",
-      "venue": {
-        "name": "@the Grounds",
-        "address": "700 Event Center Dr",
-        "city": "Roseville",
-        "state": "CA",
-        "zip": "95678",
-        "url": "https://www.atthegrounds.com/events/",
-        "lat": 38.758255,
-        "lng": -121.298361
-      },
-      "type": "other",
-      "tags": [],
-      "url": "https://www.atthegrounds.com/event/jamz-battle-at-the-capitol-capitol-city-championship/",
-      "imageUrl": "https://www.atthegrounds.com/wp-content/uploads/2026/07/Featured-Images-ATG-27.png",
-      "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:33.187Z",
-      "source": "at-the-grounds",
-      "confidence": 1
-    },
-    {
-      "id": "evt-3eed90e0",
-      "title": "Junior Cubs Program",
-      "description": "Nature program for ages 3-6. Includes story and craft. Held at Murphy House (501 El Dorado Street, Auburn). Free program, no RSVP required.",
-      "date": "2026-11-07T00:00:00-08:00",
-      "startTime": "10:00AM",
-      "endTime": "11:00 AM",
-      "venue": {
-        "name": "Auburn State Recreation Area",
-        "address": "501 El Dorado Street",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://www.parks.ca.gov/?page_id=26506",
-        "phone": "(530) 745-2202",
-        "lat": 38.901562,
-        "lng": -121.055992
-      },
-      "type": "workshop",
-      "tags": [
-        "for-kids"
-      ],
-      "url": "https://www.parks.ca.gov/?page_id=26506",
-      "price": "Free",
-      "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:33.413Z",
-      "source": "auburn-sra",
-      "confidence": 1
-    },
-    {
-      "id": "evt-03470322",
-      "title": "West Coast Tacos",
-      "date": "2026-11-07T00:00:00-08:00",
-      "startTime": "12:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12970 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816",
-        "lat": 38.950782,
-        "lng": -121.081713
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.109Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-38c806a9",
-      "title": "Remedy Supply Co. @ Auburn Farmer’s Market",
-      "description": "Our sister boutique coffee roasting company, Remedy Supply Co., has a booth every week, selling all the great coffees they have to offer. From staple blends and unique single origins to instant coffee and cold brew concentrate—they aim to connect our community with coffee. One cup at a time. 150 Auburn Folsom Rd. Auburn, CA 95603 RemedySupplyCo.com @remedysupply.co",
-      "date": "2026-11-07T00:00:00-08:00",
-      "startTime": "12:00 AM",
-      "endTime": "4:00 AM",
-      "venue": {
-        "name": "The Pour Choice",
-        "address": "177 Sacramento St",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://thepourchoice.com/events/",
-        "lat": 38.895019,
-        "lng": -121.07801
-      },
-      "type": "beer",
-      "tags": [
-        "beer"
-      ],
-      "url": "https://thepourchoice.com/event/auburn-farmers-market/",
-      "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/auburn.png",
-      "price": "0",
-      "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:06.096Z",
-      "source": "pour-choice",
-      "confidence": 1
-    },
-    {
-      "id": "evt-9ef5073c",
-      "title": "Fall Clean Up Day",
-      "date": "2026-11-07T08:00:00-08:00",
-      "startTime": "4:00 PM",
-      "endTime": "8:00 PM",
-      "venue": {
-        "name": "Town of Loomis",
-        "address": "3665 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://loomis.ca.gov/event-list-view/",
-        "lat": 38.819456,
-        "lng": -121.195111
-      },
-      "type": "other",
-      "tags": [],
-      "url": "https://loomis.ca.gov/event/fall-clean-up-day/",
-      "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:40.248Z",
-      "source": "loomis-town",
-      "confidence": 0.9
-    },
-    {
-      "id": "evt-b9deb9b7",
-      "title": "Read to a Dog at the Granite Bay Library",
-      "description": "Children 5 and up are invited to attend Read to a Dog the first Saturday of each month at 10:30 a.m. at the Granite Bay Library. This program aims to boost children's reading abilities and self-confidence through the practice of reading aloud to trained therapy dogs. Discover the joy and comfort in reading to these compassionate, non-judgmental, and gentle dogs. No registration required; just grab a book and let the tail-wagging adventures begin!",
-      "date": "2026-11-07T10:30:00-08:00",
-      "startTime": "6:30 PM",
-      "endTime": "7:30 PM",
-      "venue": {
-        "name": "Placer County Library - Granite Bay",
-        "address": "6475 Douglas Blvd",
-        "city": "Granite Bay",
-        "state": "CA",
-        "zip": "95746",
-        "url": "https://placer.libcal.com/calendar/granite-bay",
-        "lat": 38.743746,
-        "lng": -121.180929
-      },
-      "type": "other",
-      "tags": [
-        "for-kids",
-        "saturday"
-      ],
-      "url": "https://placer.libcal.com/calendar/GraniteBay/ReadToADog",
-      "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:01.217Z",
-      "source": "placer-library-granite-bay",
-      "confidence": 1
-    },
-    {
-      "id": "evt-9cfe3032",
-      "title": "Monthly Family Activity Day | November",
-      "description": "Bring your family into the gallery for Monthly Family Activity Day to enjoy an art project as a family- drop-in arts and crafts activities are a great way for children to explore their creativity and dabble in a variety of different art mediums. A Blue Line Arts team member will be on site to walk you through the steps of creating the project. Each month, a new project and art activity will be featured and inspired by the themes currently on display in the gallery. All materials, supplies and instruction will be provided. RSVP is required so that we can anticipate how many art supplies to provide. Participation is complimentary for all Blue Line Arts Family Level Members Non-Members: $5.00 materials fee per participant Schedule: Saturday, November 7th, 11AM-2PM",
-      "date": "2026-11-07T11:00:00-08:00",
-      "startTime": "11:00 AM",
-      "endTime": "2:00 PM",
-      "venue": {
-        "name": "Blue Line Arts",
-        "address": "405 Vernon St",
-        "city": "Roseville",
-        "state": "CA",
-        "zip": "95678",
-        "url": "https://www.bluelinearts.org/events/",
-        "lat": 38.747963,
-        "lng": -121.285243
-      },
-      "type": "beer",
-      "tags": [
-        "beer",
-        "paint",
-        "for-kids",
-        "saturday"
-      ],
-      "url": "https://www.bluelinearts.org/event/monthly-family-activity-day-november",
-      "imageUrl": "https://www.bluelinearts.org/wp-content/uploads/2023/10/1st-Saturday-November.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:34.913Z",
-      "source": "blue-line-arts",
-      "confidence": 1
-    },
-    {
-      "id": "evt-0e0578cd",
-      "title": "On Stage with The Van Animals & The E. Street News",
-      "description": "Come join us at High-Hand Brewery for a live performance by The Van Animals & The E. Street News! They are ramping up for this unforgettable evening highlighting the greatest hits from Van Morrison, Elvis Costello & The Animals! This is one of those “Must be there” for a night full of music, dancing, and fun. You can learn more about them by clicking here to visit their website .",
-      "date": "2026-11-07T18:00:00-08:00",
-      "startTime": "6:00 PM",
-      "endTime": "9:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/",
-        "lat": 38.818554,
-        "lng": -121.196137
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "workshop"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-the-van-animals-the-e-street-news-3/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/05/High-Hand-Brewery-Music-Van-Animals-E-Street-News.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.768Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
-    {
-      "id": "evt-9613dd2d",
-      "title": "Macrame Workshop",
-      "date": "2026-11-08T00:00:00-08:00",
-      "startTime": "",
-      "venue": {
-        "name": "Mindscape Fermentations",
-        "address": "5424 Crossings Dr",
-        "city": "Rocklin",
-        "state": "CA",
-        "zip": "95677",
-        "url": "https://mindscape-fermentations.com/events/",
-        "phone": "(530) 820-4330",
-        "lat": 38.799853,
-        "lng": -121.203275
-      },
-      "type": "workshop",
-      "tags": [
-        "workshop"
-      ],
-      "url": "https://mindscape-fermentations.com/events/macrame-workshop-2-974/",
-      "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:47.445Z",
-      "source": "mindscape-fermentations",
-      "confidence": 0.8
-    },
-    {
-      "id": "evt-f7497c95",
-      "title": "TRIVIA NIGHT",
-      "date": "2026-11-08T00:00:00-08:00",
-      "startTime": "",
-      "venue": {
-        "name": "Mindscape Fermentations",
-        "address": "5424 Crossings Dr",
-        "city": "Rocklin",
-        "state": "CA",
-        "zip": "95677",
-        "url": "https://mindscape-fermentations.com/events/",
-        "phone": "(530) 820-4330",
-        "lat": 38.799853,
-        "lng": -121.203275
-      },
-      "type": "trivia",
-      "tags": [
-        "trivia"
-      ],
-      "url": "https://mindscape-fermentations.com/events/trivia-night-999-690-812-906-953-155-116-822-235-157-598-714-415-873-555-392-609-230-961-821-676-648-912-964-972-152-467-923-497-976-179-150-995-236-318-553/",
-      "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:47.445Z",
-      "source": "mindscape-fermentations",
-      "confidence": 0.8
-    },
-    {
-      "id": "evt-ec0af82e",
-      "title": "Senor Burger",
-      "date": "2026-11-08T00:00:00-08:00",
-      "startTime": "12:00 PM",
-      "venue": {
-        "name": "Moonraker Brewing",
-        "address": "12970 Earhart Ave",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95602",
-        "url": "https://www.moonrakerbrewing.com/food-events-auburn",
-        "phone": "(530) 745-6816",
-        "lat": 38.950782,
-        "lng": -121.081713
-      },
-      "type": "food",
-      "tags": [
-        "food"
-      ],
-      "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.109Z",
-      "source": "moonraker-brewing",
-      "confidence": 0.85
-    },
-    {
-      "id": "evt-ab3715df",
-      "title": "Remedy Supply Co. @ Lincoln Farmer’s Market",
-      "description": "Our sister boutique coffee roasting company, Remedy Supply Co., has a booth every week, offering a selection of their great coffees. From staple blends and unique single origins to instant coffee and cold brew concentrate—they aim to connect our community with coffee. One cup at a time. 3111 Lincoln Newcastle Hwy Lincoln, CA 95648 RemedySupplyCo.com @remedysupply.co",
-      "date": "2026-11-08T00:00:00-08:00",
-      "startTime": "1:00 AM",
-      "endTime": "5:00 AM",
-      "venue": {
-        "name": "The Pour Choice",
-        "address": "177 Sacramento St",
-        "city": "Auburn",
-        "state": "CA",
-        "zip": "95603",
-        "url": "https://thepourchoice.com/events/",
-        "lat": 38.895019,
-        "lng": -121.07801
-      },
-      "type": "beer",
-      "tags": [
-        "beer"
-      ],
-      "url": "https://thepourchoice.com/event/lincoln-farmers-market/",
-      "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/lincoln.png",
-      "price": "0",
-      "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:06.096Z",
-      "source": "pour-choice",
-      "confidence": 1
-    },
-    {
-      "id": "evt-cd8ff36b",
-      "title": "On Stage with Mr. Chin’s Hot Sauce Band",
-      "description": "Get ready for a spicy, high-energy dance party! Mr. Chin’s Hot Sauce delivers a red-hot blend of rock, soul, and funk that spans the decades. Bringing an infectious groove to the stage, they serve up a powerhouse mix of iconic dance hits from the 1970s all the way to the chili-peppered 90s. Whether you are hitting the dance floor or sipping a cold craft beer, their dynamic, upbeat sets guarantee an unforgettable, high-octane afternoon of great tunes and good vibes. Don’t miss out! You can learn more about them by clicking here to visit their website . Only guests 18 and older may attend our “On Stage” concerts.",
-      "date": "2026-11-08T14:00:00-08:00",
-      "startTime": "2:00 PM",
-      "endTime": "5:00 PM",
-      "venue": {
-        "name": "High Hand Brewing Company",
-        "address": "3750 Taylor Rd",
-        "city": "Loomis",
-        "state": "CA",
-        "zip": "95650",
-        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/",
-        "lat": 38.818554,
-        "lng": -121.196137
-      },
-      "type": "music",
-      "tags": [
-        "music",
-        "beer",
-        "paint",
-        "workshop"
-      ],
-      "url": "https://www.highhandnursery.com/event/on-stage-with-mr-chins-hot-sauce/",
-      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/10/High-Hand-Brewery-Music-Mr-Chins-Hot-Sauce.jpg",
-      "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.768Z",
-      "source": "high-hand-brewing",
-      "confidence": 1
-    },
     {
       "id": "evt-af57c7db",
       "title": "Doggiestyle Hot Dogs",
@@ -643,7 +42,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.109Z",
+      "scrapedAt": "2026-11-09T19:45:02.696Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -667,7 +66,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:59.445Z",
+      "scrapedAt": "2026-11-09T19:45:04.888Z",
       "source": "penryn-ptc",
       "confidence": 0.95
     },
@@ -694,7 +93,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/10/f06f96293245f385dfcb54983129be/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:37.351Z",
+      "scrapedAt": "2026-11-09T19:44:13.705Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -719,7 +118,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.109Z",
+      "scrapedAt": "2026-11-09T19:45:02.696Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -748,7 +147,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/roseville.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:06.096Z",
+      "scrapedAt": "2026-11-09T19:45:10.616Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -773,7 +172,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/event/17437239",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:00.530Z",
+      "scrapedAt": "2026-11-09T19:45:05.836Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -798,7 +197,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.249Z",
+      "scrapedAt": "2026-11-09T19:45:07.754Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -822,7 +221,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:59.445Z",
+      "scrapedAt": "2026-11-09T19:45:04.887Z",
       "source": "penryn-ptc",
       "confidence": 0.95
     },
@@ -846,7 +245,7 @@
         "special"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:59.445Z",
+      "scrapedAt": "2026-11-09T19:45:04.888Z",
       "source": "penryn-ptc",
       "confidence": 0.85
     },
@@ -872,7 +271,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/paint-sip-7-140/",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:47.445Z",
+      "scrapedAt": "2026-11-09T19:44:36.136Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -897,7 +296,7 @@
         "trivia"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.109Z",
+      "scrapedAt": "2026-11-09T19:45:02.696Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -920,7 +319,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.109Z",
+      "scrapedAt": "2026-11-09T19:45:02.696Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -945,7 +344,7 @@
         "trivia"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.109Z",
+      "scrapedAt": "2026-11-09T19:45:02.697Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -972,7 +371,7 @@
       ],
       "url": "https://placer.libcal.com/event/17437319",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:00.530Z",
+      "scrapedAt": "2026-11-09T19:45:05.836Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -1002,7 +401,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew-featuring-guest-band-deviant-strays/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewing-Company-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.768Z",
+      "scrapedAt": "2026-11-09T19:44:30.457Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -1028,7 +427,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498-677-525-896-674-283-601-278-786-611-856-839-986-831-474-307-980-318-364-878-863-788-944-499-393-714/",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:47.446Z",
+      "scrapedAt": "2026-11-09T19:44:36.137Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -1051,7 +450,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.109Z",
+      "scrapedAt": "2026-11-09T19:45:02.697Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1078,7 +477,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/GraniteBay/ToddlerTime",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:01.217Z",
+      "scrapedAt": "2026-11-09T19:45:06.684Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -1103,14 +502,14 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.249Z",
+      "scrapedAt": "2026-11-09T19:45:07.755Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
     {
-      "id": "evt-03fed13a",
+      "id": "evt-8acfa040",
       "title": "Fowler Ranch hosts a weekly cornhole competition open to anyone.",
-      "date": "2026-11-12T12:24:34-08:00",
+      "date": "2026-11-12T11:44:27-08:00",
       "startTime": "6:00pm",
       "venue": {
         "name": "Fowler Ranch",
@@ -1126,7 +525,7 @@
       "tags": [],
       "isRecurring": true,
       "recurringPattern": "weekly:thursday",
-      "scrapedAt": "2026-11-06T20:24:34.026Z",
+      "scrapedAt": "2026-11-09T19:44:27.962Z",
       "source": "fowler-ranch",
       "confidence": 0.85
     },
@@ -1153,7 +552,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/Rocklin/BookClub",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.249Z",
+      "scrapedAt": "2026-11-09T19:45:07.755Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -1180,7 +579,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/e1/06d2ba7b0649cab8cfc77a32632564/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:37.351Z",
+      "scrapedAt": "2026-11-09T19:44:13.705Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1205,7 +604,7 @@
         "music"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.109Z",
+      "scrapedAt": "2026-11-09T19:45:02.697Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1228,7 +627,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.109Z",
+      "scrapedAt": "2026-11-09T19:45:02.697Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1253,7 +652,7 @@
         "music"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.109Z",
+      "scrapedAt": "2026-11-09T19:45:02.697Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1280,7 +679,7 @@
       ],
       "url": "https://placer.libcal.com/event/16047467",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.249Z",
+      "scrapedAt": "2026-11-09T19:45:07.755Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -1312,14 +711,14 @@
       "url": "https://www.bluelinearts.org/event/placer-artists-tour-weekend-ll",
       "imageUrl": "https://www.bluelinearts.org/wp-content/uploads/2026/10/Placer-Tour-2026-weekend-ll.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:34.913Z",
+      "scrapedAt": "2026-11-09T19:44:11.310Z",
       "source": "blue-line-arts",
       "confidence": 1
     },
     {
-      "id": "evt-41e9c393",
+      "id": "evt-b68b19d4",
       "title": "Fowler Ranch presents a weekly Trivia competition hosted by Brain Freeze! Come out and win some prizes!",
-      "date": "2026-11-13T12:24:34-08:00",
+      "date": "2026-11-13T11:44:27-08:00",
       "startTime": "6:00pm",
       "venue": {
         "name": "Fowler Ranch",
@@ -1337,7 +736,7 @@
       ],
       "isRecurring": true,
       "recurringPattern": "weekly:friday",
-      "scrapedAt": "2026-11-06T20:24:34.026Z",
+      "scrapedAt": "2026-11-09T19:44:27.962Z",
       "source": "fowler-ranch",
       "confidence": 0.85
     },
@@ -1364,7 +763,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/5a/beebbdbfc44a9aae8ad7034924b566/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:37.351Z",
+      "scrapedAt": "2026-11-09T19:44:13.705Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1391,7 +790,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/25/5f75568cad4229a1876d2a7f141008/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:37.351Z",
+      "scrapedAt": "2026-11-09T19:44:13.705Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1423,7 +822,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-victori-3/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/07/High-Hand-Brewery-Music-Victori.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.768Z",
+      "scrapedAt": "2026-11-09T19:44:30.457Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -1449,7 +848,7 @@
       "url": "https://www.atthegrounds.com/event/west-coast-clash-wcvba-boys-power-league/",
       "imageUrl": "https://www.atthegrounds.com/wp-content/uploads/2026/05/Featured-Images-ATG-29.png",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:33.188Z",
+      "scrapedAt": "2026-11-09T19:44:09.462Z",
       "source": "at-the-grounds",
       "confidence": 1
     },
@@ -1475,7 +874,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/meet-the-artist-custom-jewelry-pop-up/",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:47.446Z",
+      "scrapedAt": "2026-11-09T19:44:36.137Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -1501,7 +900,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/80s-new-wave-night-with-dj-snacks/",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:47.446Z",
+      "scrapedAt": "2026-11-09T19:44:36.137Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -1524,7 +923,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.109Z",
+      "scrapedAt": "2026-11-09T19:45:02.697Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1553,7 +952,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/auburn.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:06.096Z",
+      "scrapedAt": "2026-11-09T19:45:10.616Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -1580,7 +979,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/66/618150609b49f488f4650cc114d4a9/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:37.351Z",
+      "scrapedAt": "2026-11-09T19:44:13.705Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -1611,7 +1010,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-rogue-house-rockers/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/10/High-Hand-Brewing-Company-Rogue-City-Rockers.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.768Z",
+      "scrapedAt": "2026-11-09T19:44:30.457Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -1637,7 +1036,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/live-music-jam-session-888-945-466-721-925-529-440-944-874-888-219-573-121-835-364-716-581-214-245-843-810-874-114-354-537/",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:47.446Z",
+      "scrapedAt": "2026-11-09T19:44:36.137Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -1663,7 +1062,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/trivia-night-999-690-812-906-953-155-116-822-235-157-598-714-415-873-555-392-609-230-961-821-676-648-912-964-972-152-467-923-497-976-179-150-995-236-318-553-633/",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:47.446Z",
+      "scrapedAt": "2026-11-09T19:44:36.138Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -1688,7 +1087,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.109Z",
+      "scrapedAt": "2026-11-09T19:45:02.697Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1717,7 +1116,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/lincoln.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:06.096Z",
+      "scrapedAt": "2026-11-09T19:45:10.616Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -1747,7 +1146,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-nothin-personal/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/07/High-Hand-Brewery-Music-Nothin-Personal.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.768Z",
+      "scrapedAt": "2026-11-09T19:44:30.457Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -1774,7 +1173,7 @@
       ],
       "url": "https://placer.libcal.com/event/17817410",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:00.530Z",
+      "scrapedAt": "2026-11-09T19:45:05.836Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -1797,7 +1196,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.110Z",
+      "scrapedAt": "2026-11-09T19:45:02.697Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1822,7 +1221,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.110Z",
+      "scrapedAt": "2026-11-09T19:45:02.697Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -1851,7 +1250,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/roseville.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:06.096Z",
+      "scrapedAt": "2026-11-09T19:45:10.616Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -1876,7 +1275,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/event/17437240",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:00.530Z",
+      "scrapedAt": "2026-11-09T19:45:05.837Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -1901,7 +1300,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.249Z",
+      "scrapedAt": "2026-11-09T19:45:07.755Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -1925,7 +1324,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:59.445Z",
+      "scrapedAt": "2026-11-09T19:45:04.888Z",
       "source": "penryn-ptc",
       "confidence": 0.95
     },
@@ -1953,7 +1352,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/Rocklin/ReadToADog",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.249Z",
+      "scrapedAt": "2026-11-09T19:45:07.755Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -1978,7 +1377,7 @@
         "trivia"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.110Z",
+      "scrapedAt": "2026-11-09T19:45:02.697Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2001,7 +1400,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.110Z",
+      "scrapedAt": "2026-11-09T19:45:02.697Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2026,7 +1425,7 @@
         "trivia"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.110Z",
+      "scrapedAt": "2026-11-09T19:45:02.698Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2053,7 +1452,7 @@
       ],
       "url": "https://placer.libcal.com/event/17437320",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:00.530Z",
+      "scrapedAt": "2026-11-09T19:45:05.837Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -2078,7 +1477,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/GraniteBay/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:01.217Z",
+      "scrapedAt": "2026-11-09T19:45:06.684Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -2105,7 +1504,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/Rocklin/ToddlerTime",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.249Z",
+      "scrapedAt": "2026-11-09T19:45:07.755Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -2132,7 +1531,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/GraniteBay/BookClub",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:01.217Z",
+      "scrapedAt": "2026-11-09T19:45:06.684Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -2156,7 +1555,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:59.445Z",
+      "scrapedAt": "2026-11-09T19:45:04.888Z",
       "source": "penryn-ptc",
       "confidence": 0.95
     },
@@ -2181,7 +1580,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/event/17437400",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:00.530Z",
+      "scrapedAt": "2026-11-09T19:45:05.837Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -2203,7 +1602,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:59.445Z",
+      "scrapedAt": "2026-11-09T19:45:04.887Z",
       "source": "penryn-ptc",
       "confidence": 0.85
     },
@@ -2233,7 +1632,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew-30/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewing-Company-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.768Z",
+      "scrapedAt": "2026-11-09T19:44:30.457Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -2259,7 +1658,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498-677-525-896-674-283-601-278-786-611-856-839-986-831-474-307-980-318-364-878-863-788-944-499-393-714-735/",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:47.446Z",
+      "scrapedAt": "2026-11-09T19:44:36.138Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -2282,7 +1681,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.110Z",
+      "scrapedAt": "2026-11-09T19:45:02.698Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2309,7 +1708,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/GraniteBay/ToddlerTime",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:01.217Z",
+      "scrapedAt": "2026-11-09T19:45:06.684Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -2334,7 +1733,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.249Z",
+      "scrapedAt": "2026-11-09T19:45:07.755Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -2362,7 +1761,7 @@
       "url": "https://www.atthegrounds.com/event/salcidos-christmas-trees/",
       "imageUrl": "https://www.atthegrounds.com/wp-content/uploads/2025/11/Untitled-3.jpeg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:33.188Z",
+      "scrapedAt": "2026-11-09T19:44:09.462Z",
       "source": "at-the-grounds",
       "confidence": 1
     },
@@ -2392,7 +1791,7 @@
       "url": "https://www.atthegrounds.com/event/mountain-mandarin-festival-3/",
       "imageUrl": "https://www.atthegrounds.com/wp-content/uploads/2026/06/Featured-Images-ATG-28.png",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:33.188Z",
+      "scrapedAt": "2026-11-09T19:44:09.463Z",
       "source": "at-the-grounds",
       "confidence": 1
     },
@@ -2417,7 +1816,7 @@
         "music"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.110Z",
+      "scrapedAt": "2026-11-09T19:45:02.698Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2440,7 +1839,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.110Z",
+      "scrapedAt": "2026-11-09T19:45:02.698Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2465,7 +1864,7 @@
         "music"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.110Z",
+      "scrapedAt": "2026-11-09T19:45:02.698Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2492,7 +1891,7 @@
       ],
       "url": "https://placer.libcal.com/event/16047468",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.249Z",
+      "scrapedAt": "2026-11-09T19:45:07.755Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -2519,7 +1918,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/41/80bdb0d0354885befeca4886feb0e2/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:37.351Z",
+      "scrapedAt": "2026-11-09T19:44:13.705Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -2550,7 +1949,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-the-used-cars-9/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2023/12/High-Hand-Brewery-Music-The-Used-Cars.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.769Z",
+      "scrapedAt": "2026-11-09T19:44:30.457Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -2573,7 +1972,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.110Z",
+      "scrapedAt": "2026-11-09T19:45:02.698Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2602,7 +2001,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/auburn.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:06.096Z",
+      "scrapedAt": "2026-11-09T19:45:10.616Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -2630,7 +2029,7 @@
       ],
       "url": "https://placer.libcal.com/event/16218159",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:01.217Z",
+      "scrapedAt": "2026-11-09T19:45:06.684Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -2652,7 +2051,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:59.445Z",
+      "scrapedAt": "2026-11-09T19:45:04.887Z",
       "source": "penryn-ptc",
       "confidence": 0.85
     },
@@ -2683,7 +2082,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-that-70s-band/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/07/High-Hand-Brewery-Music-That-70s-Band.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.769Z",
+      "scrapedAt": "2026-11-09T19:44:30.458Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -2709,7 +2108,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/trivia-night-999-690-812-906-953-155-116-822-235-157-598-714-415-873-555-392-609-230-961-821-676-648-912-964-972-152-467-923-497-976-179-150-995-236-318-553-633-633/",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:47.446Z",
+      "scrapedAt": "2026-11-09T19:44:36.138Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -2734,7 +2133,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.110Z",
+      "scrapedAt": "2026-11-09T19:45:02.698Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2763,7 +2162,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/lincoln.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:06.096Z",
+      "scrapedAt": "2026-11-09T19:45:10.617Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -2794,7 +2193,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-busy-being-fabulous-2/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/11/High-Hand-Brewery-Music-Busy-Being-Fabulous-2.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.769Z",
+      "scrapedAt": "2026-11-09T19:44:30.458Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -2816,7 +2215,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:59.445Z",
+      "scrapedAt": "2026-11-09T19:45:04.887Z",
       "source": "penryn-ptc",
       "confidence": 0.75
     },
@@ -2839,7 +2238,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.110Z",
+      "scrapedAt": "2026-11-09T19:45:02.698Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2864,7 +2263,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.110Z",
+      "scrapedAt": "2026-11-09T19:45:02.698Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -2892,7 +2291,7 @@
       "url": "https://www.omakaseporfavor.com/events-2/all-star-dinner",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/62c5e419ba47737d0a58abda/a60da967-cb76-49de-baf5-192a26e26baa/NIght%2Bwave%2B1.png",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.391Z",
+      "scrapedAt": "2026-11-09T19:45:04.607Z",
       "source": "omakase-por-favor",
       "confidence": 0.9
     },
@@ -2921,7 +2320,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/roseville.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:06.096Z",
+      "scrapedAt": "2026-11-09T19:45:10.617Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -2946,7 +2345,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/event/17437241",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:00.530Z",
+      "scrapedAt": "2026-11-09T19:45:05.837Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -2971,7 +2370,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.249Z",
+      "scrapedAt": "2026-11-09T19:45:07.756Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -2998,7 +2397,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/5a/beebbdbfc44a9aae8ad7034924b566/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:37.351Z",
+      "scrapedAt": "2026-11-09T19:44:13.706Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -3023,7 +2422,7 @@
         "trivia"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.110Z",
+      "scrapedAt": "2026-11-09T19:45:02.698Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -3046,7 +2445,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.110Z",
+      "scrapedAt": "2026-11-09T19:45:02.698Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -3071,7 +2470,7 @@
         "trivia"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.110Z",
+      "scrapedAt": "2026-11-09T19:45:02.699Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -3095,7 +2494,7 @@
       "tags": [],
       "url": "https://loomis.ca.gov/event/day-before-thanksgiving-day-parade/",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:40.248Z",
+      "scrapedAt": "2026-11-09T19:44:31.924Z",
       "source": "loomis-town",
       "confidence": 0.9
     },
@@ -3122,7 +2521,7 @@
       ],
       "url": "https://placer.libcal.com/event/17437321",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:00.530Z",
+      "scrapedAt": "2026-11-09T19:45:05.837Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -3147,7 +2546,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/GraniteBay/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:01.217Z",
+      "scrapedAt": "2026-11-09T19:45:06.685Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -3174,7 +2573,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/Rocklin/ToddlerTime",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.249Z",
+      "scrapedAt": "2026-11-09T19:45:07.756Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -3201,7 +2600,7 @@
       ],
       "url": "https://placer.libcal.com/event/17437424",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:00.531Z",
+      "scrapedAt": "2026-11-09T19:45:05.838Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -3226,7 +2625,7 @@
       "tags": [],
       "imageUrl": "https://static.spotapps.co/spots/02/281edb2abf44358c7f35e7119771ee/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:37.351Z",
+      "scrapedAt": "2026-11-09T19:44:13.706Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -3256,7 +2655,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew-31/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewing-Company-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.769Z",
+      "scrapedAt": "2026-11-09T19:44:30.458Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3282,7 +2681,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498-677-525-896-674-283-601-278-786-611-856-839-986-831-474-307-980-318-364-878-863-788-944-499-393-714-735-568/",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:47.447Z",
+      "scrapedAt": "2026-11-09T19:44:36.138Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -3312,7 +2711,7 @@
       "url": "https://www.atthegrounds.com/event/salvation-army-thanksgiving-dinner/",
       "imageUrl": "https://www.atthegrounds.com/wp-content/uploads/2026/11/Slavation-Army.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:33.188Z",
+      "scrapedAt": "2026-11-09T19:44:09.463Z",
       "source": "at-the-grounds",
       "confidence": 1
     },
@@ -3339,7 +2738,7 @@
       ],
       "imageUrl": "https://static.spotapps.co/spots/70/2f30dfe48345438ec4a2ee65cfdae6/w926",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:37.351Z",
+      "scrapedAt": "2026-11-09T19:44:13.706Z",
       "source": "crooked-lane-brewing",
       "confidence": 0.95
     },
@@ -3366,7 +2765,7 @@
         "beer"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.110Z",
+      "scrapedAt": "2026-11-09T19:45:02.699Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -3391,7 +2790,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.110Z",
+      "scrapedAt": "2026-11-09T19:45:02.699Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -3417,7 +2816,7 @@
         "beer"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.110Z",
+      "scrapedAt": "2026-11-09T19:45:02.699Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -3448,7 +2847,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-tom-and-the-broken-hearts-2/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/01/High-Hand-Brewery-Music-Tom-And-The-Brokern-Hearts.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.769Z",
+      "scrapedAt": "2026-11-09T19:44:30.458Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3471,7 +2870,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.110Z",
+      "scrapedAt": "2026-11-09T19:45:02.699Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -3500,7 +2899,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/auburn.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:06.096Z",
+      "scrapedAt": "2026-11-09T19:45:10.617Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -3525,7 +2924,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/event/17693433",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.249Z",
+      "scrapedAt": "2026-11-09T19:45:07.756Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -3555,7 +2954,7 @@
       "url": "https://www.bluelinearts.org/event/3rd-saturday-reception-exhibitions-art-mart-member-bash",
       "imageUrl": "https://www.bluelinearts.org/wp-content/uploads/2026/10/reception-112826.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:34.913Z",
+      "scrapedAt": "2026-11-09T19:44:11.310Z",
       "source": "blue-line-arts",
       "confidence": 1
     },
@@ -3584,7 +2983,7 @@
       "url": "https://www.bluelinearts.org/event/the-blue-line-art-mart-november",
       "imageUrl": "https://www.bluelinearts.org/wp-content/uploads/2026/10/The-Blue-Line-Art-Mart-November-1.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:34.914Z",
+      "scrapedAt": "2026-11-09T19:44:11.310Z",
       "source": "blue-line-arts",
       "confidence": 1
     },
@@ -3615,7 +3014,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-bananafish-let-the-good-times-roll/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/09/High-Hand-Brewery-Music-Bananafish.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.769Z",
+      "scrapedAt": "2026-11-09T19:44:30.458Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3641,7 +3040,7 @@
       ],
       "url": "https://mindscape-fermentations.com/events/trivia-night-999-690-812-906-953-155-116-822-235-157-598-714-415-873-555-392-609-230-961-821-676-648-912-964-972-152-467-923-497-976-179-150-995-236-318-553-633-633-653/",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:47.447Z",
+      "scrapedAt": "2026-11-09T19:44:36.139Z",
       "source": "mindscape-fermentations",
       "confidence": 0.8
     },
@@ -3666,7 +3065,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.110Z",
+      "scrapedAt": "2026-11-09T19:45:02.699Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -3695,7 +3094,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/lincoln.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:06.096Z",
+      "scrapedAt": "2026-11-09T19:45:10.617Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -3726,7 +3125,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-diva-rox-9/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2023/09/High-Hand-Brewery-Music-Diva-ROX.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.769Z",
+      "scrapedAt": "2026-11-09T19:44:30.458Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -3749,7 +3148,7 @@
       "type": "food",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.111Z",
+      "scrapedAt": "2026-11-09T19:45:02.699Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -3775,7 +3174,7 @@
       "url": "https://www.atthegrounds.com/event/wwsra-winter-review/",
       "imageUrl": "https://www.atthegrounds.com/wp-content/uploads/2026/06/Featured-Images-ATG-30.png",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:33.189Z",
+      "scrapedAt": "2026-11-09T19:44:09.463Z",
       "source": "at-the-grounds",
       "confidence": 1
     },
@@ -3800,7 +3199,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.111Z",
+      "scrapedAt": "2026-11-09T19:45:02.699Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -3829,7 +3228,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/roseville.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:06.096Z",
+      "scrapedAt": "2026-11-09T19:45:10.617Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -3854,7 +3253,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/event/17437242",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:00.531Z",
+      "scrapedAt": "2026-11-09T19:45:05.838Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -3879,7 +3278,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.249Z",
+      "scrapedAt": "2026-11-09T19:45:07.756Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -3903,7 +3302,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:59.445Z",
+      "scrapedAt": "2026-11-09T19:45:04.888Z",
       "source": "penryn-ptc",
       "confidence": 0.95
     },
@@ -3928,7 +3327,7 @@
         "trivia"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.111Z",
+      "scrapedAt": "2026-11-09T19:45:02.699Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -3951,7 +3350,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.111Z",
+      "scrapedAt": "2026-11-09T19:45:02.699Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -3976,7 +3375,7 @@
         "trivia"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.111Z",
+      "scrapedAt": "2026-11-09T19:45:02.699Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -4003,7 +3402,7 @@
       ],
       "url": "https://placer.libcal.com/event/17437322",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:00.531Z",
+      "scrapedAt": "2026-11-09T19:45:05.838Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -4028,7 +3427,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/GraniteBay/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:01.217Z",
+      "scrapedAt": "2026-11-09T19:45:06.685Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -4055,7 +3454,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/Rocklin/ToddlerTime",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.249Z",
+      "scrapedAt": "2026-11-09T19:45:07.756Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -4079,7 +3478,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:59.445Z",
+      "scrapedAt": "2026-11-09T19:45:04.887Z",
       "source": "penryn-ptc",
       "confidence": 0.95
     },
@@ -4109,9 +3508,35 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew-featuring-guest-band-new-sincerity/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewing-Company-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.769Z",
+      "scrapedAt": "2026-11-09T19:44:30.459Z",
       "source": "high-hand-brewing",
       "confidence": 1
+    },
+    {
+      "id": "evt-98422b27",
+      "title": "MUSIC BINGO!",
+      "date": "2026-12-03T00:00:00-08:00",
+      "startTime": "",
+      "venue": {
+        "name": "Mindscape Fermentations",
+        "address": "5424 Crossings Dr",
+        "city": "Rocklin",
+        "state": "CA",
+        "zip": "95677",
+        "url": "https://mindscape-fermentations.com/events/",
+        "phone": "(530) 820-4330",
+        "lat": 38.799853,
+        "lng": -121.203275
+      },
+      "type": "music",
+      "tags": [
+        "music"
+      ],
+      "url": "https://mindscape-fermentations.com/events/music-bingo-999-359-310-753-847-455-774-442-615-129-181-498-677-525-896-674-283-601-278-786-611-856-839-986-831-474-307-980-318-364-878-863-788-944-499-393-714-735-568-532/",
+      "isRecurring": false,
+      "scrapedAt": "2026-11-09T19:44:36.139Z",
+      "source": "mindscape-fermentations",
+      "confidence": 0.8
     },
     {
       "id": "evt-92702580",
@@ -4132,7 +3557,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.111Z",
+      "scrapedAt": "2026-11-09T19:45:02.699Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -4156,7 +3581,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:59.445Z",
+      "scrapedAt": "2026-11-09T19:45:04.888Z",
       "source": "penryn-ptc",
       "confidence": 0.95
     },
@@ -4183,7 +3608,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/GraniteBay/ToddlerTime",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:01.217Z",
+      "scrapedAt": "2026-11-09T19:45:06.685Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -4208,7 +3633,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.249Z",
+      "scrapedAt": "2026-11-09T19:45:07.756Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -4234,7 +3659,7 @@
         "paint"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:59.445Z",
+      "scrapedAt": "2026-11-09T19:45:04.888Z",
       "source": "penryn-ptc",
       "confidence": 0.95
     },
@@ -4257,7 +3682,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.111Z",
+      "scrapedAt": "2026-11-09T19:45:02.700Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -4284,7 +3709,7 @@
       ],
       "url": "https://placer.libcal.com/event/16047470",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.249Z",
+      "scrapedAt": "2026-11-09T19:45:07.756Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -4314,7 +3739,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-halfway-inn-6/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2023/09/High-Hand-Brewery-Music-Halfway-Inn.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.769Z",
+      "scrapedAt": "2026-11-09T19:44:30.459Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4344,7 +3769,7 @@
       "url": "https://www.atthegrounds.com/event/american-cheer-power-roseville-showdown-2026/",
       "imageUrl": "https://www.atthegrounds.com/wp-content/uploads/2026/06/Featured-Images-ATG-32.png",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:33.189Z",
+      "scrapedAt": "2026-11-09T19:44:09.463Z",
       "source": "at-the-grounds",
       "confidence": 1
     },
@@ -4373,7 +3798,7 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:33.413Z",
+      "scrapedAt": "2026-11-09T19:44:09.905Z",
       "source": "auburn-sra",
       "confidence": 1
     },
@@ -4398,7 +3823,7 @@
         "food"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.111Z",
+      "scrapedAt": "2026-11-09T19:45:02.700Z",
       "source": "moonraker-brewing",
       "confidence": 0.85
     },
@@ -4427,7 +3852,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/auburn.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:06.096Z",
+      "scrapedAt": "2026-11-09T19:45:10.617Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -4455,7 +3880,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/GraniteBay/ReadToADog",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:01.218Z",
+      "scrapedAt": "2026-11-09T19:45:06.685Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -4486,7 +3911,7 @@
       "url": "https://www.bluelinearts.org/event/monthly-family-activity-day-december",
       "imageUrl": "https://www.bluelinearts.org/wp-content/uploads/2023/10/1st-December.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:34.914Z",
+      "scrapedAt": "2026-11-09T19:44:11.310Z",
       "source": "blue-line-arts",
       "confidence": 1
     },
@@ -4512,7 +3937,7 @@
       ],
       "url": "https://loomis.ca.gov/event/loomis-family-christmas-tree-lighting/",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:40.248Z",
+      "scrapedAt": "2026-11-09T19:44:31.924Z",
       "source": "loomis-town",
       "confidence": 0.9
     },
@@ -4543,9 +3968,35 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-8-track-massacre-13/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/01/High-Hand-Brewery-Music-8-Track-Massacre-v1.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.769Z",
+      "scrapedAt": "2026-11-09T19:44:30.459Z",
       "source": "high-hand-brewing",
       "confidence": 1
+    },
+    {
+      "id": "evt-995de6a3",
+      "title": "TRIVIA NIGHT",
+      "date": "2026-12-06T00:00:00-08:00",
+      "startTime": "",
+      "venue": {
+        "name": "Mindscape Fermentations",
+        "address": "5424 Crossings Dr",
+        "city": "Rocklin",
+        "state": "CA",
+        "zip": "95677",
+        "url": "https://mindscape-fermentations.com/events/",
+        "phone": "(530) 820-4330",
+        "lat": 38.799853,
+        "lng": -121.203275
+      },
+      "type": "trivia",
+      "tags": [
+        "trivia"
+      ],
+      "url": "https://mindscape-fermentations.com/events/trivia-night-999-690-812-906-953-155-116-822-235-157-598-714-415-873-555-392-609-230-961-821-676-648-912-964-972-152-467-923-497-976-179-150-995-236-318-553-633-633-653-549/",
+      "isRecurring": false,
+      "scrapedAt": "2026-11-09T19:44:36.139Z",
+      "source": "mindscape-fermentations",
+      "confidence": 0.8
     },
     {
       "id": "evt-4edf1ba2",
@@ -4572,7 +4023,7 @@
       "imageUrl": "https://thepourchoice.com/wp-content/uploads/2021/05/lincoln.png",
       "price": "0",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:06.097Z",
+      "scrapedAt": "2026-11-09T19:45:10.617Z",
       "source": "pour-choice",
       "confidence": 1
     },
@@ -4602,7 +4053,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-donnie-the-wayrads-3/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/10/High-Hand-Brewery-Donnie-and-the-Wayrads.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.770Z",
+      "scrapedAt": "2026-11-09T19:44:30.459Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4630,7 +4081,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/Rocklin/Trivia",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.250Z",
+      "scrapedAt": "2026-11-09T19:45:07.756Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -4655,7 +4106,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/event/17437243",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:00.531Z",
+      "scrapedAt": "2026-11-09T19:45:05.838Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -4680,7 +4131,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.250Z",
+      "scrapedAt": "2026-11-09T19:45:07.756Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -4707,7 +4158,7 @@
       ],
       "url": "https://placer.libcal.com/event/17437323",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:00.531Z",
+      "scrapedAt": "2026-11-09T19:45:05.838Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -4732,7 +4183,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/GraniteBay/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:01.218Z",
+      "scrapedAt": "2026-11-09T19:45:06.685Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -4759,7 +4210,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/Rocklin/ToddlerTime",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.250Z",
+      "scrapedAt": "2026-11-09T19:45:07.756Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -4784,7 +4235,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/GraniteBay/BuildersClub",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:01.218Z",
+      "scrapedAt": "2026-11-09T19:45:06.685Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -4814,7 +4265,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-12-09/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewing-Company-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.770Z",
+      "scrapedAt": "2026-11-09T19:44:30.459Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4841,7 +4292,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/GraniteBay/ToddlerTime",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:01.218Z",
+      "scrapedAt": "2026-11-09T19:45:06.685Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -4866,7 +4317,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.250Z",
+      "scrapedAt": "2026-11-09T19:45:07.756Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -4893,7 +4344,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/Rocklin/BookClub",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.250Z",
+      "scrapedAt": "2026-11-09T19:45:07.757Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -4920,7 +4371,7 @@
       ],
       "url": "https://placer.libcal.com/event/16047471",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.250Z",
+      "scrapedAt": "2026-11-09T19:45:07.757Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -4950,7 +4401,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-total-recall-11/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/10/High-Hand-Brewery-Music-Total-Recall.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.770Z",
+      "scrapedAt": "2026-11-09T19:44:30.459Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -4976,7 +4427,7 @@
       "url": "https://www.atthegrounds.com/event/made-hoops-west-coast-circuit-2/",
       "imageUrl": "https://www.atthegrounds.com/wp-content/uploads/2026/06/Featured-Images-ATG-33.png",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:33.189Z",
+      "scrapedAt": "2026-11-09T19:44:09.464Z",
       "source": "at-the-grounds",
       "confidence": 1
     },
@@ -5005,7 +4456,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-rogue-8/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/11/High-Hand-Brewery-Music-Rogue.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.770Z",
+      "scrapedAt": "2026-11-09T19:44:30.459Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5033,7 +4484,7 @@
       "url": "https://www.atthegrounds.com/event/shadow-pack-promotions-ikf-point-muay-thai/",
       "imageUrl": "https://www.atthegrounds.com/wp-content/uploads/2026/05/Featured-Images-ATG-14.png",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:33.189Z",
+      "scrapedAt": "2026-11-09T19:44:09.464Z",
       "source": "at-the-grounds",
       "confidence": 1
     },
@@ -5064,7 +4515,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-the-nitwits-2/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/10/High-Hand-Brewery-Music-Nitwits-2.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.770Z",
+      "scrapedAt": "2026-11-09T19:44:30.460Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5087,7 +4538,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:59.445Z",
+      "scrapedAt": "2026-11-09T19:45:04.888Z",
       "source": "penryn-ptc",
       "confidence": 0.85
     },
@@ -5112,7 +4563,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/event/17437244",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:00.531Z",
+      "scrapedAt": "2026-11-09T19:45:05.838Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -5137,7 +4588,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.250Z",
+      "scrapedAt": "2026-11-09T19:45:07.757Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -5165,7 +4616,7 @@
       ],
       "url": "https://placer.libcal.com/event/15985590",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.250Z",
+      "scrapedAt": "2026-11-09T19:45:07.757Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -5192,7 +4643,7 @@
       ],
       "url": "https://placer.libcal.com/event/17437324",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:00.531Z",
+      "scrapedAt": "2026-11-09T19:45:05.838Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -5217,7 +4668,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/GraniteBay/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:01.218Z",
+      "scrapedAt": "2026-11-09T19:45:06.685Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -5244,7 +4695,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/Rocklin/ToddlerTime",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.250Z",
+      "scrapedAt": "2026-11-09T19:45:07.757Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -5271,7 +4722,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/GraniteBay/BookClub",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:01.218Z",
+      "scrapedAt": "2026-11-09T19:45:06.685Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -5296,7 +4747,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/event/17437401",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:00.531Z",
+      "scrapedAt": "2026-11-09T19:45:05.838Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -5326,7 +4777,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-12-16/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewing-Company-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.770Z",
+      "scrapedAt": "2026-11-09T19:44:30.460Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5353,7 +4804,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/GraniteBay/ToddlerTime",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:01.218Z",
+      "scrapedAt": "2026-11-09T19:45:06.686Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -5378,7 +4829,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.250Z",
+      "scrapedAt": "2026-11-09T19:45:07.757Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -5402,7 +4853,7 @@
         "special"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:59.444Z",
+      "scrapedAt": "2026-11-09T19:45:04.888Z",
       "source": "penryn-ptc",
       "confidence": 0.75
     },
@@ -5425,7 +4876,7 @@
       "type": "other",
       "tags": [],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:59.445Z",
+      "scrapedAt": "2026-11-09T19:45:04.888Z",
       "source": "penryn-ptc",
       "confidence": 0.85
     },
@@ -5452,7 +4903,7 @@
       ],
       "url": "https://placer.libcal.com/event/16047472",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.250Z",
+      "scrapedAt": "2026-11-09T19:45:07.757Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -5478,7 +4929,7 @@
       "url": "https://www.atthegrounds.com/event/wcvba-boys-2/",
       "imageUrl": "https://www.atthegrounds.com/wp-content/uploads/2026/05/Featured-Images-ATG-15.png",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:33.189Z",
+      "scrapedAt": "2026-11-09T19:44:09.464Z",
       "source": "at-the-grounds",
       "confidence": 1
     },
@@ -5506,7 +4957,7 @@
       ],
       "url": "https://placer.libcal.com/event/16218160",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:01.218Z",
+      "scrapedAt": "2026-11-09T19:45:06.686Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -5530,7 +4981,7 @@
         "special"
       ],
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:59.444Z",
+      "scrapedAt": "2026-11-09T19:45:04.888Z",
       "source": "penryn-ptc",
       "confidence": 0.75
     },
@@ -5557,7 +5008,7 @@
       ],
       "url": "https://placer.libcal.com/event/17817411",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:00.531Z",
+      "scrapedAt": "2026-11-09T19:45:05.839Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -5591,7 +5042,7 @@
       "url": "https://www.bluelinearts.org/event/winter-workshop-l-handmade-holiday-frames-cards",
       "imageUrl": "https://www.bluelinearts.org/wp-content/uploads/2026/06/Winter-Workshop-l-Handmade-Holiday-Frames-Handmade-Cards.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:34.914Z",
+      "scrapedAt": "2026-11-09T19:44:11.311Z",
       "source": "blue-line-arts",
       "confidence": 1
     },
@@ -5624,7 +5075,7 @@
       "url": "https://www.bluelinearts.org/event/winter-workshop-ll-tote-bags-handmade-cards",
       "imageUrl": "https://www.bluelinearts.org/wp-content/uploads/2026/06/Winter-Workshop-ll-Tote-Bags-Handmade-Cards.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:34.914Z",
+      "scrapedAt": "2026-11-09T19:44:11.311Z",
       "source": "blue-line-arts",
       "confidence": 1
     },
@@ -5649,7 +5100,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/event/17437245",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:00.531Z",
+      "scrapedAt": "2026-11-09T19:45:05.839Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -5674,7 +5125,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.250Z",
+      "scrapedAt": "2026-11-09T19:45:07.757Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -5707,7 +5158,7 @@
       "url": "https://www.bluelinearts.org/event/winter-workshop-lll-trinket-box-handmade-cards",
       "imageUrl": "https://www.bluelinearts.org/wp-content/uploads/2026/06/Winter-Workshop-lll-Trinket-Box-Handmade-Cards.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:34.914Z",
+      "scrapedAt": "2026-11-09T19:44:11.311Z",
       "source": "blue-line-arts",
       "confidence": 1
     },
@@ -5734,7 +5185,7 @@
       ],
       "url": "https://placer.libcal.com/event/17437325",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:00.531Z",
+      "scrapedAt": "2026-11-09T19:45:05.839Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -5759,7 +5210,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/GraniteBay/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:01.218Z",
+      "scrapedAt": "2026-11-09T19:45:06.686Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -5786,7 +5237,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/Rocklin/ToddlerTime",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.250Z",
+      "scrapedAt": "2026-11-09T19:45:07.757Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -5813,7 +5264,7 @@
       ],
       "url": "https://placer.libcal.com/event/17437425",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:00.532Z",
+      "scrapedAt": "2026-11-09T19:45:05.839Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -5843,7 +5294,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-12-23/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewing-Company-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.770Z",
+      "scrapedAt": "2026-11-09T19:44:30.460Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5870,7 +5321,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/GraniteBay/ToddlerTime",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:01.218Z",
+      "scrapedAt": "2026-11-09T19:45:06.686Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -5895,7 +5346,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.250Z",
+      "scrapedAt": "2026-11-09T19:45:07.758Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -5920,7 +5371,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/event/17693434",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.250Z",
+      "scrapedAt": "2026-11-09T19:45:07.758Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -5951,7 +5402,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-unleashed-12/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2024/05/High-Hand-Brewery-Music-Unleashed.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.771Z",
+      "scrapedAt": "2026-11-09T19:44:30.460Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -5976,7 +5427,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/event/17437246",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:00.532Z",
+      "scrapedAt": "2026-11-09T19:45:05.839Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -6001,7 +5452,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.250Z",
+      "scrapedAt": "2026-11-09T19:45:07.758Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -6028,7 +5479,7 @@
       ],
       "url": "https://placer.libcal.com/event/17437326",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:00.532Z",
+      "scrapedAt": "2026-11-09T19:45:05.839Z",
       "source": "placer-library-auburn",
       "confidence": 1
     },
@@ -6053,7 +5504,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/GraniteBay/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:01.218Z",
+      "scrapedAt": "2026-11-09T19:45:06.686Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -6080,7 +5531,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/Rocklin/ToddlerTime",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.250Z",
+      "scrapedAt": "2026-11-09T19:45:07.758Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -6110,7 +5561,7 @@
       "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2026-12-30/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewing-Company-Jam-Nite.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.771Z",
+      "scrapedAt": "2026-11-09T19:44:30.460Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6137,7 +5588,7 @@
       ],
       "url": "https://www.omakaseporfavor.com/events-2/new-years-eve-dinner",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:58.391Z",
+      "scrapedAt": "2026-11-09T19:45:04.607Z",
       "source": "omakase-por-favor",
       "confidence": 0.9
     },
@@ -6164,7 +5615,7 @@
       ],
       "url": "https://placer.libcal.com/calendar/GraniteBay/ToddlerTime",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:01.218Z",
+      "scrapedAt": "2026-11-09T19:45:06.686Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -6189,7 +5640,7 @@
       "tags": [],
       "url": "https://placer.libcal.com/calendar/Rocklin/BabyLapsit",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.250Z",
+      "scrapedAt": "2026-11-09T19:45:07.758Z",
       "source": "placer-library-rocklin",
       "confidence": 1
     },
@@ -6221,7 +5672,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-victori-4/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/07/High-Hand-Brewery-Music-Victori.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.771Z",
+      "scrapedAt": "2026-11-09T19:44:30.460Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6252,7 +5703,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-static-sugar-2/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/03/High-Hand-Brewery-Music-Static-Sugar.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.771Z",
+      "scrapedAt": "2026-11-09T19:44:30.461Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6280,7 +5731,7 @@
       "url": "https://www.atthegrounds.com/event/redwood-rumble-3/",
       "imageUrl": "https://www.atthegrounds.com/wp-content/uploads/2026/07/Featured-Images-ATG-35.png",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:33.189Z",
+      "scrapedAt": "2026-11-09T19:44:09.464Z",
       "source": "at-the-grounds",
       "confidence": 1
     },
@@ -6309,7 +5760,7 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:33.413Z",
+      "scrapedAt": "2026-11-09T19:44:09.905Z",
       "source": "auburn-sra",
       "confidence": 1
     },
@@ -6337,7 +5788,7 @@
       ],
       "url": "https://placer.libcal.com/event/17763607",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:01.218Z",
+      "scrapedAt": "2026-11-09T19:45:06.686Z",
       "source": "placer-library-granite-bay",
       "confidence": 1
     },
@@ -6367,7 +5818,7 @@
       "url": "https://www.highhandnursery.com/event/on-stage-with-spiral-sunset-2/",
       "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2026/05/High-Hand-Brewery-Music-Spiral-Sunset.jpg",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:24:38.771Z",
+      "scrapedAt": "2026-11-09T19:44:30.461Z",
       "source": "high-hand-brewing",
       "confidence": 1
     },
@@ -6394,8 +5845,119 @@
       ],
       "url": "https://placer.libcal.com/event/17770884",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:25:02.250Z",
+      "scrapedAt": "2026-11-09T19:45:07.758Z",
       "source": "placer-library-rocklin",
+      "confidence": 1
+    },
+    {
+      "id": "evt-8edffe5f",
+      "title": "Baby Lapsit at the Auburn Library",
+      "description": "Baby Lapsit is a 30 minute program with an additional 30 minutes of play afterwards that includes books, songs, rhymes, bounces, and playtime for babies 0-24 months and their caregivers. No Registration Required",
+      "date": "2027-01-05T09:30:00-08:00",
+      "startTime": "5:30 PM",
+      "endTime": "6:30 PM",
+      "venue": {
+        "name": "Placer County Library - Auburn",
+        "address": "350 Nevada St",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://placer.libcal.com/calendar/auburn",
+        "lat": 38.906594,
+        "lng": -121.082352
+      },
+      "type": "other",
+      "tags": [],
+      "url": "https://placer.libcal.com/event/17437247",
+      "isRecurring": false,
+      "scrapedAt": "2026-11-09T19:45:05.839Z",
+      "source": "placer-library-auburn",
+      "confidence": 1
+    },
+    {
+      "id": "evt-d2fea6ec",
+      "title": "Toddler Time at the Auburn Library",
+      "description": "Toddler Time is a 25-30 minute program that includes movement, songs and books to develop First 5 skills for children 18-36 months and their caregivers. No Registration Required",
+      "date": "2027-01-06T09:30:00-08:00",
+      "startTime": "5:30 PM",
+      "endTime": "6:00 PM",
+      "venue": {
+        "name": "Placer County Library - Auburn",
+        "address": "350 Nevada St",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://placer.libcal.com/calendar/auburn",
+        "lat": 38.906594,
+        "lng": -121.082352
+      },
+      "type": "other",
+      "tags": [
+        "for-kids"
+      ],
+      "url": "https://placer.libcal.com/event/17437327",
+      "isRecurring": false,
+      "scrapedAt": "2026-11-09T19:45:05.839Z",
+      "source": "placer-library-auburn",
+      "confidence": 1
+    },
+    {
+      "id": "evt-2ec85be1",
+      "title": "Hump Day Live’s Jam Nite with Melissa & Andrew",
+      "description": "Join us at High-Hand Brewery as we launch our new Hump Day Jam Nite! Every Wednesday, we’re opening the stage to musicians of all kinds—bring your axe, your voice, your full band, or just the urge to play. When you arrive, find Melissa to sign up and lock in your spot. High-Hand’s pro backline will be ready for you. Solo players will be paired up into spontaneous jam groups, and together you’ll decide what to play—keeping it loose, creative, and fun. It’s all about rocking out, connecting with fellow musicians, and celebrating the amazing music community we’re surrounded by. Each week will also feature a guest band to keep the night energized and inspiring. Come jam, hang out, and make your Wednesday groove. Only guests 18 and older may attend our “On Stage” concerts.",
+      "date": "2027-01-06T18:00:00-08:00",
+      "startTime": "6:00 PM",
+      "endTime": "9:00 PM",
+      "venue": {
+        "name": "High Hand Brewing Company",
+        "address": "3750 Taylor Rd",
+        "city": "Loomis",
+        "state": "CA",
+        "zip": "95650",
+        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/",
+        "lat": 38.818554,
+        "lng": -121.196137
+      },
+      "type": "music",
+      "tags": [
+        "music",
+        "beer",
+        "wednesday"
+      ],
+      "url": "https://www.highhandnursery.com/event/hump-day-lives-jam-nite-with-melissa-andrew/2027-01-06/",
+      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewing-Company-Jam-Nite.jpg",
+      "isRecurring": false,
+      "scrapedAt": "2026-11-09T19:44:30.461Z",
+      "source": "high-hand-brewing",
+      "confidence": 1
+    },
+    {
+      "id": "evt-250287c7",
+      "title": "On Stage with The Frat Boys",
+      "description": "Come join us at High-Hand Brewery to hear a live performance by The Frat Boys. They are a Rocklin, CA based band playing Vintage Rock and Roll music from the 50s/60s/70s. Composed of five accomplished musicians, the Frat Boys have been making a grand entrance into the Greater Sacramento music scene, covering favorites from Elvis, Chuck Berry, Beatles, Rolling Stones and Kinks to Eagles, Free, Bad Company and Aerosmith … and more. A high-energy performance dance band, the Frat Boys Rock the House! Only guests 18 and older may attend our “On Stage” concerts.",
+      "date": "2027-01-08T18:00:00-08:00",
+      "startTime": "6:00 PM",
+      "endTime": "9:00 PM",
+      "venue": {
+        "name": "High Hand Brewing Company",
+        "address": "3750 Taylor Rd",
+        "city": "Loomis",
+        "state": "CA",
+        "zip": "95650",
+        "url": "https://www.highhandnursery.com/events/category/high-hand-brewing-company/",
+        "lat": 38.818554,
+        "lng": -121.196137
+      },
+      "type": "music",
+      "tags": [
+        "music",
+        "beer"
+      ],
+      "url": "https://www.highhandnursery.com/event/on-stage-with-the-frat-boys-6/",
+      "imageUrl": "https://www.highhandnursery.com/wp-content/uploads/2025/11/High-Hand-Brewery-The-Frat-Boys.jpg",
+      "isRecurring": false,
+      "scrapedAt": "2026-11-09T19:44:30.461Z",
+      "source": "high-hand-brewing",
       "confidence": 1
     },
     {
@@ -6423,9 +5985,33 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:33.413Z",
+      "scrapedAt": "2026-11-09T19:44:09.905Z",
       "source": "auburn-sra",
       "confidence": 1
+    },
+    {
+      "id": "evt-7c39c716",
+      "title": "National Pizza Day",
+      "description": "Best. Day. Ever. Join us for National Pizza Day February 9th ! (Recurring: Does not Repeat)",
+      "date": "2027-02-08T16:00:00-08:00",
+      "startTime": "11:00 AM - 08:00 PM",
+      "venue": {
+        "name": "Crooked Lane Brewing",
+        "address": "536 Grass Valley Hwy",
+        "city": "Auburn",
+        "state": "CA",
+        "zip": "95603",
+        "url": "https://crookedlanebrewing.com/auburn-crooked-lane-brewing-company-events",
+        "phone": "(530) 878-7848",
+        "lat": 38.909827,
+        "lng": -121.077143
+      },
+      "type": "other",
+      "tags": [],
+      "isRecurring": false,
+      "scrapedAt": "2026-11-09T19:44:13.706Z",
+      "source": "crooked-lane-brewing",
+      "confidence": 0.95
     },
     {
       "id": "evt-6eca6e32",
@@ -6452,7 +6038,7 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:33.414Z",
+      "scrapedAt": "2026-11-09T19:44:09.906Z",
       "source": "auburn-sra",
       "confidence": 1
     },
@@ -6481,7 +6067,7 @@
       "url": "https://www.parks.ca.gov/?page_id=26506",
       "price": "Free",
       "isRecurring": false,
-      "scrapedAt": "2026-11-06T20:23:33.414Z",
+      "scrapedAt": "2026-11-09T19:44:09.906Z",
       "source": "auburn-sra",
       "confidence": 1
     }
